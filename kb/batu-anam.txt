@@ -1,5 +1,5 @@
 PARAS ESTATE REPORT PACK — Batu Anam Estate
-Company: United Malacca Berhad · Group: UMB
+Company: United Malacca Berhad · Group: United Malacca
 Latest reports: Planting Advisory Report 1/2026 (visit 2026-07-15); Agronomy Report 1/2026 (visit 2026-06-30)
 Dashboard: https://umb-paras.netlify.app/estate.html?e=batu-anam
 Full reports (Google Drive): https://drive.google.com/drive/folders/14gNH-t3AU_Q0HFZhrx1XnR5p-cKIqB5X
@@ -93,3 +93,7 @@ General charges: 87.00 / 79.00
   - Security: 5.76 / 4.96 *
   - Other (26 items): 13.27 / 15.04 *
 Total operating cost: 302.00 / 296.00
+
+FFB PRODUCTION (tonnes, whole estate, as printed in the reports)
+FY2024/25 (May–Apr): 11,686.42 t (PA Report 1/2026 Table 22, last-year actual 12 months (May 2024–Apr 2025; 18.62 t/ha))
+FY2025/26 (May–Apr): 11,729.40 t (PA Report 1/2026 Table 22 (May 2025–Apr 2026, 12 months; 18.69 t/ha))

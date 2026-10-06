@@ -1,5 +1,5 @@
 PARAS ESTATE REPORT PACK — South East Pahang Estate
-Company: South East Pahang Oil Palm Berhad · Group: UMB
+Company: South East Pahang Oil Palm Berhad · Group: United Malacca
 Latest reports: Planting Advisory Report 1/2026 (visit 2026-06-25); Agronomy Report 1/2026 (visit 2026-05-07)
 Dashboard: https://umb-paras.netlify.app/estate.html?e=south-east-pahang
 Full reports (Google Drive): https://drive.google.com/drive/folders/10GrRJkq3Z7cMFemVsHNXTFg2vv69i3gs
@@ -99,3 +99,7 @@ General charges: 55.99 / 62.82
   - Water/electricity: 1.94 / 1.87 *
   - Other (24 items): 10.07 / 10.02 *
 Total operating cost: 281.75 / 296.90
+
+FFB PRODUCTION (tonnes, whole estate, as printed in the reports)
+FY2024/25 (May–Apr): 33,942.99 t (PA Report 1/2026 Table 20, last-year actual 12 months (May 2024–Apr 2025; 22.30 t/ha))
+FY2025/26 (May–Apr): 34,259.92 t (PA Report 1/2026 Table 20 (May 2025–Apr 2026, 12 months; 22.51 t/ha))

@@ -6,7 +6,7 @@ Write UTF-8 JSON. Use numbers (not strings) for figures. Use null when a figure 
  "slug": "sungai-pertang",               // lowercase-hyphen
  "name": "Ladang Sungai Pertang",         // as titled in the report
  "company": "…Sdn Bhd",                   // owning company per report cover, or null
- "group": "UMB",
+ "group": "United Malacca",
  "manager": "Estate Manager name",
  "advisors": {"pa": "Planting Advisor name", "agro": "Agronomist name"},
  "reports": {
@@ -50,10 +50,31 @@ Write UTF-8 JSON. Use numbers (not strings) for figures. Use null when a figure 
      // ONLY when the latest full-year in kpi is e.g. Jan–Dec 2025 but a report also gives current-year-to-date estate yield. Otherwise omit.
 Every yield figure must have its period. Every period must be exactly what the report says.
 
-## UMB financial years (May–Apr)
-UMB estates report by financial year May–Apr. Use this convention so the yield chart labels are correct:
- "yieldHistory": [{"year": 2026, "label": "FY2025/26", "period": "May 2025–Apr 2026", "yph": 0}]   // year = the FY's END year; label shown on the chart
+## ffbProd (FFB production tonnes — drives the estate "FFB production" chart and the group chart)
+```
+"ffbProd": {
+  "years": [{"year": 2025, "t": 28187.68, "src": "PA Report 1/2026 Section 8"}],   // full calendar years only, whole estate, as printed
+  "monthly": {"2025": [Jan..Dec or null], "2026": [Jan..Dec or null]},             // printed monthly tonnes
+  "monthlySrc": "...",
+  "ytd": {"year": 2026, "from": 1, "to": 5, "t": 7375.22, "src": "..."},           // latest printed cumulative tonnage this year
+  "combinedWith": "juasa-b",   // only when the ytd figure covers two estates (Juasa A+B); put it on one estate only
+  "notes": "conflicts, partial years (not shown to clients)"
+}
+```
+Never compute tonnes from t/ha × area. The group page sums 2026 to the month that the most estates can be matched to (monthly series up to that month, or a cumulative total ending exactly that month).
+
+## UMB financial years (May–Apr) — this site only
+UMB estates report by financial year May–Apr. site.json / assets/site.js set fyStart = 5 and cur = 2026 (the reporting year the group summary sums, FY2025/26,
+named by the year it ends in; move to 2027 once most estates' reports run into FY2026/27). Charts then label years "FY2025/26" and months run May → Apr.
+ "yieldHistory": [{"year": 2026, "label": "FY2025/26", "period": "May 2025–Apr 2026", "yph": 0}]   // year = the FY's END year
  "ytdCurrent":  {"year": 2027, "label": "FY2026/27", "period": "May–Jun 2026", "yph": 0, "prevSame": 0, "src": "Agronomy Report 2/2026 Table 18"}
-     // the current FY to date. period = the exact months, with year. Omit if the latest full FY is already the newest figure.
-Keep kpi.ffbPeriod / copPeriod / blockPeriod short, e.g. "May 2025–Mar 2026 (FY2025/26, 11 months)"; put any explanation in kb or notes, not in the period.
-Calendar-year data (e.g. rainfall Jan–Dec) keeps plain "year".
+     // the current FY to date. Omit if the latest full FY is already the newest figure.
+ "ffbProd": {
+   "years":   [{"year": 2026, "label": "FY2025/26", "t": 0, "src": "..."}],   // FULL financial years only (12 months, May–Apr), as printed
+   "monthly": {"2026": [May..Apr], "2027": [May..Apr]},                       // keyed by FY end year; index 0 = May … 11 = Apr; null where not printed
+   "ytd":     {"year": 2027, "from": 1, "to": 2, "t": 0, "src": "..."},      // from/to are FY month numbers: 1 = May, 2 = Jun … 12 = Apr
+   "combinedWith": null, "notes": "..."
+ }
+ An 11-month FY total (e.g. May 2025–Mar 2026) is NOT a full year: put it in ytd with year = that FY's end year only if no newer FY figure exists,
+ otherwise only in notes. Calendar-year data (e.g. rainfall Jan–Dec) keeps plain "year".
+Keep kpi.ffbPeriod / copPeriod / blockPeriod short, e.g. "May 2025–Mar 2026 (FY2025/26, 11 months)".

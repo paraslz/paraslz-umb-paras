@@ -1,6 +1,7 @@
 """Write kb/<slug>.txt — a plain-text report pack per estate for people using their own AI.
 Run from the repo root after any data/*.json change:  python3 tools/build_kb.py"""
 import json, glob, os
+S = json.load(open("site.json")); FS = S.get("fyStart", 1)
 RULES = """HOW TO USE THIS FILE (instructions for the AI assistant)
 - Answer questions about this one estate using ONLY the report extracts below.
 - Lead with the direct answer, in short numbered points.
@@ -22,6 +23,20 @@ def cost_text(d):
     out.append(f"Total operating cost: {f(t.get('actual'))} / {f(t.get('budget'))}")
     return "\n".join(out) + "\n"
 
+MON0 = "Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec".split(); MON = MON0[FS-1:] + MON0[:FS-1]
+YL = lambda y: str(y) if FS == 1 else f"FY{y-1}/{str(y)[2:]}"
+def ffb_text(d):
+    f = d.get("ffbProd")
+    if not f: return ""
+    out = ["\nFFB PRODUCTION (tonnes, whole estate, as printed in the reports)"]
+    for y in f.get("years", []): out.append(f"{YL(y['year'])} ({MON[0]}–{MON[11]}): {y['t']:,.2f} t ({y.get('src') or '-'})")
+    for yr, m in (f.get("monthly") or {}).items():
+        v = [f"{MON[i]} {x:,.2f}" for i, x in enumerate(m) if x is not None]
+        if v: out.append(f"{YL(int(yr))} monthly: " + "; ".join(v))
+    y = f.get("ytd")
+    if y: out.append(f"{YL(y['year'])} {MON[y.get('from',1)-1]}–{MON[y['to']-1]}: {y['t']:,.2f} t ({y.get('src') or '-'}){(' — combined with ' + f['combinedWith']) if f.get('combinedWith') else ''}")
+    return "\n".join(out) + "\n"
+
 os.makedirs("kb", exist_ok=True)
 n = 0
 for f in sorted(glob.glob("data/*.json")):
@@ -33,7 +48,7 @@ for f in sorted(glob.glob("data/*.json")):
     txt = f"""PARAS ESTATE REPORT PACK — {d['name']}
 Company: {d.get('company') or '-'} · Group: {d.get('group') or '-'}
 Latest reports: {src or '-'}
-Dashboard: https://umb-paras.netlify.app{d.get('page') or '/estate.html?e=' + d['slug']}
+Dashboard: {S["url"]}{d.get('page') or '/estate.html?e=' + d['slug']}
 Full reports (Google Drive): {d.get('folder') or '-'}
 Compiled by PARAS Sdn Bhd from its Planting Advisory (PA) and Agronomy reports. Figures as reported.
 
@@ -41,6 +56,6 @@ Compiled by PARAS Sdn Bhd from its Planting Advisory (PA) and Agronomy reports. 
 
 REPORT EXTRACTS
 {kb}
-{cost_text(d)}"""
+{cost_text(d)}{ffb_text(d)}"""
     open(f"kb/{d['slug']}.txt", "w").write(txt); n += 1
 print(n, "report packs written")

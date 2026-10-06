@@ -1,5 +1,5 @@
-PARAS ESTATE REPORT PACK — Seluang Estate (Inti)
-Company: PT Lifere Agro Kapuas · Group: UMB
+PARAS ESTATE REPORT PACK — Seluang Estate
+Company: PT Lifere Agro Kapuas · Group: United Malacca
 Latest reports: PA Report 2/2026 (visit 2026-08-20); Agronomy Report 1/2026 (visit 2026-05-18)
 Dashboard: https://umb-paras.netlify.app/estate.html?e=seluang
 Full reports (Google Drive): https://drive.google.com/drive/folders/1-dnxYU7ZEZLngnWdK6r5uMRUAfg8qIa2
@@ -97,3 +97,7 @@ General charges: 76.00 / 95.00
   - Other building maintenance: 2.40 / 1.21 *
   - Other (8 items: MSPO, general office, staff SOCSO, other expenses, staff EIS, transport & travelling, labour medical, staff accommodation): 3.92 / 12.07 *
 Total operating cost: 365.00 / 346.00
+
+FFB PRODUCTION (tonnes, whole estate, as printed in the reports)
+FY2024/25 (May–Apr): 12,217.66 t (PA Report 2/2026 section 8, last-year 'actual same period' column (May 2024–Apr 2025, 1,116.7 ha, 10.94 t/ha))
+FY2025/26 (May–Apr): 14,472.34 t (PA Report 2/2026 section 8, actual to date (May 2025–Apr 2026, 1,116.66 ha, 12.96 t/ha))

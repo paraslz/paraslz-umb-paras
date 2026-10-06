@@ -1,5 +1,5 @@
-PARAS ESTATE REPORT PACK — MLP 1 Estate (Millian Labau Plantation-1)
-Company: United Malacca Berhad · Group: UMB
+PARAS ESTATE REPORT PACK — MLP 1 Estate
+Company: United Malacca Berhad · Group: United Malacca
 Latest reports: Planting Advisory Report 1/2026 (visit 2026-05-04); Agronomy Report 2/2026 (visit 2026-08-04)
 Dashboard: https://umb-paras.netlify.app/estate.html?e=mlp-1
 Full reports (Google Drive): https://drive.google.com/drive/folders/1wlJkw6dQ6P3_sBjg5motkS0Vb5oIhgqt
@@ -47,7 +47,7 @@ ROADS AND DRAINS (PA 6.7, 6.8): main road grading 1,504 of 2,273 chains at RM20.
 
 HARVESTING AND COLLECTION (PA section 7, to March 2026): RM3,040,092 vs RM2,535,128 year budget; RM1,892 vs 1,577/ha; RM99 vs 85/t (+20%). Supervision RM5/t (+14%, mandore incentives), harvesting RM61 vs 56/t (+13%, Sunday and public holiday double pay not budgeted), loose fruit RM1, infield loading RM4, ramp RM3, internal transport RM23 vs 18/t (+36%, high tractor costs, not outsourced), tools +189%. Rounds 26.1 vs 22 budget; interval averaged 15 days; outturn 74% (low, to be investigated); harvesters work only about 6 hours, should work 8-9. Uncollected loose fruit and old bunches seen (A08, A09, A18, B02, B17). Collection by wheelbarrow and crawlers. Harvest rate RM50/t: 2004 1.35 t/man-day earning RM67.50; 2005 1.26, RM63.00; 2006 1.33, RM66.50; 2007 1.75, RM87.50; 2011 0.93, RM46.50 (basic wage RM65.38). Agro Table 7: FY2025/26 intervals often up to 18-23 days; FY2026/27 mostly 9-18 days, some above 15; ramp crop quality acceptable but unripe bunches still a concern; loose fruit missed in P11B-17, P04B-01, P05B-04, P05A-05.
 
-CROP (PA section 8, FY2025/26 to March 2026, 11 months): FFB 30,841.09 t vs 29,746 t budget to date (annual budget 33,120 t); last year same period 26,705.49 t. Yield 19.19 t/ha vs 18.51 budget (+4%) and 16.62 last year (+15%); annual budget 20.61 t/ha. FY2024/25 note: the PA treats 16.62 t/ha as the 11-month May 2024-Mar 2025 figure, while Agro Table 15 shows 16.62 as the full FY2024/25. CPO 6,224.02 t, OER 20.18% vs 20.38%; kernel 1,355.54 t, KER 4.40%; CPO 3.87 t/ha. Palms in low crop season, few bunches, many male flowers. Bunch weight Mar 2025 vs Mar 2026: 2004 19.4 to 21.6 kg; 2005 20.7 to 20.8; 2006 18.9 to 21.5; 2007 19.7 to 22.2; 2011 15.0 to 18.9 kg.
+CROP (PA section 8, FY2025/26 to March 2026, 11 months): FFB 30,841.09 t vs 29,746 t budget to date (annual budget 33,120 t); last year same period 26,705.49 t. Yield 19.19 t/ha vs 18.51 budget (+4%) and 16.62 last year (+15%); annual budget 20.61 t/ha. FY2024/25 note: 16.62 t/ha is the 11-month May 2024-Mar 2025 figure (26,705.49 t / 1,607.14 ha); Agro Table 15 wrongly shows it as the full FY2024/25, so the Agro +25% gain compares 12 months with 11. CPO 6,224.02 t, OER 20.18% vs 20.38%; kernel 1,355.54 t, KER 4.40%; CPO 3.87 t/ha. Palms in low crop season, few bunches, many male flowers. Bunch weight Mar 2025 vs Mar 2026: 2004 19.4 to 21.6 kg; 2005 20.7 to 20.8; 2006 18.9 to 21.5; 2007 19.7 to 22.2; 2011 15.0 to 18.9 kg.
 
 YIELD (Agro section 5): FY2025/26 full year (Table 15, Period 12): 20.81 t/ha vs 16.62 in FY2024/25 (+25%); 04A 20.86, 04B 21.91, 05A 25.00 (+40%, best), 05B 20.04, 06A 18.93, 06B 20.78, 07A 19.95, 07B 22.94, 11B 7.11 (+81% from 3.92). FY2026/27 May-July 2026 (Table 16, Period 3; the comparison column is May-July 2025, same period FY2025/26): 3.83 t/ha vs 5.50 (-30%; the field figures area-weight to 5.72, which would make it -33%); 04A 4.10 vs 6.45, 04B 3.94 vs 6.09, 05A 4.24 vs 6.48, 05B 3.54 vs 5.70 (-38%), 06A 3.42 vs 4.81, 06B 4.02 vs 5.47, 07A 3.55 vs 4.92, 07B 4.36 vs 6.12, 11B 1.91 vs 1.35 (+41%). Agro blames intervals over 15 days, access, rehab and hilly areas, and late fertiliser (32% applied).
 
@@ -101,3 +101,6 @@ General charges: 88.80 / 96.99
   - Transport & travelling: 3.02 / 2.80 *
   - Other (29 items): 12.43 / 15.79 *
 Total operating cost: 294.96 / 318.92
+
+FFB PRODUCTION (tonnes, whole estate, as printed in the reports)
+FY2025/26 May–Mar: 30,841.09 t (Planting Advisory Report 1/2026 section 8 crop table (May 2025–Mar 2026, 11 months))

@@ -1,5 +1,5 @@
-PARAS ESTATE REPORT PACK — Haruan Estate (Inti)
-Company: PT Lifere Agro Kapuas · Group: UMB
+PARAS ESTATE REPORT PACK — Haruan Estate
+Company: PT Lifere Agro Kapuas · Group: United Malacca
 Latest reports: PA Report 1/2026 (visit 2026-02-05); Agronomy Report 1/2026 (visit 2026-05-19)
 Dashboard: https://umb-paras.netlify.app/estate.html?e=haruan
 Full reports (Google Drive): https://drive.google.com/drive/folders/1i8etXc9VfTjtQudvl6vUbLswc95runPq
@@ -91,3 +91,6 @@ General charges: 71.77 / 69.78
   - General repair & maintenance: 8.92 / 3.37 *
   - Other (14 items): 8.23 / 9.39 *
 Total operating cost: 393.09 / 289.08
+
+FFB PRODUCTION (tonnes, whole estate, as printed in the reports)
+FY2025/26 May–Dec: 18,965.64 t (PA Report 1/2026 Table 16 (May–Dec 2025, 8 months, 1,470.18 ha, 12.90 t/ha; same period last year 17,023 t))

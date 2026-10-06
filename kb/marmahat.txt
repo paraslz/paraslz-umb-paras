@@ -1,5 +1,5 @@
-PARAS ESTATE REPORT PACK — Marmahat Estate (MME)
-Company: Meridian Plantations Sdn Bhd · Group: UMB
+PARAS ESTATE REPORT PACK — Marmahat Estate
+Company: Meridian Plantations Sdn Bhd · Group: United Malacca
 Latest reports: PA Report 1/2026 (visit 2026-04-29); Agronomy Report 2/2026 (visit 2026-06-19)
 Dashboard: https://umb-paras.netlify.app/estate.html?e=marmahat
 Full reports (Google Drive): https://drive.google.com/drive/folders/1b3t5jz8_Hyyoryey92aCEC44eEulUDIV
@@ -81,3 +81,9 @@ Upkeep & cultivation: 144.97 / 144.09
   - Tools: 0.12 / 0.25 *
 General charges: 81.09 / 97.04
 Total operating cost: 381.59 / 379.98
+
+FFB PRODUCTION (tonnes, whole estate, as printed in the reports)
+FY2024/25 (May–Apr): 7,447.12 t (PA Report 1/2026 Table 19, comparison last-year to date (May 2024–Apr 2025; 14.60 t/ha on 510.1 ha))
+FY2025/26 (May–Apr): 13,502.01 t (PA Report 1/2026 Table 19, production to date (May 2025–Apr 2026, 12 months))
+FY2024/25 monthly: Apr 787.46
+FY2025/26 monthly: Apr 1,698.65

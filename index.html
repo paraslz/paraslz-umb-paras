@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
-<title>UMB Estate Dashboards · PARAS</title>
+<title>United Malacca Estate Dashboards · PARAS</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;700&family=Archivo+Narrow:wght@500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap">
 <link rel="stylesheet" href="/assets/style.css">
@@ -23,9 +23,10 @@
 <body>
 <header class="band">
  <div class="in hero">
-  <div class="eyebrow">PARAS Sdn Bhd · Plantation advisory</div>
-  <h1>United Malacca Bhd · Estate Dashboards</h1>
+  <div class="eyebrow">PARAS Sdn Bhd · United Malacca</div>
+  <h1>Estate Dashboards</h1>
   <div class="meta">Each estate's latest Planting Advisory and Agronomy reports, as charts and figures.</div>
+  <a class="glink" href="/group.html">Group summary, league table &amp; actions →</a>
   <div class="search">
    <label for="q" class="sr">Search estates</label>
    <input id="q" type="search" placeholder="Search an estate, e.g. Machap or Haruan" autocomplete="off">
@@ -36,7 +37,7 @@
  <p class="count" id="cnt" aria-live="polite"></p>
  <div class="grid" id="grid"></div>
 </div></main>
-<footer class="foot"><div class="in">Figures are as written in PARAS Planting Advisory and Agronomy reports.</div></footer>
+<footer class="foot"><div class="in">Figures are as written in PARAS reports. Each dashboard lists known discrepancies under Integrity.</div></footer>
 <script>
 (function(){
 const $=id=>document.getElementById(id);
@@ -58,7 +59,7 @@ function draw(){
    <div class="go">View dashboard →</div>
   </a>`}).join("")||`<p class="empty">No estates match “${esc(q)}”.</p>`;
 }
-fetch("/data/index.json").then(r=>r.json()).then(j=>{E=j.estates;draw()});
+fetch("/data/index.json",{cache:"no-cache"}).then(r=>r.json()).then(j=>{E=j.estates;draw()});
 $("q").addEventListener("input",draw);
 })();
 </script>

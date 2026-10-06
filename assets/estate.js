@@ -5,11 +5,11 @@ const pct=(a,b)=>(a==null||b==null||!b)?null:(a-b)/b*100;
 const esc=s=>String(s==null?"":s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 function pill(v,goodIfNeg){if(v==null||!isFinite(v))return"";const g=goodIfNeg?v<=0:v>=0;const c=Math.abs(v)<3?"warn":(g?"good":"bad");return `<span class="pill ${c}">${v>0?"+":""}${v.toFixed(0)}%</span>`}
 const C={good:"var(--good)",warn:"var(--warn)",bad:"var(--bad)"};
-const slug=(new URLSearchParams(location.search).get("e")||"").replace(/[^a-z0-9-]/g,"");
+const slug=(window.__SLUG__||new URLSearchParams(location.search).get("e")||"").replace(/[^a-z0-9-]/g,"");
 let D=null,curBlock=null;const built={};
 
 /* tabs */
-const TABS=["overview","blocks","money","field","reports"];
+const TABS=["overview","blocks","money","field","actions","reports"];
 function showTab(t){if(!TABS.includes(t))t="overview";TABS.forEach(n=>$("t-"+n).hidden=n!==t);document.querySelectorAll('[role="tab"]').forEach(b=>b.setAttribute("aria-selected",b.dataset.t===t?"true":"false"));try{history.replaceState(null,"",location.pathname+location.search+"#"+t)}catch(e){}const tb=document.querySelector(".tabs");if(window.scrollY>tb.offsetTop)window.scrollTo({top:tb.offsetTop});buildCharts(t)}
 document.querySelectorAll('[role="tab"]').forEach(b=>b.addEventListener("click",()=>showTab(b.dataset.t)));
 
@@ -19,13 +19,16 @@ function T(){const grid=css("--grid"),line=css("--line"),muted=css("--muted");Ch
 const bare=p=>String(p||"").replace(/\s*\(.*\)\s*$/,"").trim();
 const clean=p=>String(p||"").replace(/\s*\([^)]*\bsee\b[^)]*\)/i,"").trim();
 const BP=()=>clean(D.blockPeriod||(D.kpi||{}).ffbPeriod)||"period not stated";
-const prevP=p=>{const c=clean(p).replace(/ only$/,"");return /\d{4}/.test(c)?c.replace(/(\d{4})/,y=>y-1):"same period last year"};
+const prevP=p=>{const c=clean(p).replace(/ only$/,"");return /\d{4}/.test(c)?c.replace(/FY(\d{4})\/(\d{2})/g,(m,a,b)=>`FY${a-1}/${String(b-1).padStart(2,"0")}`).replace(/\b(\d{4})\b/g,y=>y-1):"same period last year"};
 function YTD(){const k=D.kpi||{};let c=D.ytdCurrent;
- if(!c&&k.yph!=null){const p=bare(k.ffbPeriod),m=p.match(/(\d{4})$/);if(m&&!/^Jan.Dec/.test(p))c={year:+m[1],period:p,yph:k.yph,prevSame:k.yphPrevSame,src:(D.reports&&D.reports.pa&&D.reports.pa.title)||"latest PA report"}}
+ if(!c&&k.yph!=null){const p=bare(k.ffbPeriod),m=p.match(/(\d{4})$/);if(m&&!new RegExp("^"+(window.PSITE&&PSITE.fyStart>1?["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"][PSITE.fyStart-1]:"Jan")+"[^–-]*[–-].*"+(window.PSITE&&PSITE.fyStart>1?["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"][PSITE.fyStart-2]:"Dec")).test(p))c={year:+m[1],period:p,yph:k.yph,prevSame:k.yphPrevSame,src:(D.reports&&D.reports.pa&&D.reports.pa.title)||"latest PA report"}}
  if(!c)return null;const yh=(D.yieldHistory||[]).filter(y=>y.yph!=null);if(yh.some(y=>+y.year===+c.year))return null;
- return {...c,months:bare(c.period).replace(/\s*\d{4}$/,""),lab:c.label||String(c.year),prevLab:c.label?prevFY(c.label):String(c.year-1)}}
-const shFY=(l,d)=>String(l).replace(/(\d{2,4})\/(\d{2,4})/,(m,a,b)=>`${String(+a+d).padStart(a.length,"0")}/${String(+b+d).padStart(b.length,"0")}`);const prevFY=l=>shFY(l,-1);
-const YL=y=>y.label?String(y.label).replace(/\s*\(.*\)\s*$/,""):String(y.year);
+ return {...c,months:bare(c.period).replace(/\s*\d{4}$/,"")}}
+const PS=window.PSITE||{},FS=PS.fyStart||1,CUR=PS.cur||2026;const MON0=["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];const MON=MON0.slice(FS-1).concat(MON0.slice(0,FS-1));const YLAB=y=>FS===1?String(y):`FY${y-1}/${String(y).slice(2)}`;const YL=y=>y.label?String(y.label).replace(/\s*\(.*\)\s*$/,""):YLAB(+y.year);const FYN=FS===1?"":` Years are financial years (${MON[0]}–${MON[11]}).`;
+function FP(){const f=D.ffbProd;if(!f)return null;const ys=(f.years||[]).filter(y=>y.t!=null).slice(-8);
+ let c=null;if(!f.combinedWith){const m=(f.monthly||{})[String(CUR)]||[];let n=0,t=0;for(const v of m){if(v==null)break;n++;t+=v}
+  if(n)c={year:CUR,to:n,t,src:f.monthlySrc};const y=f.ytd;if(y&&y.from===1&&(!c||y.to>=c.to))c={year:y.year,to:y.to,t:y.t,src:y.src}}
+ return {ys,c,f}}
 const DEF={
  overview(t){const out=[];const k=D.kpi||{};
   const bl=(D.blocks||[]).filter(b=>b.ytd!=null).slice(0,14);
@@ -34,12 +37,15 @@ const DEF={
   const cp=(D.costParts||[]).filter(c=>c.actual!=null);
   if(cp.length)out.push(new Chart($("ch2"),{type:"bar",data:{labels:cp.map(c=>c.name),datasets:[{label:"Actual",data:cp.map(c=>c.actual),backgroundColor:t.accent},{label:"Budget",data:cp.map(c=>c.budget),backgroundColor:t.line}]},options:{scales:{x:t.ax,y:{...t.ax,min:0,title:{display:true,text:"RM per t"}}}}}));
   {const yh=(D.yieldHistory||[]).filter(y=>y.yph!=null),c=YTD();
-   const yrs=yh.map(YL);if(c)yrs.push(`${c.lab} (${c.months})`);
+   const yrs=yh.map(YL);if(c)yrs.push(`${YLAB(c.year)} (${c.months})`);
    const n=yrs.length,at=v=>{const a=Array(n).fill(null);a[n-1]=v;return a};
    const ds=[{label:"Full year",data:yh.map(y=>y.yph).concat(c?[null]:[]),borderColor:t.accent,backgroundColor:t.accent+"22",fill:true,tension:.25,pointRadius:4,pointBackgroundColor:t.accent}];
-   if(c){ds.push({label:`${c.lab}, ${c.months} only`,data:at(c.yph),borderColor:t.fruit,backgroundColor:css("--panel"),borderWidth:2.5,showLine:false,pointRadius:7,pointHoverRadius:8});
-    if(c.prevSame!=null)ds.push({label:`${c.prevLab}, same months`,data:at(c.prevSame),borderColor:t.muted,backgroundColor:t.muted,borderWidth:3,showLine:false,pointStyle:"line",pointRadius:12,pointHoverRadius:12})}
+   if(c){ds.push({label:`${YLAB(c.year)}, ${c.months} only`,data:at(c.yph),borderColor:t.fruit,backgroundColor:css("--panel"),borderWidth:2.5,showLine:false,pointRadius:7,pointHoverRadius:8});
+    if(c.prevSame!=null)ds.push({label:`${YLAB(c.year-1)}, same months`,data:at(c.prevSame),borderColor:t.muted,backgroundColor:t.muted,borderWidth:3,showLine:false,pointStyle:"line",pointRadius:12,pointHoverRadius:12})}
    if(yh.length+(c?1:0)>1)out.push(new Chart($("ch4"),{type:"line",data:{labels:yrs,datasets:ds},options:{plugins:{legend:{display:!!c}},scales:{x:t.ax,y:{...t.ax,min:0,title:{display:true,text:"t/ha"}}}}}))}
+  {const P=FP();if(P&&P.ys.length+(P.c?1:0)>0){const L=P.ys.map(YL),V=P.ys.map(y=>y.t),col=P.ys.map(()=>t.accent);
+   if(P.c){L.push(`${YLAB(P.c.year)} (${MON[0]}–${MON[P.c.to-1]})`);V.push(P.c.t);col.push(t.fruit)}
+   out.push(new Chart($("ch5"),{type:"bar",data:{labels:L,datasets:[{label:"FFB tonnes",data:V,backgroundColor:col}]},options:{plugins:{legend:{display:false},tooltip:{callbacks:{label:x=>`${fmt(x.raw,0)} t`}}},scales:{x:t.ax,y:{...t.ax,min:0,title:{display:true,text:"tonnes FFB"}}}}}))}}
   return out},
  money(t){return[]},
  field(t){const out=[];const lb=(D.labour||[]).filter(l=>l.actual!=null);
@@ -80,9 +86,13 @@ function render(){
  {const yh=(D.yieldHistory||[]).filter(y=>y.yph!=null),c=YTD();
   if(yh.length+(c?1:0)<2)$("cB4").hidden=true;
   const last=yh.length?yh[yh.length-1].year:null;
-  const fyN=yh.some(y=>y.label&&/FY/.test(y.label))?" Years are financial years (May–Apr).":"";
-  $("ch4n").textContent=c?`The ${c.lab} figure covers ${c.period} only, from ${c.src}, so it is not comparable with full years.${c.prevSame!=null?` Same months a year earlier: ${fmt(c.prevSame,2)} t/ha (${pct(c.yph,c.prevSame)>0?"+":""}${pct(c.yph,c.prevSame).toFixed(0)}%).`:""}${fyN}`
-   :(last?`No ${yh[yh.length-1].label?shFY(YL(yh[yh.length-1]),1):last+1} crop figure in the latest reports yet.${fyN}`:"")}
+  $("ch4n").textContent=c?`The ${YLAB(c.year)} figure covers ${c.months} only, from ${c.src}, so it is not comparable with full years.${c.prevSame!=null?` Same months ${YLAB(c.year-1)}: ${fmt(c.prevSame,2)} t/ha (${pct(c.yph,c.prevSame)>0?"+":""}${pct(c.yph,c.prevSame).toFixed(0)}%).`:""}${FYN}`
+   :(last?`No ${YLAB(last+1)} crop figure in the latest reports yet.${FYN}`:"")}
+ {const P=FP();if(!P||P.ys.length+(P.c?1:0)===0)$("cB5").hidden=true;else{const n=[];
+  if(P.c)n.push(`${YLAB(P.c.year)} covers ${MON[0]}–${MON[P.c.to-1]} only (${fmt(P.c.t,0)} t), so it is not comparable with full years.`);
+  if(P.f.combinedWith)n.push(`Tonnes include ${P.f.combinedWith}: the reports print only a combined figure.`);
+  const yrs=P.ys.map(y=>y.year);if(yrs.length>1){const miss=[];for(let y=yrs[0];y<=yrs[yrs.length-1];y++)if(!yrs.includes(y))miss.push(y);if(miss.length)n.push(`No full-year tonnage printed for ${miss.map(YLAB).join(", ")}.`)}
+  n.push("Tonnes as printed in the PARAS reports."+FYN);$("ch5n").textContent=n.join(" ")}}
 
  // blocks
  const B=D.blocks||[];
@@ -125,8 +135,35 @@ function render(){
    +`<tr><td><b>Total</b></td><td><b>${na(k.ucHa)?NA:fmt(k.ucHa,2)}</b></td><td>${na(k.ucHaBudget)?NA:fmt(k.ucHaBudget,2)}</td><td>${na(k.ucHa)||na(k.ucHaBudget)?NA:pill(pct(k.ucHa,k.ucHaBudget),true)}</td></tr>`;
   if(rb>=0)$("upN").textContent=`This report gives roads and bridges as one line ("${up[rb].item}").`;
  }
+ // harvesting and manuring (field & people tab)
+ {const li=(t,v)=>`<li><span class="tag">${esc(t)}</span><span>${v}</span></li>`;const L=[];
+  if(k.harvesters!=null)L.push(li("Harvesters",`${k.harvesters}${k.harvestersReq!=null?` of ${k.harvestersReq} required${k.harvestersReq>k.harvesters?` (short ${k.harvestersReq-k.harvesters})`:""}`:""}${k.workers!=null?`; all workers ${k.workers}${k.workersReq!=null?` of ${k.workersReq}`:""}`:""}`));
+  if(k.harvestInterval)L.push(li("Harvest interval",esc(k.harvestInterval)));
+  if(k.hcT!=null)L.push(li("Harvest cost",`RM${fmt(k.hcT,2)}/t${k.hcTBudget!=null?` vs budget RM${fmt(k.hcTBudget,2)}`:""}${k.copPeriod?` (${esc(clean(k.copPeriod))})`:""}`));
+  if(k.manuringPct!=null||k.manuringNote)L.push(li("Manuring",`${k.manuringPct!=null?`<b>${fmt(k.manuringPct)}% done</b>`:""}${k.manuringNote?` — ${esc(k.manuringNote)}`:""}`));
+  if(k.circlePct!=null)L.push(li("Circle weeding",`${fmt(k.circlePct)}% of programme`));
+  if(k.selectivePct!=null)L.push(li("Selective weeding",`${fmt(k.selectivePct)}% of programme`));
+  if(k.pruningPct!=null)L.push(li("Pruning",`${fmt(k.pruningPct)}% of programme`));
+  $("hm").innerHTML=L.join("")||`<li><span></span><span class="empty">Not given in the latest reports.</span></li>`;
+  const lab=D.labour||[];if(!lab.length){const c=$("labC");if(c)c.hidden=true}else if($("labS"))$("labS").textContent=`Headcount from ${r.pa?r.pa.title:"the latest PA report"}`;
+  const rf=(D.rainfall||[]).filter(x=>x.mm!=null);if(!rf.length&&$("rfF"))$("rfF").hidden=true;}
+ // action tracker
+ {const A=(D.actions||[]).slice().sort((a,b)=>({repeat:0,open:1,done:2}[a.status]??3)-({repeat:0,open:1,done:2}[b.status]??3));
+  const rep=A.filter(a=>a.status==="repeat").length,op=A.filter(a=>a.status==="open").length;
+  $("actS").textContent=A.length?`${A.length} actions from the latest reports: ${rep} raised before and still not done, ${op} new.`:"No actions recorded in the latest reports.";
+  if(rep){$("acnt").textContent=rep;$("acnt").hidden=false}
+  $("actT").innerHTML=A.map(a=>`<tr><td class="wrap">${esc(a.item)}<br><small class="sub">${esc(a.src||"")}${a.times?` · raised ${a.times} times`:""}${a.note?` · ${esc(a.note)}`:""}</small></td><td><span class="st ${esc(a.status)}">${a.status==="repeat"?"Raised before":a.status==="done"?"Done":"Open"}</span></td></tr>`).join("")||`<tr><td colspan="2" class="empty">None.</td></tr>`}
+ // margin calculator
+ {const tot=(D.costDetail&&D.costDetail.total&&D.costDetail.total.actual)??k.cop;const fp=$("fp");
+  if(tot==null){$("mgC").hidden=true;$("mgC").nextElementSibling.hidden=true}
+  else{const y=k.yph;const upd=()=>{const p=parseFloat(fp.value);try{localStorage.setItem("paras.ffbPrice",fp.value)}catch(e){}
+    if(isNaN(p)||p<=0){$("mgO").textContent="";return}
+    const m=p-tot;$("mgO").innerHTML=`Margin <b style="color:var(${m>=0?"--good":"--bad"})">RM${fmt(m,2)}/t</b>${y!=null?` · about RM${fmt(m*y,0)}/ha for ${esc(clean(k.ffbPeriod))}`:""}`};
+   try{const v=localStorage.getItem("paras.ffbPrice");if(v)fp.value=v}catch(e){}
+   fp.addEventListener("input",upd);upd()}}
  // reports + folder
  if(D.folder){const f=$("fld");f.href=D.folder;f.hidden=false}
+ {const o=$("offl");if(o&&!window.__DATA__){o.href=`/offline/${slug}.html`;o.setAttribute("download",`${D.name.replace(/^Ladang /,"")} dashboard.html`);o.hidden=false}}
  $("srcC").innerHTML+=(D.folder?`<a href="${esc(D.folder)}" target="_blank" rel="noopener"><b>All reports for this estate (Google Drive folder) ↗</b></a>`:"")+[r.pa,r.pa2,r.agro].filter(Boolean).map(x=>`<a href="${esc(x.url)}" target="_blank" rel="noopener">${esc(x.title)} · visit ${esc(x.visit||"–")}</a>`).join("");
  // ask chips
  const bid=B[0]?B[0].id:"the oldest block";
@@ -153,5 +190,5 @@ function ask(text){if(window.PARAS_ASK)window.PARAS_ASK(text)}
 
 /* load */
 if(!slug){location.replace("/");return}
-fetch(`/data/${slug}.json`).then(r=>{if(!r.ok)throw 0;return r.json()}).then(d=>{D=d;render()}).catch(e=>{console.error(e);$("nm").textContent="Estate not found";$("lt").innerHTML='<a href="/" style="color:var(--band-fg)">Back to all estates</a>'});
+(window.__DATA__?Promise.resolve(window.__DATA__):fetch(`/data/${slug}.json`,{cache:"no-cache"}).then(r=>{if(!r.ok)throw 0;return r.json()})).then(d=>{D=d;render()}).catch(e=>{console.error(e);$("nm").textContent="Estate not found";$("lt").innerHTML='<a href="/" style="color:var(--band-fg)">Back to all estates</a>'});
 })();

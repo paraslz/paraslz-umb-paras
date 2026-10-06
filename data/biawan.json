@@ -1,8 +1,8 @@
 {
  "slug": "biawan",
- "name": "Biawan Estate (Inti)",
+ "name": "Biawan Estate",
  "company": "PT Lifere Agro Kapuas",
- "group": "UMB",
+ "group": "United Malacca",
  "manager": "Bpk Victor Ato (Estate Manager, on estate since 1 May 2025); Senior Manager Bpk (Robertus) Deni Irawan; Plantation Director Mr Tee Tong Heng",
  "advisors": {
   "pa": "Mr Boey Chee Weng",
@@ -719,27 +719,32 @@
    "sev": "warn",
    "title": "Agro rat census total vs division subtotals",
    "detail": "Agro Table 11: division subtotals (Div 1 264.03, Div 2 287.71, Div 4 296.85, Div 5 200.17, Div 6 66.16 ha) add to 1,114.92 ha, 150,080 palms, L1 11,907, L2 6,712, but the estate total prints 843.65 ha, 110,882 palms, L1 9,409, L2 5,221 (8.49% / 4.71%). Div 1 and Div 4 subtotals also exceed the rows shown (91.32 ha and 175.46 ha)."
+  },
+  {
+   "sev": "warn",
+   "title": "FFB FY2024/25 vs FY2025/26 not on the same area",
+   "detail": "PA 2/2026 section 8: FY2025/26 44,442.76 t at 16.32 t/ha on 2,722.71 ha mature; last-year same period (May 2024–Apr 2025) 33,362.73 t at 15.00 t/ha implies about 2,224 ha. Tonnage up 33% but yield up only 9%, so the year-on-year tonnage rise is partly an area change (Haruan land/Division 2 added). PA upkeep table prints FFB 44,453 t vs 44,442.76 t in the crop table."
   }
  ],
  "actions": [
   {
-   "item": "Recruit harvesters (118 vs 121–160) and train local harvesters",
+   "item": "Recruit harvesters (118 vs 121–160); train local harvesters, use pruners",
    "src": "PA 2/2026",
    "status": "repeat"
   },
   {
    "item": "Introduce mechanical infield FFB evacuation on flat blocks",
    "src": "PA 2/2026",
-   "status": "open"
+   "status": "repeat"
   },
   {
-   "item": "Implement semi-mechanical fertiliser application",
+   "item": "Implement semi-mechanical fertiliser application (wheelbarrows/machines)",
    "src": "PA 2/2026",
-   "status": "open"
+   "status": "repeat"
   },
   {
-   "item": "Complete FY2026/27 manuring on schedule; no carry-forward beyond Apr 2027",
-   "src": "Agro 1/2026",
+   "item": "Speed up manuring to schedule (FY2025/26 only 63.3%); no FY2026/27 carry-forward beyond Apr 2027",
+   "src": "Agro 1/2026 / PA 2/2026",
    "status": "repeat"
   },
   {
@@ -748,7 +753,17 @@
    "status": "open"
   },
   {
-   "item": "Spraying: 8-hour days, jerry cans of pre-mixed water, VLV low-volume nozzles; glyphosate only for circles",
+   "item": "Circle spraying: low-volume nozzles (CDA/Inter Pump), Glyphosate only without Ally, a month after inter-row spraying",
+   "src": "PA 2/2026",
+   "status": "repeat"
+  },
+  {
+   "item": "Selective spraying by weed type: CKS + Paraquat for Stenochlaena/sedges/VOP, mist blower + Triclopyr for broadleaf; use nozzle shields",
+   "src": "PA 2/2026 / Agro 1/2026",
+   "status": "repeat"
+  },
+  {
+   "item": "Sprayers to work 8-hour days; jerry cans of pre-mixed water; fix spray water supply",
    "src": "PA 2/2026",
    "status": "open"
   },
@@ -759,7 +774,12 @@
   },
   {
    "item": "Promote soft grasses / Nephrolepis; stop blanket and over-spraying (BM44, BO51)",
-   "src": "Agro 1/2026",
+   "src": "Agro 1/2026 / PA 2/2026",
+   "status": "repeat"
+  },
+  {
+   "item": "Keep harvesting interval at 10–12 days (now 13 days avg)",
+   "src": "PA 2/2026",
    "status": "repeat"
   },
   {
@@ -773,13 +793,23 @@
    "status": "repeat"
   },
   {
+   "item": "Remove dry hanging fronds; keep at least two supporting fronds in rehabilitated blocks",
+   "src": "Agro 1/2026",
+   "status": "open"
+  },
+  {
+   "item": "Roll out progressive pruning estate-wide after corrective pruning; pay harvesters quarterly",
+   "src": "PA 2/2026",
+   "status": "repeat"
+  },
+  {
    "item": "Re-census P18–P22 stands and infill toward 148 palms/ha; replace dead supplies, avoid Jun–Aug planting",
    "src": "Agro 1/2026",
    "status": "repeat"
   },
   {
    "item": "Investigate 34% seedling mortality; obtain nursery seedlings to resume supplying",
-   "src": "Agro 1/2026",
+   "src": "Agro 1/2026 / PA 2/2026",
    "status": "open"
   },
   {
@@ -798,19 +828,39 @@
    "status": "repeat"
   },
   {
-   "item": "Review old vehicles; sell or write off uneconomic units",
-   "src": "PA 2/2026",
+   "item": "Define leaf sampling units; group sub-blocks into 40–60 ha management units",
+   "src": "Agro 1/2026",
    "status": "open"
+  },
+  {
+   "item": "Switch to second-generation rat bait lasting 7 days",
+   "src": "Agro 1/2026",
+   "status": "repeat"
+  },
+  {
+   "item": "Quarterly rat census; bait above 10% threshold; watch bagworm",
+   "src": "PA 2/2026",
+   "status": "repeat"
+  },
+  {
+   "item": "Review old vehicles; sell or write off uneconomic units; use surplus for infield collection",
+   "src": "PA 2/2026",
+   "status": "repeat"
   },
   {
    "item": "Explain road cost figures; extend laterite to soggy roads",
    "src": "PA 2/2026",
-   "status": "open"
+   "status": "repeat"
   },
   {
-   "item": "Quarterly rat census; bait above threshold; watch bagworm",
-   "src": "PA 2/2026",
-   "status": "open"
+   "item": "Update palm census data",
+   "src": "Agro 1/2026",
+   "status": "done"
+  },
+  {
+   "item": "Monitor parthenocarpy; water-level trial with PARAS (PB44-13A2)",
+   "src": "Agro 1/2026",
+   "status": "done"
   }
  ],
  "costDetail": {
@@ -958,5 +1008,26 @@
    "Roads & bridges RM1,877,647 is 115% over budget (RM875,276), partly because laterite road surfacing was moved from capex to opex on Head Office instruction (PA 6.5.4)."
   ]
  },
- "kb": "BIAWAN ESTATE (INTI), PT Lifere Agro Kapuas (PT LAK), Central Kalimantan, UMB group. Fact pack from PA Report 2/2026 (Planting Advisor Mr Boey Chee Weng, visit 22 and 24 August 2026, review period May 2025 to April 2026, financial year FY2025/26) and Agronomy Report 1/2026 (Senior Agronomist Mr Lai Heng Hong, signed Lai Hong Heng, visit 19 May 2026; first agronomy visit 27 November 2025). Plantation Director Mr Tee Tong Heng; Senior Manager Bpk (Robertus) Deni Irawan; Estate Manager Bpk Victor Ato. FY runs May to April. Money in the PA report is in RM except general charges (IDR'000); several cost tables label IDR columns as RM. Neither report states an IDR/RM exchange rate.\n\nAREA (PA section 2): mature 2,722.71 ha (61.30% of title), immature in harvesting nil, immature 220.50 ha (4.96%), total oil palm 2,943.21 ha (66.26%). Non-cultivated: building sites and roads 242.48 ha, vacant plantable 855.08 ha, vacant unplantable 400.53 ha, nursery nil; total 1,498.09 ha. Title 4,441.30 ha. No change in area. 544 of 2,722 ha mature not yet productive (net productive 2,178 ha). 41 ha of rehabilitation was completed in January 2026, satisfactory. The mature and immature increase followed land taken back from Haruan Estate. PA general charges table shows Inti mature 2,794.53 ha, Inti immature 148.68 ha, Plasma mature 1,765.06 ha, Plasma immature 3.62 ha, total 4,711.89 ha.\nAREA (Agro section 2): area statement 2,932.90 ha unchanged since the 2-2025 visit, after 940.05 ha was transferred from Haruan Estate to form the new Division 2. By planting year (ha): 2012 563.36, 2013 1,279.25, 2014 350.42, 2015 10.72, 2016 186.28, 2017 211.30, 2018 73.08, 2019 178.14, 2020 19.21, 2021 34.87, 2022 4.06, 2023 10.48, 2024 8.60, 2025 3.13. 159 sub-blocks from 0.35 to 44.90 ha. Age profile 2026: 91.2% (2,674.4 ha) aged 8 to 19 years, 8.1% (236.3 ha) 4 to 7 years, 0.8% (22.2 ha) 0 to 3 years. Yield-declaring area 2,852.55 ha (Agro 6.4).\nPALM DENSITY (Agro Table 3, April 2026 census): 366,605 palms, average 125 palms/ha, the same as the Oct to Nov 2024 census despite infilling since 2023. SPH: 2012 143, 2013 134, 2014 107, 2015 136, 2016 127, 2017 99, 2018 85, 2019 95, 2020 72, 2021 71, 2022 86, 2023 140, 2024 148, 2025 148. Low stands in P18 to P22 must be re-verified and infilled toward 148 palms/ha before canopy closure.\n\nSTAFF (PA section 4): Sr Manager, Estate Manager (on estate from 1/5/2025), Askep Rio Eskobar Siregar (from 1/1/2026), KTU and 7 division assistants (Div 1, 2, 3, 4MN, 4OP, 5, 6); Ricardo (Div 4OP) joined Feb 2026. Staff adequate.\n\nLABOUR (PA section 3, as at April): total workers 283 vs 315 required, printed shortage 32 (rows actually add to 348 required and 282 available). Harvesters 118 vs 160 required at 1:14 ha; PA says the ratio for wheelbarrow harvesting should be 1:18 ha, giving 121 required, so short by 3; 3 new harvesters expected by early September. Spraying 34 vs 36, manuring 21 vs 32 (short 11, covered by contract workers), pruning 13 vs 31, composting 22 vs 17, rat baiting/census 4, loaders 11 vs 13, security 17 vs 17. Worker to planted ha ratio 1:10, satisfactory. PA: train local workers, use current pruners.\n\nGENERAL CHARGES (PA section 5, IDR'000, May 2025 to Apr 2026, basis 4,711.89 ha incl. Plasma): staff salary and related 5,841,375 vs budget 6,030,914 (-3%); labour overhead 2,278,756 vs 2,661,066 (-14%); office and related 4,710,210 vs 4,327,967 (+9%); misc 504 vs 1,550. Total without depreciation and amortisation 12,830,845 vs 13,021,497 (-1%), IDR'000 2,723 vs 2,764 per ha. Depreciation 5,875,268 vs 7,618,977; amortisation 6,285,548 vs 15,567,521; total with D&A 24,991,661 vs 36,207,995 (-31%). Over budget: staff bonus +76%, BPJS +44% and +26%, CSR 73,882 unbudgeted, ISPO +19%, transport and travelling 55,675 vs 3,076 (Manager's trip to China, unbudgeted), general repair and maintenance 1,479,585 vs 561,006 (+164%, workers' barracks repairs). PA text says underspent by 11%. No RM or RM/t figure for general charges anywhere.\n\nUPKEEP AND CULTIVATION (PA section 6, May 2025 to Apr 2026, 2,722.71 ha mature, FFB 44,453 t actual vs 34,308 t budget): total RM7,781,308 vs RM7,937,326 (-2%), RM2,857.93/ha vs RM2,915.23/ha. RM/ha actual vs budget: upkeep supervision 44.46 vs 43.38; selective spraying and lalang 87.95 vs 91.54; harvesting access/circle 46.62 vs 62.00; unlabelled sub-group 1 (labour 43.02 vs 396.95, contract 47.11 vs nil, material 1,362.96 vs 1,378.39, transport 9.90 vs 6.22) which by size is fertiliser; unlabelled sub-group 2 (labour 35.20 vs 31.48, contract 39.75 vs 30.16, material 218.76 vs 220.72, transport 2.18 vs 6.36); pests and diseases 13.25 vs 15.55; census and thinning 9.81 vs 12.13; drains 99.02 vs 86.07 (+15%); roads and bridges 689.62 vs 321.47 (+115%); soil/water conservation 5.62 vs 25.32; supplying 5.69 vs 59.45; pruning 91.66 vs 108.17; tools 3.41 vs 2.27; other 1.93 vs 17.59.\n\nPRODUCTION COST (PA section 9, 12 months to Apr 2026, RM per tonne FFB): general charges printed '-'; upkeep and cultivation 175.05 vs budget 231.35; harvesting and collection 64.56 vs 56.82; total ex-estate 239.61 vs 288.17 (excl. general charges). Per tonne CPO: 867.00 vs 1,101.69; 319.76 vs 270.56; total 1,186.76 vs 1,372.25. PA: production cost satisfactory. Total excludes general charges.\n\nHARVESTING AND COLLECTION (PA section 7, to April; RM/t actual vs budget): FFB supervision 4.15 vs 7.24 (7 checkers vs 8 budgeted); harvesting own FFB 36.72 vs 35.37 (more harvesters earning incentives, under-budgeted); infield loading 8.75 vs 5.36; internal transport 14.07 vs 7.61 (tractor running costs and triple handling of FFB); total printed 64.56 vs 56.82 (items add to 63.69 vs 55.58). Amount columns (IDR): total 12,350,194,258 vs 8,316,286,106. Harvesting rounds 31.2 vs 36 budget; current interval averages 13 days; harvesters' outturn 89%. Harvest rate RM25 to 35/t; output 1.17 (2019) to 1.73 (2013) t/man-day; earnings RM41 to 50/day vs basic RM34. Productivity satisfactory except 2018 and 2019 plantings. PA: keep interval at 10 to 12 days, introduce mechanical infield FFB evacuation on the flat terrain, train local harvesters.\n\nCROP (PA section 8, May 2025 to Apr 2026): FFB 44,442.76 t vs budget 34,308.12 t; same period last year 33,362.73 t; last year 12-month budget 30,710.94 t. CPO 8,972.99 t vs 7,204.70; kernel 1,471.06 t vs 1,200.78. OER 20.19% vs 21.00% (last year 20.75%); KER 3.31% vs 3.50% (3.53%). Yield 16.32 t/ha vs 12.60 budget (+30%) and 15.00 t/ha last year (+9%); CPO 3.30 t/ha vs 2.65 (last year 3.11). Higher yields from rehabilitated neglected blocks and heavier bunches. Bunch weight Apr 2025 to Apr 2026: 2012 8.3 to 10.9 kg; 2013 7.5 to 9.8; 2014 5.7 to 6.7; 2015 6.6 to 7.8; 2016 6.2 to 8.1; 2017 5.0 to 6.2; 2018 4.2 to 4.7; 2019 5.8 to 6.8. Bunch weights still low but rising.\nYIELD (Agro section 6, Table 13, t/ha by financial year): estate FY2018/19 2.86, FY2019/20 5.34, FY2020/21 8.81, FY2021/22 6.72, FY2022/23 6.93, FY2023/24 12.97, FY2024/25 12.33, FY2025/26 14.64 (+18.7%). FY2025/26 (FY2024/25) by planting: 2012 19.03 (15.33); 2013 18.88 (14.95); 2014 12.65 (8.43); 2015 17.93 (10.45); 2016 13.44 (7.12); 2017 10.97 (3.84); 2018 9.60 (5.22); 2019 12.43 (5.55). Improvement in all age groups; productivity still low with 91% of palms prime. 2017 to 2019 plantings (462.52 ha, 16.21% of 2,852.55 ha) are in the steep ascent phase. The Agro 14.64 differs from the PA 16.32 t/ha for the same year. Block prevYtd = FY2024/25.\n\nCIRCLE SPRAYING (PA 6.2.1): 5,038 ha (1.9 rounds) or 62% of 8,168 ha (3 rounds) to April; many circles were clean and deferred. Circles generally clean. CKS high-volume, 4.8 ha/man-day; sprayers work only 5 hours and refill from field drains. Advice: 8-hour day, jerry cans of pre-mixed water at the chemical store, VLV low-volume nozzles, glyphosate only without Ally, time and motion study on pumps per man-day. Piece rate RM13.23/ha, earnings RM63.50/day vs basic RM33.34. Chemicals paraquat 0.33 l/ha and Ally 0.01 kg/ha (2.5 pumps/ha).\nSELECTIVE SPRAYING (PA 6.2.2): 8,104 ha (2.9 rounds) or 99% of 8,168 ha. Inter-rows satisfactory except spots of jungle woodies; Stenochlaena and sedges well sprayed so inter-rows lack soft grass; soft grasses or Nephrolepis must now be allowed to dominate. CKS 4.8 ha/man-day; knapsack power sprayer 4.9 (expected 5 to 6). Piece rate RM13.23/ha; earnings RM63.50 (CKS) and RM64.82 (power sprayer) vs basic RM33.45. CKS paraquat 0.39 l/ha plus Ally 0.01 kg/ha only for noxious ferns and sedges; power sprayer Garlon 0.2 l/ha. 13 pumps per man-day, equal to 5 hours work.\nWEEDING (Agro 4.4, Table 9, FY2025/26 on 2,725.95 ha): interrow rounds 99%, 75%, 28%; circle rounds 98%, 95%, 55%. Ground vegetation improved vs 2-2025 but mostly bare ground with sparse soft grasses; bare area has increased (BM43-16B1, BM44-12A1, BN48-13A1, BQ37-13A1, BR38-12A1, BR43-13A1), raising erosion and runoff risk. Patches of Stenochlaena palustris and Dicranopteris linearis. Flood-prone low-lying area 218.5 ha (7.4% of 2,932.9 ha; Table 10, 13% of 1,578.50 ha surveyed) favours bracken ferns; Nephrolepis better adapted but sparse; promote it, avoid blanket spraying. Over-spraying in BM44-12A1 and BO51-14A1; incomplete kill in BN33-15B1. BP31-13A1 much improved. Use mist blowers with one-sided shield (sparse) or round shield (dense weeds); keep a 3 to 4 ft circle.\n\nMANURING (PA 6.3): 282 of 344 rounds applied; shortfall because old stock used was declared as extra application, which is not correct. Broadcasting 20 bags/man-day, RM2.12/bag, earnings RM42.40/day vs RM33.45. Recommends semi-mechanical application on the flat, accessible terrain. Compost 918.09 ha vs 917.44 ha budget at 20 t/ha; 34 palms/man-day at RM1.08/palm (RM36.72/day).\nMANURING (Agro section 3): completion 40% FY2022/23, 50% FY2023/24, 61% FY2024/25, 63.3% FY2025/26 (carry-forward of FY2024/25 programme and late fertiliser delivery). Table 4 FY2025/26 (programme vs applied mt): Mix B 3,221.35 vs 1,811.95 (56%); ZA 76.6 vs 40.61 (53%); RP 789.55 vs 739.55 (94%); compound 11 vs 2.25 (20%); MOP 35.55 vs 23.7 (67%); estate trials (kieserite, HGFB, urea) 27.03 mt; FY2024/25 carry-forward applied Hi-Kay 464.8 and NK Mix 1,291.83 plus small NPK lots; total 4,428.23 vs 4,164.78 (106%). From FY2025/26 no programme carried beyond April; same-type balances deducted from FY2026/27. 2025 compost (Table 5): 9,447 mt on 317.49 ha at 20 t/ha, 80% of 397.58 ha; YP2012 131%, YP2013 69% (BQ38 11%, BQ39 18%). Compost too variable to count as a fertiliser substitute. Frond stacking adoption limited; follow Belida Estate. FY2026/27 programme (kg/palm): P2012 to P2015 Mix B 2.20, 2.20, 2.00, 2.00 plus RP 1.70 (2012, 2013) or 2.00; P2016 to P2018 Mix B 2.20, 2.20, 2.00, 2.00 plus RP 2.00; younger fields Mix B 1.20 to 2.00 per round plus RP 2.00; P2024 and P2025 compound 0.80 to 1.20 plus RP 1.50 to 1.70 (no change from the earlier programme). Mix B = 45% SOA, 40% MOP, 14% kieserite, 1% borate. New planting: 600 g CRF 20:6:14:3 and 500 g RP in hole. No incomplete FY2026/27 programme to be carried beyond April 2027.\nLEAF NUTRIENTS (Agro 4.3): large variation in N and P; N moderate-low to low (leaching, denitrification under waterlogging); K high to normal; Mg adequate; P low to moderate-low (fixed in acidic waterlogged soils). Palm vigour improved significantly.\n\nHARVESTING QUALITY (Agro 4.1): FY2025/26 interval 7 to 20 days, average 11.3; crop recovery 73% vs 54% in FY2024/25. Over-ripe on visit day: BO48-13A1 14%, BQ39-13A1 12%, BP25-13A1 6%, BQ52-14A1 10%, BP29-13A1 4% (was 5 to 9%). High losses, rotten bunches on palms in BR33-19A1, BR36-16B1, BQ49-18A1 (3 of 35 mature sub-blocks, 8.57%), far from roads with overgrown paths. Loose fruit collection improved (scraper adopted) but fruit left at platforms. Parthenocarpy seasonal (July to November). Keep water table 50 to 80 cm; install piezometers and map flooding. Flooding Nov to Mar disrupted harvesting.\nPRUNING: PA 6.7 progressive pruning 575,720 of 699,894 palms (82%), 4,479.30 ha; by division 1 77%, 2 60%, 4MN 193%, 4OP 82%, 5 97%, 6 78%; shortfall due to harvester shortage; no corrective pruning outstanding; cost RM0.79/palm/year. Agro Table 8: 4,163.86 of 8,168.87 ha (51%), corrective 46.16 ha. Over-pruning persists in shorter palms (BS31-19A1, BR36-16B1); excavator damage in BS31-19A1; under-pruning BQ44-13A1.\n\nPEST (PA 6.4, Agro 4.5): rat baiting 2 rounds over 297 ha and 3 rounds over 779 ha; damage minimal. Agro Table 11 census (Sep 2025 to Mar 2026): estate L1 8.49%, L2 4.71% over 843.65 ha (division subtotals add to 1,114.92 ha); Div 4 L1 10.09%, Div 6 L2 8.20%; baiting Dec 2025 to Mar 2026 where L2 over 5%; use second-generation bait for 7-day replacement. Bagworm on 268 ha along roadsides, trunk injection with Asifat 75%, now negligible. Rhinoceros beetle under control.\nROADS AND DRAINS (PA 6.5, 6.6): 206,472 of 375,404 m graded; table shows grading RM1,344,397 (RM48.33 vs 50.41/unit) and lateriting RM1,179,921 (45.70 vs 60.04); text RM32.45/chain vs RM20.36. Laterite surfacing partly moved from capex to opex by Head Office. Drain desilting 52,730 m, RM99,125, RM1.88/m vs 2.02. Water gates 5 of 5 installed at RM5,474 each; none budgeted FY2026/27.\nSUPPLYING (PA 6.9, Agro 5): 5,535 of 8,990 palms supplied; 1,884 died (34% casualty), 3,650 survive; no seedlings available now. Avoid planting Jun to Aug. Total supplies since 2023: 44,953.\nVEHICLES (PA 10): running costs high for almost all units; sell or write off uneconomic units; surplus units for infield collection.\nCAPEX (PA 11): actual RM1,462,065 vs budget RM5,087,552 (IDR 6.12 bn vs 22.16 bn), underspent; RM grand total omits the last misc group (categories add to RM1,469,420 vs 5,297,531).\nRAINFALL (PA Appendix 2): 2021 2,975 mm/159 days; 2022 2,498/149; 2023 2,097/131; 2024 2,318/169; 2025 2,654/179; 2026 Feb to May 898 mm. Agro Table 6: 2020 2,330 mm; 2025 2,638 mm; six-year average 2,476 mm, about 13 rain days a month."
+ "kb": "BIAWAN ESTATE (INTI), PT Lifere Agro Kapuas (PT LAK), Central Kalimantan, UMB group. Fact pack from PA Report 2/2026 (Planting Advisor Mr Boey Chee Weng, visit 22 and 24 August 2026, review period May 2025 to April 2026, financial year FY2025/26) and Agronomy Report 1/2026 (Senior Agronomist Mr Lai Heng Hong, signed Lai Hong Heng, visit 19 May 2026; first agronomy visit 27 November 2025). Plantation Director Mr Tee Tong Heng; Senior Manager Bpk (Robertus) Deni Irawan; Estate Manager Bpk Victor Ato. FY runs May to April. Money in the PA report is in RM except general charges (IDR'000); several cost tables label IDR columns as RM. Neither report states an IDR/RM exchange rate.\n\nAREA (PA section 2): mature 2,722.71 ha (61.30% of title), immature in harvesting nil, immature 220.50 ha (4.96%), total oil palm 2,943.21 ha (66.26%). Non-cultivated: building sites and roads 242.48 ha, vacant plantable 855.08 ha, vacant unplantable 400.53 ha, nursery nil; total 1,498.09 ha. Title 4,441.30 ha. No change in area. 544 of 2,722 ha mature not yet productive (net productive 2,178 ha). 41 ha of rehabilitation was completed in January 2026, satisfactory. The mature and immature increase followed land taken back from Haruan Estate. PA general charges table shows Inti mature 2,794.53 ha, Inti immature 148.68 ha, Plasma mature 1,765.06 ha, Plasma immature 3.62 ha, total 4,711.89 ha.\nAREA (Agro section 2): area statement 2,932.90 ha unchanged since the 2-2025 visit, after 940.05 ha was transferred from Haruan Estate to form the new Division 2. By planting year (ha): 2012 563.36, 2013 1,279.25, 2014 350.42, 2015 10.72, 2016 186.28, 2017 211.30, 2018 73.08, 2019 178.14, 2020 19.21, 2021 34.87, 2022 4.06, 2023 10.48, 2024 8.60, 2025 3.13. 159 sub-blocks from 0.35 to 44.90 ha. Age profile 2026: 91.2% (2,674.4 ha) aged 8 to 19 years, 8.1% (236.3 ha) 4 to 7 years, 0.8% (22.2 ha) 0 to 3 years. Yield-declaring area 2,852.55 ha (Agro 6.4).\nPALM DENSITY (Agro Table 3, April 2026 census): 366,605 palms, average 125 palms/ha, the same as the Oct to Nov 2024 census despite infilling since 2023. SPH: 2012 143, 2013 134, 2014 107, 2015 136, 2016 127, 2017 99, 2018 85, 2019 95, 2020 72, 2021 71, 2022 86, 2023 140, 2024 148, 2025 148. Low stands in P18 to P22 must be re-verified and infilled toward 148 palms/ha before canopy closure.\n\nSTAFF (PA section 4): Sr Manager, Estate Manager (on estate from 1/5/2025), Askep Rio Eskobar Siregar (from 1/1/2026), KTU and 7 division assistants (Div 1, 2, 3, 4MN, 4OP, 5, 6); Ricardo (Div 4OP) joined Feb 2026. Staff adequate.\n\nLABOUR (PA section 3, as at April): total workers 283 vs 315 required, printed shortage 32 (rows actually add to 348 required and 282 available). Harvesters 118 vs 160 required at 1:14 ha; PA says the ratio for wheelbarrow harvesting should be 1:18 ha, giving 121 required, so short by 3; 3 new harvesters expected by early September. Spraying 34 vs 36, manuring 21 vs 32 (short 11, covered by contract workers), pruning 13 vs 31, composting 22 vs 17, rat baiting/census 4, loaders 11 vs 13, security 17 vs 17. Worker to planted ha ratio 1:10, satisfactory. PA: train local workers, use current pruners.\n\nGENERAL CHARGES (PA section 5, IDR'000, May 2025 to Apr 2026, basis 4,711.89 ha incl. Plasma): staff salary and related 5,841,375 vs budget 6,030,914 (-3%); labour overhead 2,278,756 vs 2,661,066 (-14%); office and related 4,710,210 vs 4,327,967 (+9%); misc 504 vs 1,550. Total without depreciation and amortisation 12,830,845 vs 13,021,497 (-1%), IDR'000 2,723 vs 2,764 per ha. Depreciation 5,875,268 vs 7,618,977; amortisation 6,285,548 vs 15,567,521; total with D&A 24,991,661 vs 36,207,995 (-31%). Over budget: staff bonus +76%, BPJS +44% and +26%, CSR 73,882 unbudgeted, ISPO +19%, transport and travelling 55,675 vs 3,076 (Manager's trip to China, unbudgeted), general repair and maintenance 1,479,585 vs 561,006 (+164%, workers' barracks repairs). PA text says underspent by 11%. No RM or RM/t figure for general charges anywhere.\n\nUPKEEP AND CULTIVATION (PA section 6, May 2025 to Apr 2026, 2,722.71 ha mature, FFB 44,453 t actual vs 34,308 t budget): total RM7,781,308 vs RM7,937,326 (-2%), RM2,857.93/ha vs RM2,915.23/ha. RM/ha actual vs budget: upkeep supervision 44.46 vs 43.38; selective spraying and lalang 87.95 vs 91.54; harvesting access/circle 46.62 vs 62.00; unlabelled sub-group 1 (labour 43.02 vs 396.95, contract 47.11 vs nil, material 1,362.96 vs 1,378.39, transport 9.90 vs 6.22) which by size is fertiliser; unlabelled sub-group 2 (labour 35.20 vs 31.48, contract 39.75 vs 30.16, material 218.76 vs 220.72, transport 2.18 vs 6.36); pests and diseases 13.25 vs 15.55; census and thinning 9.81 vs 12.13; drains 99.02 vs 86.07 (+15%); roads and bridges 689.62 vs 321.47 (+115%); soil/water conservation 5.62 vs 25.32; supplying 5.69 vs 59.45; pruning 91.66 vs 108.17; tools 3.41 vs 2.27; other 1.93 vs 17.59.\n\nPRODUCTION COST (PA section 9, 12 months to Apr 2026, RM per tonne FFB): general charges printed '-'; upkeep and cultivation 175.05 vs budget 231.35; harvesting and collection 64.56 vs 56.82; total ex-estate 239.61 vs 288.17 (excl. general charges). Per tonne CPO: 867.00 vs 1,101.69; 319.76 vs 270.56; total 1,186.76 vs 1,372.25. PA: production cost satisfactory. Total excludes general charges.\n\nHARVESTING AND COLLECTION (PA section 7, to April; RM/t actual vs budget): FFB supervision 4.15 vs 7.24 (7 checkers vs 8 budgeted); harvesting own FFB 36.72 vs 35.37 (more harvesters earning incentives, under-budgeted); infield loading 8.75 vs 5.36; internal transport 14.07 vs 7.61 (tractor running costs and triple handling of FFB); total printed 64.56 vs 56.82 (items add to 63.69 vs 55.58). Amount columns (IDR): total 12,350,194,258 vs 8,316,286,106. Harvesting rounds 31.2 vs 36 budget; current interval averages 13 days; harvesters' outturn 89%. Harvest rate RM25 to 35/t; output 1.17 (2019) to 1.73 (2013) t/man-day; earnings RM41 to 50/day vs basic RM34. Productivity satisfactory except 2018 and 2019 plantings. PA: keep interval at 10 to 12 days, introduce mechanical infield FFB evacuation on the flat terrain, train local harvesters.\n\nCROP (PA section 8, May 2025 to Apr 2026): FFB 44,442.76 t vs budget 34,308.12 t; same period last year 33,362.73 t; last year 12-month budget 30,710.94 t. CPO 8,972.99 t vs 7,204.70; kernel 1,471.06 t vs 1,200.78. OER 20.19% vs 21.00% (last year 20.75%); KER 3.31% vs 3.50% (3.53%). Yield 16.32 t/ha vs 12.60 budget (+30%) and 15.00 t/ha last year (+9%); CPO 3.30 t/ha vs 2.65 (last year 3.11). Higher yields from rehabilitated neglected blocks and heavier bunches. Bunch weight Apr 2025 to Apr 2026: 2012 8.3 to 10.9 kg; 2013 7.5 to 9.8; 2014 5.7 to 6.7; 2015 6.6 to 7.8; 2016 6.2 to 8.1; 2017 5.0 to 6.2; 2018 4.2 to 4.7; 2019 5.8 to 6.8. Bunch weights still low but rising.\nYIELD (Agro section 6, Table 13, t/ha by financial year): estate FY2018/19 2.86, FY2019/20 5.34, FY2020/21 8.81, FY2021/22 6.72, FY2022/23 6.93, FY2023/24 12.97, FY2024/25 12.33, FY2025/26 14.64 (+18.7%). FY2025/26 (FY2024/25) by planting: 2012 19.03 (15.33); 2013 18.88 (14.95); 2014 12.65 (8.43); 2015 17.93 (10.45); 2016 13.44 (7.12); 2017 10.97 (3.84); 2018 9.60 (5.22); 2019 12.43 (5.55). Improvement in all age groups; productivity still low with 91% of palms prime. 2017 to 2019 plantings (462.52 ha, 16.21% of 2,852.55 ha) are in the steep ascent phase. The Agro 14.64 differs from the PA 16.32 t/ha for the same year. Block prevYtd = FY2024/25.\n\nCIRCLE SPRAYING (PA 6.2.1): 5,038 ha (1.9 rounds) or 62% of 8,168 ha (3 rounds) to April; many circles were clean and deferred. Circles generally clean. CKS high-volume, 4.8 ha/man-day; sprayers work only 5 hours and refill from field drains. Advice: 8-hour day, jerry cans of pre-mixed water at the chemical store, VLV low-volume nozzles, glyphosate only without Ally, time and motion study on pumps per man-day. Piece rate RM13.23/ha, earnings RM63.50/day vs basic RM33.34. Chemicals paraquat 0.33 l/ha and Ally 0.01 kg/ha (2.5 pumps/ha).\nSELECTIVE SPRAYING (PA 6.2.2): 8,104 ha (2.9 rounds) or 99% of 8,168 ha. Inter-rows satisfactory except spots of jungle woodies; Stenochlaena and sedges well sprayed so inter-rows lack soft grass; soft grasses or Nephrolepis must now be allowed to dominate. CKS 4.8 ha/man-day; knapsack power sprayer 4.9 (expected 5 to 6). Piece rate RM13.23/ha; earnings RM63.50 (CKS) and RM64.82 (power sprayer) vs basic RM33.45. CKS paraquat 0.39 l/ha plus Ally 0.01 kg/ha only for noxious ferns and sedges; power sprayer Garlon 0.2 l/ha. 13 pumps per man-day, equal to 5 hours work.\nWEEDING (Agro 4.4, Table 9, FY2025/26 on 2,725.95 ha): interrow rounds 99%, 75%, 28%; circle rounds 98%, 95%, 55%. Ground vegetation improved vs 2-2025 but mostly bare ground with sparse soft grasses; bare area has increased (BM43-16B1, BM44-12A1, BN48-13A1, BQ37-13A1, BR38-12A1, BR43-13A1), raising erosion and runoff risk. Patches of Stenochlaena palustris and Dicranopteris linearis. Flood-prone low-lying area 218.5 ha (7.4% of 2,932.9 ha; Table 10, 13% of 1,578.50 ha surveyed) favours bracken ferns; Nephrolepis better adapted but sparse; promote it, avoid blanket spraying. Over-spraying in BM44-12A1 and BO51-14A1; incomplete kill in BN33-15B1. BP31-13A1 much improved. Use mist blowers with one-sided shield (sparse) or round shield (dense weeds); keep a 3 to 4 ft circle.\n\nMANURING (PA 6.3): 282 of 344 rounds applied; shortfall because old stock used was declared as extra application, which is not correct. Broadcasting 20 bags/man-day, RM2.12/bag, earnings RM42.40/day vs RM33.45. Recommends semi-mechanical application on the flat, accessible terrain. Compost 918.09 ha vs 917.44 ha budget at 20 t/ha; 34 palms/man-day at RM1.08/palm (RM36.72/day).\nMANURING (Agro section 3): completion 40% FY2022/23, 50% FY2023/24, 61% FY2024/25, 63.3% FY2025/26 (carry-forward of FY2024/25 programme and late fertiliser delivery). Table 4 FY2025/26 (programme vs applied mt): Mix B 3,221.35 vs 1,811.95 (56%); ZA 76.6 vs 40.61 (53%); RP 789.55 vs 739.55 (94%); compound 11 vs 2.25 (20%); MOP 35.55 vs 23.7 (67%); estate trials (kieserite, HGFB, urea) 27.03 mt; FY2024/25 carry-forward applied Hi-Kay 464.8 and NK Mix 1,291.83 plus small NPK lots; total 4,428.23 vs 4,164.78 (106%). From FY2025/26 no programme carried beyond April; same-type balances deducted from FY2026/27. 2025 compost (Table 5): 9,447 mt on 317.49 ha at 20 t/ha, 80% of 397.58 ha; YP2012 131%, YP2013 69% (BQ38 11%, BQ39 18%). Compost too variable to count as a fertiliser substitute. Frond stacking adoption limited; follow Belida Estate. FY2026/27 programme (kg/palm): P2012 to P2015 Mix B 2.20, 2.20, 2.00, 2.00 plus RP 1.70 (2012, 2013) or 2.00; P2016 to P2018 Mix B 2.20, 2.20, 2.00, 2.00 plus RP 2.00; younger fields Mix B 1.20 to 2.00 per round plus RP 2.00; P2024 and P2025 compound 0.80 to 1.20 plus RP 1.50 to 1.70 (no change from the earlier programme). Mix B = 45% SOA, 40% MOP, 14% kieserite, 1% borate. New planting: 600 g CRF 20:6:14:3 and 500 g RP in hole. No incomplete FY2026/27 programme to be carried beyond April 2027.\nLEAF NUTRIENTS (Agro 4.3): large variation in N and P; N moderate-low to low (leaching, denitrification under waterlogging); K high to normal; Mg adequate; P low to moderate-low (fixed in acidic waterlogged soils). Palm vigour improved significantly.\n\nHARVESTING QUALITY (Agro 4.1): FY2025/26 interval 7 to 20 days, average 11.3; crop recovery 73% vs 54% in FY2024/25. Over-ripe on visit day: BO48-13A1 14%, BQ39-13A1 12%, BP25-13A1 6%, BQ52-14A1 10%, BP29-13A1 4% (was 5 to 9%). High losses, rotten bunches on palms in BR33-19A1, BR36-16B1, BQ49-18A1 (3 of 35 mature sub-blocks, 8.57%), far from roads with overgrown paths. Loose fruit collection improved (scraper adopted) but fruit left at platforms. Parthenocarpy seasonal (July to November). Keep water table 50 to 80 cm; install piezometers and map flooding. Flooding Nov to Mar disrupted harvesting.\nPRUNING: PA 6.7 progressive pruning 575,720 of 699,894 palms (82%), 4,479.30 ha; by division 1 77%, 2 60%, 4MN 193%, 4OP 82%, 5 97%, 6 78%; shortfall due to harvester shortage; no corrective pruning outstanding; cost RM0.79/palm/year. Agro Table 8: 4,163.86 of 8,168.87 ha (51%), corrective 46.16 ha. Over-pruning persists in shorter palms (BS31-19A1, BR36-16B1); excavator damage in BS31-19A1; under-pruning BQ44-13A1.\n\nPEST (PA 6.4, Agro 4.5): rat baiting 2 rounds over 297 ha and 3 rounds over 779 ha; damage minimal. Agro Table 11 census (Sep 2025 to Mar 2026): estate L1 8.49%, L2 4.71% over 843.65 ha (division subtotals add to 1,114.92 ha); Div 4 L1 10.09%, Div 6 L2 8.20%; baiting Dec 2025 to Mar 2026 where L2 over 5%; use second-generation bait for 7-day replacement. Bagworm on 268 ha along roadsides, trunk injection with Asifat 75%, now negligible. Rhinoceros beetle under control.\nROADS AND DRAINS (PA 6.5, 6.6): 206,472 of 375,404 m graded; table shows grading RM1,344,397 (RM48.33 vs 50.41/unit) and lateriting RM1,179,921 (45.70 vs 60.04); text RM32.45/chain vs RM20.36. Laterite surfacing partly moved from capex to opex by Head Office. Drain desilting 52,730 m, RM99,125, RM1.88/m vs 2.02. Water gates 5 of 5 installed at RM5,474 each; none budgeted FY2026/27.\nSUPPLYING (PA 6.9, Agro 5): 5,535 of 8,990 palms supplied; 1,884 died (34% casualty), 3,650 survive; no seedlings available now. Avoid planting Jun to Aug. Total supplies since 2023: 44,953.\nVEHICLES (PA 10): running costs high for almost all units; sell or write off uneconomic units; surplus units for infield collection.\nCAPEX (PA 11): actual RM1,462,065 vs budget RM5,087,552 (IDR 6.12 bn vs 22.16 bn), underspent; RM grand total omits the last misc group (categories add to RM1,469,420 vs 5,297,531).\nRAINFALL (PA Appendix 2): 2021 2,975 mm/159 days; 2022 2,498/149; 2023 2,097/131; 2024 2,318/169; 2025 2,654/179; 2026 Feb to May 898 mm. Agro Table 6: 2020 2,330 mm; 2025 2,638 mm; six-year average 2,476 mm, about 13 rain days a month.",
+ "ffbProd": {
+  "years": [
+   {
+    "year": 2025,
+    "label": "FY2024/25",
+    "t": 33362.73,
+    "src": "PA Report 2/2026 Section 8, last year actual same period (May 2024–Apr 2025)"
+   },
+   {
+    "year": 2026,
+    "label": "FY2025/26",
+    "t": 44442.76,
+    "src": "PA Report 2/2026 Section 8, actual to date (May 2025–Apr 2026, 12 months)"
+   }
+  ],
+  "monthly": {},
+  "monthlySrc": "No monthly FFB tonnage printed in either report (Agro Table 7 is harvesting interval only).",
+  "combinedWith": null,
+  "notes": "Both full-FY tonnages from PA 2/2026 crop table (budget FY2025/26 34,308.12 t; last year's 12-month budget 30,710.94 t, not used). Basis change: FY2025/26 is on 2,722.71 ha mature (incl. the 940.05 ha Division 2 taken back from Haruan); the FY2024/25 figure at 15.00 t/ha implies about 2,224 ha, so tonnage rose 33% while yield rose only 9% - the two years are not on the same area. PA upkeep table prints FFB 44,453 t vs 44,442.76 t in the crop table. Agro 1/2026 gives yields only (FY2018/19–FY2025/26, Table 13), no tonnes; its FY2024/25 12.33 and FY2025/26 14.64 t/ha differ from PA 15.00 and 16.32. No FY2026/27 to-date tonnage printed (PA data end Apr 2026)."
+ },
+ "reportName": "Biawan Estate (Inti)"
 }

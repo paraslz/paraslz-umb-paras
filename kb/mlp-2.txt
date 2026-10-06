@@ -1,5 +1,5 @@
-PARAS ESTATE REPORT PACK — Millian Labau Plantation-2 Estate (MLP 2)
-Company: United Malacca Berhad · Group: UMB
+PARAS ESTATE REPORT PACK — MLP 2 Estate
+Company: United Malacca Berhad · Group: United Malacca
 Latest reports: Planting Advisory Report 01/2026 (visit 2026-05-06); Agronomy Report 1/2026 (visit 2026-03-12)
 Dashboard: https://umb-paras.netlify.app/estate.html?e=mlp-2
 Full reports (Google Drive): https://drive.google.com/drive/folders/1fAgXqC9AI5CFeNVyZYKg78SwmYqig2sm
@@ -99,3 +99,6 @@ General charges: 73.00 / 80.00
   - Weighbridge expenses: 1.86 / 1.36 *
   - Other (25 items: insurance, labour medical, staff reimbursement, staff accommodation, labour SOCSO & EIS, building maintenance, OSHA/DOSH, upkeep lines, computer, donation, staff SOCSO, stationery, non-cap assets, staff EIS, subscriptions, MSPO, staff medical, office equipment, licences, telecoms, other, bank charges, assessment, fringe benefit, staff welfare): 11.50 / 12.86 *
 Total operating cost: 263.00 / 267.00
+
+FFB PRODUCTION (tonnes, whole estate, as printed in the reports)
+FY2025/26 May–Mar: 28,363.26 t (Planting Advisory Report 01/2026 section 8 crop table (May 2025–Mar 2026, 11 months))

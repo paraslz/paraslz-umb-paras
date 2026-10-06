@@ -1,5 +1,5 @@
-PARAS ESTATE REPORT PACK — Belida Estate (Inti)
-Company: PT. Lifere Agro Kapuas · Group: UMB
+PARAS ESTATE REPORT PACK — Belida Estate
+Company: PT. Lifere Agro Kapuas · Group: United Malacca
 Latest reports: PA Report 2/2026 (visit 2026-08-18); Agronomy Report 1/2026 (visit 2026-05-20)
 Dashboard: https://umb-paras.netlify.app/estate.html?e=belida
 Full reports (Google Drive): https://drive.google.com/drive/folders/1Tk5QIAwch9-sq9xMseEJfFEoSqTrXnb8
@@ -98,3 +98,7 @@ General charges: 86.95 / 77.20
   - Land and building tax: 2.86 / 2.80 *
   - Other (11 items): 6.96 / 9.14 *
 Total operating cost: 305.98 / 254.60
+
+FFB PRODUCTION (tonnes, whole estate, as printed in the reports)
+FY2024/25 (May–Apr): 27,712.07 t (PA Report 2/2026 Table 23, last-year actual 12-month column (May 2024–Apr 2025, 955.8 ha, 28.99 t/ha))
+FY2025/26 (May–Apr): 22,647.49 t (PA Report 2/2026 Table 23, actual to date (May 2025–Apr 2026, 12 months, 955.8 ha, 23.69 t/ha))

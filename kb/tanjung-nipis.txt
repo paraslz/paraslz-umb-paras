@@ -1,5 +1,5 @@
 PARAS ESTATE REPORT PACK — Tanjung Nipis Estate
-Company: Meridian Plantations Sdn Bhd · Group: UMB
+Company: Meridian Plantations Sdn Bhd · Group: United Malacca
 Latest reports: Planting Advisory Report 01/2026 (visit 2026-04-27); Agronomy Advisory Report 1/2026 (visit 2026-05-25)
 Dashboard: https://umb-paras.netlify.app/estate.html?e=tanjung-nipis
 Full reports (Google Drive): https://drive.google.com/drive/folders/1UjcnPtRLeqON8WxhIHr6FXRIzSeNCW1S
@@ -100,3 +100,7 @@ General charges: 95.09 / 78.75
   - Other building maintenance: 3.64 / 1.20 *
   - Other (26 items): 13.09 / 12.69 *
 Total operating cost: 375.83 / 325.05
+
+FFB PRODUCTION (tonnes, whole estate, as printed in the reports)
+FY2024/25 (May–Apr): 13,632.53 t (PA Report 01/2026 Table 19, last-year actual 12 months — Main Division only (826.72 ha); Sg Kaindangan (Tobe) not included)
+FY2025/26 (May–Apr): 22,111.37 t (PA Report 01/2026 Table 19 / 8.1 (May 2025–Apr 2026, 12 months; Main Division 16,526.865 t + Sg Kaindangan/Tobe 5,584.503 t))

@@ -2,7 +2,7 @@
  "slug": "machap",
  "name": "Machap Estate",
  "company": "United Malacca Berhad",
- "group": "UMB",
+ "group": "United Malacca",
  "manager": "Mr. Livindran A/L Ganesan (Estate Manager I, Machap & Melaka Pinda; also oversees Leong Hin San); Plantation Controller (Peninsular Malaysia) Mr. Low Fook Sin",
  "advisors": {
   "pa": "En. Adnan Bin Mustafa",
@@ -1059,12 +1059,22 @@
  ],
  "actions": [
   {
-   "item": "Raise harvester output above 1.5–2.2 t/man-day: 1 harvester per 22 ha tall / 25 ha young, 12–16 per MTG, 5–6 per Badang",
+   "item": "Raise harvester output above 1.5–2.2 t/man-day (PA target over 3.0): 1 harvester per 22 ha tall / 25 ha young, 12–16 per MTG, 5–6 per Badang",
    "src": "PA 1/2026",
    "status": "repeat"
   },
   {
-   "item": "Keep harvesting intervals within 12–15 days; tall-palm areas over 15 days while harvesters helped at Leong Hin San",
+   "item": "Keep harvesting intervals under 15 days; tall-palm areas still over 15 days while harvesters helped at Leong Hin San",
+   "src": "PA 1/2026",
+   "status": "repeat"
+  },
+  {
+   "item": "Improve harvesting intervals in tall palm areas to cut crop losses",
+   "src": "Agro 1/2026",
+   "status": "repeat"
+  },
+  {
+   "item": "Align the work programme with the schedule to avoid backlogs",
    "src": "PA 1/2026",
    "status": "repeat"
   },
@@ -1074,38 +1084,103 @@
    "status": "open"
   },
   {
-   "item": "Carry out a new Ganoderma census (with palm census before replanting)",
-   "src": "Agro 1/2026",
-   "status": "repeat"
-  },
-  {
-   "item": "Replant MP2003A (Melaka Pinda) under the Ganoderma SOP; consider watermelon intercrop",
-   "src": "Agro 1/2026",
-   "status": "open"
-  },
-  {
-   "item": "Reconcile palm stand records (MC2022 and estate total)",
-   "src": "Agro 1/2026",
-   "status": "open"
-  },
-  {
-   "item": "Resolve wet floor in fertiliser store (peripheral drain as at Batu Anam)",
-   "src": "Agro 1/2026",
-   "status": "repeat"
-  },
-  {
-   "item": "Complete road grading before the monsoon (by September)",
+   "item": "Consider outsourcing mechanised infield collection, manuring and grass cutting",
    "src": "PA 1/2026",
    "status": "repeat"
   },
   {
-   "item": "Improve barn owl occupancy (16%): Bright Farm or USM design boxes, annual cleaning; T-perches in MC2022",
+   "item": "Weeding contractor to take on the whole process (workers, chemicals, transport) in the long run",
    "src": "PA 1/2026",
    "status": "open"
   },
   {
-   "item": "Retrain harvesters: no bunches in drains, less trash in loose-fruit bags",
+   "item": "Carry out a new Ganoderma census using the advised method (last census 2024)",
    "src": "Agro 1/2026",
+   "status": "repeat"
+  },
+  {
+   "item": "Dig mounding soil properly for upcoming mounding work",
+   "src": "Agro 1/2026",
+   "status": "repeat"
+  },
+  {
+   "item": "Replant MP2003A (Melaka Pinda) under the Ganoderma SOP from Agro 1-2025 and 2-2025; consider a watermelon intercrop",
+   "src": "Agro 1/2026",
+   "status": "repeat"
+  },
+  {
+   "item": "Keep full stand (148 SPH) in MC2020 and MC2022 for the first 5 years; record total palms and SPH on gross planted area",
+   "src": "Agro 1/2026",
+   "status": "repeat"
+  },
+  {
+   "item": "Add palm censuses: with the Ganoderma census before replanting, and yearly in young or flood-prone fields",
+   "src": "Agro 1/2026",
+   "status": "open"
+  },
+  {
+   "item": "Reconcile palm stand records (MC2022: 20,241 vs 21,264; estate 129,968 vs 130,991)",
+   "src": "Agro 1/2026",
+   "status": "open"
+  },
+  {
+   "item": "Merge remaining small sub-blocks (MC2002E, MP1991A, MP2002A/B) into 30–50 ha units",
+   "src": "Agro 1/2026",
+   "status": "repeat"
+  },
+  {
+   "item": "Fix wet floor in fertiliser store, now worse (study Batu Anam's peripheral drain)",
+   "src": "Agro 1/2026",
+   "status": "repeat"
+  },
+  {
+   "item": "Close the gap between the fertiliser schedule and application; manure young mature, then prime, then old palms; don't carry FY2026/27 balance beyond Apr 2027",
+   "src": "Agro 1/2026",
+   "status": "open"
+  },
+  {
+   "item": "Try semi-mechanised manuring (EV Crawler/Badang, 35 bags/day) instead of manual broadcasting",
+   "src": "PA 1/2026",
+   "status": "open"
+  },
+  {
+   "item": "Finish road grading before the monsoon (by September); none done in FY2025/26 despite 1,000 chains budgeted",
+   "src": "PA 1/2026",
+   "status": "repeat"
+  },
+  {
+   "item": "Patch roads (consider crusher run); grade MC2022C; fix waterlogging on graded road in MC2002E",
+   "src": "PA 1/2026",
+   "status": "open"
+  },
+  {
+   "item": "Do rat census every 3 months and bait when damage exceeds 10% (second-generation bait)",
+   "src": "PA 1/2026",
+   "status": "repeat"
+  },
+  {
+   "item": "Bait rat-affected sub-blocks as one group in one direction (not adopted in the last campaign)",
+   "src": "Agro 1/2026",
+   "status": "repeat"
+  },
+  {
+   "item": "Improve barn owl occupancy (16%): find the cause; try Bright Farm or USM design boxes, place at least 6 palms from roads, clean yearly",
+   "src": "PA 1/2026",
+   "status": "open"
+  },
+  {
+   "item": "Install T-perches (wooden crossbar) in MC2022 until palms are tall enough for owl boxes",
+   "src": "Agro 1/2026",
+   "status": "open"
+  },
+  {
+   "item": "Stay alert for bagworm; plant beneficial plants estate-wide (60% Cassia cobanensis, 20% Antigonon, 20% Turnera)",
+   "src": "PA 1/2026",
+   "status": "open"
+  },
+  {
+   "item": "Run bunch and rat censuses as a programme; thin palms systematically with records",
+   "src": "PA 1/2026",
    "status": "open"
   },
   {
@@ -1114,30 +1189,100 @@
    "status": "repeat"
   },
   {
+   "item": "Spot-spray weed patches in vacant interrows for a complete kill before they seed",
+   "src": "Agro 1/2026",
+   "status": "open"
+  },
+  {
    "item": "Fit one-sided nozzle covers or baffles on mistblowers to protect Axonopus ground cover",
    "src": "Agro 1/2026",
    "status": "open"
   },
   {
-   "item": "Fix over-pruning and one-sided pruning in MC2022 and MP19A; slant frond stacking",
+   "item": "Establish soft grass ground cover on bare ground in MC16A and MC02A",
    "src": "Agro 1/2026",
    "status": "open"
   },
   {
-   "item": "Try semi-mechanised manuring (EV Crawler/Badang) instead of manual broadcasting",
+   "item": "Stop over-pruning still seen in MC22A/B/C and roadside MP19A; fix one-sided pruning and frond stacking in MC22C; keep 2 fronds below the lowest bunch",
+   "src": "Agro 1/2026",
+   "status": "repeat"
+  },
+  {
+   "item": "Stack cut fronds at a slant between 4 palms to ease machine movement",
    "src": "PA 1/2026",
    "status": "open"
   },
   {
-   "item": "Merge remaining small sub-blocks (MC2002E, MP1991A, MP2002A/B) into 30–50 ha units",
+   "item": "Retrain harvesters and evacuators: no bunches left in drains, less trash in loose-fruit bags",
    "src": "Agro 1/2026",
    "status": "open"
   },
   {
-   "item": "Resolve cattle intrusion through discussion or legal channel",
+   "item": "Resolve cattle intrusion through discussion or the legal channel",
    "src": "PA 1/2026",
    "status": "repeat"
+  },
+  {
+   "item": "Merge small sub-blocks MC2014A+B and MC2014C+MC2016A",
+   "src": "Agro 1/2026",
+   "status": "done"
+  },
+  {
+   "item": "Remove abnormal/unproductive (runt) palms in MC2016 and MC2020",
+   "src": "Agro 1/2026",
+   "status": "done"
+  },
+  {
+   "item": "Complete palm mounding (17,829 palms, 137 ha); none needed next year",
+   "src": "PA 1/2026",
+   "status": "done"
+  },
+  {
+   "item": "Complete FY2025/26 manuring without further NK/Mix B delays (99% applied)",
+   "src": "Agro 1/2026",
+   "status": "done"
+  },
+  {
+   "item": "Replace broken and unsuitable soft pallets in the fertiliser store (phased)",
+   "src": "Agro 1/2026",
+   "status": "done"
+  },
+  {
+   "item": "Catch up circle weeding in MC22, MC20A and MP19A; control Mikania in MC22B",
+   "src": "Agro 1/2026",
+   "status": "done"
+  },
+  {
+   "item": "Implement progressive pruning in all fields (PA says done; PA Table 18 shows Melaka Pinda fields short of 3 rounds)",
+   "src": "PA 1/2026",
+   "status": "done"
+  },
+  {
+   "item": "Follow up rat baiting in MC2020 and MC2022 and keep treatment records",
+   "src": "Agro 1/2026",
+   "status": "done"
   }
  ],
- "kb": "MACHAP ESTATE, United Malacca Berhad (UMB group). IMPORTANT: both reports cover \"Machap & Melaka Pinda Estate\" as one estate with two divisions, Machap (MC fields, 722.58 ha) and Melaka Pinda (MP fields, 292.24 ha). This dashboard is for Machap. Crop, yield, cost, labour, manuring and general-charge figures in the PA report are only given for the whole estate and are labelled (Machap+Melaka Pinda combined). Block figures (area, SPH, yield, weeding, pruning, fertiliser) are Machap-only where the report gives them per field. Sources: PA Report 1/2026 (Planting Advisor En. Adnan Bin Mustafa, visit 9 July 2026, previous visit 16 December 2025, review period May 2025 to April 2026, 12 months = FY2025/26) and Agronomy Report 1/2026 (Senior Agronomist Mr Lai Hong Heng, visit 29 June 2026, previous visit 22 December 2025, manuring programme FY2026/27). Estate Manager Mr Livindran A/L Ganesan (Estate Manager I, Grade 12, joined estate May 2021; also oversees Leong Hin San Estate). Plantation Controller (Peninsular Malaysia) Mr Low Fook Sin. Financial year runs May to April.\n\nAREA (PA Tables 1-2, Agro Tables 2-4, April 2026). Whole estate (combined): title 1,121.88 ha; oil palm 1,014.82 ha, all mature (90.46% of title); other crops 5.78 ha (stevia and pepper 3.10, durian 1.18, Founder Garden 1.50); pineapple on TNB rentis 13.31 ha; unplanted 87.97 ha (roads 70.36, swamp/pond 0.30, unplantable 12.39, quarry 1.68, buildings 3.24). Machap division 722.58 ha: MC2002 160.34 ha (A 51.10, B 29.78, C 46.13, D 25.05, E 8.28), MC2005 162.35 (B 34.18, C 55.66, D 37.41, E 35.10), MC2008 117.21 (A 31.63, B 47.30, C 38.28), MC2011A 25.42, MC2014 33.55 (A 11.85, B 13.70, C 8.00), MC2016A 44.29, MC2020A 34.01, MC2022 145.41 (A 55.12, B 57.45, C 32.84). Melaka Pinda 292.24 ha: MP1994 81.78, MP1995 55.23, MP2002 28.37, MP2003A 30.04, MP2005 85.74, MP2019A 11.08. Machap SPH (Agro Table 4, census 2024): MC2002 105 (A 100, B 97, C 114, D 104, E 119), MC2005 132 (B 149, C 128, D 129, E 126), MC2008 137, MC2011 122, MC2014 139, MC2016 155, MC2020 136, MC2022 139 by census. Estate average 128 SPH, 129,968 palms. Agro: sub-blocks merged as advised: MC2014A+B into MC14A (25.55 ha), MC2014C+MC2016A into MC16A (52.29 ha); small blocks MC2002E, MP1991A, MP2002A, MP2002B should be merged into 30-50 ha units. Age profile (whole estate): 18.8% young mature, 21.7% prime, 46.0% mature, 14.0% old. Many toppled palms and vacant points in mature areas (MC02A, MC02E, MC08A, MC05E). Target 148 SPH for MC2020 and MC2022 during first five years; supply palms planted in MC2022 (to Feb 2026: 2022A 854, 2022B 485, 2022C 219 cumulative) replacing abnormal clonal palms with seed-derived material. Census every two years; extra census before replanting and yearly in young or flood-prone fields. Replanting: MP2003A (Melaka Pinda, 30.04 ha, 82 SPH, severely Ganoderma-infected) felling, chipping and de-boling began July 2026 for FY2026/27.\n\nSTAFF (PA Table 3): Estate Manager, 2 Assistant Managers (Muhammad Arieff Bin Abdul Rahman: harvesting and pineapple; Hazrah Binti Zainul Abidin: other cash crops), 2 harvesting field conductors, 1 upkeep field conductor, 2 general clerks; 3 field supervisors; adequate, no change.\n\nLABOUR (PA Table 4, combined): April 2026 95 workers vs 101 required (-6), down from 97; June 2026 93. Ratio 1 worker to 11 ha (on 1,033.91 ha incl. cash crops). Cutters 33 vs 27, carriers 23 vs 26, MTG drivers 5 vs 4, FFB mandore 2 vs 3, tractor drivers 3 vs 4, LF collectors 2 vs 4, sprayers 4 vs 5, manuring 5 vs 4, circle raking 0 vs 2, security 3, lorry drivers 2, pineapple/stevia/pepper 6 vs 7. Harvesters incl. mechanised collection drivers and collectors 61 (cutters+carriers+MTG drivers 61 vs 57 required in the table), ratio 1 to 17 ha, judged adequate. Contractor harvesting MP1994A, MP1994B, MP1995A and MP2005C (194.06 ha) quit over contract rates. PA 7.1: 56 checkroll harvesters with 4 MTG and 3 EV Badang.\n\nGENERAL CHARGES (PA Table 5 and Appendix 1, combined, May 2025-Apr 2026): RM1,765,238.76 vs budget RM1,765,954; RM1,739.46/ha vs 1,740.16, on budget. Management and supervision RM560,732.40 (RM552.54/ha vs 626.81); labour and amenities RM735,879.19 (RM725.13 vs 656.98, 110%); office and related RM451,269.29 (RM444.68 vs 437.04); office and premises upkeep RM17,357.88. Over budget by more than 10%: labour wages and allowance +RM8,365.80 (12%, contract completion incentive RM49,400 and price bonus RM27,015.80); labour EPF +RM27,053 (77%, unbudgeted foreign worker contributions); labour welfare +RM11,032.42 (75%, retirement benefit, new workers, festivals); labour recruitment RM180,946.50 vs RM140,250 (+RM40,696.50, 29% over; levy RM83,542.88, medical RM21,662; PA text misprints the overspend as RM40,69.50); cess/rate/rent RM119,993 vs RM75,221 (+RM44,772, 60%, quit rent provision).\n\nUPKEEP AND CULTIVATION (PA Table 6, combined, 12 months): RM2,109,349.89 vs RM2,445,867; RM2,078.55/ha vs 2,410.15. Per ha actual vs budget: upkeep supervision 50.09 vs 68.17; weeding 223.85 vs 268.26 (17% under, rounds deliberately delayed where mounding keeps circles clean); manuring 1,241.80 vs 1,502.53; pest and disease 77.73 vs 176.98; census and thinning 6.63 vs 18.39; drains 23.07 vs 21.33; roads and bridges 138.37 vs 179.37; soil and water conservation 122.47 vs nil (unbudgeted mounding); boundaries 20.42 vs 16.05 (fencing MC2022 against cattle); supplying 17.19 vs nil; pruning 155.28 vs 156.76; tools 1.65 vs 2.32.\n\nWEEDING (PA Tables 7-10; Agro Table 13). Circle spraying whole estate 1,848.81 of 3,480.69 ha programme, 1.82 rounds, 53% (MC2022 programmed 6 rounds, others 3). Machap fields only: 1,321.23 of 2,603.97 ha, 51%. MC2016A no circle spraying (bare ground from close planting); MC2002C/E and MC2022B circles due at visit. Contract RM35/ha; worker RM11/ha, 6.20 ha/day; MC2022 RM18/ha, 3.65 ha/day. Selective spraying whole estate 2,514.42 of 3,044.46 ha, 2.48 rounds, 83%; Machap fields 1,903.70 of 2,167.74 ha, 88% (2 of 3 rounds in MC2002D, MC2008B/C, MC2014C, MC2022A/B/C). Mistblower, triclopyr round 1, metsulfuron rounds 2-3; RM14/ha, 6.0 ha/day; MC2022 RM15/ha, 4.4 ha. VOP spot spraying 115.48 ha (MC2002E, MC2011A, MP1994A/B) with KRUSH. Remove Tetracera, Lantana, wild brinjal; Asystasia and Clidemia in 2019 and 2022 fields. Agro: ground cover well managed, Axonopus compressus dominant; weed control improved, no over-spraying; bare ground in MC16A and MC02A; fit one-sided nozzle covers on mistblowers. MC22B Mikania much reduced (Agro).\n\nMANURING (combined). PA Table 11 FY2025/26: 1,180.86 of 1,185.78 mt applied; Mix B 775.92, Comp 25 48.58, NK Mix 154.30 (39.15 of 44.08 in Feb), kieserite 29.23, RP 177.76. 4.93 mt NK Mix for MP2003A halted for replanting; PA calls the programme complete. Agro Table 9: 1,180.91 of 1,185.79 mt, 99%. Mechanical spreader on flat land, manual broadcasting on hills, terraces, young palms: 17-24 bags per man-day at RM14/ha, RM65.38-70.00/day; semi-mechanised (EV Crawler/Badang, 35 bags/day) suggested. Agro: fertiliser store floor wet and worse, even in empty bays; study Batu Anam peripheral drain. Prioritise young mature, then prime, then old palms. FY2026/27 programme (Agro Appendix 2, no amendments, kg per palm): MC2002 Mix A 2.00 x4 (May, Jul, Oct, Feb) = 8.00; MC2005 Mix A 2.00 x4 (Jun, Sep, Nov, Feb) + RP 1.00 Jan = 9.00; MC2008 Mix B 2.20 May then 2.00 Aug, Nov, Mar + RP 1.00 = 9.20; MC11A and MC14A Mix B 2.00, kieserite 1.00 Jul, Mix B 1.70 Aug, 2.00 Nov and Mar, RP 1.50 = 10.20; MC16A Mix B 2.00 x4 + kieserite 1.00 + RP 1.50 = 10.50; MC20A Mix B 1.70 x3, RP 2.00, Mix B 2.00 = 9.10; MC22A/B/C Mix B 1.50, 1.70 x3, RP 2.00 = 8.60. New planting: 600 g CRF 20:6:14:3 + 500 g RP per hole.\n\nLEAF ANALYSIS (Agro 5.3 and Appendix 3, samples Aug 2025): N and K mostly normal, P and Mg normal to moderately low. Machap samples N 2.49-2.87%, P 0.156-0.167%, K 0.96-1.20%, Mg 0.20-0.30%. Palms show good vigour, no widespread deficiency.\n\nPESTS AND DISEASES. Rat (PA Table 13): baiting 704.31 ha with STORM 1 piece per palm, 1-4 rounds (MC2014, MC2016A, MC2020A, MC2022, MP2019A). Agro Table 14 rat damage: MC2016A 8% Sep, 16% Jan; MC2020A 10% Jul, 15% Jan, 9% Apr; MC2022A 11% Aug, 11% Feb; MC2022B 10%, 12%; MC2022C 11% Jun, 21% Feb; MC2014A/B/C 14%, 18%, 16% Jan; MP2019A 19%. Post-baiting (Table 15): 3-8% except MC2022B 10% and MC2022C 16%; T-perches advised in MC2022. Barn owls: PA 44 boxes, 7 occupied (16%), try Bright Farm boxes (90% occupancy at Far East Holdings); Agro says 62 boxes, annual cleaning, USM design. No bagworm outbreak. Pest and disease cost RM77.73/ha vs 176.98. Ganoderma: PA census May 2025 11.08% dead, 10.29% infected. Agro: April 2025 census 11% dead, 12% infected; elsewhere says last census 2024 and a new one is still due; mortality rises about 2.5% a year after age five. Agro dissected 8 palms in MP03A: all had over 60% of the base bowl damaged, even normal-looking palms; infection starts at the base; mounding grows new roots but is only temporary. Compost trial MP05B (30 March 2026, 10 palms, 30 kg QL chicken-manure compost each): unopened spears fell (e.g. M3 3 to 0, M5 2 to 0 by July), 1 palm toppled. Rainfall Apr-Jul 2026: 191.7, 340.4, 141.4, 201.7 mm (Feb 243.0, Mar 27.0).\n\nSOIL CONSERVATION (PA Table 15): mounding on 17,829 palms, 137 ha (MC2005C 6,498, D 4,013, E 3,443; MC2014A 1,545, B 1,213, C 1,117) at RM7.20/palm = RM128,368.80; complete, unbudgeted (RM122.47/ha). Agro: proper excavation still not done.\n\nROADS, DRAINS, BOUNDARIES (PA): no lateriting; grading 0 of 1,000 chains budgeted, started July 2026, finish by September; backhoe 900 h road repair and 115 h culverts at RM52.50/h; RM138.37/ha vs 179.37. Drains: backhoe 423 h; RM23.07/ha. Boundary drains adequate; cattle intrusion unresolved.\n\nPRUNING (PA Table 18, Agro Table 11): Machap fields all 3 rounds done (Jun, Oct, Dec 2025). Melaka Pinda fields mostly only round 3, MP2003A none; PA nevertheless says all complete. Cost RM155.28/ha vs 156.76. Agro: Machap pruning satisfactory; slightly more dry fronds in MC02B, MC08C, MC05C; over-pruning in MC22A/B/C and roadside MP19A; one-sided pruning and fronds in circles in MC22C; keep two fronds below lowest bunch for palms under 15 years; pruning paid 3 times a year, 4 from next year.\n\nHARVESTING (combined). MTG system in tall palms (MTG 1-2 on 466.84 ha 26.02 t/day; MTG 3-4 on 265.56 ha 25.81 t/day; MTG 5 on 137.78 ha 21.24 t/day), 3 EV Badang in MC2022 145.41 ha at 7.76 t/day (capacity 15). Harvester output (PA Table 19, Machap): MC2002 2.00 t/man-day at RM37/t (RM74/day); MC2005 2.10 (RM73.50); MC2008 2.20 (RM72.60); MC2011 2.10; MC2014 1.60 at RM32 (RM51.20, lowest); MC2016 2.20; MC2020 1.50 at RM45; MC2022 1.20 at RM65 (RM78). Melaka Pinda 1.50-2.00 t at RM35-53. PA calls 1.5-2.2 t low. Intervals April 2026 (PA Table 21): Machap 10-19 days, Melaka Pinda 18-19 days; rounds to date 21-32. Agro: 24.9 rounds in FY2025/26 (2.1/month; young and prime 2.2, tall 1.8 vs targets 2.5-3.0 and 2.0-2.5); intervals over 20 days in Aug-Oct 2025 as tall-palm harvesters were sent to Leong Hin San and new recruits still training. Quality MC2008B 5% overripe; trash in loose-fruit bags; bunches left in drains (MC05E); crop losses minimal; crop recovery 104% FY25/26 vs 89% FY24/25. Harvesting and collection cost (PA Table 22, combined): RM2,918,476 = RM131.12/t vs RM123.89 (+6%); before external transport RM97.27/t vs 92.09; infield loading RM23.14 vs 15.58 (+49%, MTG breakdowns); harvesting own FFB 43.49 vs 39.45; contract 9.99 vs 16.71; external transport 33.85 vs 31.80.\n\nCROP (PA Table 23, combined, May 2025-Apr 2026): FFB 22,258.13 t vs budget 24,321 t (-8%); last year 25,533.21 t. Yield 21.93 t/ha vs 23.96 budget and 27.79 last year. CPO 4,300.62 t, OER 19.32% vs 18.02% budget (19.76% last year); kernel 1,114.60 t, KER 5.01%; CPO 4.24 t/ha. Agro yield history (combined): FY2021/22 19.95, FY2022/23 27.80, FY2023/24 27.45, FY2024/25 27.79, FY2025/26 21.93 t/ha (-21.1%); bunches per palm 14 to 12, bunch weight 13.79 to 13.88 kg. Machap sub-block yields FY25/26 vs FY24/25 (Agro Table 16, t/ha): MC2002A 19.96 (23.48), B 13.05 (17.17), C 21.07 (25.82), D 19.42 (25.16), E 22.73 (28.97); MC2005B 25.46 (32.61), C 25.87 (31.42), D 23.87 (26.91), E 28.04 (30.64); MC2008A 16.70 (25.54), B 18.55 (30.01), C 14.45 (30.35); MC2011A 20.93 (26.66); MC2014A 28.65 (34.59), B 28.94 (33.59), C 26.04 (37.77); MC2016A 26.96 (37.09); MC2020A 22.40 (23.99); MC2022A 17.00 (11.96), B 11.56 (7.61), C 10.60 (12.48). Machap-only estate yield is NOT given in either report. Calculated from Table 16 block yields x block hectares it is about 20.2 t/ha for FY25/26 (FY24/25 about 24.8); treat as indicative only. Do not divide the combined FFB 22,258.13 t by Machap's 722.58 ha: the FFB is for both divisions (1,014.82 ha). Block table prevYtd = FY2024/25 (May 2024-Apr 2025). Melaka Pinda FY25/26: MP1994A 25.08, MP1994B 24.90, MP1995A 23.26, MP2002A 19.94, MP2002B 14.57, MP2003A 12.86, MP2005A 22.20, B 24.57, C 21.08, MP2019A 26.50. Only MP2019, MC2020 (smaller fall) and MC2022 held or improved.\n\nPRODUCTION COST (PA Table 24, combined, 12 months): RM302.95/t FFB vs RM297.06 (+2%; item 17 and 11.17 say RM302.90): general charges 79.31 vs 72.61; upkeep 92.48 vs 100.57; harvesting and collection 97.26 vs 92.08; despatching and selling 33.85 vs 31.80. Per t CPO RM1,579.56 vs 1,648.16. Reasons: crop shortfall, high vehicle costs; upkeep low as manuring stopped in replant block and circle spraying held back.\n\nVEHICLES (PA Table 25, combined): management vehicles and lorry within budget. 5 Landini farm tractors RM17.62-34.65/h, four 27-68% over budget (WD 3708F RM17.62 vs 22.45, under); 5 mini tractors (MTG) RM13.95-29.43/h vs RM7.67-14.18, 82-213% over, due to breakdowns; reassess, write off or sell badly damaged units.\n\nHARVEST MACHINES: PA 7.4 says the 3 EV Badang cover 265.56 ha of young palms but Table 20 puts them on MC2022 145.41 ha. DATA CAVEATS: see the issues list."
+ "kb": "MACHAP ESTATE, United Malacca Berhad (UMB group). IMPORTANT: both reports cover \"Machap & Melaka Pinda Estate\" as one estate with two divisions, Machap (MC fields, 722.58 ha) and Melaka Pinda (MP fields, 292.24 ha). This dashboard is for Machap. Crop, yield, cost, labour, manuring and general-charge figures in the PA report are only given for the whole estate and are labelled (Machap+Melaka Pinda combined). Block figures (area, SPH, yield, weeding, pruning, fertiliser) are Machap-only where the report gives them per field. Sources: PA Report 1/2026 (Planting Advisor En. Adnan Bin Mustafa, visit 9 July 2026, previous visit 16 December 2025, review period May 2025 to April 2026, 12 months = FY2025/26) and Agronomy Report 1/2026 (Senior Agronomist Mr Lai Hong Heng, visit 29 June 2026, previous visit 22 December 2025, manuring programme FY2026/27). Estate Manager Mr Livindran A/L Ganesan (Estate Manager I, Grade 12, joined estate May 2021; also oversees Leong Hin San Estate). Plantation Controller (Peninsular Malaysia) Mr Low Fook Sin. Financial year runs May to April.\n\nAREA (PA Tables 1-2, Agro Tables 2-4, April 2026). Whole estate (combined): title 1,121.88 ha; oil palm 1,014.82 ha, all mature (90.46% of title); other crops 5.78 ha (stevia and pepper 3.10, durian 1.18, Founder Garden 1.50); pineapple on TNB rentis 13.31 ha; unplanted 87.97 ha (roads 70.36, swamp/pond 0.30, unplantable 12.39, quarry 1.68, buildings 3.24). Machap division 722.58 ha: MC2002 160.34 ha (A 51.10, B 29.78, C 46.13, D 25.05, E 8.28), MC2005 162.35 (B 34.18, C 55.66, D 37.41, E 35.10), MC2008 117.21 (A 31.63, B 47.30, C 38.28), MC2011A 25.42, MC2014 33.55 (A 11.85, B 13.70, C 8.00), MC2016A 44.29, MC2020A 34.01, MC2022 145.41 (A 55.12, B 57.45, C 32.84). Melaka Pinda 292.24 ha: MP1994 81.78, MP1995 55.23, MP2002 28.37, MP2003A 30.04, MP2005 85.74, MP2019A 11.08. Machap SPH (Agro Table 4, census 2024): MC2002 105 (A 100, B 97, C 114, D 104, E 119), MC2005 132 (B 149, C 128, D 129, E 126), MC2008 137, MC2011 122, MC2014 139, MC2016 155, MC2020 136, MC2022 139 by census. Estate average 128 SPH, 129,968 palms. Agro: sub-blocks merged as advised: MC2014A+B into MC14A (25.55 ha), MC2014C+MC2016A into MC16A (52.29 ha); small blocks MC2002E, MP1991A, MP2002A, MP2002B should be merged into 30-50 ha units. Age profile (whole estate): 18.8% young mature, 21.7% prime, 46.0% mature, 14.0% old. Many toppled palms and vacant points in mature areas (MC02A, MC02E, MC08A, MC05E). Target 148 SPH for MC2020 and MC2022 during first five years; supply palms planted in MC2022 (to Feb 2026: 2022A 854, 2022B 485, 2022C 219 cumulative) replacing abnormal clonal palms with seed-derived material. Census every two years; extra census before replanting and yearly in young or flood-prone fields. Replanting: MP2003A (Melaka Pinda, 30.04 ha, 82 SPH, severely Ganoderma-infected) felling, chipping and de-boling began July 2026 for FY2026/27.\n\nSTAFF (PA Table 3): Estate Manager, 2 Assistant Managers (Muhammad Arieff Bin Abdul Rahman: harvesting and pineapple; Hazrah Binti Zainul Abidin: other cash crops), 2 harvesting field conductors, 1 upkeep field conductor, 2 general clerks; 3 field supervisors; adequate, no change.\n\nLABOUR (PA Table 4, combined): April 2026 95 workers vs 101 required (-6), down from 97; June 2026 93. Ratio 1 worker to 11 ha (on 1,033.91 ha incl. cash crops). Cutters 33 vs 27, carriers 23 vs 26, MTG drivers 5 vs 4, FFB mandore 2 vs 3, tractor drivers 3 vs 4, LF collectors 2 vs 4, sprayers 4 vs 5, manuring 5 vs 4, circle raking 0 vs 2, security 3, lorry drivers 2, pineapple/stevia/pepper 6 vs 7. Harvesters incl. mechanised collection drivers and collectors 61 (cutters+carriers+MTG drivers 61 vs 57 required in the table), ratio 1 to 17 ha, judged adequate. Contractor harvesting MP1994A, MP1994B, MP1995A and MP2005C (194.06 ha) quit over contract rates. PA 7.1: 56 checkroll harvesters with 4 MTG and 3 EV Badang.\n\nGENERAL CHARGES (PA Table 5 and Appendix 1, combined, May 2025-Apr 2026): RM1,765,238.76 vs budget RM1,765,954; RM1,739.46/ha vs 1,740.16, on budget. Management and supervision RM560,732.40 (RM552.54/ha vs 626.81); labour and amenities RM735,879.19 (RM725.13 vs 656.98, 110%); office and related RM451,269.29 (RM444.68 vs 437.04); office and premises upkeep RM17,357.88. Over budget by more than 10%: labour wages and allowance +RM8,365.80 (12%, contract completion incentive RM49,400 and price bonus RM27,015.80); labour EPF +RM27,053 (77%, unbudgeted foreign worker contributions); labour welfare +RM11,032.42 (75%, retirement benefit, new workers, festivals); labour recruitment RM180,946.50 vs RM140,250 (+RM40,696.50, 29% over; levy RM83,542.88, medical RM21,662; PA text misprints the overspend as RM40,69.50); cess/rate/rent RM119,993 vs RM75,221 (+RM44,772, 60%, quit rent provision).\n\nUPKEEP AND CULTIVATION (PA Table 6, combined, 12 months): RM2,109,349.89 vs RM2,445,867; RM2,078.55/ha vs 2,410.15. Per ha actual vs budget: upkeep supervision 50.09 vs 68.17; weeding 223.85 vs 268.26 (17% under, rounds deliberately delayed where mounding keeps circles clean); manuring 1,241.80 vs 1,502.53; pest and disease 77.73 vs 176.98; census and thinning 6.63 vs 18.39; drains 23.07 vs 21.33; roads and bridges 138.37 vs 179.37; soil and water conservation 122.47 vs nil (unbudgeted mounding); boundaries 20.42 vs 16.05 (fencing MC2022 against cattle); supplying 17.19 vs nil; pruning 155.28 vs 156.76; tools 1.65 vs 2.32.\n\nWEEDING (PA Tables 7-10; Agro Table 13). Circle spraying whole estate 1,848.81 of 3,480.69 ha programme, 1.82 rounds, 53% (MC2022 programmed 6 rounds, others 3). Machap fields only: 1,321.23 of 2,603.97 ha, 51%. MC2016A no circle spraying (bare ground from close planting); MC2002C/E and MC2022B circles due at visit. Contract RM35/ha; worker RM11/ha, 6.20 ha/day; MC2022 RM18/ha, 3.65 ha/day. Selective spraying whole estate 2,514.42 of 3,044.46 ha, 2.48 rounds, 83%; Machap fields 1,903.70 of 2,167.74 ha, 88% (2 of 3 rounds in MC2002D, MC2008B/C, MC2014C, MC2022A/B/C). Mistblower, triclopyr round 1, metsulfuron rounds 2-3; RM14/ha, 6.0 ha/day; MC2022 RM15/ha, 4.4 ha. VOP spot spraying 115.48 ha (MC2002E, MC2011A, MP1994A/B) with KRUSH. Remove Tetracera, Lantana, wild brinjal; Asystasia and Clidemia in 2019 and 2022 fields. Agro: ground cover well managed, Axonopus compressus dominant; weed control improved, no over-spraying; bare ground in MC16A and MC02A; fit one-sided nozzle covers on mistblowers. MC22B Mikania much reduced (Agro).\n\nMANURING (combined). PA Table 11 FY2025/26: 1,180.86 of 1,185.78 mt applied; Mix B 775.92, Comp 25 48.58, NK Mix 154.30 (39.15 of 44.08 in Feb), kieserite 29.23, RP 177.76. 4.93 mt NK Mix for MP2003A halted for replanting; PA calls the programme complete. Agro Table 9: 1,180.91 of 1,185.79 mt, 99%. Mechanical spreader on flat land, manual broadcasting on hills, terraces, young palms: 17-24 bags per man-day at RM14/ha, RM65.38-70.00/day; semi-mechanised (EV Crawler/Badang, 35 bags/day) suggested. Agro: fertiliser store floor wet and worse, even in empty bays; study Batu Anam peripheral drain. Prioritise young mature, then prime, then old palms. FY2026/27 programme (Agro Appendix 2, no amendments, kg per palm): MC2002 Mix A 2.00 x4 (May, Jul, Oct, Feb) = 8.00; MC2005 Mix A 2.00 x4 (Jun, Sep, Nov, Feb) + RP 1.00 Jan = 9.00; MC2008 Mix B 2.20 May then 2.00 Aug, Nov, Mar + RP 1.00 = 9.20; MC11A and MC14A Mix B 2.00, kieserite 1.00 Jul, Mix B 1.70 Aug, 2.00 Nov and Mar, RP 1.50 = 10.20; MC16A Mix B 2.00 x4 + kieserite 1.00 + RP 1.50 = 10.50; MC20A Mix B 1.70 x3, RP 2.00, Mix B 2.00 = 9.10; MC22A/B/C Mix B 1.50, 1.70 x3, RP 2.00 = 8.60. New planting: 600 g CRF 20:6:14:3 + 500 g RP per hole.\n\nLEAF ANALYSIS (Agro 5.3 and Appendix 3, samples Aug 2025): N and K mostly normal, P and Mg normal to moderately low. Machap samples N 2.49-2.87%, P 0.156-0.167%, K 0.96-1.20%, Mg 0.20-0.30%. Palms show good vigour, no widespread deficiency.\n\nPESTS AND DISEASES. Rat (PA Table 13): baiting 704.31 ha with STORM 1 piece per palm, 1-4 rounds (MC2014, MC2016A, MC2020A, MC2022, MP2019A). Agro Table 14 rat damage: MC2016A 8% Sep, 16% Jan; MC2020A 10% Jul, 15% Jan, 9% Apr; MC2022A 11% Aug, 11% Feb; MC2022B 10%, 12%; MC2022C 11% Jun, 21% Feb; MC2014A/B/C 14%, 18%, 16% Jan; MP2019A 19%. Post-baiting (Table 15): 3-8% except MC2022B 10% and MC2022C 16%; T-perches advised in MC2022. Barn owls: PA 44 boxes, 7 occupied (16%), try Bright Farm boxes (90% occupancy at Far East Holdings); Agro says 62 boxes, annual cleaning, USM design. No bagworm outbreak. Pest and disease cost RM77.73/ha vs 176.98. Ganoderma: PA census May 2025 11.08% dead, 10.29% infected. Agro: April 2025 census 11% dead, 12% infected; elsewhere says last census 2024 and a new one is still due; mortality rises about 2.5% a year after age five. Agro dissected 8 palms in MP03A: all had over 60% of the base bowl damaged, even normal-looking palms; infection starts at the base; mounding grows new roots but is only temporary. Compost trial MP05B (30 March 2026, 10 palms, 30 kg QL chicken-manure compost each): unopened spears fell (e.g. M3 3 to 0, M5 2 to 0 by July), 1 palm toppled. Rainfall Apr-Jul 2026: 191.7, 340.4, 141.4, 201.7 mm (Feb 243.0, Mar 27.0).\n\nSOIL CONSERVATION (PA Table 15): mounding on 17,829 palms, 137 ha (MC2005C 6,498, D 4,013, E 3,443; MC2014A 1,545, B 1,213, C 1,117) at RM7.20/palm = RM128,368.80; complete, unbudgeted (RM122.47/ha). Agro: proper excavation still not done.\n\nROADS, DRAINS, BOUNDARIES (PA): no lateriting; grading 0 of 1,000 chains budgeted, started July 2026, finish by September; backhoe 900 h road repair and 115 h culverts at RM52.50/h; RM138.37/ha vs 179.37. Drains: backhoe 423 h; RM23.07/ha. Boundary drains adequate; cattle intrusion unresolved.\n\nPRUNING (PA Table 18, Agro Table 11): Machap fields all 3 rounds done (Jun, Oct, Dec 2025). Melaka Pinda fields mostly only round 3, MP2003A none; PA nevertheless says all complete. Cost RM155.28/ha vs 156.76. Agro: Machap pruning satisfactory; slightly more dry fronds in MC02B, MC08C, MC05C; over-pruning in MC22A/B/C and roadside MP19A; one-sided pruning and fronds in circles in MC22C; keep two fronds below lowest bunch for palms under 15 years; pruning paid 3 times a year, 4 from next year.\n\nHARVESTING (combined). MTG system in tall palms (MTG 1-2 on 466.84 ha 26.02 t/day; MTG 3-4 on 265.56 ha 25.81 t/day; MTG 5 on 137.78 ha 21.24 t/day), 3 EV Badang in MC2022 145.41 ha at 7.76 t/day (capacity 15). Harvester output (PA Table 19, Machap): MC2002 2.00 t/man-day at RM37/t (RM74/day); MC2005 2.10 (RM73.50); MC2008 2.20 (RM72.60); MC2011 2.10; MC2014 1.60 at RM32 (RM51.20, lowest); MC2016 2.20; MC2020 1.50 at RM45; MC2022 1.20 at RM65 (RM78). Melaka Pinda 1.50-2.00 t at RM35-53. PA calls 1.5-2.2 t low. Intervals April 2026 (PA Table 21): Machap 10-19 days, Melaka Pinda 18-19 days; rounds to date 21-32. Agro: 24.9 rounds in FY2025/26 (2.1/month; young and prime 2.2, tall 1.8 vs targets 2.5-3.0 and 2.0-2.5); intervals over 20 days in Aug-Oct 2025 as tall-palm harvesters were sent to Leong Hin San and new recruits still training. Quality MC2008B 5% overripe; trash in loose-fruit bags; bunches left in drains (MC05E); crop losses minimal; crop recovery 104% FY25/26 vs 89% FY24/25. Harvesting and collection cost (PA Table 22, combined): RM2,918,476 = RM131.12/t vs RM123.89 (+6%); before external transport RM97.27/t vs 92.09; infield loading RM23.14 vs 15.58 (+49%, MTG breakdowns); harvesting own FFB 43.49 vs 39.45; contract 9.99 vs 16.71; external transport 33.85 vs 31.80.\n\nCROP (PA Table 23, combined, May 2025-Apr 2026): FFB 22,258.13 t vs budget 24,321 t (-8%); last year 25,533.21 t. Yield 21.93 t/ha vs 23.96 budget and 27.79 last year. CPO 4,300.62 t, OER 19.32% vs 18.02% budget (19.76% last year); kernel 1,114.60 t, KER 5.01%; CPO 4.24 t/ha. Agro yield history (combined): FY2021/22 19.95, FY2022/23 27.80, FY2023/24 27.45, FY2024/25 27.79, FY2025/26 21.93 t/ha (-21.1%); bunches per palm 14 to 12, bunch weight 13.79 to 13.88 kg. Machap sub-block yields FY25/26 vs FY24/25 (Agro Table 16, t/ha): MC2002A 19.96 (23.48), B 13.05 (17.17), C 21.07 (25.82), D 19.42 (25.16), E 22.73 (28.97); MC2005B 25.46 (32.61), C 25.87 (31.42), D 23.87 (26.91), E 28.04 (30.64); MC2008A 16.70 (25.54), B 18.55 (30.01), C 14.45 (30.35); MC2011A 20.93 (26.66); MC2014A 28.65 (34.59), B 28.94 (33.59), C 26.04 (37.77); MC2016A 26.96 (37.09); MC2020A 22.40 (23.99); MC2022A 17.00 (11.96), B 11.56 (7.61), C 10.60 (12.48). Machap-only estate yield is NOT given in either report. Calculated from Table 16 block yields x block hectares it is about 20.2 t/ha for FY25/26 (FY24/25 about 24.8); treat as indicative only. Do not divide the combined FFB 22,258.13 t by Machap's 722.58 ha: the FFB is for both divisions (1,014.82 ha). Block table prevYtd = FY2024/25 (May 2024-Apr 2025). Melaka Pinda FY25/26: MP1994A 25.08, MP1994B 24.90, MP1995A 23.26, MP2002A 19.94, MP2002B 14.57, MP2003A 12.86, MP2005A 22.20, B 24.57, C 21.08, MP2019A 26.50. Only MP2019, MC2020 (smaller fall) and MC2022 held or improved.\n\nPRODUCTION COST (PA Table 24, combined, 12 months): RM302.95/t FFB vs RM297.06 (+2%; item 17 and 11.17 say RM302.90): general charges 79.31 vs 72.61; upkeep 92.48 vs 100.57; harvesting and collection 97.26 vs 92.08; despatching and selling 33.85 vs 31.80. Per t CPO RM1,579.56 vs 1,648.16. Reasons: crop shortfall, high vehicle costs; upkeep low as manuring stopped in replant block and circle spraying held back.\n\nVEHICLES (PA Table 25, combined): management vehicles and lorry within budget. 5 Landini farm tractors RM17.62-34.65/h, four 27-68% over budget (WD 3708F RM17.62 vs 22.45, under); 5 mini tractors (MTG) RM13.95-29.43/h vs RM7.67-14.18, 82-213% over, due to breakdowns; reassess, write off or sell badly damaged units.\n\nHARVEST MACHINES: PA 7.4 says the 3 EV Badang cover 265.56 ha of young palms but Table 20 puts them on MC2022 145.41 ha. DATA CAVEATS: see the issues list.",
+ "ffbProd": {
+  "years": [
+   {
+    "year": 2025,
+    "label": "FY2024/25",
+    "t": 25533.21,
+    "src": "PA Report 1/2026 Table 23, last-year actual 12 months (May 2024–Apr 2025; same-period column also 25,533.21) — Machap + Melaka Pinda combined"
+   },
+   {
+    "year": 2026,
+    "label": "FY2025/26",
+    "t": 22258.13,
+    "src": "PA Report 1/2026 Table 23 and 8.1 (May 2025–Apr 2026, 12 months; budget 24,321.00) — Machap + Melaka Pinda combined"
+   }
+  ],
+  "monthly": {},
+  "monthlySrc": "No monthly FFB tonnage table in either report (Agro Table 10 gives monthly harvesting intervals only).",
+  "combinedWith": "Melaka Pinda",
+  "notes": "Both tonnages are for the whole Machap & Melaka Pinda Estate (1,014.82 ha: Machap 722.58 + Melaka Pinda 292.24); neither report prints a Machap-only tonnage, so the whole series is combined. Melaka Pinda has no page of its own, so there is no double count. No FY2026/27 (May 2026 onward) tonnage printed, so no ytd. Agro 7.2 and its yield chart give t/ha only for FY2021/22–FY2023/24 (19.95, 27.80, 27.45); no tonnes for those years. FY2024/25 25,533.21 t at the printed 27.79 t/ha implies about 919 ha, not 1,014.82 (see issues). PA Table 23 last-year CPO differs slightly between columns (5,046.56 same period vs 5,046.58 12 months). PA 11.16 misprints the FY2025/26 yield as 2,193 t/ha."
+ }
 }

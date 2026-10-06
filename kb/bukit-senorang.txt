@@ -1,5 +1,5 @@
 PARAS ESTATE REPORT PACK — Bukit Senorang Estate
-Company: Syarikat Penanaman Bukit Senorang Sdn Bhd · Group: UMB
+Company: Syarikat Penanaman Bukit Senorang Sdn Bhd · Group: United Malacca
 Latest reports: PA Report 1/2026 (visit 2026-06-24); Agronomy Report 1/2026 (visit 2026-04-23)
 Dashboard: https://umb-paras.netlify.app/estate.html?e=bukit-senorang
 Full reports (Google Drive): https://drive.google.com/drive/folders/1HaVv6masSWWDD5IDQ3HhhYCn6tHEYaPA
@@ -98,3 +98,7 @@ General charges: 81.90 / 92.56
   - Office & premise upkeep: 1.36 / 1.42 *
   - Misc expenses: 0.00 / 0.00 *
 Total operating cost: 270.10 / 338.63
+
+FFB PRODUCTION (tonnes, whole estate, as printed in the reports)
+FY2024/25 (May–Apr): 20,195.47 t (PA Report 1/2026 Table 22, last-year actual 12 months (May 2024–Apr 2025))
+FY2025/26 (May–Apr): 24,682.36 t (PA Report 1/2026 Table 22, actual to date 12 months (May 2025–Apr 2026))

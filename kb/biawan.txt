@@ -1,5 +1,5 @@
-PARAS ESTATE REPORT PACK — Biawan Estate (Inti)
-Company: PT Lifere Agro Kapuas · Group: UMB
+PARAS ESTATE REPORT PACK — Biawan Estate
+Company: PT Lifere Agro Kapuas · Group: United Malacca
 Latest reports: PA Report 2/2026 (visit 2026-08-22); Agronomy Report 1/2026 (visit 2026-05-19)
 Dashboard: https://umb-paras.netlify.app/estate.html?e=biawan
 Full reports (Google Drive): https://drive.google.com/drive/folders/1Lb4AwteKseQGL3Qgk_3NWiNXeoYx5rNT
@@ -77,3 +77,7 @@ Upkeep & cultivation: 175.05 / 231.35
   - Other (7 items: 2 transport lines, census & thinning, supplying, soil/water conservation, tools, other upkeep): 2.36 / 10.27 *
 General charges: N/A / N/A
 Total operating cost: 239.61 / 288.17
+
+FFB PRODUCTION (tonnes, whole estate, as printed in the reports)
+FY2024/25 (May–Apr): 33,362.73 t (PA Report 2/2026 Section 8, last year actual same period (May 2024–Apr 2025))
+FY2025/26 (May–Apr): 44,442.76 t (PA Report 2/2026 Section 8, actual to date (May 2025–Apr 2026, 12 months))

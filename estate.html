@@ -11,12 +11,13 @@
 <body>
 <header class="band">
  <div class="in">
-  <a class="back" href="/">‹ All estates</a>
+  <div class="topnav"><a class="back" href="/">‹ All estates</a><label class="sr" for="jump">Jump to another estate</label><select id="jump" hidden><option value="">Jump to estate…</option></select></div>
   <div class="eyebrow" id="eb">PARAS advisory</div>
   <h1 id="nm">Loading…</h1>
   <div class="meta" id="mt"></div>
   <div class="latest" id="lt"></div>
   <a class="fld" id="fld" href="#" target="_blank" rel="noopener" hidden>Open report folder ↗</a>
+  <a class="fld" id="offl" href="#" hidden>Download for offline ↓</a>
  </div>
 </header>
 <div class="askWrap"><div class="in">
@@ -34,6 +35,7 @@
  <button role="tab" data-t="blocks">Blocks</button>
  <button role="tab" data-t="money">Money</button>
  <button role="tab" data-t="field">Field &amp; people</button>
+ <button role="tab" data-t="actions">Actions<span class="cnt" id="acnt" hidden></span></button>
  <button role="tab" data-t="reports">Reports</button>
 </div></nav>
 <main><div class="in">
@@ -41,8 +43,7 @@
 
 <section role="tabpanel" id="t-overview">
  <div class="card" id="cB4"><h2>Yield per hectare</h2><p class="sub" id="ch4s">Estate t/ha by full year, plus this year to date</p><div class="chart"><canvas id="ch4" aria-label="Yield per hectare by year"></canvas></div><p class="note" id="ch4n"></p></div>
- <div class="card"><div class="head"><div><h2 id="glH">At a glance</h2><p class="sub" id="glS"></p></div></div><div class="kv" id="kv"></div></div>
- <div class="card" id="sumCard"><h2>Key takeaways</h2><ol class="takeaways" id="sum"></ol></div>
+ <div class="card" id="cB5"><h2>FFB production</h2><p class="sub">Estate FFB tonnes by full year, plus this year to date</p><div class="chart"><canvas id="ch5" aria-label="FFB tonnes by year"></canvas></div><p class="note" id="ch5n"></p></div>
  <div class="two">
   <div class="card" id="cB1"><h2>Yield by block</h2><p class="sub" id="cB1s"></p><div class="chart"><canvas id="ch1"></canvas></div></div>
   <div class="card" id="cB2"><h2>Cost per tonne</h2><p class="sub" id="cB2s"></p><div class="chart"><canvas id="ch2"></canvas></div></div>
@@ -50,6 +51,8 @@
  <div>
   <div class="card" id="cB3"><h2>Field programme</h2><p class="sub">% of programme done, latest report</p><div class="bars" id="prog"></div><p class="note" id="progN"></p></div>
  </div>
+ <div class="card" id="sumCard"><h2>Key takeaways</h2><ol class="takeaways" id="sum"></ol></div>
+ <div class="card"><div class="head"><div><h2 id="glH">At a glance</h2><p class="sub" id="glS"></p></div></div><div class="kv" id="kv"></div></div>
 </section>
 
 <section role="tabpanel" id="t-blocks" hidden>
@@ -67,6 +70,8 @@
   <div class="head"><div><h2>Operating cost per tonne FFB</h2><p class="sub" id="mS"></p></div></div>
   <div class="tbl"><table><thead><tr><th>RM per t FFB</th><th>Actual</th><th>Budget</th><th>Var.</th></tr></thead><tbody id="opT"></tbody></table></div>
   <p class="note" id="opN"></p>
+  <div class="price" id="mgC"><label for="fp"><b>FFB price</b> RM/t</label><input id="fp" type="number" inputmode="decimal" min="0" step="10" placeholder="e.g. 900"><span id="mgO"></span></div>
+  <p class="note">Margin = the FFB price you enter minus total operating cost per tonne. Reports don't give selling prices, so this is illustrative.</p>
   <p class="note" id="mNone" hidden>The latest PA report has no cost section, so figures show N/A.</p>
  </div>
  <details class="fold" open><summary><span class="t">Where the money went</span><span class="s">upkeep RM/ha against budget</span></summary>
@@ -78,9 +83,14 @@
  <div class="card" id="labC"><h2>Labour against requirement</h2><p class="sub" id="labS"></p><div class="chart"><canvas id="ch6"></canvas></div></div>
  <details class="fold" open><summary><span class="t">Harvesting and manuring</span></summary><div class="body"><ul class="obs" id="hm"></ul></div></details>
  <details class="fold" id="rfF"><summary><span class="t">Rainfall</span><span class="s">mm by year</span></summary><div class="body"><div class="chart sm"><canvas id="ch7"></canvas></div></div></details>
- <details class="fold"><summary><span class="t">Open actions</span><span class="s" id="actS"></span></summary><div class="body"><div class="tbl"><table><thead><tr><th>Action</th><th>Raised in</th><th>Status</th></tr></thead><tbody id="actT"></tbody></table></div></div></details>
 </section>
 
+
+<section role="tabpanel" id="t-actions" hidden>
+ <div class="card"><h2>Action tracker</h2><p class="sub" id="actS"></p>
+  <div class="tbl"><table><thead><tr><th>Action</th><th>Status</th></tr></thead><tbody id="actT"></tbody></table></div>
+  <p class="note"><a href="/group.html">All estates' actions →</a></p></div>
+</section>
 
 <section role="tabpanel" id="t-reports" hidden>
  <div class="card src" id="srcC"><h2>Source reports</h2><p class="sub">Latest PARAS reports used for this dashboard. The folder holds every report for this estate.</p></div>
@@ -88,9 +98,11 @@
 
 </div></main>
 <footer class="foot"><div class="in">Compiled from PARAS Planting Advisory and Agronomy reports. Figures as reported.</div></footer>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+<script src="/assets/site.js"></script>
+<script src="/assets/vendor/chart.umd.min.js"></script>
 <script src="/assets/cost.js"></script>
 <script src="/assets/estate.js"></script>
 <script src="/assets/byoai.js"></script>
+<script src="/assets/nav.js"></script>
 </body>
 </html>

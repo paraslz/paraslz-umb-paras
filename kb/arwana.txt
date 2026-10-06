@@ -1,5 +1,5 @@
-PARAS ESTATE REPORT PACK — Arwana Estate (Inti)
-Company: PT Lifere Agro Kapuas · Group: UMB
+PARAS ESTATE REPORT PACK — Arwana Estate
+Company: PT Lifere Agro Kapuas · Group: United Malacca
 Latest reports: PA Report 2/2026 (visit 2026-08-18); Agronomy Report 1/2026 (visit 2026-05-20)
 Dashboard: https://umb-paras.netlify.app/estate.html?e=arwana
 Full reports (Google Drive): https://drive.google.com/drive/folders/1JW7Gi54x0UDuDq0SufUgp__6i1KVoUdG
@@ -91,3 +91,7 @@ General charges: 217.00 / 94.00
   - Other expenses: 114.25 / 0.62 *
   - Other (13 items): 5.93 / 11.27 *
 Total operating cost: 572.00 / 409.00
+
+FFB PRODUCTION (tonnes, whole estate, as printed in the reports)
+FY2024/25 (May–Apr): 8,306.91 t (PA Report 2/2026 section 8 Crop Production, last-year actual same period (12 months May 2024–Apr 2025, 908.6 ha, 9.14 t/ha))
+FY2025/26 (May–Apr): 10,630.05 t (PA Report 2/2026 section 8 Crop Production, actual to date (12 months May 2025–Apr 2026, 1,000.73 ha, 10.62 t/ha))

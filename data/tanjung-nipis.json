@@ -2,7 +2,7 @@
  "slug": "tanjung-nipis",
  "name": "Tanjung Nipis Estate",
  "company": "Meridian Plantations Sdn Bhd",
- "group": "UMB",
+ "group": "United Malacca",
  "manager": "Mr. Mark Mathew (Estate Manager since 14 Sep 2024, per PA; the Agro report names him Mr Mark Anderson); Senior Regional Manager Mr. Phor Kok Beng",
  "advisors": {
   "pa": "En. Adnan Bin Mustafa",
@@ -1011,6 +1011,11 @@
    "sev": "warn",
    "title": "Agro Appendix 1(C) areas differ from Agro Table 2",
    "detail": "FY26/27 fertiliser programme Appendix 1(C) (titled 'Tobe Division - Immature' but listing mature fields 08A–16A and Main Division field 09A/block 80) uses old areas: 08A blocks 82–83 63.34 ha vs Table 2 59.33; 10A+10B blocks 84–91 235.25 vs 209.22; 16A blocks 92–99 163.60 vs 150.67; 23A A4+A5 68.84 vs 63.42. Appendix 1(B) labels field 25A as '2025B'. Fertiliser tonnages built on these areas would be overstated."
+  },
+  {
+   "sev": "warn",
+   "title": "'Last year' crop column is Main Division only",
+   "detail": "PA Table 19 'Tanjung Nipis Total Estate' last-year column (13,632.529 t, 826.72 ha, 16.49 t/ha) is identical to the Main Division row; Sg Kaindangan (Tobe) is excluded. kpi.yphPrevSame 16.49 and the FY2024/25 tonnage are therefore not like-for-like with FY2025/26 (22,111.368 t, 1,308.31 ha). Main Division alone: 13,632.529 t to 16,526.865 t (16.49 to 19.49 t/ha)."
   }
  ],
  "actions": [
@@ -1022,50 +1027,25 @@
   {
    "item": "Use one circle round for mist-blower Glyphosate on Lalang, Pennisetum, Giant Paspalum, bamboo grass and roadsides",
    "src": "PA 1/2026",
-   "status": "open"
-  },
-  {
-   "item": "Start FY2026/27 manuring (not begun at May 2026); move bags close to palms by small vehicle; no manuring in Nov–Dec",
-   "src": "Agro 1/2026",
-   "status": "open"
-  },
-  {
-   "item": "Complete FY2025/26 manuring by May 2026",
-   "src": "PA 1/2026",
-   "status": "done"
-  },
-  {
-   "item": "Rat census every 3 months; bait with second-generation bait above 10%; formal census in 19A",
-   "src": "PA 1/2026",
-   "status": "open"
-  },
-  {
-   "item": "Stack fronds in patches within 4 palms, improve terrace stacking; keep progressive pruning in rehabilitated area",
-   "src": "PA 1/2026",
-   "status": "open"
-  },
-  {
-   "item": "Finish road grading (873 of 5,927 chains) by June 2026, using motor grader and bulldozer rather than hired backhoe/excavator",
-   "src": "PA 1/2026",
-   "status": "open"
-  },
-  {
-   "item": "Outsource internal and external transport to one contractor; package harvesting contract starting with Tobe",
-   "src": "PA 1/2026",
    "status": "repeat"
   },
   {
-   "item": "Write off badly damaged mini crawlers; consider electric mini crawler and electric Badang",
+   "item": "Separate palm circle spraying from Lalang, Giant Paspalum and roadside spraying to lift productivity",
    "src": "PA 1/2026",
    "status": "open"
   },
   {
-   "item": "Expedite palm supplying in 23A, 24A and 25A; GIS stand census of 23A",
+   "item": "Raise inter-row sprayer output from 3.0 to 4.5 ha/man-day",
    "src": "PA 1/2026",
-   "status": "repeat"
+   "status": "open"
   },
   {
-   "item": "Complete palm census in remaining blocks",
+   "item": "Rehabilitate remaining sporadic areas in low-lying land and steep slopes",
+   "src": "PA 1/2026",
+   "status": "open"
+  },
+  {
+   "item": "Start FY2026/27 weeding in the Main Division without further delay",
    "src": "Agro 1/2026",
    "status": "repeat"
   },
@@ -1075,7 +1055,112 @@
    "status": "repeat"
   },
   {
+   "item": "Control Giant Grass in 24A/25A inter-rows (inter-row spraying pending)",
+   "src": "Agro 1/2026",
+   "status": "open"
+  },
+  {
+   "item": "23A: one more Glyphosate round on regrowing Lalang, bamboo grass, Giant Paspalum; then Garlon/Ally by CKS to establish soft grasses",
+   "src": "PA 1/2026",
+   "status": "open"
+  },
+  {
+   "item": "Complete FY2025/26 manuring by May 2026",
+   "src": "PA 1/2026",
+   "status": "done"
+  },
+  {
+   "item": "Start FY2026/27 manuring (not begun at May 2026; expected June 2026)",
+   "src": "Agro 1/2026",
+   "status": "open"
+  },
+  {
+   "item": "Move fertiliser bags close to palms by small vehicle; consider mechanised manuring",
+   "src": "PA 1/2026",
+   "status": "repeat"
+  },
+  {
+   "item": "No manuring in November–December (heavy rain)",
+   "src": "PA 1/2026",
+   "status": "repeat"
+  },
+  {
+   "item": "Try wheelbarrows for fertiliser distribution where terrain allows",
+   "src": "PA 1/2026",
+   "status": "open"
+  },
+  {
+   "item": "Improve manuring quality and consistency in Tobe to speed palm recovery",
+   "src": "Agro 1/2026",
+   "status": "open"
+  },
+  {
+   "item": "Rat census every 3 months; bait with second-generation bait above 10%; formal census in 19A",
+   "src": "PA 1/2026",
+   "status": "open"
+  },
+  {
+   "item": "Watch for early signs of bagworm",
+   "src": "PA 1/2026",
+   "status": "open"
+  },
+  {
+   "item": "Continue progressive pruning in rehabilitated areas; finish Tobe pruning (08A 69%, 10A 70%, 16A 71%)",
+   "src": "Agro 1/2026",
+   "status": "repeat"
+  },
+  {
+   "item": "Stack fronds in patches within 4 palms (company policy); improve stacking in flat areas and on terraces",
+   "src": "PA 1/2026",
+   "status": "open"
+  },
+  {
+   "item": "Finish road grading (873 of 5,927 chains) by June 2026, using motor grader and bulldozer rather than hired backhoe/excavator",
+   "src": "PA 1/2026",
+   "status": "repeat"
+  },
+  {
+   "item": "Grade and surface hilly Main Division agricultural roads and Sg Kaindangan boundary road with crusher run/red stone",
+   "src": "PA 1/2026",
+   "status": "repeat"
+  },
+  {
+   "item": "Strengthen security; don't leave harvested FFB at the boundary overnight",
+   "src": "PA 1/2026",
+   "status": "repeat"
+  },
+  {
+   "item": "Outsource internal and external transport to one contractor; package harvesting contract starting with Tobe",
+   "src": "PA 1/2026",
+   "status": "repeat"
+  },
+  {
+   "item": "Reduce estate vehicles as work is outsourced; farm tractor running costs more than 40% over budget",
+   "src": "PA 1/2026",
+   "status": "repeat"
+  },
+  {
+   "item": "Write off badly damaged mini crawlers; consider electric mini crawler and electric Badang",
+   "src": "PA 1/2026",
+   "status": "open"
+  },
+  {
+   "item": "Improve harvester productivity (0.44–4.09 t/man-day) through mechanisation",
+   "src": "PA 1/2026",
+   "status": "open"
+  },
+  {
    "item": "Restore 2 rounds a month in Tobe (08A, 10A at 85%, 16A at 50%); keep intervals within 10–14 days",
+   "src": "Agro 1/2026",
+   "status": "open"
+  },
+  {
+   "item": "Watch for unripe bunches in 19A, where short intervals raise the risk",
+   "src": "Agro 1/2026",
+   "status": "repeat"
+  },
+  {
+   "item": "Remove oxidised loose fruit at collection platforms",
    "src": "Agro 1/2026",
    "status": "open"
   },
@@ -1085,15 +1170,65 @@
    "status": "open"
   },
   {
-   "item": "Drainage and bunds for waterlogging in block 85 and the flat part of 23A",
+   "item": "Keep working on Block 80 palm condition",
+   "src": "Agro 1/2026",
+   "status": "repeat"
+  },
+  {
+   "item": "Drainage and bunds for waterlogging in block 85 and the flat part of 23A; focus desilting on Sg Kaindangan low-lying immature area next FY",
    "src": "Agro 1/2026",
    "status": "open"
   },
   {
-   "item": "Start FY2026/27 weeding in the Main Division; remove oxidised loose fruit at platforms",
+   "item": "Expedite palm supplying in 23A, 24A and 25A; GIS stand census of 23A",
+   "src": "PA 1/2026",
+   "status": "repeat"
+  },
+  {
+   "item": "Replace flood-damaged palms near Block 48 (24A/25A)",
    "src": "Agro 1/2026",
    "status": "open"
+  },
+  {
+   "item": "Complete palm census in remaining blocks",
+   "src": "Agro 1/2026",
+   "status": "repeat"
+  },
+  {
+   "item": "Complete palm planting in PR25 (25A)",
+   "src": "Agro 1/2026",
+   "status": "done"
+  },
+  {
+   "item": "Complete rehabilitation of immature 23A (Sg Kaindangan)",
+   "src": "PA 1/2026",
+   "status": "done"
+  },
+  {
+   "item": "Budget general charges more precisely (e.g. unbudgeted non-capitalised assets, +950%)",
+   "src": "PA 1/2026",
+   "status": "repeat"
   }
  ],
- "kb": "TANJUNG NIPIS ESTATE (TNE), Meridian Plantations Sdn Bhd, United Malacca Berhad (UMB) group. The estate has a Main Division and the Sg. Kaindangan Estate, also called the Tobe Division, which was acquired last year after long neglect and has been rehabilitated. Fact pack from PA Report 01/2026 (Planting Advisor En. Adnan Bin Mustafa; visit 27-28 April 2026; review period May 2025 to April 2026, 12 months, financial year FY2025/26 runs May to April) and Agronomy Advisory Report 1/2026 (Junior Agronomist Mr Alison Bin Janari and Senior Agronomist Mr Chong Kuan Ming; visit 25 May 2026; previous Agro visit 28 November 2025; manuring programme 2026). Senior (Regional) Manager Mr Phor Kok Beng. Estate Manager Mr Mark Mathew per PA (Agro: Mr Mark Anderson). PA says its previous visit was 21-22 October 2026 (typo). FFB goes to Paitan Palm Oil Mill.\n\nAREA (PA Table 1 and 2, April 2026, after a GIS census): estate title 1,492.34 ha. Planted 1,347.33 ha (90% of title): mature 1,267.32 ha (down 40.99 ha from 1,308.31), immature 80.01 ha, replanting 0. Roads 85.36, unplantable 28.08, ponds 1.88, swamps/forest 21.40, river/drain/buffer 1.45, buildings/others 6.84 (Table 2: 6.30 plus land dispute 0.54). Mature fields (ha, SPH): 2004A 162.96 (132), 2005A 35.63 (119), 2005B 158.28 (133), 2005C 115.54 (131), 2005D 202.38 (141), 2006A 70.99 (124), 2009A 21.38 (111), 2019A 80.94 (139), 2008A 59.33 (124), 2010A 136.10 (115), 2010B 73.12 (114), 2016A 150.67 (122). Immature: 2023A 63.46 ha (Sg Kaindangan blocks 23A4 34.02 and 23A5 29.44), 2024A 8.74 (119 SPH), 2025A 7.81 (81 SPH). The former field 2023A in the Main Division was split into 2024A6 (8.74 ha) and 2025A7 (7.81 ha).\nAgronomy Table 1: mature 1,296.76, immature 50.57, planted 1,347.33 (88% of gross 1,524.67 ha); field road 121.45, roads 16.78, swamps/forest 18.84, unplanted 12.37. Agro says mature increased after Block 23A04 was reclassified as mature. Agro blocking adjustments in Tobe fields P08A, P10A, P16A and P24A after GIS verification. Tobe area is 539.10 ha per Agro section 5 heading.\nPalm census (Agro Table 3, previous vs current SPH): 08A 116 to 126 (+8%), 10A 102 to 115 (+11%), 10B 104 to 117 (+11%), 16A 109 to 126 (+13%), 23A 56 to 102 (+45%, census in progress), 24A 89 to 124 (+28%), 25A 128 to 126; other fields unchanged (04A 135, 05A 119, 05B 133, 05C 131, 05D 141, 06A 124, 09A 111, 19A 139). Increases due to better access for counting and supplying in 23A. 23A at 102 SPH is below standard; vacant areas in 23A-05 need supplementary planting.\nAge profile (Agro): 55% (745.78 ha) aged 20-25 years versus ideal 24%; 39% (521.54 ha) 8-19 years prime age; 6% (79.97 ha) 0-3 years; none 4-7 years.\nReplanting (Agro Table 4, updated 10 June 2026): 2005 blocks 63 (27.4 ha, 129 SPH), 64 (27.2 ha, 149 SPH) and 65 (54.2 ha, 145 SPH), total 108.7 ha, felling May 2027 (FY27/28), palm age 22, IOI seed. Yields FY22/23 to FY25/26: block 63 20.53, 16.30, 14.00, 16.31; block 64 15.07, 13.48, 13.27, 17.02; block 65 8.41, 11.88, 10.92, 14.67 t/ha. Chosen because of steep land and improper terracing limiting access; Agro agrees.\n\nSTAFF (PA section 3, April 2026): Estate Manager Mark Mathew (E12, joined 14/9/2024); Assistant Managers Erikly Effyfian Meyrick (E9, Sg Kaindangan/Tobe, from 17/2/2025) and Alexander Gaya (E8, Main Division); 1 chief clerk, 4 field conductors, 2 clerks (new store clerk from 1/3/2026). Complement sufficient.\n\nLABOUR (PA Table 4, April 2026): 130 workers vs 133 required (7 local, 115 Indonesian, 8 Filipino; no contractors), 6 fewer than at last visit; 1 worker per 10 ha. Harvesters 80 vs 84 required (2 fewer than last visit), 1 per 16 ha, in 3 gangs (1 Sg Kaindangan, 2 Main). Sprayers 9 (req 10), manuring 11 (req 10), FFB loaders 2 (req 4), security 5 (req 4). PA 6.1.1: 29 maintenance workers at the visit including 9 new recruits not yet in the statement; labour for manuring rose from 19 to 29.\n\nCROP (PA Table 19, FY2025/26, May 2025 to April 2026): estate 22,111.368 t vs budget 26,990 t (-18%), 1,308.31 ha, 16.90 t/ha vs 20.63 budget (PA prints -14%; arithmetic -18%); last year same period 13,632.529 t, 826.72 ha, 16.49 t/ha (Main Division only). Main Division 16,526.865 t vs 16,831 (-2%), 848.10 ha, 19.49 t/ha vs 19.85. Kaindangan (Tobe) 5,584.503 t vs 10,159 budget (-45%), 460.21 ha, 12.13 t/ha vs 22.07.\nAgronomy Table 15 (Period 12, full year): FY24/25 vs FY25/26 t/ha: 04A 17.79 to 21.44; 05A 10.83 to 13.47; 05B 17.72 to 23.28; 05C 15.03 to 17.84; 05D 13.41 to 17.58; 06A 17.71 to 20.10; 08A 0 to 12.67; 09A 15.51 to 15.18; 10A 0 to 10.95; 10B 0 to 9.92; 16A 0 to 15.45; 19A 11.69 to 18.49; total 16.35 to 17.12 (+4% as printed). 04A, 05B, 06A near potential; 05A, 05C, 05D, 09A below expected level. Tobe fields acceptable for their recovery stage; their FY24/25 0 means not yet under the estate. Dashboard block yields use this table (FY2025/26, prevYtd = FY2024/25); May 2026 figures are in block notes.\nAgronomy Table 16 (Period 1 = May): FY25/26 vs FY26/27 t/ha: 04A 2.13 to 1.77; 05A 1.33 to 0.71; 05B 1.70 to 1.31; 05C 0.98 to 1.37; 05D 1.59 to 1.14; 06A 1.80 to 1.11; 08A 0.84 to 1.08; 09A 1.68 to 1.36; 10A 0.67 to 1.08; 10B 0.36 to 1.17; 16A 1.21 to 0.77; 19A 1.57 to 1.05; 23A 0 to 0.08; total 1.40 to 1.14 (printed -23%; arithmetic gives -19%). Causes given: FY25/26 manuring finished only in May 2026 and FY26/27 not started; long Tobe intervals; incomplete weeding; recovering palms; Mg deficiency in 19A.\n\nCOST OF PRODUCTION (PA Table 20, FY2025/26 12 months, RM per tonne FFB on 22,111 t actual and 26,990 t budget): general charges RM2,102,569 = RM95.09/t (budget RM2,125,546 = 78.75); upkeep and cultivation RM3,496,857 = 158.15 (budget 3,798,398 = 140.73); harvesting and collection RM2,710,651 = 122.59 (budget 2,849,381 = 105.57); total RM8,310,077 = RM375.83/t vs RM8,773,325 = RM325.05/t budget, 16% over, mainly because crop was 18% under budget. PA: cost reasonable.\n\nGENERAL CHARGES (PA Table 5 and Appendix 1, on 1,374.51 ha actual / 1,414.10 budget): total RM2,237,941 = RM1,628/ha vs RM2,280,993 = RM1,613/ha (+1%). Staff salary and related RM689,353 (RM502/ha vs 539); labour overhead RM576,000 (419 vs 455); office related RM850,757 (619 vs 564, +10%); office and premises upkeep RM121,831 (89 vs 55, +62%). Overspends over 10%: staff accommodation +RM1,833 (46%); lines electricity and water +RM1,867 (75%, unbudgeted backhoe); non-capitalised fixed asset +RM13,186 (950%); cess/rate/rent +RM5,739 (11%, quit rent); computer maintenance +RM2,528 (21%, Lyntramax fees); entertainment/foods +RM6,925 (98%, MLP charges for GIS and IAD visits, NBES); security +RM16,134 (15%, extra Tobe watchman and gate); transport and travelling +RM40,250 (52%, staff trip to Malacca annual dinner); other building maintenance +RM48,006 (148%, Tobe carpenter and workshop, fertiliser store repair, diesel tank calibration). Largest lines: water/electricity RM362,065, staff salary RM457,434, labour paid leave RM176,863, labour recruitment RM135,012 (budget 251,322), security RM125,346, transport RM116,986, labour welfare RM115,235, staff bonus RM106,743. Depreciation RM959,870 and amortisation RM420,417 excluded (total with them RM3,618,228). Cost per staff RM76,595; cost per labour RM4,431 for 130 workers (budget 156).\n\nUPKEEP AND CULTIVATION (PA Table 6, RM/ha actual vs budget): supervision 30 vs 35; weeding 268 vs 231 (RM339,839); manuring 1,148 vs 1,588 (RM1,455,052, low because programme behind); composting 43 vs 0; pests and diseases 45 vs 35; census and thinning 3 vs 9; drains 76 vs 20 (+280%); roads and bridges 873 vs 759 (+15%, RM1,106,070); soil/water conservation 13 vs 53; boundaries 1 vs 1; pruning 255 vs 149 (+71%, corrective pruning in Sg Kaindangan); tools 5 vs 4; total RM2,759/ha vs RM2,883 (RM158/t vs 141).\n\nWEEDING (PA): circle and path spraying 2,841.10 of 4,110.24 ha programme = 69%, 2.1 of 3.0 rounds; interrow selective 2,586.68 ha = 63%, 1.9 rounds, delayed by manuring after heavy rain in Jan-Mar 2026. Circle RM18/ha, 4.5 ha/man-day, RM81/day; interrow RM24/ha, 3.0 ha/man-day, RM72/day (target 4.5 ha); minimum wage RM65.38. Rates rose from RM15 and RM21/ha. Herbicides: Glyphosate for circles; Trichlopyr (Kenlon) and Metsulfuron (Ally 20DF) by mist blower for interrow. Weeds still dominant: Clidemia hirta, Eupatorium, Hedyotis, Melastoma, Asystasia, VOP, Stenochlaena, Bracken, sedges; Lalang, Pennisetum, Giant Paspalum, bamboo grass reduced. Jungle trees poisoned with Trichlopyr successfully.\nAgronomy: Main Division only two of three rounds done for both interrow and circle (05A and 09A had three interrow rounds); third round in Mar-Apr 2026 dropped to support manuring. Tobe: one interrow round, about two circle rounds (Table 12: 08A 33%/55%, 10A 33%/92%, 10B 31%/56%, 16A 52%/84%). 19A: circle 3 rounds; interrow 3 rounds in A1 only. FY26/27 weeding not yet started in Main Division. VOP control round planned for FY26/27. Soft grasses and Nephrolepis in blocks 48, 49, 55, 56, 58.\n\nMANURING (PA Table 10, FY2025/26 to April 2026): programme 1,441.17 t, applied 1,097.72 t (76%); first half 873.29 of 902.64 t (97%), second half 224.43 of 538.53 t (42%). Delayed by heavy rain Jan-Mar 2026 and manpower; expected complete May 2026. Mix A 1.5-2.0 kg/palm, RM20/ha, 2.59 ha/man-day, RM51.80/day (low). Buckets used on steep land; PA suggests wheelbarrows, small vehicles and mechanisation; no manuring in Nov-Dec.\nAgronomy Table 5: FY2025/26 completed May 2026 (Mix A 524.05 t, Mix B 217.25, Mix C 490.40, RP 231.90, CPD 5.15 programme). Delays: late delivery in second half, weather on hills, Tobe access. FY26/27 (Table 6) first-half programme Mix A 448.9 t, Mix B 414.36, NK1 199.32, AS 30.17, BRP 80.49, CPD 26.9, Aruma 0.13; only Mix A 231.4 t delivered; application to start June 2026. Store satisfactory.\nFY26/27 recommendations (Agro Appendix 1, kg/palm): 2004A-2005D Mix A 2.0-2.2 (Jun), NK1 2.0 (Sep), Mix A 2.0-2.2 (Dec), Mix A 2.0 (Mar), BRP 0.75 in some blocks (Jul); 2006A Mix A/NK1 2.0 alternating May, Aug, Nov, Feb; 2019A and 2016 Mix B 2.2 four times plus AS 1.0 and BRP 1.0; 2008-2010 Tobe Mix B 2.0-2.2 four times plus BRP 0.75-1.0; 23A CPD 1.5 thrice, BRP 1.0, Mix B 1.5; 24A and 25A CPD 0.8-1.5 with BRP. Grades: Mix A 9.45:0:24:4; NK1 10.5:0:30; Mix B 9.45:0:24:3.7:0.48; RP 30%; CPD 14:13:9:2.5; Mix C 9.45:0:27:2.7. Agro: no revision needed for FY26/27; to be reviewed at second visit.\n\nPESTS AND DISEASES (PA): rat baiting one round on 1,308.31 ha with STORM (2 baits/palm Main, 1 in Sg Kaindangan), programme complete; STORM dearer than budgeted Ebor so cost RM45/ha vs 35. No bagworm treatment; some signs seen. No Oryctes treatment, no serious damage. Odd Ganoderma palm in 2004/2005 fields; no census. Rat census every 3 months; bait above 10%. Agro: localised rat damage in Tobe and 19A, formal census recommended; RB-damaged palms in 24A/25A not fully recovered.\n\nPRUNING (PA Table 13): 749,037 palms vs 650,264 programme (115%, 4.6 rounds), excess from corrective pruning in Sg Kaindangan, now complete. Fronds to be stacked in patches within 4 palms. Agro (Table 8, to May 2026): Main Division 87-99%; Tobe (Table 11) 08A 69%, 10A 70%, 10B 93%, 16A 71%, short of harvesters; frond snapping on steep hills; FY26/27 cycle started.\n\nROADS AND DRAINS (PA): grading 873 of 5,927 chains (15%) at RM1.45/m (RM29.18/chain), to finish by June 2026; gravelling 385 chains (92%); 12,416 t crusher run/red stone at RM52.69/t; backhoe 1,001 hours at RM48/hr, excavator 1,962 hours at RM80/hr. Roads RM873/ha vs 759. Drain desilting 4x3x2 ft 3,478 m, 6x4x3 ft 1,608 m, plus 320 m and 590 m in larger sizes; drains RM76/ha vs 20. EFB in Sg Kaindangan (soil conservation RM13/ha); palm base mounding in 2019A1. Boundaries RM1/ha; no FFB theft but security must tighten.\n\nHARVESTING (PA): manual cut and carry with wheelbarrows; mini crawler damaged; farm tractor with grabber loads to bins; external transport outsourced at RM24, 26 and 27/t; internal transport by estate tractors, outsourcing pending contractor consent. Feb 2026 intervals mostly 10-16 days, blocks 48-49 16-21 days; blocks 64, 67, 68, 90 only 1 round. Harvester rates RM41-61/t, output 0.44-4.09 t/man-day. Harvest and collection (Table 18) RM122.59/t vs 105.57: supervision 5.38, harvesting 65.43, loose fruit 0.05, infield loading 7.77 (unbudgeted), ramp 0.25, internal transport 20.34 vs 15.00, tools 1.56, despatch/selling 21.81 vs 20.63; excluding external transport RM100.78 vs 84.95.\nAgronomy: Main Division intervals within standard (19A 9-14 days all year; 08A over standard 21-24 days Apr 2026). Tobe intervals worsened from Dec 2025; Apr-May 2026 10B up to 31 days, most Tobe up to 20 days in May. Harvesting rounds May 2026: 04A, 06A, 09A, 19A 3; 05C 2.8; 05D 2.7; 10B 2.5; 05B 2.3; 05A 2; 08A and 10A 1.7 (85%); 16A 1 (50%). Crop quality good; some oxidised loose fruit at platforms.\n\nPALM CONDITION (Agro): no major deficiencies; blocks 52, 65, 68, 67, 54, 80 improving. Etiolation in ravines; no thinning where replanting within 5 years. Tobe palms thin-trunked after under two years of fertiliser; waterlogging in block 85 being drained. 19A A1/A2 suspected magnesium deficiency on sandy hardpan soil; EFB and drains started.\n\nVEHICLES (PA Table 21, to Feb 2026): farm tractors over budget by more than 40% (e.g. Kubota SAC3874E RM26.23/hr vs 13.43) due to repairs; damaged mini crawlers to be written off.\n\nRAINFALL (Agro): FY20/21 3,745 mm/190 days; FY21/22 3,763.5/190; FY22/23 3,432.5/188; FY23/24 2,864/179; FY24/25 4,137/203; FY25/26 4,122/203 (Main Division; Jan 2026 780 mm, Feb 870 mm); May 2026 168 mm/12 days.\n\nIMMATURE (PA): 2024A/2025A planted, supplying needed after floods and monkeys; 23A rehabilitation, terraces done; spray remaining Lalang and bamboo grass, then Garlon and Ally; add drains; GIS stand census. PA concluding: performance improving; focus on interrow weeds, worker productivity and mechanisation; consider package harvesting contract starting with Tobe."
+ "kb": "TANJUNG NIPIS ESTATE (TNE), Meridian Plantations Sdn Bhd, United Malacca Berhad (UMB) group. The estate has a Main Division and the Sg. Kaindangan Estate, also called the Tobe Division, which was acquired last year after long neglect and has been rehabilitated. Fact pack from PA Report 01/2026 (Planting Advisor En. Adnan Bin Mustafa; visit 27-28 April 2026; review period May 2025 to April 2026, 12 months, financial year FY2025/26 runs May to April) and Agronomy Advisory Report 1/2026 (Junior Agronomist Mr Alison Bin Janari and Senior Agronomist Mr Chong Kuan Ming; visit 25 May 2026; previous Agro visit 28 November 2025; manuring programme 2026). Senior (Regional) Manager Mr Phor Kok Beng. Estate Manager Mr Mark Mathew per PA (Agro: Mr Mark Anderson). PA says its previous visit was 21-22 October 2026 (typo). FFB goes to Paitan Palm Oil Mill.\n\nAREA (PA Table 1 and 2, April 2026, after a GIS census): estate title 1,492.34 ha. Planted 1,347.33 ha (90% of title): mature 1,267.32 ha (down 40.99 ha from 1,308.31), immature 80.01 ha, replanting 0. Roads 85.36, unplantable 28.08, ponds 1.88, swamps/forest 21.40, river/drain/buffer 1.45, buildings/others 6.84 (Table 2: 6.30 plus land dispute 0.54). Mature fields (ha, SPH): 2004A 162.96 (132), 2005A 35.63 (119), 2005B 158.28 (133), 2005C 115.54 (131), 2005D 202.38 (141), 2006A 70.99 (124), 2009A 21.38 (111), 2019A 80.94 (139), 2008A 59.33 (124), 2010A 136.10 (115), 2010B 73.12 (114), 2016A 150.67 (122). Immature: 2023A 63.46 ha (Sg Kaindangan blocks 23A4 34.02 and 23A5 29.44), 2024A 8.74 (119 SPH), 2025A 7.81 (81 SPH). The former field 2023A in the Main Division was split into 2024A6 (8.74 ha) and 2025A7 (7.81 ha).\nAgronomy Table 1: mature 1,296.76, immature 50.57, planted 1,347.33 (88% of gross 1,524.67 ha); field road 121.45, roads 16.78, swamps/forest 18.84, unplanted 12.37. Agro says mature increased after Block 23A04 was reclassified as mature. Agro blocking adjustments in Tobe fields P08A, P10A, P16A and P24A after GIS verification. Tobe area is 539.10 ha per Agro section 5 heading.\nPalm census (Agro Table 3, previous vs current SPH): 08A 116 to 126 (+8%), 10A 102 to 115 (+11%), 10B 104 to 117 (+11%), 16A 109 to 126 (+13%), 23A 56 to 102 (+45%, census in progress), 24A 89 to 124 (+28%), 25A 128 to 126; other fields unchanged (04A 135, 05A 119, 05B 133, 05C 131, 05D 141, 06A 124, 09A 111, 19A 139). Increases due to better access for counting and supplying in 23A. 23A at 102 SPH is below standard; vacant areas in 23A-05 need supplementary planting.\nAge profile (Agro): 55% (745.78 ha) aged 20-25 years versus ideal 24%; 39% (521.54 ha) 8-19 years prime age; 6% (79.97 ha) 0-3 years; none 4-7 years.\nReplanting (Agro Table 4, updated 10 June 2026): 2005 blocks 63 (27.4 ha, 129 SPH), 64 (27.2 ha, 149 SPH) and 65 (54.2 ha, 145 SPH), total 108.7 ha, felling May 2027 (FY27/28), palm age 22, IOI seed. Yields FY22/23 to FY25/26: block 63 20.53, 16.30, 14.00, 16.31; block 64 15.07, 13.48, 13.27, 17.02; block 65 8.41, 11.88, 10.92, 14.67 t/ha. Chosen because of steep land and improper terracing limiting access; Agro agrees.\n\nSTAFF (PA section 3, April 2026): Estate Manager Mark Mathew (E12, joined 14/9/2024); Assistant Managers Erikly Effyfian Meyrick (E9, Sg Kaindangan/Tobe, from 17/2/2025) and Alexander Gaya (E8, Main Division); 1 chief clerk, 4 field conductors, 2 clerks (new store clerk from 1/3/2026). Complement sufficient.\n\nLABOUR (PA Table 4, April 2026): 130 workers vs 133 required (7 local, 115 Indonesian, 8 Filipino; no contractors), 6 fewer than at last visit; 1 worker per 10 ha. Harvesters 80 vs 84 required (2 fewer than last visit), 1 per 16 ha, in 3 gangs (1 Sg Kaindangan, 2 Main). Sprayers 9 (req 10), manuring 11 (req 10), FFB loaders 2 (req 4), security 5 (req 4). PA 6.1.1: 29 maintenance workers at the visit including 9 new recruits not yet in the statement; labour for manuring rose from 19 to 29.\n\nCROP (PA Table 19, FY2025/26, May 2025 to April 2026): estate 22,111.368 t vs budget 26,990 t (-18%), 1,308.31 ha, 16.90 t/ha vs 20.63 budget (PA prints -14%; arithmetic -18%); last year same period 13,632.529 t, 826.72 ha, 16.49 t/ha (Main Division only). Main Division 16,526.865 t vs 16,831 (-2%), 848.10 ha, 19.49 t/ha vs 19.85. Kaindangan (Tobe) 5,584.503 t vs 10,159 budget (-45%), 460.21 ha, 12.13 t/ha vs 22.07.\nAgronomy Table 15 (Period 12, full year): FY24/25 vs FY25/26 t/ha: 04A 17.79 to 21.44; 05A 10.83 to 13.47; 05B 17.72 to 23.28; 05C 15.03 to 17.84; 05D 13.41 to 17.58; 06A 17.71 to 20.10; 08A 0 to 12.67; 09A 15.51 to 15.18; 10A 0 to 10.95; 10B 0 to 9.92; 16A 0 to 15.45; 19A 11.69 to 18.49; total 16.35 to 17.12 (+4% as printed). 04A, 05B, 06A near potential; 05A, 05C, 05D, 09A below expected level. Tobe fields acceptable for their recovery stage; their FY24/25 0 means not yet under the estate. Dashboard block yields use this table (FY2025/26, prevYtd = FY2024/25); May 2026 figures are in block notes.\nAgronomy Table 16 (Period 1 = May): FY25/26 vs FY26/27 t/ha: 04A 2.13 to 1.77; 05A 1.33 to 0.71; 05B 1.70 to 1.31; 05C 0.98 to 1.37; 05D 1.59 to 1.14; 06A 1.80 to 1.11; 08A 0.84 to 1.08; 09A 1.68 to 1.36; 10A 0.67 to 1.08; 10B 0.36 to 1.17; 16A 1.21 to 0.77; 19A 1.57 to 1.05; 23A 0 to 0.08; total 1.40 to 1.14 (printed -23%; arithmetic gives -19%). Causes given: FY25/26 manuring finished only in May 2026 and FY26/27 not started; long Tobe intervals; incomplete weeding; recovering palms; Mg deficiency in 19A.\n\nCOST OF PRODUCTION (PA Table 20, FY2025/26 12 months, RM per tonne FFB on 22,111 t actual and 26,990 t budget): general charges RM2,102,569 = RM95.09/t (budget RM2,125,546 = 78.75); upkeep and cultivation RM3,496,857 = 158.15 (budget 3,798,398 = 140.73); harvesting and collection RM2,710,651 = 122.59 (budget 2,849,381 = 105.57); total RM8,310,077 = RM375.83/t vs RM8,773,325 = RM325.05/t budget, 16% over, mainly because crop was 18% under budget. PA: cost reasonable.\n\nGENERAL CHARGES (PA Table 5 and Appendix 1, on 1,374.51 ha actual / 1,414.10 budget): total RM2,237,941 = RM1,628/ha vs RM2,280,993 = RM1,613/ha (+1%). Staff salary and related RM689,353 (RM502/ha vs 539); labour overhead RM576,000 (419 vs 455); office related RM850,757 (619 vs 564, +10%); office and premises upkeep RM121,831 (89 vs 55, +62%). Overspends over 10%: staff accommodation +RM1,833 (46%); lines electricity and water +RM1,867 (75%, unbudgeted backhoe); non-capitalised fixed asset +RM13,186 (950%); cess/rate/rent +RM5,739 (11%, quit rent); computer maintenance +RM2,528 (21%, Lyntramax fees); entertainment/foods +RM6,925 (98%, MLP charges for GIS and IAD visits, NBES); security +RM16,134 (15%, extra Tobe watchman and gate); transport and travelling +RM40,250 (52%, staff trip to Malacca annual dinner); other building maintenance +RM48,006 (148%, Tobe carpenter and workshop, fertiliser store repair, diesel tank calibration). Largest lines: water/electricity RM362,065, staff salary RM457,434, labour paid leave RM176,863, labour recruitment RM135,012 (budget 251,322), security RM125,346, transport RM116,986, labour welfare RM115,235, staff bonus RM106,743. Depreciation RM959,870 and amortisation RM420,417 excluded (total with them RM3,618,228). Cost per staff RM76,595; cost per labour RM4,431 for 130 workers (budget 156).\n\nUPKEEP AND CULTIVATION (PA Table 6, RM/ha actual vs budget): supervision 30 vs 35; weeding 268 vs 231 (RM339,839); manuring 1,148 vs 1,588 (RM1,455,052, low because programme behind); composting 43 vs 0; pests and diseases 45 vs 35; census and thinning 3 vs 9; drains 76 vs 20 (+280%); roads and bridges 873 vs 759 (+15%, RM1,106,070); soil/water conservation 13 vs 53; boundaries 1 vs 1; pruning 255 vs 149 (+71%, corrective pruning in Sg Kaindangan); tools 5 vs 4; total RM2,759/ha vs RM2,883 (RM158/t vs 141).\n\nWEEDING (PA): circle and path spraying 2,841.10 of 4,110.24 ha programme = 69%, 2.1 of 3.0 rounds; interrow selective 2,586.68 ha = 63%, 1.9 rounds, delayed by manuring after heavy rain in Jan-Mar 2026. Circle RM18/ha, 4.5 ha/man-day, RM81/day; interrow RM24/ha, 3.0 ha/man-day, RM72/day (target 4.5 ha); minimum wage RM65.38. Rates rose from RM15 and RM21/ha. Herbicides: Glyphosate for circles; Trichlopyr (Kenlon) and Metsulfuron (Ally 20DF) by mist blower for interrow. Weeds still dominant: Clidemia hirta, Eupatorium, Hedyotis, Melastoma, Asystasia, VOP, Stenochlaena, Bracken, sedges; Lalang, Pennisetum, Giant Paspalum, bamboo grass reduced. Jungle trees poisoned with Trichlopyr successfully.\nAgronomy: Main Division only two of three rounds done for both interrow and circle (05A and 09A had three interrow rounds); third round in Mar-Apr 2026 dropped to support manuring. Tobe: one interrow round, about two circle rounds (Table 12: 08A 33%/55%, 10A 33%/92%, 10B 31%/56%, 16A 52%/84%). 19A: circle 3 rounds; interrow 3 rounds in A1 only. FY26/27 weeding not yet started in Main Division. VOP control round planned for FY26/27. Soft grasses and Nephrolepis in blocks 48, 49, 55, 56, 58.\n\nMANURING (PA Table 10, FY2025/26 to April 2026): programme 1,441.17 t, applied 1,097.72 t (76%); first half 873.29 of 902.64 t (97%), second half 224.43 of 538.53 t (42%). Delayed by heavy rain Jan-Mar 2026 and manpower; expected complete May 2026. Mix A 1.5-2.0 kg/palm, RM20/ha, 2.59 ha/man-day, RM51.80/day (low). Buckets used on steep land; PA suggests wheelbarrows, small vehicles and mechanisation; no manuring in Nov-Dec.\nAgronomy Table 5: FY2025/26 completed May 2026 (Mix A 524.05 t, Mix B 217.25, Mix C 490.40, RP 231.90, CPD 5.15 programme). Delays: late delivery in second half, weather on hills, Tobe access. FY26/27 (Table 6) first-half programme Mix A 448.9 t, Mix B 414.36, NK1 199.32, AS 30.17, BRP 80.49, CPD 26.9, Aruma 0.13; only Mix A 231.4 t delivered; application to start June 2026. Store satisfactory.\nFY26/27 recommendations (Agro Appendix 1, kg/palm): 2004A-2005D Mix A 2.0-2.2 (Jun), NK1 2.0 (Sep), Mix A 2.0-2.2 (Dec), Mix A 2.0 (Mar), BRP 0.75 in some blocks (Jul); 2006A Mix A/NK1 2.0 alternating May, Aug, Nov, Feb; 2019A and 2016 Mix B 2.2 four times plus AS 1.0 and BRP 1.0; 2008-2010 Tobe Mix B 2.0-2.2 four times plus BRP 0.75-1.0; 23A CPD 1.5 thrice, BRP 1.0, Mix B 1.5; 24A and 25A CPD 0.8-1.5 with BRP. Grades: Mix A 9.45:0:24:4; NK1 10.5:0:30; Mix B 9.45:0:24:3.7:0.48; RP 30%; CPD 14:13:9:2.5; Mix C 9.45:0:27:2.7. Agro: no revision needed for FY26/27; to be reviewed at second visit.\n\nPESTS AND DISEASES (PA): rat baiting one round on 1,308.31 ha with STORM (2 baits/palm Main, 1 in Sg Kaindangan), programme complete; STORM dearer than budgeted Ebor so cost RM45/ha vs 35. No bagworm treatment; some signs seen. No Oryctes treatment, no serious damage. Odd Ganoderma palm in 2004/2005 fields; no census. Rat census every 3 months; bait above 10%. Agro: localised rat damage in Tobe and 19A, formal census recommended; RB-damaged palms in 24A/25A not fully recovered.\n\nPRUNING (PA Table 13): 749,037 palms vs 650,264 programme (115%, 4.6 rounds), excess from corrective pruning in Sg Kaindangan, now complete. Fronds to be stacked in patches within 4 palms. Agro (Table 8, to May 2026): Main Division 87-99%; Tobe (Table 11) 08A 69%, 10A 70%, 10B 93%, 16A 71%, short of harvesters; frond snapping on steep hills; FY26/27 cycle started.\n\nROADS AND DRAINS (PA): grading 873 of 5,927 chains (15%) at RM1.45/m (RM29.18/chain), to finish by June 2026; gravelling 385 chains (92%); 12,416 t crusher run/red stone at RM52.69/t; backhoe 1,001 hours at RM48/hr, excavator 1,962 hours at RM80/hr. Roads RM873/ha vs 759. Drain desilting 4x3x2 ft 3,478 m, 6x4x3 ft 1,608 m, plus 320 m and 590 m in larger sizes; drains RM76/ha vs 20. EFB in Sg Kaindangan (soil conservation RM13/ha); palm base mounding in 2019A1. Boundaries RM1/ha; no FFB theft but security must tighten.\n\nHARVESTING (PA): manual cut and carry with wheelbarrows; mini crawler damaged; farm tractor with grabber loads to bins; external transport outsourced at RM24, 26 and 27/t; internal transport by estate tractors, outsourcing pending contractor consent. Feb 2026 intervals mostly 10-16 days, blocks 48-49 16-21 days; blocks 64, 67, 68, 90 only 1 round. Harvester rates RM41-61/t, output 0.44-4.09 t/man-day. Harvest and collection (Table 18) RM122.59/t vs 105.57: supervision 5.38, harvesting 65.43, loose fruit 0.05, infield loading 7.77 (unbudgeted), ramp 0.25, internal transport 20.34 vs 15.00, tools 1.56, despatch/selling 21.81 vs 20.63; excluding external transport RM100.78 vs 84.95.\nAgronomy: Main Division intervals within standard (19A 9-14 days all year; 08A over standard 21-24 days Apr 2026). Tobe intervals worsened from Dec 2025; Apr-May 2026 10B up to 31 days, most Tobe up to 20 days in May. Harvesting rounds May 2026: 04A, 06A, 09A, 19A 3; 05C 2.8; 05D 2.7; 10B 2.5; 05B 2.3; 05A 2; 08A and 10A 1.7 (85%); 16A 1 (50%). Crop quality good; some oxidised loose fruit at platforms.\n\nPALM CONDITION (Agro): no major deficiencies; blocks 52, 65, 68, 67, 54, 80 improving. Etiolation in ravines; no thinning where replanting within 5 years. Tobe palms thin-trunked after under two years of fertiliser; waterlogging in block 85 being drained. 19A A1/A2 suspected magnesium deficiency on sandy hardpan soil; EFB and drains started.\n\nVEHICLES (PA Table 21, to Feb 2026): farm tractors over budget by more than 40% (e.g. Kubota SAC3874E RM26.23/hr vs 13.43) due to repairs; damaged mini crawlers to be written off.\n\nRAINFALL (Agro): FY20/21 3,745 mm/190 days; FY21/22 3,763.5/190; FY22/23 3,432.5/188; FY23/24 2,864/179; FY24/25 4,137/203; FY25/26 4,122/203 (Main Division; Jan 2026 780 mm, Feb 870 mm); May 2026 168 mm/12 days.\n\nIMMATURE (PA): 2024A/2025A planted, supplying needed after floods and monkeys; 23A rehabilitation, terraces done; spray remaining Lalang and bamboo grass, then Garlon and Ally; add drains; GIS stand census. PA concluding: performance improving; focus on interrow weeds, worker productivity and mechanisation; consider package harvesting contract starting with Tobe.",
+ "ffbProd": {
+  "years": [
+   {
+    "year": 2025,
+    "label": "FY2024/25",
+    "t": 13632.529,
+    "src": "PA Report 01/2026 Table 19, last-year actual 12 months — Main Division only (826.72 ha); Sg Kaindangan (Tobe) not included"
+   },
+   {
+    "year": 2026,
+    "label": "FY2025/26",
+    "t": 22111.368,
+    "src": "PA Report 01/2026 Table 19 / 8.1 (May 2025–Apr 2026, 12 months; Main Division 16,526.865 t + Sg Kaindangan/Tobe 5,584.503 t)"
+   }
+  ],
+  "monthly": {},
+  "monthlySrc": "No monthly tonnage printed in PA 01/2026 or Agro 1/2026.",
+  "combinedWith": null,
+  "notes": "FY2024/25 and FY2025/26 are NOT like-for-like: the FY2024/25 'last year' figure in the 'Tanjung Nipis Total Estate' row is the Main Division only (826.72 ha); Sg Kaindangan (Tobe, 460.21 ha) was acquired during FY2024/25 and Agro Table 15 shows its fields (08A, 10A, 10B, 16A) at 0 t/ha that year. Like-for-like Main Division: 13,632.529 t (FY2024/25) vs 16,526.865 t (FY2025/26, 848.10 ha). FY2025/26 split: Main Division 16,526.865 t (budget 16,831), Sg Kaindangan 5,584.503 t (budget 10,159). No FY2026/27 tonnage printed: Agro Table 16 gives May 2026 (Period 1) as t/ha only (1.14 vs 1.40). Agro reports no tonnage."
+ }
 }

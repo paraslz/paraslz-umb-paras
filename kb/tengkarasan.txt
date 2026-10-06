@@ -1,5 +1,5 @@
 PARAS ESTATE REPORT PACK — Tengkarasan Estate
-Company: Meridian Plantations Sdn Bhd · Group: UMB
+Company: Meridian Plantations Sdn Bhd · Group: United Malacca
 Latest reports: Planting Advisory Report 1/2026 (visit 2026-04-29); Agronomy Report 2-2026 (visit 2026-06-30)
 Dashboard: https://umb-paras.netlify.app/estate.html?e=tengkarasan
 Full reports (Google Drive): https://drive.google.com/drive/folders/143hS_TLcOte_Hcyek69WV2obT4PyBhL0
@@ -97,3 +97,6 @@ General charges: 124.00 / 161.00
   - Depreciation & amortisation: 53.78 / 67.82 *
   - Other (24 items): 6.31 / 9.10 *
 Total operating cost: 331.00 / 384.00
+
+FFB PRODUCTION (tonnes, whole estate, as printed in the reports)
+FY2025/26 May–Mar: 47,002.46 t (Planting Advisory Report 1/2026 Section 8 (May 2025–Mar 2026, 11 months; budget to date 41,881.00 t))

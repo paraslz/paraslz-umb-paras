@@ -1,5 +1,5 @@
 PARAS ESTATE REPORT PACK — Leong Hin San Estate
-Company: Leong Hin San Sdn Bhd · Group: UMB
+Company: Leong Hin San Sdn Bhd · Group: United Malacca
 Latest reports: PA Report 1/2026 (visit 2026-06-18); Agronomy Report 1/2026 (visit 2026-06-23)
 Dashboard: https://umb-paras.netlify.app/estate.html?e=leong-hin-san
 Full reports (Google Drive): https://drive.google.com/drive/folders/1Jb1MxB5cytULa43kdH7xLukwNaWjr5lg
@@ -98,3 +98,9 @@ General charges: 60.30 / 56.88
   - Transport & travelling: 1.99 / 1.19 *
   - Other (28 items): 11.79 / 12.84 *
 Total operating cost: 263.90 / 258.17
+
+FFB PRODUCTION (tonnes, whole estate, as printed in the reports)
+FY2022/23 (May–Apr): 22,297.83 t (Agronomy Report 1/2026 Appendix 2 (Yield Statistic, printed total))
+FY2023/24 (May–Apr): 23,223.11 t (Agronomy Report 1/2026 Appendix 2 (Yield Statistic, printed total))
+FY2024/25 (May–Apr): 24,430.42 t (PA Report 1/2026 Table 23, last-year FY24/25 actual 12 months (= Agronomy Report 1/2026 Appendix 2))
+FY2025/26 (May–Apr): 21,483.41 t (PA Report 1/2026 Table 23, actual to date FY25/26 (12 months) (= Agronomy Report 1/2026 Appendix 2))
