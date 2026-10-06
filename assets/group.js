@@ -49,14 +49,14 @@ function production(){
  if(cur)N.push(`${YLAB(CUR)} is summed to ${MON[cur.m-1]}, the latest month that the most estates' reports can be matched to (${MON[0]}–${MON[cur.m-1]} for every estate included). Not included: ${[...new Set(cur.miss.map(x=>x.why))].map(w=>`${list(cur.miss.filter(x=>x.why===w).map(x=>x.n))} (${w})`).join("; ")}.`);
  if(last&&last.miss.length)N.push(`${YT(last.y)} leaves out ${list(last.miss)}, which have no full-year ${YT(last.y)} tonnage in their reports.`);if(FS>1)N.push(`Years are financial years (${MON[0]}–${MON[11]}).`);
  const chg=yr.filter((r,i)=>i&&r.miss.join()!==yr[i-1].miss.join()).length;if(chg)N.push("The estates included differ slightly from year to year; see the figures by estate.");
- $("ffbN").textContent=N.join(" ");
+ if(cur&&E.some(e=>e.ffb&&e.ffb.cum26[cur.m]==null&&Object.keys(e.ffb.cum26).length))N.push(`In the table, part-year tonnages (e.g. "${MON[0]}–${MON[10]} only") are shown as printed but are not in the ${cur.label} total.`);$("ffbN").textContent=N.join(" ");
  // table
  const cols=Y.concat(cur?["2026"]:[]);
  $("ffbH").innerHTML=`<tr><th>Estate</th>${Y.map(y=>`<th>${YT(y)}</th>`).join("")}${cur?`<th>${esc(cur.label)}</th>`:""}</tr>`;
  const cell=v=>v==null?`<td class="x">–</td>`:`<td>${fmt(v)}</td>`;
  const rows=[...E].sort((a,b)=>nm(a).localeCompare(nm(b))).map(e=>{const f=e.ffb||{years:{},cum26:{}};
   const host=F.find(x=>x.ffb.with===e.slug);
-  const c26=!cur?"":f.cum26[cur.m]!=null?`<td>${fmt(f.cum26[cur.m])}${f.with?` <small>(incl. ${esc(name(f.with))})</small>`:""}</td>`:host&&host.ffb.cum26[cur.m]!=null?`<td class="x">in ${esc(name(host.slug))}</td>`:`<td class="x">–</td>`;
+  const c26=!cur?"":f.cum26[cur.m]!=null?`<td>${fmt(f.cum26[cur.m])}${f.with?` <small>(incl. ${esc(name(f.with))})</small>`:""}</td>`:host&&host.ffb.cum26[cur.m]!=null?`<td class="x">in ${esc(name(host.slug))}</td>`:(()=>{const k=Object.keys(f.cum26).map(Number).filter(m=>m<cur.m);if(!k.length)return `<td class="x">–</td>`;const m=Math.max(...k);return `<td class="x">${fmt(f.cum26[m])} <small>(${MON[0]}–${MON[m-1]} only)</small></td>`})();
   return `<tr><td><a href="${esc(e.href)}">${esc(nm(e))}</a></td>${Y.map(y=>f.years[y]!=null&&f.with?`<td>${fmt(f.years[y])} <small>(incl. ${esc(name(f.with))})</small></td>`:cell(f.years[y])).join("")}${c26}</tr>`});
  $("ffbB").innerHTML=rows.join("")+`<tr class="tot"><td>Total</td>${yr.map(r=>`<td>${fmt(r.t)}</td>`).join("")}${cur?`<td>${fmt(cur.t)}</td>`:""}</tr>`;
 }
