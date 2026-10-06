@@ -23,7 +23,9 @@ const prevP=p=>{const c=clean(p).replace(/ only$/,"");return /\d{4}/.test(c)?c.r
 function YTD(){const k=D.kpi||{};let c=D.ytdCurrent;
  if(!c&&k.yph!=null){const p=bare(k.ffbPeriod),m=p.match(/(\d{4})$/);if(m&&!/^Jan.Dec/.test(p))c={year:+m[1],period:p,yph:k.yph,prevSame:k.yphPrevSame,src:(D.reports&&D.reports.pa&&D.reports.pa.title)||"latest PA report"}}
  if(!c)return null;const yh=(D.yieldHistory||[]).filter(y=>y.yph!=null);if(yh.some(y=>+y.year===+c.year))return null;
- return {...c,months:bare(c.period).replace(/\s*\d{4}$/,"")}}
+ return {...c,months:bare(c.period).replace(/\s*\d{4}$/,""),lab:c.label||String(c.year),prevLab:c.label?prevFY(c.label):String(c.year-1)}}
+const shFY=(l,d)=>String(l).replace(/(\d{2,4})\/(\d{2,4})/,(m,a,b)=>`${String(+a+d).padStart(a.length,"0")}/${String(+b+d).padStart(b.length,"0")}`);const prevFY=l=>shFY(l,-1);
+const YL=y=>y.label?String(y.label).replace(/\s*\(.*\)\s*$/,""):String(y.year);
 const DEF={
  overview(t){const out=[];const k=D.kpi||{};
   const bl=(D.blocks||[]).filter(b=>b.ytd!=null).slice(0,14);
@@ -32,11 +34,11 @@ const DEF={
   const cp=(D.costParts||[]).filter(c=>c.actual!=null);
   if(cp.length)out.push(new Chart($("ch2"),{type:"bar",data:{labels:cp.map(c=>c.name),datasets:[{label:"Actual",data:cp.map(c=>c.actual),backgroundColor:t.accent},{label:"Budget",data:cp.map(c=>c.budget),backgroundColor:t.line}]},options:{scales:{x:t.ax,y:{...t.ax,min:0,title:{display:true,text:"RM per t"}}}}}));
   {const yh=(D.yieldHistory||[]).filter(y=>y.yph!=null),c=YTD();
-   const yrs=yh.map(y=>String(y.year));if(c)yrs.push(`${c.year} (${c.months})`);
+   const yrs=yh.map(YL);if(c)yrs.push(`${c.lab} (${c.months})`);
    const n=yrs.length,at=v=>{const a=Array(n).fill(null);a[n-1]=v;return a};
    const ds=[{label:"Full year",data:yh.map(y=>y.yph).concat(c?[null]:[]),borderColor:t.accent,backgroundColor:t.accent+"22",fill:true,tension:.25,pointRadius:4,pointBackgroundColor:t.accent}];
-   if(c){ds.push({label:`${c.year}, ${c.months} only`,data:at(c.yph),borderColor:t.fruit,backgroundColor:css("--panel"),borderWidth:2.5,showLine:false,pointRadius:7,pointHoverRadius:8});
-    if(c.prevSame!=null)ds.push({label:`${c.year-1}, same months`,data:at(c.prevSame),borderColor:t.muted,backgroundColor:t.muted,borderWidth:3,showLine:false,pointStyle:"line",pointRadius:12,pointHoverRadius:12})}
+   if(c){ds.push({label:`${c.lab}, ${c.months} only`,data:at(c.yph),borderColor:t.fruit,backgroundColor:css("--panel"),borderWidth:2.5,showLine:false,pointRadius:7,pointHoverRadius:8});
+    if(c.prevSame!=null)ds.push({label:`${c.prevLab}, same months`,data:at(c.prevSame),borderColor:t.muted,backgroundColor:t.muted,borderWidth:3,showLine:false,pointStyle:"line",pointRadius:12,pointHoverRadius:12})}
    if(yh.length+(c?1:0)>1)out.push(new Chart($("ch4"),{type:"line",data:{labels:yrs,datasets:ds},options:{plugins:{legend:{display:!!c}},scales:{x:t.ax,y:{...t.ax,min:0,title:{display:true,text:"t/ha"}}}}}))}
   return out},
  money(t){return[]},
@@ -78,8 +80,9 @@ function render(){
  {const yh=(D.yieldHistory||[]).filter(y=>y.yph!=null),c=YTD();
   if(yh.length+(c?1:0)<2)$("cB4").hidden=true;
   const last=yh.length?yh[yh.length-1].year:null;
-  $("ch4n").textContent=c?`The ${c.year} figure covers ${c.months} only, from ${c.src}, so it is not comparable with full years.${c.prevSame!=null?` Same months ${c.year-1}: ${fmt(c.prevSame,2)} t/ha (${pct(c.yph,c.prevSame)>0?"+":""}${pct(c.yph,c.prevSame).toFixed(0)}%).`:""}`
-   :(last?`No ${last+1} crop figure in the latest reports yet.`:"")}
+  const fyN=yh.some(y=>y.label&&/FY/.test(y.label))?" Years are financial years (May–Apr).":"";
+  $("ch4n").textContent=c?`The ${c.lab} figure covers ${c.period} only, from ${c.src}, so it is not comparable with full years.${c.prevSame!=null?` Same months a year earlier: ${fmt(c.prevSame,2)} t/ha (${pct(c.yph,c.prevSame)>0?"+":""}${pct(c.yph,c.prevSame).toFixed(0)}%).`:""}${fyN}`
+   :(last?`No ${yh[yh.length-1].label?shFY(YL(yh[yh.length-1]),1):last+1} crop figure in the latest reports yet.${fyN}`:"")}
 
  // blocks
  const B=D.blocks||[];

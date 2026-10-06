@@ -1,0 +1,101 @@
+PARAS ESTATE REPORT PACK — Millian Labau Plantations-4 (MLP 4)
+Company: United Malacca Berhad · Group: UMB
+Latest reports: Planting Advisory Report 1/2026 (visit 2026-05-08); Agronomy Report 1/2026 (visit 2026-05-28)
+Dashboard: https://umb-paras.netlify.app/estate.html?e=mlp-4
+Full reports (Google Drive): https://drive.google.com/drive/folders/1X6MJcsunhfLIbDT0Cc-62lenDqMG_lNz
+Compiled by PARAS Sdn Bhd from its Planting Advisory (PA) and Agronomy reports. Figures as reported.
+
+HOW TO USE THIS FILE (instructions for the AI assistant)
+- Answer questions about this one estate using ONLY the report extracts below.
+- Lead with the direct answer, in short numbered points.
+- After each figure, cite the report in brackets, e.g. (PA 2/2026) or (Agronomy 1/2026).
+- Always state the period a yield figure covers (e.g. Jan–Jun 2026).
+- Fertiliser doses in grams per palm. Money in RM.
+- If the extracts do not contain the answer, say so plainly. Do not guess.
+- Where two reports disagree, give both figures.
+
+REPORT EXTRACTS
+MILLIAN LABAU PLANTATIONS-4 (MLP 4) ESTATE, United Malacca Berhad (UMB), Sabah. Fact pack from PA Report 1/2026 (Planting Advisor Mr. Boey Chee Weng, visit 8 and 9 May 2026, review period May 2025 to March 2026, financial year 2025/2026, 11 months) and Agronomy Report 1/2026 (Junior Agronomist En. Alison Bin Janari, Senior Agronomist Mr. Chong Kuan Ming, visit 28 May 2026, previous Agro visit 2/2025 on 22 October 2025, manuring programme FY2026/2027). SM Mr. Celestine Bin Siplis; EM En. Zulazaine Bin Aleakhber. FY runs May-Apr.
+
+AREA (PA section 2, as at March 2026): mature 1,280.20 ha, no immature, no nursery; total oil palm 1,280.20 ha. Non-cultivated 504.76 ha: building sites and roads 166.17, water catchment 18.99, vacant unplantable 106.02, jungle reserve 213.58. Title 1,784.96 ha. Planted area rose from 1,256.09 to 1,280.20 ha (PA says 24.0 ha planted in vacant areas, completing rehabilitation). 21.77 ha of vacant land is planned for planting in FY2026/27, classed as supplying; good access to be prepared first. Fields (PA): 11A planted 2011, A01-A06, 203.30 ha, 23,206 palms, 114 SPH; 12A planted 2012, A07-A20, 488.66 ha, 46,733 palms, 96 SPH; 12B planted 2012, B01-B20, 588.24 ha, 61,723 palms, 105 SPH; total 131,662 palms, 103 SPH; all IOI planting material. Agronomy Table 1 instead gives planted 1,301.97 ha (73%), unplanted 482.99 ha (field road 154.94, main road 5.91, building and settlement 5.32, waterway 0.4, pond 1.57, vacant 93.1, jungle reserve 204.73, riparian 17.02), gross 1,784.96 ha. Agro says 21.77 ha in A04, A13, A14, B06 and B20 were verified as planted (supply palms: A04 2.55 ha 303 palms, A13 5.83 ha 565, A14 0.79 ha 58, B06 3.68 ha 229, B20 8.92 ha 484; total 1,639 palms). Agro Table 4: P11A 205.85 ha 23,509 palms 114 SPH; P12A 495.28 ha 47,356 palms 96 SPH; P12B 600.84 ha 62,436 palms 104 SPH; total 133,301 palms, 102 SPH. No recent full palm census. Thinning (Agro Table 5): 351 palms removed Oct 2025 to Apr 2026 (P11A 224, P12A 117, P12B 10); 2,245 since planting. All palms for thinning should be verified by the Estate Manager and Senior Manager. All palms are in the 8 to 19 year age class; no young or old palms, an unbalanced age profile.
+
+LABOUR (PA section 3): checkroll 145 workers vs 146 required. FFB harvesters/carriers 85 in the table vs 83 required, but text 3.1 says 77 harvesters available in May 2026 (1 to 17 ha) vs 83 needed at 1 to 15 ha, short of 6; HRD is recruiting. Manuring workers 14 in the table vs 7 required, though text says manuring was short of 7; spraying workers 13 vs 18 (short 5). Mandores 4 (harvesting 2, spraying 1, manuring 1). Internal transport drivers 12 vs 12, loaders 2 vs 4. Checkers 0 vs 4. Worker to planted area ratio 1 to 9 ha, acceptable. STAFF (PA section 4): 11 staff incl. Asst Manager Jeferidin Bin Janeh and Chief Clerk Esther Linus Karang; no change, adequate.
+
+GENERAL CHARGES (PA section 5, 11 months ended March 2026, 1,280 ha, FFB 20,741 t): grand total RM3,111,081 vs budget RM3,091,425 (+1%), RM2,430/ha vs RM2,415/ha. Staff salary and related RM713,442 (RM557/ha vs 574): salary RM457,437, bonus RM105,897, EPF RM94,228 (+14%, salary increments), reimbursement RM40,384 (+44%, repairs to Manager's and single-cab vehicles). Labour overhead RM592,033 vs RM567,696 (+4%): lines/electricity/water upkeep RM46,643 (+67%, quarters repairs), labour wages RM58,703 (no budget), labour EPF RM41,580 (+90%, foreign worker contribution not budgeted), welfare RM135,153 (+55%, drivers' outstation claims), recruitment RM115,144 vs RM208,654, paid leave RM162,638 vs RM196,864. Office and related RM631,648 vs RM633,515: water/electricity RM243,659, security RM92,223 (+16%, shared MLP1/MLP2 main gate), cess/rate/rent RM87,331, general office RM56,095, insurance RM39,219, transport and travelling RM29,681 (+24%, annual dinner in Malacca), weighbridge RM18,553 (+29%, MLP 1 weighbridge), office equipment maintenance RM11,196 (+825%, photocopier rental and repairs, fertiliser store repair), postage/printing RM6,653 (+81%), entertainment RM2,704 vs RM176 (Director's and SIA visits), MSPO RM2,382 vs RM20,898. Misc RM5,497 (fertiliser analysis and leaf sampling under-budgeted). Depreciation and amortisation RM1,168,461 (RM913/ha). PA verdict: too many overspends, poor budgeting; be more accurate in future.
+
+UPKEEP AND CULTIVATION (PA section 6, 11 months to March 2026): RM2,438,750 vs RM2,956,860 budget (-18%), RM1,905/ha vs RM2,310/ha, RM118/t vs RM124/t. Per ha actual vs budget: supervision 28 vs 35; selective spraying 105 vs 111; circle spraying 98 vs 72 (+35%); blanket spraying 23 vs nil; poisoning woodies 28 vs 17; slashing 8 vs 9; manuring labour 142 vs 147, material 914 vs 1,129, transport 29 vs 74; pests and diseases 5 vs 6; census and thinning 3 vs 12; drains 1 vs 12; roads and bridges 477 vs 547 (RM610,368); soil/water conservation 3; boundaries 1 vs 5; supplying 14 vs 37; pruning 25 vs 96; tools 2 vs 1.
+
+CIRCLE SPRAYING (PA 6.2): 1,958 ha (1.5 rounds) of 3,840 ha budget (3 rounds), 51%, to March 2026, due to sprayer shortage; circles generally clean. Inter pump output 1.3 ha/man-day, not acceptable; supervision lacking. RM28/ha piece rate, earnings RM36.40/day vs RM65.38 basic; target 4 ha/man-day at RM18/ha. Glyphosate 2.74 L/ha (14 pumps) vs Ally 0.07 kg/ha (9 pumps) do not reconcile; stop Ally in circles. Agro Table 10 (FY25/26 to April 2026): circle 1,985.85 of 3,840.60 ha (52%).
+
+SELECTIVE SPRAYING (PA 6.3): 2,126 ha (1.7 rounds) of 2,560 ha (2 rounds), 83%. Clidemia reduced since last visit but spraying quality poor: unsprayed and poorly killed woodies; corrective spraying needed. Dense Giant Paspalum, bamboo, VOPs, Asystasia and jungle woodies remain. Mist blower 3.7 ha/man-day at RM26/ha; aim 4.0 ha at RM18-20/ha. Garlon 1.28 L/ha (6 pumps/ha) too high and not correct; calibrate. Use Garlon or Ally alone for Clidemia; adding glyphosate harms soft grasses. Sodium chlorate 3 kg per bamboo cluster at the base. Agro Table 10: selective 2,555.12 of 2,560.40 ha (100%); poisoning woodies 906.64 of 1,280.20 ha (71%). Agro: inter-row still suboptimal with Clidemia hirta, Asystasia, giant grasses and broadleaves as some areas were sprayed in Dec 2025 to Jan 2026 and regrew; B05 incomplete weed eradication and poor access; B19 woody weeds in inaccessible areas; circles acceptable in most areas, B19, B05, A04, A05 completed at year end; soft grasses and Nephrolepis kept only in some areas.
+
+MANURING: PA 6.4: 210 of 235 budgeted rounds applied to March 2026. Programme FY2025/26 (kg per palm): Mix B 2.00 x4, kieserite 1.00, RP 0.75; A03 Mix B 8.00 sub-surface (May 2025). Broadcast 15 bags/man-day (3.7 ha), RM26.50/ha, acceptable. Sub-surface manuring in A03: 0.2 ha/man-day, 4 bags (25 palms), RM1.80/palm, earning RM45/day, below basic wage; follow the FEHB method; target 1 ha and 20 bags/man-day. Agro Table 6 FY2025/26: Mix B 1,053.4 of 1,053.41 t (100%), kieserite 128.95 of 128.93 t (100%), BRP 96.85 of 98.76 t applied (98%); completed in May 2026, delayed by delivery, access, logistics and machinery. Agro Table 7 FY2026/27 Period 1: Mix B 7.8 of 159.74 t (5%), kieserite 0 of 41.89 t, mainly sub-soil; no delivery problem. Sub-soil quality in A05 acceptable but hole distance, depth and covering inconsistent. Store acceptable. FY2026/27 programme (Agro Appendix 1, grams per palm): 11A and 12A Mix B 2000 in May, Aug, Nov 2026 and Feb 2027, BRP 750 in Oct 2026, kieserite 1000 in Jun 2026 for A02, A06, A08, A12-A17, A19, A20; A03 Mix B 8000 sub-soil (May), kieserite 1000, BRP 750. 12B Mix B 2000 in Jun, Sep 2026, Jan, Apr 2027, BRP 750 Oct 2026, kieserite 1000 Jul 2026 for B03, B04, B06-B10, B12, B13, B16-B18; B20 Mix B 8000 sub-soil (May), kieserite 1000. Agro says the FY2026/27 programme is unchanged.
+
+PEST AND DISEASE: no issues (PA); under control, keep regular rat census (Agro).
+
+PRUNING: PA table May 2025 to March 2026: routine pruning 179.02 ha of 1,280.20 (14%); 11A 26.21, 12A 103.13, 12B 49.68 ha. PA text says 853 of 1,280 ha pruned and paid; appearance satisfactory; RM1.50/palm/year. Agro Table 9 to April 2026: 214.24 of 1,280.2 ha (17%) (P11A 18%, P12A 24%, P12B 10%); estate says payment records not updated. Canopy acceptable except B19 (under-pruned after poor access) and B05; isolated over-pruning; corrective pruning in A04 and A05 ravines; frond stacking inconsistent, heaps on paths and in circles.
+
+ROADS AND DRAINS (PA 6.7, 6.8): 5,232 chains graded vs 5,033 budget, by contractor using an excavator, no grader; RM49.88/chain vs RM48.69 budget. Roads well maintained; surface collection roads with crusher run. Road gravelling in capex not done. 1,056 of 1,500 t crusher run bought at RM24/t from MLP 5 quarry. Two Irish bridges, RM7,500 each. No drain issues. Agro: roads repaired in B05, A04, A05; B19 poor.
+
+HARVESTING (PA section 7): RM2,152,049 vs RM2,013,316 (+7%), RM1,681/ha vs 1,573, RM104/t vs 85. FFB supervision RM114,394 (Sunday incentives for mandores); harvesting own FFB RM1,086,730 vs RM1,301,868 (many harvesters missed incentives); infield loading RM122,159 vs RM95,281; ramp maintenance RM112,695 vs RM47,641; internal transport RM681,253 vs RM443,197 (+54%, high tractor running costs; outsourced since March 2026 with a bin system); tools RM34,818 vs RM4,593. Rounds to March 20.9 vs 22 budgeted. Harvester outturn 58%, very low; investigate. Loose fruit collection unsatisfactory (A13, A03, B10, B11). Rate RM50/t: 2011 planting 2.09 t/man-day (RM104.50/day); 2012 plantings 1.84 and 1.42 t (RM92 and RM71); basic wage RM68.35. Agro Table 8 intervals: early FY25/26 15 to 40 days (12B worst, up to 16-40 days in Jun 2025); Apr-May 2026 11A 9-11, 12A 9-11 (10-12 in Apr), 12B 11-16 days. No harvesting delay signs at the visit, credited to road repairs. Crop quality in B05 platforms 90 to 100% ripe; some unripe and long-stalk bunches. Oxidised loose fruit and early VOPs in previously neglected areas; circle raking advised. Agro Table 13 FY25/26 rounds: P11A 28.1 (117%), P12A 25.5 (106%), P12B 20.1 (84%), average 23.4 (98%).
+
+CROP (PA section 8, to March 2026, 11 months): FFB 20,740.88 t vs budget 23,764.52 t (annual budget 25,971.93 t); same period last year 17,518.27 t on 1,256.09 ha. Yield 16.20 t/ha vs 18.56 budget (13% below), annual budget 20.29; last year same period 13.95 t/ha (+16%). CPO 4,198.13 t, OER 20.24% vs 20.38% budget (19.97% last year); kernel 916.80 t, 4.42%. CPO 3.28 t/ha vs 3.78. PA expected about 19.5 t/ha by April. Shortfall: high harvester turnover early in the FY; low crop season, many male flowers. Bunch weight March 2025 18.8 kg, March 2026 18.3 kg for both 2011 and 2012 plantings.
+
+YIELD (Agro Table 12, FY as at April 2026, Period 12): FY2024/25 vs FY2025/26 t/ha: P11A 15.58 to 22.20 (+30%); P12A 15.76 to 19.74 (+20%); P12B 15.08 to 14.68 (-3%); estate 15.46 to 17.42 (+11%). P12B lagged because only 20 harvesting rounds were achieved (16% below the minimum 24) owing to access. Limiting factors: inconsistent recovery, early harvesting delays, neglected and rehabilitation areas still recovering (B19, B20 improving).
+
+COST OF PRODUCTION (PA section 9, 11 months to 31 March 2026, RM per tonne FFB, actual vs year budget): general charges 93.69 vs 81.63; upkeep and cultivation 117.64 vs 125.69; harvesting and collection 103.76 vs 84.72; total ex-estate 315.09 vs 292.04. Per tonne CPO: 462.89, 581.21, 512.62, total 1,556.72 vs 1,432.97. High cost because crop budget not met.
+
+VEHICLES (PA section 10, 11 months): total RM1,256,419.74 vs RM899,490 budget. Tractor sub-total RM546,911.99 vs RM403,054 (RM61.38/hr vs 34.60) omits KINTA JVU3867 (RM90,282.06, 2,474 hrs); all 8 tractors total RM637,194.05, so the true vehicle total is RM1,346,701.80, not RM1,256,419.74; worst SS3798P RM156.32/hr on 364 hrs. Tractor trailer RM309,836.24 vs RM28,981 (RM30.59/hr vs 5.39). Backhoe RM43,038.11 for 52 hrs (RM827.66/hr). Records unsatisfactory; Chief Clerk to be more meticulous.
+
+CAPITAL EXPENDITURE (PA section 11): actual RM82,500 vs budget RM1,017,138: office renovation RM28,500 (Jan 2026), workshop repair RM43,750 (budget 40,000), desktop computer RM10,250, solar street light RM4,576.76 (not in totals). Not spent: executive quarters RM345,000, road gravelling RM370,000 (road and bridge RM448,878). Underspent.
+
+RAINFALL: PA Appendix 1 calendar-year columns (years not labelled): latest column 3,051 mm, 157 days. Agro Table 11 by financial year (mm, wet days): FY16/17 to FY21/22 between 1,958 and 2,752 mm; FY22/23 2,689/153; FY23/24 1,979/133; FY24/25 3,007/163; FY25/26 2,457/134; FY26/27 May 2026 331 mm, 15 days. FY25/26 dry spells: June 61 mm (5 days), July 18 mm (2 days), March 68 mm (4 days), which may cut crop potential.
+
+PA CONCLUDING REMARKS: recruit harvesters, manuring and spraying workers; circles satisfactory, focus on selective spraying; train workers and staff on spraying technique and calibration; eradicate Clidemia and Asystasia first, then Giant Paspalum and bamboo, with corrective spraying; surface roads this year; raise harvester productivity by observing 8-hour working days.
+
+BLOCK DATA: yields exist only by field (Agro Table 12): FY2025/26 (May 2025 to Apr 2026) vs FY2024/25 (May 2024 to Apr 2025). The dashboard's prevYtd is the FY2024/25 field yield. Neither report gives sub-block yields. For the 40 sub-blocks (A01-A20, B01-B20) the PA gives ha, palms, SPH, circle/selective spraying ha and %, pruning ha and manuring dates; the Agro gives the FY2026/27 fertiliser programme and good/fair checklist ratings (no block rated poor). Agro checklists also list a B21 that is not in either block list.
+
+DATA CAVEATS (see issues): PA 1,280.20 vs Agro 1,301.97 ha; pruning 853 vs 179.02 vs 214.24 ha; labour table 85 harvesters vs text 77; vehicle tractor sub-total omits one tractor; Agro 17.42 t/ha vs about 17.8 from field yields; PA upkeep budget RM125.69/t vs RM124.42; 'Actual 4M' labels; 210 vs 205 manuring rounds; road cost RM2.47 (table) vs RM49.88/chain (text).
+
+OPERATING COST PER TONNE FFB (RM/t), May 2025–Mar 2026 (FY2025/26, 11 months), from PA Report 1/2026, sections 5, 6, 7 and 9 (General Charges, Upkeep & Cultivation, Harvesting & Collection, Cost of Production tables) (actual / budget; * = worked out from report RM amounts / FFB tonnes)
+Harvest & collection: 103.76 / 84.72
+  - FFB supervision: 6.00 / 5.00
+  - Harvesting own FFB: 52.00 / 55.00
+  - Contract harvesting & collection: 0.00 / 0.00
+  - Loose fruit collection: 0.00 / 0.00
+  - Infield loading: 6.00 / 4.00
+  - Ramp maintenance: 5.00 / 2.00
+  - Internal transport: 33.00 / 19.00
+  - Harvesting tools/implements: 2.00 / 0.00
+  - Buffalo management: 0.00 / 0.00
+Upkeep & cultivation: 117.64 / 125.69
+  - Upkeep supervision: 2.00 / 2.00
+  - Weeding - selective spraying & lallang: 6.00 / 6.00
+  - Weeding - circle/strip/path spraying: 6.00 / 4.00
+  - Weeding - blanket spraying: 1.00 / 0.00
+  - Weeding - poisoning woodies/bamboo/banana: 2.00 / 1.00
+  - Weeding - slashing (manual/mechanical): 0.00 / 0.00
+  - Manuring - labour: 9.00 / 8.00
+  - Manuring - material: 56.00 / 61.00
+  - Manuring - transport: 2.00 / 4.00
+  - Pests & diseases: 0.00 / 0.00
+  - Roads & bridges: 29.00 / 29.00
+  - Supplying: 1.00 / 2.00
+  - Pruning: 2.00 / 5.00
+  - Other (5 items: soil/water conservation, census & thinning out, tools, boundaries/survey/fences, drains): 0.61 / 1.57 *
+General charges: 93.69 / 81.63
+  - Staff salary & allowance: 22.05 / 20.95 *
+  - Staff bonus: 5.11 / 4.46 *
+  - Staff EPF: 4.54 / 3.47 *
+  - Upkeep lines/electricity & water supply: 2.25 / 1.17 *
+  - Labour wages & allowance: 2.83 / 0.00 *
+  - Labour EPF: 2.00 / 0.96 *
+  - Labour welfare & benefit: 6.52 / 3.68 *
+  - Labour recruitment: 5.55 / 8.78 *
+  - Labour paid leave: 7.84 / 8.28 *
+  - General office expenses: 2.70 / 2.17 *
+  - Cess/rate/rent: 4.21 / 3.67 *
+  - Security: 4.45 / 3.34 *
+  - Water/electricity: 11.75 / 11.33 *
+  - Other (25 items): 11.86 / 9.31 *
+Total operating cost: 315.09 / 292.04

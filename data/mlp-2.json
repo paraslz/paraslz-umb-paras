@@ -1,0 +1,1004 @@
+{
+ "slug": "mlp-2",
+ "name": "Millian Labau Plantation-2 Estate (MLP 2)",
+ "company": "United Malacca Berhad",
+ "group": "UMB",
+ "manager": "Mr. David Tatin (Manager, since 24 Oct 2022); Senior Manager Mr. Celestine Bin Siplis",
+ "advisors": {
+  "pa": "Mr. Boey Chee Weng",
+  "agro": "En Alison Janari (Junior Agronomist) / Mr. Chong Kuan Ming (Senior Agronomist)"
+ },
+ "reports": {
+  "pa": {
+   "title": "Planting Advisory Report 01/2026",
+   "visit": "2026-05-06",
+   "period": "May 2025–Mar 2026",
+   "costTo": "Mar 2026",
+   "url": "https://drive.google.com/file/d/1T_jMdgoNdNHL6ewN25JmBYtGdCc1w2Vp/view"
+  },
+  "agro": {
+   "title": "Agronomy Report 1/2026",
+   "visit": "2026-03-12",
+   "url": "https://drive.google.com/file/d/1xK8qb0oAJGeCGamYJ9GOz0ACSZw3q3Uy/view"
+  }
+ },
+ "folder": "https://drive.google.com/drive/folders/1fAgXqC9AI5CFeNVyZYKg78SwmYqig2sm",
+ "area": {
+  "title": 2166.81,
+  "planted": 1349.19,
+  "mature": 1248.63,
+  "immature": 100.56,
+  "replant": null,
+  "nursery": 1.29
+ },
+ "kpi": {
+  "ffb": 28363.26,
+  "ffbBudget": 27451.0,
+  "ffbPeriod": "May 2025–Mar 2026 (FY2025/26, 11 months)",
+  "yph": 22.72,
+  "yphBudget": 22.42,
+  "yphPrevSame": 21.62,
+  "cop": 263,
+  "copBudget": 267,
+  "copPeriod": "May 2025–Mar 2026 (FY2025/26, 11 months)",
+  "gcHa": 1645,
+  "gcHaBudget": 1796,
+  "ucHa": 2212,
+  "ucHaBudget": 2363,
+  "hcT": 93.1,
+  "hcTBudget": 81.87,
+  "workers": 199,
+  "workersReq": 165,
+  "harvesters": 84,
+  "harvestersReq": 82,
+  "harvestInterval": "Avg 14 days (PA, Mar 2026)",
+  "manuringPct": 83,
+  "manuringNote": "153 of 184 rounds to Mar 2026 (PA); by tonnage at Feb 2026 Mix A 79%, Mix B 56%, kieserite and RP 100% (Agro Table 4)",
+  "circlePct": 70,
+  "selectivePct": 50,
+  "pruningPct": 64
+ },
+ "costParts": [
+  {
+   "name": "General charges",
+   "actual": 73,
+   "budget": 80
+  },
+  {
+   "name": "Upkeep & cultivation",
+   "actual": 97,
+   "budget": 105
+  },
+  {
+   "name": "Harvest & collection",
+   "actual": 93,
+   "budget": 82
+  }
+ ],
+ "upkeep": [
+  {
+   "item": "Upkeep supervision",
+   "actual": 20,
+   "budget": 31
+  },
+  {
+   "item": "Selective spraying & lalang",
+   "actual": 72,
+   "budget": 92
+  },
+  {
+   "item": "Harvesting access/circle",
+   "actual": 146,
+   "budget": 120
+  },
+  {
+   "item": "Manuring labour",
+   "actual": 85,
+   "budget": 85
+  },
+  {
+   "item": "Manuring contract",
+   "actual": null,
+   "budget": null
+  },
+  {
+   "item": "Manuring material",
+   "actual": 852,
+   "budget": 1061
+  },
+  {
+   "item": "Manuring transport",
+   "actual": 94,
+   "budget": 156
+  },
+  {
+   "item": "Composting",
+   "actual": null,
+   "budget": null
+  },
+  {
+   "item": "Pests & diseases",
+   "actual": 2,
+   "budget": 2
+  },
+  {
+   "item": "Census & thinning out",
+   "actual": 6,
+   "budget": 5
+  },
+  {
+   "item": "Drains",
+   "actual": 5,
+   "budget": 14
+  },
+  {
+   "item": "Roads & bridges",
+   "actual": 792,
+   "budget": 675
+  },
+  {
+   "item": "Soil/water conservation",
+   "actual": 25,
+   "budget": 3
+  },
+  {
+   "item": "Boundaries, survey, fences",
+   "actual": 12,
+   "budget": 9
+  },
+  {
+   "item": "Supplying",
+   "actual": null,
+   "budget": null
+  },
+  {
+   "item": "Pruning",
+   "actual": 97,
+   "budget": 104
+  },
+  {
+   "item": "Tools",
+   "actual": 4,
+   "budget": 6
+  },
+  {
+   "item": "Total upkeep & maintenance",
+   "actual": 2212,
+   "budget": 2363
+  }
+ ],
+ "labour": [
+  {
+   "cat": "FFB harvester/carrier",
+   "actual": 84,
+   "req": 82
+  },
+  {
+   "cat": "Checker",
+   "actual": 0,
+   "req": 4
+  },
+  {
+   "cat": "FFB lorry",
+   "actual": 2,
+   "req": null
+  },
+  {
+   "cat": "Manuring worker",
+   "actual": 22,
+   "req": 20
+  },
+  {
+   "cat": "Spraying worker",
+   "actual": 22,
+   "req": 20
+  },
+  {
+   "cat": "Pruner",
+   "actual": 6,
+   "req": null
+  },
+  {
+   "cat": "Mandore (harvesting 4, manuring 1)",
+   "actual": 5,
+   "req": 4
+  },
+  {
+   "cat": "Driver cum loader",
+   "actual": 5,
+   "req": 6
+  },
+  {
+   "cat": "General worker",
+   "actual": 26,
+   "req": 11
+  },
+  {
+   "cat": "Tractor driver (maintenance & general)",
+   "actual": 2,
+   "req": 2
+  },
+  {
+   "cat": "Nursery worker (cocoa)",
+   "actual": 10,
+   "req": null
+  },
+  {
+   "cat": "Security, watchmen, utility driver, gardeners, creche, carpenter, workshop, water treatment, grass cutter, office cleaner, store",
+   "actual": 15,
+   "req": 16
+  }
+ ],
+ "blocks": [
+  {
+   "id": "06A",
+   "ha": 123.96,
+   "sph": 107,
+   "planted": "2006",
+   "status": "Mature",
+   "ytd": 20.98,
+   "est": null,
+   "prevYtd": 17.59,
+   "fert": "Mix A 2000 g (May) + Mix A 2000 g (Aug) + BRP 500 g (Sep) + Mix A 2000 g (Dec) + Mix A 2000 g (Mar), FY2026/27",
+   "notes": [
+    {
+     "src": "Agro 1/2026",
+     "text": "A01, A02, A17; FY25/26 to Feb 20.98 t/ha (+16%); 19.6 harvesting rounds; Feb 2026 interval 13–15 days."
+    },
+    {
+     "src": "Agro 1/2026",
+     "text": "Circle weeding 35% and inter-row 50% to Feb; pruning 47% (payment basis)."
+    },
+    {
+     "src": "PA 1/2026",
+     "text": "2006 planting: bunch weight 22.5 kg Mar 2026 vs 21.2 kg; harvesters 2.37 t/man-day at RM52/t, earning RM123.24."
+    },
+    {
+     "src": "PA 1/2026",
+     "text": "P06/A02: overgrown VOP, woodies and Asystasia in circles; 3 rounds of rat baiting done."
+    }
+   ]
+  },
+  {
+   "id": "07A",
+   "ha": 316.6,
+   "sph": 108,
+   "planted": "2007",
+   "status": "Mature",
+   "ytd": 22.36,
+   "est": null,
+   "prevYtd": 18.49,
+   "fert": "Mix A 2000 g (May) + Mix A 2000 g (Aug) + BRP 500 g (Sep) + Mix A 2000 g (Dec) + Mix A 2000 g (Mar), FY2026/27",
+   "notes": [
+    {
+     "src": "Agro 1/2026",
+     "text": "Largest field (9 sub-blocks); 22.36 t/ha to Feb (+17%); 19.5 rounds; census raised stand to 34,076 palms (SPH 103 to 108)."
+    },
+    {
+     "src": "PA 1/2026",
+     "text": "P07/A08 dense woodies, Hedyotis and overgrown VOP; A03 and A05 had no circle or selective round recorded."
+    },
+    {
+     "src": "PA 1/2026",
+     "text": "A11 had sub-surface fertiliser (Mix A 8 kg/palm), completed Nov 2025."
+    },
+    {
+     "src": "PA 1/2026",
+     "text": "2007 planting: bunch weight 22.6 kg vs 21.3 kg; 2.35 t/man-day, RM122.20/day."
+    }
+   ]
+  },
+  {
+   "id": "08A",
+   "ha": 81.81,
+   "sph": 109,
+   "planted": "2008",
+   "status": "Mature",
+   "ytd": 20.1,
+   "est": null,
+   "prevYtd": 17.97,
+   "fert": "Mix B 2200 g (May) + Mix A 2000 g (Aug) + BRP 750 g (Sep) + Mix A 2000 g (Dec) + Mix A 2000 g (Mar), FY2026/27",
+   "notes": [
+    {
+     "src": "Agro 1/2026",
+     "text": "A06, A12; 20.10 t/ha to Feb (+11%); 18.7 rounds; circle weeding only 28% to Feb."
+    },
+    {
+     "src": "PA 1/2026",
+     "text": "P08/A06 damaged roads, woodies and overgrown VOP; loose fruit seen."
+    },
+    {
+     "src": "PA 1/2026",
+     "text": "2008 planting: bunch weight 22.1 kg vs 20.6 kg; 2.42 t/man-day, RM125.84/day."
+    }
+   ]
+  },
+  {
+   "id": "09A",
+   "ha": 51.15,
+   "sph": 104,
+   "planted": "2009",
+   "status": "Mature",
+   "ytd": 19.72,
+   "est": null,
+   "prevYtd": 17.62,
+   "fert": "Mix B 2200 g (May) + Mix A 2000 g (Aug) + BRP 750 g (Oct) + Mix A 2200 g (Dec) + Mix A 2000 g (Mar), FY2026/27",
+   "notes": [
+    {
+     "src": "Agro 1/2026",
+     "text": "A15; 19.72 t/ha to Feb (+11%); 19 rounds."
+    },
+    {
+     "src": "PA 1/2026",
+     "text": "2009A progressive pruning 0% recorded to March (programme 101.90 ha); 2009 harvest rate RM56/t, 2.36 t/man-day, RM132.16/day."
+    }
+   ]
+  },
+  {
+   "id": "11A",
+   "ha": 15.33,
+   "sph": 118,
+   "planted": "2011",
+   "status": "Mature",
+   "ytd": 23.74,
+   "est": null,
+   "prevYtd": 18.7,
+   "fert": "Mix B 2200 g (May) + Mix A 2000 g (Aug) + BRP 750 g (Oct) + Mix A 2200 g (Dec) + Mix A 2000 g (Mar), FY2026/27",
+   "notes": [
+    {
+     "src": "Agro 1/2026",
+     "text": "A19; 23.74 t/ha to Feb (+21%), second-best gain; only 17 rounds."
+    },
+    {
+     "src": "PA 1/2026",
+     "text": "2011 planting: bunch weight 21.8 kg vs 20.0 kg; 2.13 t/man-day, lowest of all plantings."
+    }
+   ]
+  },
+  {
+   "id": "12A",
+   "ha": 124.64,
+   "sph": 92,
+   "planted": "2012",
+   "status": "Mature",
+   "ytd": 19.4,
+   "est": null,
+   "prevYtd": 17.01,
+   "fert": "A43–A45: Mix B 2200 g (Jun) + Mix B 2000 g (Aug) + kieserite 1000 g (Sep) + Mix B 2200 g (Nov) + BRP 750 g (Dec) + Mix B 2000 g (Mar); A04: Mix B 9000 g sub-soil (May) + kieserite 1000 g (Sep) + BRP 750 g (Dec), FY2026/27",
+   "notes": [
+    {
+     "src": "Agro 1/2026",
+     "text": "A04, A43, A44, A45; 19.40 t/ha to Feb (+12%); census cut stand from 14,916 to 11,477 palms (SPH 120 to 92) after rehabilitation."
+    },
+    {
+     "src": "Agro 1/2026",
+     "text": "A04 palms greener after two Mix A rounds but not yet recovered; pruning 0% recorded to Feb (PA 9% to Mar)."
+    },
+    {
+     "src": "PA 1/2026",
+     "text": "P12/A04 Giant Paspalum, woodies, unripe bunch and loose fruit; narrow terraces widened (13,929 m)."
+    },
+    {
+     "src": "PA 1/2026",
+     "text": "2012 planting: bunch weight 19.4 kg vs 18.6 kg, the lowest."
+    }
+   ]
+  },
+  {
+   "id": "06B",
+   "ha": 35.98,
+   "sph": 99,
+   "planted": "2006",
+   "status": "Mature",
+   "ytd": 18.83,
+   "est": null,
+   "prevYtd": 15.52,
+   "fert": "Mix A 2000 g (May) + Mix A 2000 g (Aug) + BRP 500 g (Sep) + Mix A 2000 g (Dec) + Mix A 2000 g (Mar), FY2026/27",
+   "notes": [
+    {
+     "src": "Agro 1/2026",
+     "text": "B28; 18.83 t/ha to Feb (+18%), lowest field yield; 18 rounds; inter-row not started by Feb (PA: done Mar 2026)."
+    }
+   ]
+  },
+  {
+   "id": "07B",
+   "ha": 54.34,
+   "sph": 98,
+   "planted": "2007",
+   "status": "Mature",
+   "ytd": 21.09,
+   "est": null,
+   "prevYtd": 18.99,
+   "fert": "Mix A 2000 g (May) + Mix A 2000 g (Aug) + BRP 750 g (Sep) + Mix A 2000 g (Dec) + Mix A 2000 g (Mar), FY2026/27",
+   "notes": [
+    {
+     "src": "Agro 1/2026",
+     "text": "B36; 21.09 t/ha to Feb (+10%), flagged as lower-performing; 20 rounds (highest); pruning 26% to Feb."
+    }
+   ]
+  },
+  {
+   "id": "08B",
+   "ha": 90.24,
+   "sph": 98,
+   "planted": "2008",
+   "status": "Mature",
+   "ytd": 21.71,
+   "est": null,
+   "prevYtd": 19.14,
+   "fert": "Mix B 2200 g (May) + Mix A 2000 g (Aug) + BRP 750 g (Sep) + Mix A 2000 g (Dec) + Mix A 2000 g (Mar), FY2026/27",
+   "notes": [
+    {
+     "src": "Agro 1/2026",
+     "text": "B30, B31, B35; 21.71 t/ha to Feb (+12%); intervals reached 25–28 days in Jun 2025; still 10–19 days Feb 2026."
+    },
+    {
+     "src": "PA 1/2026",
+     "text": "B30 SPH only 77–78; B31 no circle or selective round recorded."
+    }
+   ]
+  },
+  {
+   "id": "09B",
+   "ha": 35.55,
+   "sph": 80,
+   "planted": "2009",
+   "status": "Mature",
+   "ytd": 20.49,
+   "est": null,
+   "prevYtd": 16.73,
+   "fert": "Mix B 2200 g (May) + Mix A 2000 g (Aug) + BRP 750 g (Oct) + Mix A 2200 g (Dec) + Mix A 2000 g (Mar), FY2026/27",
+   "notes": [
+    {
+     "src": "Agro 1/2026",
+     "text": "B29; 20.49 t/ha to Feb (+18%); 17 rounds; SPH 80; clumped VOPs from loose bunches, Clidemia, Asystasia, giant grass."
+    }
+   ]
+  },
+  {
+   "id": "10B",
+   "ha": 53.35,
+   "sph": 126,
+   "planted": "2010",
+   "status": "Mature",
+   "ytd": 24.37,
+   "est": null,
+   "prevYtd": 16.44,
+   "fert": "Mix B 2200 g (May) + Mix A 2000 g (Aug) + BRP 750 g (Oct) + Mix A 2200 g (Dec) + Mix A 2000 g (Mar), FY2026/27",
+   "notes": [
+    {
+     "src": "Agro 1/2026",
+     "text": "B27, B33; best field at 24.37 t/ha to Feb (+33%, highest gain); 17.3 rounds."
+    },
+    {
+     "src": "PA 1/2026",
+     "text": "2010 planting: bunch weight 21.6 kg vs 20.4 kg; 2.41 t/man-day, RM134.96/day (highest)."
+    }
+   ]
+  },
+  {
+   "id": "11B",
+   "ha": 145.64,
+   "sph": 94,
+   "planted": "2011",
+   "status": "Mature",
+   "ytd": 19.07,
+   "est": null,
+   "prevYtd": 18.21,
+   "fert": "Mix B 2200 g (Jun) + Mix B 2000 g (Aug) + kieserite 1000 g (Sep; B23, B37, B40, B41 only) + Mix B 2200 g (Nov) + BRP 750 g (Dec) + Mix B 2000 g (Mar), FY2026/27",
+   "notes": [
+    {
+     "src": "Agro 1/2026",
+     "text": "B22, B23, B37–B41; 19.07 t/ha to Feb (+5%, smallest gain), flagged as lower-performing; 17.8 rounds."
+    },
+    {
+     "src": "Agro 1/2026",
+     "text": "B39 and B40 still need corrective pruning and rehab; jungle woodies; Mix A/B and kieserite pending since Jun 2025 in B38–B41."
+    },
+    {
+     "src": "PA 1/2026",
+     "text": "B39 rehabilitation 0.9 ha balance due July 2026."
+    }
+   ]
+  },
+  {
+   "id": "12B",
+   "ha": 120.04,
+   "sph": 107,
+   "planted": "2012",
+   "status": "Mature",
+   "ytd": 20.57,
+   "est": null,
+   "prevYtd": 16.81,
+   "fert": "Mix B 2200 g (Jun) + Mix B 2000 g (Aug) + kieserite 1000 g (Sep; B20 only) + BRP 750 g (Oct; B25, B32, B34) + Mix B 2200 g (Nov) + BRP 750 g (Dec) + Mix B 2000 g (Mar), FY2026/27",
+   "notes": [
+    {
+     "src": "Agro 1/2026",
+     "text": "B20, B25, B32, B34; 20.57 t/ha to Feb (+18%); 17.6 rounds; intervals up to 26–27 days in Jun 2025."
+    },
+    {
+     "src": "PA 1/2026",
+     "text": "P12/B20 missed unsprayed woodies, bamboo, damaged road, uncollected bunch and under-pruned palm."
+    },
+    {
+     "src": "PA 1/2026",
+     "text": "2012 planting: 2.21 t/man-day at RM56/t, RM123.76/day."
+    }
+   ]
+  },
+  {
+   "id": "24B",
+   "ha": 100.56,
+   "sph": 94,
+   "planted": "2024",
+   "status": "Immature",
+   "ytd": null,
+   "est": null,
+   "prevYtd": null,
+   "fert": "CPD 1200 g (May) + BRP 1000 g (Jul) + CPD 1200 g (Aug) + CPD 1200 g (Nov) + CPD 1500 g (Feb), FY2026/27",
+   "notes": [
+    {
+     "src": "Agro 1/2026",
+     "text": "B20A 63.50 ha and B25A 37.06 ha new planting; 9,439 palms, about 94 SPH, below standard; supplying and infilling ongoing."
+    },
+    {
+     "src": "PA 1/2026",
+     "text": "Planting completed Jan 2026; circle spraying 45% (3.7 of 8 rounds), selective 21%, manuring only 1 of 5 rounds; 37 palms supplied."
+    },
+    {
+     "src": "Agro 1/2026",
+     "text": "Giant grass and wild banana in inter-terraces; less vigorous palms on rocky, hilly soil."
+    }
+   ]
+  }
+ ],
+ "blockPeriod": "May 2025–Feb 2026 (FY2025/26, 10 months)",
+ "blockSrc": "Agronomy Report 1/2026 Table 15",
+ "yieldHistory": [],
+ "rainfall": [
+  {
+   "year": 2016,
+   "mm": 2278,
+   "days": 131
+  },
+  {
+   "year": 2017,
+   "mm": 3020,
+   "days": 182
+  },
+  {
+   "year": 2018,
+   "mm": 2208,
+   "days": 163
+  },
+  {
+   "year": 2019,
+   "mm": 2547,
+   "days": 159
+  },
+  {
+   "year": 2020,
+   "mm": 2773,
+   "days": 154
+  },
+  {
+   "year": 2021,
+   "mm": 2683,
+   "days": 175
+  },
+  {
+   "year": 2022,
+   "mm": 2864,
+   "days": 197
+  },
+  {
+   "year": 2023,
+   "mm": 2685,
+   "days": 171
+  },
+  {
+   "year": 2024,
+   "mm": 2103,
+   "days": 169
+  },
+  {
+   "year": 2025,
+   "mm": 3262,
+   "days": 183
+  }
+ ],
+ "summary": [
+  "FY2025/26 to March (May 2025–Mar 2026): 28,363 t FFB, 22.72 t/ha, 1% above the 22.42 budget and 5% above last year's 21.62 (PA); crop budget achieved.",
+  "Cost RM263/t FFB vs RM267 budget (May 2025–Mar 2026): harvesting RM93 vs 82 (Sunday/holiday double pay, tractor running costs) offset by upkeep RM97 vs 105 and general charges RM73 vs 80 (PA).",
+  "Weeding is the main weakness: selective spraying 50% and circle spraying behind, mist-blower output only 1.6 ha/man-day, dense woodies, Giant Paspalum and VOPs in the inter-row (PA, Agro).",
+  "Harvesters adequate (84 vs 82) and earning RM119–135/day, but outturn only 64%, with unripe bunches, long stalks and uncollected loose fruit (PA, Agro).",
+  "Agro: yield to Feb 2026 20.97 t/ha vs 17.83 (+15% stated); manuring behind (Mix B 56%) due to late delivery and only one tractor; roads need crusher-run surfacing."
+ ],
+ "issues": [
+  {
+   "sev": "bad",
+   "title": "Circle spraying: 70% stated, 30% by its own ha, table copied",
+   "detail": "PA 6.2.1.1 says 722.97 ha (1.4 rounds) or 70% of 2,448.64 ha; 722.97/2,448.64 = 30%. The PA circle table (6.2) is a copy of the selective table (same ha, months, RM28.90/ha rate; totals 1,213.66 ha) although text gives circle rates RM22.20 (CKS) and RM22 (CDA). Agro Table 9 shows circle 1,497 ha of 2,742 ha (55%) at Feb 2026. Dashboard uses 70%. The selective spraying table also repeats all Div A rows (2006A to 2011A printed twice)."
+  },
+  {
+   "sev": "bad",
+   "title": "General charges RM73/t (COP) vs RM79/t from section 5",
+   "detail": "PA section 9 prints general charges RM73/t (budget 80) and total RM263/t. Section 5 total RM2,246,973 / 28,363.26 t = RM79.22/t (budget RM2,410,370 / 30,000 t = 80.35). The RM73 cannot be reproduced; if RM79 is right the ex-estate cost would be about RM269/t, above the RM267 budget."
+  },
+  {
+   "sev": "warn",
+   "title": "Labour surplus printed (18), table gives 34",
+   "detail": "PA labour table: total 199 workers vs 165 requirement but +/- column total shows (18). Sign convention is also inconsistent: harvesters 84 vs 82 shown (2), manuring 22 vs 20 shown +2."
+  },
+  {
+   "sev": "warn",
+   "title": "Pruning: 64% (PA, Mar) vs 42% (Agro, Feb); PA subtotals wrong",
+   "detail": "PA routine pruning 1,598.41 of 2,496.11 ha (text says '645', meant 64%); Agro Table 7 1,072 of 2,535 ha (42%) a month earlier (e.g. 06A 194.45 vs 117.29 ha, 12A 25.10 vs 0.55). PA subtotals do not add: Div A completed rows sum 870.03 vs 864.36 printed, programme 1,450.24 vs 1,452.00; Div B completed 765.18 vs 754.56, programme 1,084.86 vs 1,071.09; grand completed 1,598.41 is neither sum. Agro Table 7 also gives 09A 66.55 ha (65%) at Feb, identical to 09B, while PA shows 2009A 0 ha at Mar."
+  },
+  {
+   "sev": "warn",
+   "title": "Manuring 'achieved' vs behind schedule",
+   "detail": "PA item 7 says 'The estate achieved the manuring program', yet PA 6.4.1 gives 153 of 184 rounds (83%) to March, and Agro Table 4 (Feb) shows Mix A 79% and Mix B 56% with blocks pending up to 8 months."
+  },
+  {
+   "sev": "warn",
+   "title": "Kieserite recorded 100% but 4 blocks not applied",
+   "detail": "Agro 3.5: June 2025 kieserite recorded complete but B38, B39, B40 'B42' not applied (applied to non-recommended blocks); B42 does not exist in the blocking system (PA table shows B39, B40, B41, B20 with no kieserite date). Agro Table 5 also lists B41 twice."
+  },
+  {
+   "sev": "warn",
+   "title": "Last-year yield: 'in 2024' and 21.63 vs 21.62",
+   "detail": "PA 8.2 compares with 'the yield achieved in 2024 for the same period at 21.63 ton/ha'; the crop table shows FY24/25 same period 21.62 t/ha."
+  },
+  {
+   "sev": "warn",
+   "title": "Yield growth 15% stated, table gives 17.6%",
+   "detail": "Agro 7.1 and Table 15: 17.83 to 20.97 t/ha described as a 15% increase; 20.97/17.83 = +17.6%."
+  },
+  {
+   "sev": "warn",
+   "title": "PA and Agro last-year yields imply 3.79 t/ha in March 2025",
+   "detail": "Agro FY24/25 to Feb 17.83 t/ha; PA FY24/25 to Mar 21.62 t/ha, implying 3.79 t/ha in March 2025 alone, against 1.75 t/ha in March 2026 (22.72 - 20.97). Bases or periods may differ; needs reconciling."
+  },
+  {
+   "sev": "warn",
+   "title": "Palm census: PA field table not updated",
+   "detail": "Agro Table 3 (Feb 2026 census): 12A 11,477 palms SPH 92 (was 14,916, SPH 120); 07A 34,076 SPH 108; 24A 9,439 SPH 94; oil palm total 138,125. PA field table still shows 12A 14,887 (SPH 119), 07A 32,518 (SPH 103), B20A+B25A 9,738 (SPH 97); oil palm total 140,146 (149,892 incl. 9,746 cocoa)."
+  },
+  {
+   "sev": "warn",
+   "title": "Agro fertiliser appendix stand errors",
+   "detail": "Appendix 1(a): block 3 total palms 9,802 (41.42 ha at SPH 92 is about 3,811; PA 3,798); field label '2026B' for 2006B. Appendix 1(b) immature uses SPH 140 and 4,926 / 1,559 palms (old planting counts) vs 5,867 / 3,572 planted and SPH 94 in Table 11 and 5.2."
+  },
+  {
+   "sev": "warn",
+   "title": "PA period and header labels",
+   "detail": "PA cover says review May 2025 to April 2026, but all tables end March 2026 (11 months). Upkeep and vehicle tables are headed 'Actual 5M' and 'Actual 12M RM/t' for 11-month figures. Upkeep budget RM/t (105) divides the full-year budget amount by 11-month budget crop (27,451 t)."
+  },
+  {
+   "sev": "warn",
+   "title": "Crop table: last-year kernel budget doubled",
+   "detail": "PA crop table FY24/25 budget to date: kernel 2,423.45 t and KER 8.59%, about double every other column (4.40–4.42%)."
+  },
+  {
+   "sev": "warn",
+   "title": "PA text vs table: labour welfare 26% vs 28%",
+   "detail": "PA 5.1(b)(2) says labour welfare and benefit overspent by 26%; table shows +28% (RM113,319 vs RM88,386)."
+  },
+  {
+   "sev": "warn",
+   "title": "Vehicle running account budgets not credible",
+   "detail": "PA section 10: lorry bin system year budget 115.512 (vs RM117,953 actual), Caterpillar generator budget RM121.98 (vs RM199,641), giving unit-cost budgets of 0.01 and 0.04. PA 10.1 itself says running costs were not accurate."
+  },
+  {
+   "sev": "warn",
+   "title": "Agro cites blocks that do not exist",
+   "detail": "Agro 3.6 assessed manuring in 'Block A20', 4.1.5 cites 'Block B04', 4.4.6 cites 'A34', 3.4 Table 5 'B42'; none is in Agro Table 2 blocking system (A04, B20/20A exist)."
+  },
+  {
+   "sev": "warn",
+   "title": "Immature area 101.38 ha vs 100.56 ha",
+   "detail": "Agro comment table item 8 heads immature P24 as 101.38 ha; Agro Table 1/section 5 and PA area statement give 100.56 ha."
+  },
+  {
+   "sev": "warn",
+   "title": "PA immature selective table areas wrong",
+   "detail": "PA 6.3 immature rows show B20A 44.44 ha and 'B25' 35.30 ha (total 79.74 ha, 0% total despite 128.60 ha done); area statement gives B20A 63.50 and B25A 37.06 ha."
+  },
+  {
+   "sev": "warn",
+   "title": "Excavator output 250 m 'or 5000 chains'",
+   "detail": "PA 6.9.4: 250 metres per day stated as 5,000 chains; 250 m is about 12.4 chains (PA itself uses RM1.35/m = RM27/chain, i.e. 20 m per chain)."
+  }
+ ],
+ "actions": [
+  {
+   "item": "Train mist-blower sprayers; target 13 pumps/man-day and proper chemical calibration",
+   "src": "PA 1/2026",
+   "status": "repeat"
+  },
+  {
+   "item": "Buy 4 more CDA units (need 6, have 2); stop using CKS knapsacks",
+   "src": "PA 1/2026",
+   "status": "repeat"
+  },
+  {
+   "item": "Eradicate woodies, Asystasia, Giant Paspalum, VOPs and bamboo in stages; respray missed woodies",
+   "src": "PA 1/2026",
+   "status": "repeat"
+  },
+  {
+   "item": "Investigate and raise 64% harvester outturn (target above 80%)",
+   "src": "PA 1/2026",
+   "status": "repeat"
+  },
+  {
+   "item": "Control unripe bunch harvesting and long stalks; collect loose fruit and bunches",
+   "src": "Agro 1/2026",
+   "status": "repeat"
+  },
+  {
+   "item": "Surface hilly collection roads with crusher run (500 chains budgeted, none done)",
+   "src": "PA 1/2026",
+   "status": "open"
+  },
+  {
+   "item": "Recheck vehicle running accounts; assess tractors for write-off/replacement",
+   "src": "PA 1/2026",
+   "status": "open"
+  },
+  {
+   "item": "Complete Mix A/Mix B arrears; fix kieserite misapplication in B38–B41",
+   "src": "Agro 1/2026",
+   "status": "repeat"
+  },
+  {
+   "item": "Calibrate fertiliser application bowls; prepare ground before manuring",
+   "src": "Agro 1/2026",
+   "status": "open"
+  },
+  {
+   "item": "Raise sub-soil manuring output to 1 ha and 20 bags/man-day; consider pre-holing",
+   "src": "PA 1/2026",
+   "status": "open"
+  },
+  {
+   "item": "Record rat damage census and baiting in a standard format",
+   "src": "PA 1/2026",
+   "status": "repeat"
+  },
+  {
+   "item": "Finish corrective pruning and rehab in B39/B40 (balance 0.9 ha by July)",
+   "src": "Agro 1/2026",
+   "status": "repeat"
+  },
+  {
+   "item": "Immature P24: eradicate wild bananas and woodies; catch up manuring (1 of 5 rounds)",
+   "src": "PA 1/2026",
+   "status": "open"
+  },
+  {
+   "item": "Define cocoa labour needs separately from oil palm",
+   "src": "PA 1/2026",
+   "status": "repeat"
+  }
+ ],
+ "kb": "MILLIAN LABAU PLANTATION-2 ESTATE (MLP 2), United Malacca Berhad (UMB), Sabah. Fact pack drawn from PA Report 01/2026 (Planting Advisor Mr. Boey Chee Weng, visit 6 and 7 May 2026, period review stated as May 2025 to April 2026, FY2025/26, but all tables run to March 2026, 11 months) and Agronomy Report 1/2026 (Junior Agronomist En Alison Janari and Senior Agronomist Mr. Chong Kuan Ming, visit 12 March 2026, data mostly as at February 2026 = Period 10; previous Agro visit 2/2025 on 9 September 2025). Senior Manager Mr. Celestine Bin Siplis. Manager Mr. David Tatin (grade M12, joined 24.10.2022). Financial year runs May to April.\n\nAREA (PA section 2, as at March 2026; Agro Table 1 agrees): title 2,166.81 ha. Oil palm mature 1,248.63 ha (57.63%), immature 100.56 ha (4.64%), total oil palm 1,349.19 ha (62.27%). Immature cocoa 16.66 ha (0.77%). Total cultivated 1,365.85 ha. Non-cultivated 800.96 ha: nursery 1.29 ha, building sites and roads 202.55 ha, water catchment 11.02 ha, vacant unplantable 581.23 ha (Agro 582.52), jungle reserve 4.87 ha. No change in area statement. Rehabilitation at P11/B39 in progress, 0.9 ha balance due July 2026. 1.29 ha taken from non-cultivated area for cocoa (PA). Agro: 16.66 ha declared for cocoa as of Feb 2026; about 19.03 ha more to be developed from vacant unplantable land near Block 22 next financial year (22A, 2,284 palms planned). Planting material FELDA. Fields (ha): 2006A 123.96 (A01, A02, A17); 2007A 316.60 (A03, A05, A07, A08, A09, A10, A11, A16, A18); 2008A 81.81 (A06, A12); 2009A 51.15 (A15); 2011A 15.33 (A19); 2012A 124.64 (A04, A43, A44, A45); Div A 713.49. 2006B 35.98 (B28); 2007B 54.34 (B36); 2008B 90.24 (B30, B31, B35); 2009B 35.55 (B29); 2010B 53.35 (B27, B33); 2011B 145.64 (B22, B23, B37 to B41); 2012B 120.04 (B20, B25, B32, B34); 2024 new planting B20A 63.50 and B25A 37.06.\n\nPALM CENSUS (Agro Table 3, Feb 2026): total 138,125 palms, SPH 102 (Aug 2025: 137,338). Field SPH: 06A 107, 06B 99, 07A 108 (was 103), 07B 98, 08A 109, 08B 98, 09A 104, 09B 80, 10B 126, 11A 118, 11B 94, 12A 92 (was 120, palms 14,916 to 11,477, -30%), 12B 107, 24A 94 (was 64). 07A and 12A changed after post-rehab census. Age profile: 159.94 ha (12%) old mature, about 81% prime mature, 7% immature; no replanting recommended for FY2026/27. PA field table still shows older counts (12A 14,887).\n\nLABOUR (PA section 3, March 2026): 199 checkroll workers (no contract or unregistered) vs requirement 165. FFB harvesters/carriers 84 vs 82 (1 to 15 ha, adequate); checkers 0 vs 4; manuring 22 vs 20; spraying 22 vs 20; pruners 6; mandores 5; driver-loaders 5 vs 6; general workers 26 vs 11; cocoa nursery 10; carpenters 0 vs 2. Workers to planted ha 1 to 6, justified by cocoa nursery and immature cocoa work.\n\nSTAFF (PA section 4): 12 staff, no change, adequate.\n\nGENERAL CHARGES (PA section 5, 11 months to March 2026): RM2,246,973 vs year budget RM2,410,370 (7% under); RM1,645/ha vs RM1,796/ha (planted 1,366 ha actual, 1,342 ha budget). Staff costs RM841,159 (RM616/ha vs 634; staff EPF +18%, increments). Labour overhead RM547,431 (RM401/ha vs 515, -21%): paid leave RM218,105 (+15%), welfare and benefit RM113,319 (+28% in table, text says 26%, single-cabin vehicle running cost), EPF RM70,072 (+44%, higher earnings), recruitment RM52,608 vs RM263,769 budget (-80%), medical RM42,617 (+36%, transport to outside clinics), SOCSO and EIS RM30,916. Office and related RM831,939 (RM609/ha vs 627): water/electricity RM348,968, cess/rent RM107,289, security RM81,572, transport and travelling +45% (single-cab, manager's trip to company dinner), weighbridge +30% (repairs), subscriptions +30%, donations +17%. Building maintenance RM24,749 (+18%). PA: acceptable.\n\nUPKEEP AND CULTIVATION (PA section 6, May 2025 to March 2026; mature 1,249 ha, FFB 28,363 t actual vs 1,224 ha and 27,451 t budget): total RM2,762,062 vs RM2,893,471 (5% under); RM2,212/ha vs 2,363; RM97/t vs 105. Per ha actual vs budget: supervision 20 vs 31; selective spraying and lalang 72 vs 92; harvesting access/circle 146 vs 120 (+25%); manuring labour 85 vs 85, material 852 vs 1,061 (RM1,063,643), transport 94 vs 156; pests and diseases 2 vs 2; census and thinning 6 vs 5; drains 5 vs 14; roads and bridges 792 vs 675 (RM989,154, +20%); soil/water conservation 25 vs 3 (RM30,903 vs RM3,879, +697%, widening narrow terraces by contract mini-excavator, 13,929 m at RM1.35/m or RM27/chain); boundaries 12 vs 9; pruning 97 vs 104; tools 4 vs 6.\n\nWEEDING (PA): Circle spraying 722.97 ha (1.4 rounds), stated 70% of 2,448.64 ha (2 rounds), not achieved due to low productivity with CKS knapsacks and shortage of CDA units (have 2, need 6; advised to buy 4 and discard CKS). CKS 2.7 ha/man-day at RM22.20/ha (RM60.16/day, below RM65.38 basic wage; glyphosate 1.34 L/ha); CDA 4.4 ha/man-day at RM22/ha (RM96.80/day; 1.13 L/ha). Circles generally clean, only Asystasia. Selective spraying 1,213.66 ha (0.9 round), 50% of 2,448.64 ha; mist blowers 1.6 ha/man-day (extremely low) at RM28.90/ha, earning RM45.08/day; Garlon 1.1 L/ha (2.8 pumps/ha, not correct); expected 13 pumps/man-day. Inter-row not satisfactory: dense woodies, Giant Paspalum, VOPs, jungle woodies, bamboo, Hedyotis, Asystasia; many unsprayed and poorly killed woodies need respraying. Agro (Feb 2026): circle 1,497 of 2,742 ha (55%, about one round), inter-row 1,128 of 2,497 ha (45%); 06B, 09B, 10B inter-row not started; delays blamed on rain and hilly access; Clidemia hirta, Asystasia and giant grass in B29, B41, B40, B20 and 'A34'; wild bamboo; VOPs in 20A and B29 (clumps from loose bunches); remove jungle woodies in rehab areas.\n\nMANURING: PA: 153 of 184 rounds applied to March 2026, delayed by tractor breakdowns and rain; broadcast output 19 bags/man-day (4.5 ha) at RM16.57/ha, RM74.56/day. Sub-surface application at P07/A11 (Mix A 8 kg/palm) finished Nov 2025; 0.78 ha and 14 bags/man-day at RM75/ha, earning RM65.25; benchmark 1 ha and 20 bags; consider pre-holing.  Agro Table 4 at Feb 2026: Mix A 284.35 of 358.95 t (79%); Mix B 378.35 of 681.58 t (56%, 611.3 t delivered); kieserite 39.3 of 39.31 t (100%); RP 98.25 of 97.73 t (101%); immature CPD 24.13 t programme, 10.64 t delivered, none applied. Delays from fertiliser delivery and limited machinery (one tractor shared with crop evacuation, store far from field); estate expects to finish by end of FY2025/26. Pending at Feb: several Mix B rounds; Mix A June 2025 in B38–B41 (8 months); kieserite June 2025 in B38, B39, B40, 'B42' though recorded 100% (applied to non-recommended blocks). Assessment in 'Block A20' (Mix B 2 kg): 15 bags/worker, below standard; quality acceptable; bowls not uniform; ground not ready in some blocks.\n\nFY2026/27 FERTILISER PROGRAMME (Agro Appendix 1, kg/palm; programme unchanged): 2006A, 2006B, 2007A, 2007B: Mix A 2.00 in May, Aug, Dec and Mar plus BRP 0.50 Sep (2007B 0.75). 2008A/B: Mix B 2.20 May, then Mix A 2.00 Aug, Dec, Mar, BRP 0.75 Sep. 2009A, 2009B, 2010B, 2011A: Mix B 2.20 May, Mix A 2.00 Aug, 2.20 Dec, 2.00 Mar, BRP 0.75 Oct. 2011B and 2012A/B: Mix B 2.20 Jun, 2.00 Aug, 2.20 Nov, 2.00 Mar, BRP 0.75 Dec, kieserite 1.00 Sep in B23, B37, B40, B41, A43–A45, B20; extra BRP 0.75 Oct in B25, B32, B34; A04 Mix B 9.00 sub-soil in May, kieserite 1.00, BRP 0.75. Immature 20A/25A: CPD 1.20 May, Aug, Nov, 1.50 Feb, BRP 1.00 Jul.\n\nPALM APPEARANCE (Agro): improved, especially fully rehabilitated and fertilised areas; A04 greener after two Mix A rounds but not fully recovered. Localised Mg deficiency, kieserite scheduled; improve application in hills to cut leaching.\n\nPEST AND DISEASE: PA: 3 rounds of rat baiting at P06/A02; no records of rat census or baiting kept, advised to set up a format; rat damage minimal. Agro: under control.\n\nPRUNING: PA routine pruning May 2025 to March 2026: 1,598.41 of 2,496.11 ha (64%, text misprints '645'); Div A 864.36 of 1,452.00 ha (60%; 2009A 0%, 2012A 9%), Div B 754.56 of 1,071.09 (70%). Q3 payment pending. Rehab (corrective) pruning 55.93 of 56.78 ha (98%). Progressive pruning RM1/palm/year; corrective RM6/palm. Pruning satisfactory, under-pruning minimal (P12/B20). Agro Table 7 at Feb: 1,072 of 2,535 ha (42%) on payment records; actual field position better, pending payments over quality issues; some over-pruning (hanging bunches) and missed palms in ravines; corrective pruning (Table 8) mostly 100%, 07B and 09B 0%, 08B 46%; B39 and B40 still need corrective pruning.\n\nROADS AND DRAINS (PA): 3,931 of 3,931 chains graded by contract at RM54/chain (budget RM54). 500 chains of crusher-run surfacing budgeted (capex RM416,350) but none done, inefficient contractor; many collection roads need surfacing, damaged roads in P08/A06 and P12/B20. 4 Irish bridges built at RM14,900 each (one links MLP2 to MLP4). Drains: no issues, minor desilting RM3,060.65. Agro: accessibility poor after rain, especially hilly terrain.\n\nHARVESTING (PA section 7, to March 2026): RM2,640,658.78 vs budget to date RM2,247,329 (annual RM2,454,811); RM93.10/t vs 81.87: supervision RM141,074.99 (4.97 vs 5.00/t, mandores paid RM4/t vs RM5 budgeted); harvesting labour RM1,725,559.93 (60.84 vs 56.89/t, Sunday and holiday double rates not budgeted); internal transport RM774,023.86 (27.29 vs 19.97/t, high tractor running cost). 21 rounds vs 22 budgeted; interval averaged 14 days; outturn 64% (low; target above 80%); uncollected loose fruit; unripe bunches cut in the low-crop season. Rates RM52/t (2006–2008 plantings) and RM56/t (2009–2012); output 2.13 (2011) to 2.42 (2008) t/man-day; earnings RM119.28 to RM134.96/day vs RM65.38 basic wage. Agro: intervals up to 25–29 days May–Sep 2025, 11–19 days Oct–Dec, Feb 2026 10–20 days; crop recovery acceptable; 18.6 rounds in 10 months, below expectation (field range 17 to 20); unripe bunches and long stalks at ramp; oxidised loose fruit in places.\n\nCROP (PA section 8, May 2025 to March 2026): FFB 28,363.26 t vs budget to date 27,451 t (annual budget 30,000 t); last year same period 26,468.20 t. Yield 22.72 t/ha on 1,248.61 ha vs 22.42 budget (+1%), annual budget 24.50; last year same period 21.62 (PA text says 21.63 'in 2024'), +5%. CPO 5,743.03 t, OER 20.25% vs 20.38%; kernel 1,253.18 t, KER 4.42%; CPO 4.60 t/ha vs 4.57. Low crop season, many male flowers. Bunch weight rose March 2025 to March 2026 in every planting (e.g. 2006 21.2 to 22.5 kg; 2012 18.6 to 19.4 kg). Agro Table 15 yield to Feb (Period 10), FY24/25 vs FY25/26 t/ha: 06A 17.59/20.98; 07A 18.49/22.36; 08A 17.97/20.10; 09A 17.62/19.72; 11A 18.70/23.74; 12A 17.01/19.40; 06B 15.52/18.83; 07B 18.99/21.09; 08B 19.14/21.71; 09B 16.73/20.49; 10B 16.44/24.37; 11B 18.21/19.07; 12B 16.81/20.57; estate 17.83/20.97, stated +15% (arithmetic +17.6%). Best gains 10B +33% and 11A +21%; 11B and 07B lagging. Yield-limiting factors: crop recovery, ground management, accessibility, slow manuring, rehab areas with small bunches, unripe harvesting, limited tractors.\n\nCOST OF PRODUCTION (PA section 9, ending 31 March 2026, RM/t FFB actual vs year budget): general charges 73 vs 80; upkeep and cultivation 97 vs 105; harvesting and collection 93 vs 82; total ex-estate 263 vs 267. Per tonne CPO total RM1,301 vs 1,312. PA: satisfactory as crop budget was achieved. Note section 5 general charges divided by FFB give about RM79/t.\n\nVEHICLES (PA section 10): running cost RM1,250,011.90 vs RM853,150.49 year budget; tractors RM33.87/hr vs 23.16; PA found accounts inaccurate.\n\nCAPITAL EXPENDITURE (PA section 11, to March 2026): RM936,476.24 vs RM1,811,260 budget (underspent); buildings RM379,990.87 (unbudgeted cocoa nursery shading), access road RM303,128.92 (crusher run RM416,350 waiting HQ), plant and machinery RM125,725, WIP staff quarters RM114,435.45 vs RM703,000.\n\nIMMATURE P24 (B20A, B25A, 100.56 ha): PA: planting finished Jan 2026, palms satisfactory; circle spraying 365 of 804 ha (3.7 of 8 rounds, 45%) but circles clean; selective 129 of 603 ha (21%), sprayer shortage, overgrown woodies and wild bananas; manuring 1 of 5 rounds; 37 palms supplied. Agro: 5,867 planted in B20A and 3,572 in B25A (2,498 seedlings in balance); 9,439 palms, about 94 SPH, below standard, infilling ongoing; less vigour on rocky hilly soil; giant grass and wild banana; circle rounds B20A 5 complete, B25A 4; inter-row B20A 39% of round 1, B25A none.\n\nRAINFALL: PA Appendix 1 calendar years (mm, rain days): 2016 2,278/131; 2017 3,020/182; 2018 2,208/163; 2019 2,547/159; 2020 2,773/154; 2021 2,683/175; 2022 2,864/197; 2023 2,685/171; 2024 2,103/169; 2025 3,262/183. Agro Table 14 financial years: FY21/22 2,661/185; FY22/23 2,728/189; FY23/24 2,467/169; FY24/25 3,107/196; FY25/26 May–Feb 2,205/138 (Jan 2026 184 mm, Feb 195 mm). Agro: dry Jun–Jul 2025 (65, 27 mm) likely caused moisture stress and bunch abortion; wet May and Dec 2025 (423, 453 mm) raise erosion and access risk.\n\nCONCLUDING ADVICE (PA): retain harvesters through high earnings; eradicate noxious growth in stages; replace CKS with CDA and mist blowers; supervise missed woodies, loose fruit and unripe harvesting; crusher-run hilly roads. Agro: FY2027/28 programme to follow.\n\nYIELD HISTORY: neither report prints full financial-year estate yields; only Agro Table 15 (FY24/25 vs FY25/26 to February, Period 10: 17.83 vs 20.97 t/ha) and the PA crop table (May 2025 to March 2026, 11 months: 22.72 t/ha vs 21.62 same period FY24/25; FY24/25 budget to date 23.03; FY25/26 annual budget 24.50). Block yields on the dashboard are May 2025 to Feb 2026 (FY2025/26, 10 months) from Agro Table 15; the comparison column is the same 10 months of FY2024/25 (May 2024 to Feb 2025).\n\nDATA CAVEATS: circle spraying 70% stated vs 30% from its own hectares; general charges RM73/t printed vs RM79/t from section 5; labour surplus 18 printed vs 34; pruning 64% PA vs 42% Agro; kieserite recorded complete but blocks missed; Agro +15% vs +17.6%; Agro cites non-existent blocks (A20, B04, A34, B42); immature area 101.38 vs 100.56 ha; PA immature selective table areas wrong. See issues.",
+ "costDetail": {
+  "period": "May 2025–Mar 2026 (FY2025/26, 11 months)",
+  "src": "Planting Advisory Report 01/2026, sections 5, 6, 7 and 9 (ending March 2026)",
+  "ffb": 28363.26,
+  "groups": [
+   {
+    "name": "Harvest & collection",
+    "actual": 93,
+    "budget": 82,
+    "items": [
+     {
+      "item": "Supervision",
+      "actual": 4.97,
+      "budget": 5.0
+     },
+     {
+      "item": "Harvesting labour",
+      "actual": 60.84,
+      "budget": 56.89
+     },
+     {
+      "item": "Internal transport",
+      "actual": 27.29,
+      "budget": 19.97
+     }
+    ]
+   },
+   {
+    "name": "Upkeep & cultivation",
+    "actual": 97,
+    "budget": 105,
+    "items": [
+     {
+      "item": "Upkeep supervision",
+      "actual": 1,
+      "budget": 1
+     },
+     {
+      "item": "Selective spraying & lalang",
+      "actual": 3,
+      "budget": 4
+     },
+     {
+      "item": "Harvesting access/circle",
+      "actual": 6,
+      "budget": 5
+     },
+     {
+      "item": "Manuring - labour",
+      "actual": 4,
+      "budget": 4
+     },
+     {
+      "item": "Manuring - material",
+      "actual": 38,
+      "budget": 47
+     },
+     {
+      "item": "Manuring - transport",
+      "actual": 4,
+      "budget": 7
+     },
+     {
+      "item": "Pests & diseases",
+      "actual": 0,
+      "budget": 0
+     },
+     {
+      "item": "Census & thinning out",
+      "actual": 0,
+      "budget": 0
+     },
+     {
+      "item": "Drains",
+      "actual": 0,
+      "budget": 1
+     },
+     {
+      "item": "Roads & bridges",
+      "actual": 35,
+      "budget": 30
+     },
+     {
+      "item": "Soil/water conservation",
+      "actual": 1,
+      "budget": 0
+     },
+     {
+      "item": "Boundaries, survey, fences",
+      "actual": 1,
+      "budget": 0
+     },
+     {
+      "item": "Pruning",
+      "actual": 4,
+      "budget": 5
+     },
+     {
+      "item": "Tools",
+      "actual": 0,
+      "budget": 0
+     }
+    ]
+   },
+   {
+    "name": "General charges",
+    "actual": 73,
+    "budget": 80,
+    "items": [
+     {
+      "item": "Staff salary & allowance",
+      "actual": 18.96,
+      "budget": 18.24,
+      "calc": true
+     },
+     {
+      "item": "Staff bonus",
+      "actual": 4.05,
+      "budget": 3.82,
+      "calc": true
+     },
+     {
+      "item": "Staff EPF",
+      "actual": 3.73,
+      "budget": 2.99,
+      "calc": true
+     },
+     {
+      "item": "Labour EPF",
+      "actual": 2.47,
+      "budget": 1.62,
+      "calc": true
+     },
+     {
+      "item": "Labour welfare & benefit",
+      "actual": 4.0,
+      "budget": 2.95,
+      "calc": true
+     },
+     {
+      "item": "Labour recruitment",
+      "actual": 1.85,
+      "budget": 8.79,
+      "calc": true
+     },
+     {
+      "item": "Labour paid leave",
+      "actual": 7.69,
+      "budget": 6.3,
+      "calc": true
+     },
+     {
+      "item": "General office expenses",
+      "actual": 2.15,
+      "budget": 1.97,
+      "calc": true
+     },
+     {
+      "item": "Cess/rate/rent",
+      "actual": 3.78,
+      "budget": 3.57,
+      "calc": true
+     },
+     {
+      "item": "Security",
+      "actual": 2.88,
+      "budget": 2.72,
+      "calc": true
+     },
+     {
+      "item": "Water/electricity",
+      "actual": 12.3,
+      "budget": 11.84,
+      "calc": true
+     },
+     {
+      "item": "Transport & travelling",
+      "actual": 2.0,
+      "budget": 1.31,
+      "calc": true
+     },
+     {
+      "item": "Weighbridge expenses",
+      "actual": 1.86,
+      "budget": 1.36,
+      "calc": true
+     },
+     {
+      "item": "Other (25 items: insurance, labour medical, staff reimbursement, staff accommodation, labour SOCSO & EIS, building maintenance, OSHA/DOSH, upkeep lines, computer, donation, staff SOCSO, stationery, non-cap assets, staff EIS, subscriptions, MSPO, staff medical, office equipment, licences, telecoms, other, bank charges, assessment, fringe benefit, staff welfare)",
+      "actual": 11.5,
+      "budget": 12.86,
+      "calc": true
+     }
+    ]
+   }
+  ],
+  "total": {
+   "actual": 263,
+   "budget": 267
+  },
+  "notes": [
+   "Group and total figures are the whole-ringgit RM/t printed in the PA Cost of Production table (section 9, ending 31 March 2026, 11 months). Harvesting & Collection table (section 7) prints the group more precisely as RM93.10/t actual vs RM81.87/t budget to date (RM81.83 annual budget); the 3 items sum exactly to 93.10 / 81.87.",
+   "Upkeep items are the RM/t printed in the section 6 table, rounded to whole ringgit by the report (several items show 0). They sum to 97 actual and 104 budget vs printed 105 (rounding). Actual RM2,762,062 / 28,363 t = RM97.38/t; budget RM/t = year budget RM2,893,471 / 27,451 t budget-to-date FFB (= RM105.40), mixing a 12-month budget amount with 11-month budget crop.",
+   "General-charge items are calc: 11-month actual RM / 28,363.26 t; budget = year budget RM / 30,000 t annual budget FFB (the basis that reproduces the printed RM80/t). Calculated item sum is RM79.22/t actual and RM80.35/t budget, but section 9 prints RM73/t actual; the printed RM73 cannot be reproduced from the RM2,246,973 in section 5 (difference about RM6/t, roughly RM175,000).",
+   "38 general-charge lines: the 13 largest kept, 25 smaller lines summed as Other (RM326,080 actual, RM385,771 budget). Staff EIS (-RM5,189) and labour fringe benefit (-RM6) are credits included in Other.",
+   "Table headers in section 6 say 'Actual 5M' and 'Actual 12M RM/t' but the figures are the 11 months May 2025–Mar 2026."
+  ]
+ },
+ "ytdCurrent": {
+  "year": 2026,
+  "label": "FY2025/26",
+  "period": "May 2025–Mar 2026",
+  "yph": 22.72,
+  "prevSame": 21.62,
+  "src": "Planting Advisory Report 01/2026 section 8 (crop table, 11 months)"
+ }
+}
