@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>UMB Estate Dashboards · PARAS</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;700&family=Archivo+Narrow:wght@500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<link rel="stylesheet" href="/assets/style.css">
+<style>
+.hero{display:grid;gap:12px}
+.search input{width:100%;font:19px var(--f-body);padding:12px 14px;border-radius:8px;border:0;background:var(--band-fg);color:var(--band)}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(min(100%,300px),1fr));gap:12px}
+.ec{display:grid;gap:10px;text-decoration:none;color:var(--fg);background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:18px 20px}
+.ec:hover{border-color:var(--accent)}
+.ec:focus-visible{outline:2px solid var(--fruit);outline-offset:2px}
+.ec .n{font-family:var(--f-display);font-size:24px;font-weight:700;line-height:1.15}
+.ec .a{font-size:17.5px;color:var(--muted);font-variant-numeric:tabular-nums}
+.ec .go{font-weight:600;color:var(--accent)}
+.count{font-size:15.5px;color:var(--muted)}
+</style>
+</head>
+<body>
+<header class="band">
+ <div class="in hero">
+  <div class="eyebrow">PARAS Sdn Bhd · Plantation advisory</div>
+  <h1>United Malacca Bhd · Estate Dashboards</h1>
+  <div class="meta">Each estate's latest Planting Advisory and Agronomy reports, as charts and figures.</div>
+  <div class="search">
+   <label for="q" class="sr">Search estates</label>
+   <input id="q" type="search" placeholder="Search an estate, e.g. Machap or Haruan" autocomplete="off">
+  </div>
+ </div>
+</header>
+<main><div class="in">
+ <p class="count" id="cnt" aria-live="polite"></p>
+ <div class="grid" id="grid"></div>
+</div></main>
+<footer class="foot"><div class="in">Figures are as written in PARAS Planting Advisory and Agronomy reports.</div></footer>
+<script>
+(function(){
+const $=id=>document.getElementById(id);
+const esc=s=>String(s==null?"":s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const fmt=(n,d=0)=>n==null?"–":Number(n).toLocaleString("en-MY",{minimumFractionDigits:d,maximumFractionDigits:d});
+let E=[];
+const MN=["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
+const mon=d=>{const m=String(d).match(/^(\d{4})-(\d{2})/);return m?MN[+m[2]-1]+" "+m[1]:d};
+function draw(){
+ const q=$("q").value.trim().toLowerCase();
+ const nm=e=>e.name.replace(/^Ladang /,"").replace(/ Estate$/,"");
+ const L=E.filter(e=>!q||(e.name+" "+(e.company||"")+" "+e.slug).toLowerCase().includes(q)).sort((a,b)=>nm(a).localeCompare(nm(b)));
+ $("cnt").textContent=`${L.length} of ${E.length} estates`;
+ $("grid").innerHTML=L.map(e=>{const pl=e.area&&e.area.planted;
+  return `<a class="ec" href="${esc(e.href)}">
+   <div class="n">${esc(e.name.replace(/^Ladang /,"").replace(/ Estate$/,""))}</div>
+   <div class="a">Planted area: ${pl!=null?fmt(pl,2)+" ha":"–"}</div>
+   <div class="a">Latest report: ${e.latest?mon(e.latest):"–"}</div>
+   <div class="go">View dashboard →</div>
+  </a>`}).join("")||`<p class="empty">No estates match “${esc(q)}”.</p>`;
+}
+fetch("/data/index.json").then(r=>r.json()).then(j=>{E=j.estates;draw()});
+$("q").addEventListener("input",draw);
+})();
+</script>
+</body>
+</html>
