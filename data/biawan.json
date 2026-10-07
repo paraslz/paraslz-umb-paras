@@ -298,7 +298,300 @@
      "src": "Agro 1/2026",
      "text": "Occasional incomplete loose fruit collection in BP24-12A1; over-spraying and bare ground in BM44-12A1."
     }
-   ]
+   ],
+   "detail": {
+    "manuring": [
+     {
+      "k": "Compost application 2025",
+      "v": "BR37-12A1 (11.13 ha) 223 mt on 14.55 ha = 131%; BR39-12A1 (17.78 ha) 356 mt on 25.78 ha = 145%; BR40-12A1 (20.53 ha) 411 mt on 19.99 ha = 97%; BR38-12A1 (22.43 ha) 449 mt on 33.52 ha = 149%. YP2012 total 71.87 ha, 1,437 mt on 93.84 ha at 20 t/ha = 131% of area. Application inconsistent, so compost is not counted as a fertiliser substitute.",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "spraying": [
+     {
+      "k": "Spraying FY2025/26 · BM41-12A1",
+      "v": "BM41-12A1 (32.47 ha), FY2025/26 (May 2025–Apr 2026): circle: 97.41 ha sprayed = 300% of 3 budgeted rounds, month completed Jun 2025, remark '3rd round completed'; selective: 97.41 ha sprayed = 300% of 3 budgeted rounds, month completed Jun 2025, remark '3rd round completed'.",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Spraying FY2025/26 · BM42-12A1",
+      "v": "BM42-12A1 (23.57 ha), FY2025/26 (May 2025–Apr 2026): circle: 70.71 ha sprayed = 300% of 3 budgeted rounds, month completed Jun 2025, remark '3rd round completed'; selective: 70.71 ha sprayed = 300% of 3 budgeted rounds, month completed Jun 2025, remark '3rd round completed'.",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Spraying FY2025/26 · BN41-12A1",
+      "v": "BN41-12A1 (27.17 ha), FY2025/26 (May 2025–Apr 2026): circle: 81.51 ha sprayed = 300% of 3 budgeted rounds, month completed Jun 2025, remark '3rd round completed'; selective: 81.51 ha sprayed = 300% of 3 budgeted rounds, month completed Jun 2025, remark '3rd round completed'.",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Spraying FY2025/26 · BN42-12A1",
+      "v": "BN42-12A1 (44.90 ha), FY2025/26 (May 2025–Apr 2026): circle: 134.70 ha sprayed = 300% of 3 budgeted rounds, month completed Jun 2025, remark '3rd round completed'; selective: 134.70 ha sprayed = 300% of 3 budgeted rounds, month completed Jun 2025, remark '3rd round completed'.",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Spraying FY2025/26 · BN43-12A1",
+      "v": "BN43-12A1 (37.31 ha), FY2025/26 (May 2025–Apr 2026): circle: 111.93 ha sprayed = 300% of 3 budgeted rounds, month completed Jun 2025, remark '3rd round completed'; selective: 111.93 ha sprayed = 300% of 3 budgeted rounds, month completed Jun 2025, remark '3rd round completed'.",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Spraying FY2025/26 · BN44-12A1",
+      "v": "BN44-12A1 (19.25 ha), FY2025/26 (May 2025–Apr 2026): circle: 57.75 ha sprayed = 300% of 3 budgeted rounds, month completed Jun 2025, remark '3rd round completed'; selective: 57.75 ha sprayed = 300% of 3 budgeted rounds, month completed Jun 2025, remark '3rd round completed'.",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Spraying FY2025/26 · BM43-12A1",
+      "v": "BM43-12A1 (24.57 ha), FY2025/26 (May 2025–Apr 2026): circle: 75.21 ha sprayed = 306% of 3 budgeted rounds, month completed Jun 2025, remark '3rd round completed'; selective: 75.21 ha sprayed = 306% of 3 budgeted rounds, month completed Jun 2025, remark '2nd round completed'.",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Spraying FY2025/26 · BM44-12A1",
+      "v": "BM44-12A1 (30.65 ha), FY2025/26 (May 2025–Apr 2026): circle: 61.25 ha sprayed = 200% of 3 budgeted rounds, month completed Jun 2025, remark '2nd round completed'; selective: 91.95 ha sprayed = 300% of 3 budgeted rounds, month completed Jun 2025, remark '2nd round completed'.",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Spraying FY2025/26 · BM45-12A1",
+      "v": "BM45-12A1 (27.85 ha), FY2025/26 (May 2025–Apr 2026): circle: 55.70 ha sprayed = 200% of 3 budgeted rounds, month completed Jun 2025, remark '3rd round completed'; selective: 83.56 ha sprayed = 300% of 3 budgeted rounds, month completed Jun 2025, remark '2nd round completed'.",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Spraying FY2025/26 · BM46-12A1",
+      "v": "BM46-12A1 (27.44 ha), FY2025/26 (May 2025–Apr 2026): circle: 82.32 ha sprayed = 300% of 3 budgeted rounds, month completed Jun 2025, remark '3rd round completed'; selective: 82.32 ha sprayed = 300% of 3 budgeted rounds, month completed Jun 2025, remark '3rd round completed'.",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Spraying FY2025/26 · BM47-12A1",
+      "v": "BM47-12A1 (34.70 ha), FY2025/26 (May 2025–Apr 2026): circle: 104.10 ha sprayed = 300% of 3 budgeted rounds, month completed Jun 2025, remark '3rd round completed'; selective: 69.40 ha sprayed = 200% of 3 budgeted rounds, month completed Jun 2025, remark '2nd round completed'.",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Spraying FY2025/26 · BN45-12A1",
+      "v": "BN45-12A1 (34.22 ha), FY2025/26 (May 2025–Apr 2026): circle: 105.65 ha sprayed = 309% of 3 budgeted rounds, month completed Jun 2025, remark '3rd round completed'; selective: 105.65 ha sprayed = 309% of 3 budgeted rounds, month completed Jun 2025, remark '2nd round completed'.",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Spraying FY2025/26 · BM24-12A1",
+      "v": "BM24-12A1 (25.88 ha), FY2025/26 (May 2025–Apr 2026): circle: 51.76 ha sprayed = 200% of 3 budgeted rounds, month completed Sep 2025, remark '2nd round completed'; selective: 77.64 ha sprayed = 300% of 3 budgeted rounds, month completed Jun 2025, remark '2nd round completed'.",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Spraying FY2025/26 · BN24-12A1",
+      "v": "BN24-12A1 (31.02 ha), FY2025/26 (May 2025–Apr 2026): circle: 62.04 ha sprayed = 200% of 3 budgeted rounds, month completed Sep 2025, remark '2nd round completed'; selective: 62.04 ha sprayed = 200% of 3 budgeted rounds, month completed Aug 2025, remark '2nd round completed'.",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Spraying FY2025/26 · BO24-12A1",
+      "v": "BO24-12A1 (25.28 ha), FY2025/26 (May 2025–Apr 2026): circle: 50.56 ha sprayed = 200% of 3 budgeted rounds, month completed Aug 2025, remark '2nd round completed'; selective: 50.56 ha sprayed = 200% of 3 budgeted rounds, month completed Aug 2025, remark '2nd round completed'.",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Spraying FY2025/26 · BP24-12A1",
+      "v": "BP24-12A1 (34.23 ha), FY2025/26 (May 2025–Apr 2026): circle: 68.46 ha sprayed = 200% of 3 budgeted rounds, month completed Aug 2025, remark '2nd round completed'; selective: 68.46 ha sprayed = 200% of 3 budgeted rounds, month completed Aug 2025, remark '2nd round completed'.",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Spraying FY2025/26 · BP30-12A1",
+      "v": "BP30-12A1 (10.98 ha), FY2025/26 (May 2025–Apr 2026): circle: 32.94 ha sprayed = 300% of 3 budgeted rounds, month completed Jul 2025, remark '3rd round completed'; selective: 32.94 ha sprayed = 300% of 3 budgeted rounds, month completed Jul 2025, remark '3rd round completed'.",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Spraying FY2025/26 · BR37-12A1",
+      "v": "BR37-12A1 (11.13 ha), FY2025/26 (May 2025–Apr 2026): circle: 22.26 ha sprayed = 200% of 3 budgeted rounds, month completed Sep 2025, remark '3rd round completed'; selective: 22.26 ha sprayed = 200% of 3 budgeted rounds, month completed Sep 2025, remark '1st round completed'.",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Spraying FY2025/26 · BR38-12A1",
+      "v": "BR38-12A1 (22.43 ha), FY2025/26 (May 2025–Apr 2026): circle: 44.86 ha sprayed = 200% of 3 budgeted rounds, month completed Sep 2025, remark '3rd round completed'; selective: 44.75 ha sprayed = 200% of 3 budgeted rounds, month completed Sep 2025, remark '2nd round completed'.",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Spraying FY2025/26 · BR39-12A1",
+      "v": "BR39-12A1 (17.78 ha), FY2025/26 (May 2025–Apr 2026): circle: 35.56 ha sprayed = 200% of 3 budgeted rounds, month completed Sep 2025, remark '3rd round completed'; selective: 35.56 ha sprayed = 200% of 3 budgeted rounds, month completed Sep 2025, remark '2nd round completed'.",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Spraying FY2025/26 · BR40-12A1",
+      "v": "BR40-12A1 (20.53 ha), FY2025/26 (May 2025–Apr 2026): circle: 41.06 ha sprayed = 200% of 3 budgeted rounds, month completed Jul 2025, remark '3rd round completed'; selective: 41.06 ha sprayed = 200% of 3 budgeted rounds, month completed Jul 2025, remark '2nd round completed'.",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Over-spraying BM44-12A1 (May 2026)",
+      "v": "Over-spraying (blanket spraying) seen in BM44-12A1 at the 19 May 2026 visit; blanket spraying should not be routine, follow up with selective weeding to keep soft cover.",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "pests": [
+     {
+      "k": "Rat damage census Sep 2025–Mar 2026",
+      "v": "BN42-12A1 census 06 Dec 2025: 6430 palms sampled on 44.9 ha, old damage L1 525 palms (8.16%), fresh damage L2 325 palms (5.05%) (fresh damage above 5% baiting threshold); BN44-12A1 census 09 Dec 2025: 2826 palms sampled on 19.25 ha, old damage L1 177 palms (6.26%), fresh damage L2 60 palms (2.12%); BN41-12A1 census 10 Dec 2025: 3870 palms sampled on 27.17 ha, old damage L1 157 palms (4.06%), fresh damage L2 128 palms (3.31%); BM45-12A1 census 30 Mar 2026: 3942 palms sampled on 27.85 ha, old damage L1 409 palms (10.38%), fresh damage L2 216 palms (5.48%) (fresh damage above 5% baiting threshold); BM46-12A1 census 30 Mar 2026: 3874 palms sampled on 27.44 ha, old damage L1 178 palms (4.59%), fresh damage L2 51 palms (1.32%); BM44-12A1 census 31 Mar 2026: 4360 palms sampled on 30.65 ha, old damage L1 389 palms (8.92%), fresh damage L2 222 palms (5.09%) (fresh damage above 5% baiting threshold); BO24-12A1 census 07 Nov 2025: 3586 palms sampled on 25.28 ha, old damage L1 360 palms (10.04%), fresh damage L2 324 palms (9.04%) (fresh damage above 5% baiting threshold); BP24-12A1 census 08 Nov 2025: 5025 palms sampled on 34.23 ha, old damage L1 286 palms (5.69%), fresh damage L2 252 palms (5.01%) (fresh damage above 5% baiting threshold); BP30-12A1 census 12 Nov 2025: 1594 palms sampled on 10.98 ha, old damage L1 88 palms (5.52%), fresh damage L2 20 palms (1.25%). Baiting campaign Dec 2025–Mar 2026 in blocks with L2 over 5%; fresh damage now minimal (May 2026).",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "yield": [
+     {
+      "k": "FY2025/26 (May 2025–Apr 2026) yield",
+      "v": "19.03 t/ha in FY2025/26 (May 2025–Apr 2026) vs 15.33 t/ha in FY2024/25 (May 2024–Apr 2025); estate average 14.64 vs 12.33 (+18.7%).",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "FY2018/19–FY2023/24 (2018–2024) yield",
+      "v": "FFB t/ha by financial year (May–Apr): FY2018/19 9.89; FY2019/20 14.14; FY2020/21 11.96; FY2021/22 8; FY2022/23 9.69; FY2023/24 13.94.",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Bunch weight Apr 2026",
+      "v": "Average bunch weight 10.9 kg in April 2026 vs 8.3 kg in April 2025; PA notes older plantings still low but rising.",
+      "src": "PA 2/2026"
+     }
+    ],
+    "harvesting": [
+     {
+      "k": "Harvester rate & output FY2025/26",
+      "v": "Harvest rate RM25/t, output 1.72 t/man-day, average earning RM43/day vs basic wage RM34 (FY2025/26, to Apr 2026).",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Loose fruit BP24-12A1 (May 2026)",
+      "v": "Occasional incomplete loose fruit collection in BP24-12A1 (printed PB24-12A1); loose fruit collection photographed; recommended scraper design in use (19 May 2026).",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Loose fruit at platform BR38-12A1 (May 2026)",
+      "v": "Uncollected over-ripe/rotten loose fruit at the collection platform in BR38-12A1 (19 May 2026).",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "pruning": [
+     {
+      "k": "Pruning FY2025/26 (to Apr 2026)",
+      "v": "Progressive pruning FY2025/26 on 563.36 ha: 888.11 ha of 1690.08 ha programme to date (53%). Corrective (special) pruning 5.30 ha completed.",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Pruning quality (May 2026)",
+      "v": "Pruning quality acceptable in BM44-12A1, BN42-12A1, BO24-12A1, BP24-12A1, BR38-12A1 (19 May 2026).",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "field": [
+     {
+      "k": "Bare ground (May 2026)",
+      "v": "Bare ground condition in BM44-12A1, BR38-12A1 at the 19 May 2026 visit; sparse/bare area has increased since Agro 2-2025, raising erosion, moisture-loss and runoff risk; encourage soft grasses or Nephrolepis.",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Sparse soft grasses (May 2026)",
+      "v": "Mostly bare areas with growth of sparse soft grasses in BN42-12A1, BP24-12A1 (19 May 2026 visit).",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Palm census Apr 2026",
+      "v": "Palm census Apr 2026: 80591 palms on 563.36 ha, 143 palms/ha (same as previous census Oct–Nov 2024); 21 sub-blocks (Apr 2026).",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Flood-prone area (May 2026)",
+      "v": "52.95 ha flood-prone of 383.95 ha surveyed (14%); low-lying areas prone to periodic flooding and prolonged waterlogging favour bracken ferns.",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Supplying 2023–2025",
+      "v": "Palms supplied: 2024 837; total 837 (estate 44,953). 2025 supplies estate-wide: 5,535 planted May–Oct 2025, 1,884 died (34%).",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Sub-blocks (PA Appendix 1, Aug 2026)",
+      "v": "BM41-12A1 32.47 ha, 4,665 palms, 144/ha, planted Sep, PPKS; BM42-12A1 23.57 ha, 3,371 palms, 143/ha, planted Sep, PPKS; BN41-12A1 27.17 ha, 3,881 palms, 143/ha, planted Sep, PPKS; BN42-12A1 44.90 ha, 6,366 palms, 142/ha, planted Dec, PPKS; BN43-12A1 37.31 ha, 5,337 palms, 143/ha, planted Dec, PPKS; BN44-12A1 19.25 ha, 2,824 palms, 147/ha, planted Nov, PPKS; BM43-12A1 24.57 ha, 3,483 palms, 142/ha, planted Oct, Socfindo; BM44-12A1 30.65 ha, 4,360 palms, 142/ha, planted Nov, Socfindo; BM45-12A1 27.85 ha, 3,981 palms, 143/ha, planted Oct, Socfindo; BM46-12A1 27.44 ha, 3,874 palms, 141/ha, planted Nov, Socfindo; BM47-12A1 34.70 ha, 4,989 palms, 144/ha, planted Nov, Socfindo; BN45-12A1 34.22 ha, 4,667 palms, 136/ha, planted Oct, Socfindo; BM24-12A1 25.88 ha, 3,834 palms, 148/ha, planted Nov, Socfindo; BN24-12A1 31.02 ha, 4,509 palms, 145/ha, planted Dec, Socfindo; BO24-12A1 25.28 ha, 3,758 palms, 149/ha, planted Dec, Socfindo; BP24-12A1 34.23 ha, 5,053 palms, 148/ha, planted Dec, Socfindo; BP30-12A1 10.98 ha, 1,608 palms, 146/ha, planted Dec, PPKS; BR37-12A1 11.13 ha, 1,562 palms, 140/ha, planted Dec, Socfindo; BR38-12A1 22.43 ha, 3,085 palms, 138/ha, planted Nov, Socfindo; BR39-12A1 17.78 ha, 2,529 palms, 142/ha, planted Nov, Socfindo; BR40-12A1 20.53 ha, 2,855 palms, 139/ha, planted Dec, Socfindo. Soil all Tropaquepts.",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Frond stacking BN42/BP24 (May 2026)",
+      "v": "Localized implementation of recommended frond stacking in BN42-12A1 and BP24-12A1; elsewhere fronds mostly in straight lines (19 May 2026).",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "other": [
+     {
+      "k": "PA visit photos Aug 2026",
+      "v": "Photos at the 22 and 24 Aug 2026 visit: N44/12A1 clean circles, jungle woodies and sprayed woodies, pruned palms.",
+      "src": "PA 2/2026"
+     }
+    ],
+    "fertNow": {
+     "year": "FY2026/27",
+     "rows": [
+      {
+       "k": "Jun 2026",
+       "v": "Mix B 2,200 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Sep 2026",
+       "v": "Mix B 2,200 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Oct 2026",
+       "v": "RP 1,700 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Jan 2027",
+       "v": "Mix B 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Mar 2027",
+       "v": "Mix B 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Notes",
+       "v": "FY2026/27 (May 2026–Apr 2027) programme, no amendment at Agro 1/2026 (same as the revised programme in Agro 2/2025). Mix B = 45% SOA, 40% MOP, 14% kieserite, 1% borate; RP 28–30% P2O5; compound 14:13:9:2.5. No incomplete FY2026/27 programme to be carried beyond Apr 2027. Total per palm per year not printed.",
+       "src": "Agro 1/2026"
+      }
+     ]
+    },
+    "progress": {
+     "spraying": [
+      {
+       "k": "Interrow weeding rd 1",
+       "pct": 100,
+       "note": "566.35 ha",
+       "src": "Agro 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Interrow weeding rd 2",
+       "pct": 100,
+       "note": "566.35 ha",
+       "src": "Agro 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Circle weeding rd 1",
+       "pct": 100,
+       "note": "566.35 ha",
+       "src": "Agro 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Circle weeding rd 2",
+       "pct": 100,
+       "note": "566.35 ha",
+       "src": "Agro 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Circle weeding rd 3",
+       "pct": 52,
+       "note": "566.35 ha",
+       "src": "Agro 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "FY2025/26 (May 2025–Apr 2026), latest period reported; no FY2026/27 progress in the reports"
+    }
+   }
   },
   {
    "id": "P2013",
@@ -323,7 +616,492 @@
      "src": "Agro 1/2026",
      "text": "2025 compost only 69% of area (BQ38 11%, BQ39 18%); slight under-pruning in BQ44-13A1; BM49 drain bunches now cleared."
     }
-   ]
+   ],
+   "detail": {
+    "manuring": [
+     {
+      "k": "Compost application 2025",
+      "v": "BQ33-13A1 (22.44 ha) 449 mt on 13.42 ha = 60%; BQ34-13A1 (44.58 ha) 892 mt on 20.85 ha = 47%; BQ35-13A1 (27.29 ha) 546 mt on 13.76 ha = 50%; BQ36-13A1 (31.23 ha) 625 mt on 32.42 ha = 104%; BQ37-13A1 (34.20 ha) 684 mt on 20.67 ha = 60%; BQ38-13A1 (32.65 ha) 653 mt on 3.62 ha = 11%; BQ39-13A1 (32.67 ha) 653 mt on 5.85 ha = 18%; BQ40-13A1 (32.04 ha) 641 mt on 31.15 ha = 97%; BQ41-13A1 (34.68 ha) 694 mt on 23.41 ha = 67%; BQ42-13A1 (33.93 ha) 679 mt on 22.83 ha = 67%; BQ43-13A1 (36.33 ha) 727 mt on 8.80 ha = 24%; BQ44-13A1 (38.45 ha) 769 mt on 26.89 ha = 70%. YP2013 total 325.71 ha, 8,010 mt on 223.66 ha at 20 t/ha = 69% of area. Application inconsistent, so compost is not counted as a fertiliser substitute.",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Compost heaps BQ37/BP34 (May 2026)",
+      "v": "Compost dumped in heaps 5–6 ft high along the main road in BQ37-13A1 and BP34-13A1 before interrow application; do a one-time decomposition check (probe thermometer, C/N samples 2 ft deep every 2 weeks).",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "spraying": [
+     {
+      "k": "Spraying FY2025/26 · BM48-13A1",
+      "v": "BM48-13A1 (27.56 ha), FY2025/26 (May 2025–Apr 2026): circle: 82.68 ha sprayed = 300% of 3 budgeted rounds, month completed Jun 2025, remark '3rd round completed'; selective: 82.68 ha sprayed = 300% of 3 budgeted rounds, month completed Jun 2025, remark '2nd round completed'.",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Spraying FY2025/26 · BM49-13A1",
+      "v": "BM49-13A1 (33.13 ha), FY2025/26 (May 2025–Apr 2026): circle: 66.26 ha sprayed = 200% of 3 budgeted rounds, month completed Jun 2025, remark '2nd round completed'; selective: 99.39 ha sprayed = 300% of 3 budgeted rounds, month completed Jun 2025, remark '2nd round completed'.",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Spraying FY2025/26 · BM50-13A1",
+      "v": "BM50-13A1 (28.74 ha), FY2025/26 (May 2025–Apr 2026): circle: 57.48 ha sprayed = 200% of 3 budgeted rounds, month completed Jun 2025, remark '2nd round completed'; selective: 86.22 ha sprayed = 300% of 3 budgeted rounds, month completed Jun 2025, remark '2nd round completed'.",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Spraying FY2025/26 · BN46-13A1",
+      "v": "BN46-13A1 (25.50 ha), FY2025/26 (May 2025–Apr 2026): circle: 76.50 ha sprayed = 300% of 3 budgeted rounds, month completed Jun 2025, remark '3rd round completed'; selective: 76.50 ha sprayed = 300% of 3 budgeted rounds, month completed Jun 2025, remark '2nd round completed'.",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Spraying FY2025/26 · BN47-13A1",
+      "v": "BN47-13A1 (19.87 ha), FY2025/26 (May 2025–Apr 2026): circle: 74.35 ha sprayed = 374% of 3 budgeted rounds, month completed Jun 2025, remark '3rd round completed'; selective: 74.35 ha sprayed = 374% of 3 budgeted rounds, month completed Jun 2025, remark '2nd round completed'.",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Spraying FY2025/26 · BN48-13A1",
+      "v": "BN48-13A1 (29.89 ha), FY2025/26 (May 2025–Apr 2026): circle: 130.44 ha sprayed = 436% of 3 budgeted rounds, month completed Jun 2025, remark '3rd round completed'; selective: 119.52 ha sprayed = 400% of 3 budgeted rounds, month completed Jun 2025, remark '3rd round completed'.",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Spraying FY2025/26 · BN49-13A1",
+      "v": "BN49-13A1 (12.49 ha), FY2025/26 (May 2025–Apr 2026): circle: 49.66 ha sprayed = 398% of 3 budgeted rounds, month completed Jun 2025, remark '3rd round completed'; selective: 38.11 ha sprayed = 305% of 3 budgeted rounds, month completed Jun 2025, remark '2nd round completed'.",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Spraying FY2025/26 · BN50-13A1",
+      "v": "BN50-13A1 (25.54 ha), FY2025/26 (May 2025–Apr 2026): circle: 76.62 ha sprayed = 300% of 3 budgeted rounds, month completed Jun 2025, remark '3rd round completed'; selective: 76.62 ha sprayed = 300% of 3 budgeted rounds, month completed Jun 2025, remark '2nd round completed'.",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Spraying FY2025/26 · BO46-13A1",
+      "v": "BO46-13A1 (26.39 ha), FY2025/26 (May 2025–Apr 2026): circle: 79.17 ha sprayed = 300% of 3 budgeted rounds, month completed Jun 2025, remark '3rd round completed'; selective: 79.17 ha sprayed = 300% of 3 budgeted rounds, month completed Jun 2025, remark '2nd round completed'.",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Spraying FY2025/26 · BO48-13A1",
+      "v": "BO48-13A1 (53.82 ha), FY2025/26 (May 2025–Apr 2026): circle: 162.81 ha sprayed = 303% of 3 budgeted rounds, month completed Jun 2025, remark '3rd round completed'; selective: 162.46 ha sprayed = 302% of 3 budgeted rounds, month completed Jun 2025, remark '2nd round completed'.",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Spraying FY2025/26 · BO49-13A1",
+      "v": "BO49-13A1 (40.83 ha), FY2025/26 (May 2025–Apr 2026): circle: 122.49 ha sprayed = 300% of 3 budgeted rounds, month completed Nov 2025, remark '3rd round completed'; selective: 122.49 ha sprayed = 300% of 3 budgeted rounds, month completed Nov 2025, remark '2nd round completed'.",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Spraying FY2025/26 · BO50-13A1",
+      "v": "BO50-13A1 (44.38 ha), FY2025/26 (May 2025–Apr 2026): circle: 133.14 ha sprayed = 300% of 3 budgeted rounds, month completed Nov 2025, remark '3rd round completed'; selective: 133.14 ha sprayed = 300% of 3 budgeted rounds, month completed Nov 2025, remark '2nd round completed'.",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Spraying FY2025/26 · BP48-13A1",
+      "v": "BP48-13A1 (30.83 ha), FY2025/26 (May 2025–Apr 2026): circle: 61.66 ha sprayed = 200% of 3 budgeted rounds, month completed Nov 2025, remark '2nd round completed'; selective: 61.66 ha sprayed = 200% of 3 budgeted rounds, month completed Nov 2025, remark '2nd round completed'.",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Spraying FY2025/26 · BP49-13A1",
+      "v": "BP49-13A1 (23.73 ha), FY2025/26 (May 2025–Apr 2026): circle: 47.46 ha sprayed = 200% of 3 budgeted rounds, month completed Nov 2025, remark '2nd round completed'; selective: 47.46 ha sprayed = 200% of 3 budgeted rounds, month completed Nov 2025, remark '2nd round completed'.",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Spraying FY2025/26 · BP50-13A1",
+      "v": "BP50-13A1 (23.77 ha), FY2025/26 (May 2025–Apr 2026): circle: 74.82 ha sprayed = 315% of 3 budgeted rounds, month completed Nov 2025, remark '3rd round completed'; selective: 74.82 ha sprayed = 315% of 3 budgeted rounds, month completed Nov 2025, remark '2nd round completed'.",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Spraying FY2025/26 · BP51-13A1",
+      "v": "BP51-13A1 (22.32 ha), FY2025/26 (May 2025–Apr 2026): circle: 79.99 ha sprayed = 358% of 3 budgeted rounds, month completed Nov 2025, remark '3rd round completed'; selective: 89.28 ha sprayed = 400% of 3 budgeted rounds, month completed Nov 2025, remark '2nd round completed'.",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Spraying FY2025/26 · BP52-13A1",
+      "v": "BP52-13A1 (23.89 ha), FY2025/26 (May 2025–Apr 2026): circle: 96.79 ha sprayed = 405% of 3 budgeted rounds, month completed Oct 2025, remark '3rd round completed'; selective: 96.93 ha sprayed = 406% of 3 budgeted rounds, month completed Oct 2025, remark '3rd round completed'.",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Spraying FY2025/26 · BP25-13A1",
+      "v": "BP25-13A1 (11.08 ha), FY2025/26 (May 2025–Apr 2026): circle: 22.16 ha sprayed = 200% of 3 budgeted rounds, month completed Jul 2025, remark '2nd round completed'; selective: 22.16 ha sprayed = 200% of 3 budgeted rounds, month completed Jul 2025, remark '2nd round completed'.",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Spraying FY2025/26 · BP26-13A1",
+      "v": "BP26-13A1 (12.39 ha), FY2025/26 (May 2025–Apr 2026): circle: 12.39 ha sprayed = 100% of 3 budgeted rounds, month completed Jul 2025, remark '3rd round completed'; selective: 24.78 ha sprayed = 200% of 3 budgeted rounds, month completed Jul 2025, remark '2nd round completed'.",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Spraying FY2025/26 · BP27-13A1",
+      "v": "BP27-13A1 (11.86 ha), FY2025/26 (May 2025–Apr 2026): circle: 23.73 ha sprayed = 200% of 3 budgeted rounds, month completed Jul 2025, remark '3rd round completed'; selective: 23.72 ha sprayed = 200% of 3 budgeted rounds, month completed Aug 2025, remark '2nd round completed'.",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Spraying FY2025/26 · BP28-13A1",
+      "v": "BP28-13A1 (7.43 ha), FY2025/26 (May 2025–Apr 2026): circle: 14.86 ha sprayed = 200% of 3 budgeted rounds, month completed Jul 2025, remark '2nd round completed'; selective: 14.86 ha sprayed = 200% of 3 budgeted rounds, month completed Aug 2025, remark '1st round completed'.",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Spraying FY2025/26 · BP29-13A1",
+      "v": "BP29-13A1 (13.04 ha), FY2025/26 (May 2025–Apr 2026): circle: 39.12 ha sprayed = 300% of 3 budgeted rounds, month completed Jul 2025, remark '3rd round completed'; selective: 39.12 ha sprayed = 300% of 3 budgeted rounds, month completed Jul 2025, remark '3rd round completed'.",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Spraying FY2025/26 · BP31-13A1",
+      "v": "BP31-13A1 (11.88 ha), FY2025/26 (May 2025–Apr 2026): circle: 23.76 ha sprayed = 200% of 3 budgeted rounds, month completed Jul 2025, remark '2nd round completed'; selective: 23.76 ha sprayed = 200% of 3 budgeted rounds, month completed Jul 2025, remark '2nd round completed'.",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Spraying FY2025/26 · BP32-13A1",
+      "v": "BP32-13A1 (12.94 ha), FY2025/26 (May 2025–Apr 2026): circle: 25.88 ha sprayed = 200% of 3 budgeted rounds, month completed Jul 2025, remark '3rd round completed'; selective: 25.88 ha sprayed = 200% of 3 budgeted rounds, month completed Jul 2025, remark '3rd round completed'.",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Spraying FY2025/26 · BP33-13A1",
+      "v": "BP33-13A1 (9.94 ha), FY2025/26 (May 2025–Apr 2026): circle: 19.88 ha sprayed = 200% of 3 budgeted rounds, month completed Jul 2025, remark '2nd round completed'; selective: 19.88 ha sprayed = 200% of 3 budgeted rounds, month completed Jul 2025, remark '2nd round completed'.",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Spraying FY2025/26 · BP34-13A1",
+      "v": "BP34-13A1 (18.13 ha), FY2025/26 (May 2025–Apr 2026): circle: 54.39 ha sprayed = 300% of 3 budgeted rounds, month completed Jul 2025, remark '3rd round completed'; selective: 36.25 ha sprayed = 200% of 3 budgeted rounds, month completed Jul 2025, remark '2nd round completed'.",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Spraying FY2025/26 · BQ28-13A1",
+      "v": "BQ28-13A1 (10.23 ha), FY2025/26 (May 2025–Apr 2026): circle: 30.69 ha sprayed = 300% of 3 budgeted rounds, month completed May 2025, remark '3rd round completed'; selective: 30.69 ha sprayed = 300% of 3 budgeted rounds, month completed May 2025, remark '3rd round completed'.",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Spraying FY2025/26 · BQ29-13A1",
+      "v": "BQ29-13A1 (15.25 ha), FY2025/26 (May 2025–Apr 2026): circle: 45.75 ha sprayed = 300% of 3 budgeted rounds, month completed May 2025, remark '3rd round completed'; selective: 45.70 ha sprayed = 300% of 3 budgeted rounds, month completed May 2025, remark '3rd round completed'.",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Spraying FY2025/26 · BQ30-13A1",
+      "v": "BQ30-13A1 (15.46 ha), FY2025/26 (May 2025–Apr 2026): circle: 46.38 ha sprayed = 300% of 3 budgeted rounds, month completed May 2025, remark '3rd round completed'; selective: 46.38 ha sprayed = 300% of 3 budgeted rounds, month completed May 2025, remark '3rd round completed'.",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Spraying FY2025/26 · BQ31-13A1",
+      "v": "BQ31-13A1 (20.43 ha), FY2025/26 (May 2025–Apr 2026): circle: 61.29 ha sprayed = 300% of 3 budgeted rounds, month completed May 2025, remark '3rd round completed'; selective: 61.29 ha sprayed = 300% of 3 budgeted rounds, month completed May 2025, remark '3rd round completed'.",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Spraying FY2025/26 · BQ32-13A1",
+      "v": "BQ32-13A1 (25.11 ha), FY2025/26 (May 2025–Apr 2026): circle: 75.33 ha sprayed = 300% of 3 budgeted rounds, month completed May 2025, remark '3rd round completed'; selective: 75.33 ha sprayed = 300% of 3 budgeted rounds, month completed May 2025, remark '3rd round completed'.",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Spraying FY2025/26 · BQ33-13A1",
+      "v": "BQ33-13A1 (22.44 ha), FY2025/26 (May 2025–Apr 2026): circle: 67.32 ha sprayed = 300% of 3 budgeted rounds, month completed May 2025, remark '3rd round completed'; selective: 67.97 ha sprayed = 303% of 3 budgeted rounds, month completed May 2025, remark '2nd round completed'.",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Spraying FY2025/26 · BQ34-13A1",
+      "v": "BQ34-13A1 (44.58 ha), FY2025/26 (May 2025–Apr 2026): circle: 133.74 ha sprayed = 300% of 3 budgeted rounds, month completed May 2025, remark '3rd round completed'; selective: 89.16 ha sprayed = 200% of 3 budgeted rounds, month completed May 2025, remark '2nd round completed'.",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Spraying FY2025/26 · BQ35-13A1",
+      "v": "BQ35-13A1 (27.29 ha), FY2025/26 (May 2025–Apr 2026): circle: 54.58 ha sprayed = 200% of 3 budgeted rounds, month completed Sep 2025, remark '2nd round completed'; selective: 54.58 ha sprayed = 200% of 3 budgeted rounds, month completed Sep 2025, remark '2nd round completed'.",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Spraying FY2025/26 · BQ36-13A1",
+      "v": "BQ36-13A1 (31.23 ha), FY2025/26 (May 2025–Apr 2026): circle: 93.69 ha sprayed = 300% of 3 budgeted rounds, month completed Jul 2025, remark '3rd round completed'; selective: 93.69 ha sprayed = 300% of 3 budgeted rounds, month completed Jul 2025, remark '3rd round completed'.",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Spraying FY2025/26 · BQ37-13A1",
+      "v": "BQ37-13A1 (34.20 ha), FY2025/26 (May 2025–Apr 2026): circle: 102.60 ha sprayed = 300% of 3 budgeted rounds, month completed Sep 2025, remark '3rd round completed'; selective: 102.60 ha sprayed = 300% of 3 budgeted rounds, month completed Sep 2025, remark '3rd round completed'.",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Spraying FY2025/26 · BQ38-13A1",
+      "v": "BQ38-13A1 (32.65 ha), FY2025/26 (May 2025–Apr 2026): circle: 32.65 ha sprayed = 100% of 3 budgeted rounds, month completed Sep 2025, remark '3rd round completed'; selective: 65.30 ha sprayed = 200% of 3 budgeted rounds, month completed Sep 2025, remark '2nd round completed'.",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Spraying FY2025/26 · BQ39-13A1",
+      "v": "BQ39-13A1 (32.67 ha), FY2025/26 (May 2025–Apr 2026): circle: 98.01 ha sprayed = 300% of 3 budgeted rounds, month completed Jul 2025, remark '3rd round completed'; selective: 65.34 ha sprayed = 200% of 3 budgeted rounds, month completed Jul 2025, remark '2nd round completed'.",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Spraying FY2025/26 · BQ40-13A1",
+      "v": "BQ40-13A1 (32.04 ha), FY2025/26 (May 2025–Apr 2026): circle: 64.08 ha sprayed = 200% of 3 budgeted rounds, month completed Jun 2025, remark '2nd round completed'; selective: 64.08 ha sprayed = 200% of 3 budgeted rounds, month completed Jun 2025, remark '2nd round completed'.",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Spraying FY2025/26 · BQ41-13A1",
+      "v": "BQ41-13A1 (34.68 ha), FY2025/26 (May 2025–Apr 2026): circle: 69.36 ha sprayed = 200% of 3 budgeted rounds, month completed Jun 2025, remark '2nd round completed'; selective: 69.36 ha sprayed = 200% of 3 budgeted rounds, month completed Jun 2025, remark '2nd round completed'.",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Spraying FY2025/26 · BQ42-13A1",
+      "v": "BQ42-13A1 (33.93 ha), FY2025/26 (May 2025–Apr 2026): circle: 33.93 ha sprayed = 100% of 3 budgeted rounds, month completed Oct 2025, remark '1st round completed'; selective: 67.86 ha sprayed = 200% of 3 budgeted rounds, month completed Oct 2025, remark '2nd round completed'.",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Spraying FY2025/26 · BR41-13A1",
+      "v": "BR41-13A1 (13.55 ha), FY2025/26 (May 2025–Apr 2026): circle: 40.65 ha sprayed = 300% of 3 budgeted rounds, month completed Jul 2025, remark '3rd round completed'; selective: 27.10 ha sprayed = 200% of 3 budgeted rounds, month completed Jul 2025, remark '3rd round completed'.",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Spraying FY2025/26 · BR42-13A1",
+      "v": "BR42-13A1 (30.95 ha), FY2025/26 (May 2025–Apr 2026): circle: 61.90 ha sprayed = 200% of 3 budgeted rounds, month completed Jul 2025, remark '3rd round completed'; selective: 92.85 ha sprayed = 300% of 3 budgeted rounds, month completed Jul 2025, remark '3rd round completed'.",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Spraying FY2025/26 · BQ43-13A1",
+      "v": "BQ43-13A1 (36.33 ha), FY2025/26 (May 2025–Apr 2026): circle: 72.63 ha sprayed = 200% of 3 budgeted rounds, month completed Oct 2025, remark '2nd round completed'; selective: 108.93 ha sprayed = 300% of 3 budgeted rounds, month completed Aug 2025, remark '2nd round completed'.",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Spraying FY2025/26 · BQ44-13A1",
+      "v": "BQ44-13A1 (38.45 ha), FY2025/26 (May 2025–Apr 2026): circle: 115.35 ha sprayed = 300% of 3 budgeted rounds, month completed Oct 2025, remark '3rd round completed'; selective: 115.35 ha sprayed = 300% of 3 budgeted rounds, month completed Aug 2025, remark '2nd round completed'.",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Spraying FY2025/26 · BQ45-13A1",
+      "v": "BQ45-13A1 (28.26 ha), FY2025/26 (May 2025–Apr 2026): circle: 112.41 ha sprayed = 398% of 3 budgeted rounds, month completed Oct 2025, remark '3rd round completed'; selective: 84.78 ha sprayed = 300% of 3 budgeted rounds, month completed Aug 2025, remark '2nd round completed'.",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Spraying FY2025/26 · BQ46-13A1",
+      "v": "BQ46-13A1 (24.22 ha), FY2025/26 (May 2025–Apr 2026): circle: 94.96 ha sprayed = 392% of 3 budgeted rounds, month completed Jun 2025, remark '3rd round completed'; selective: 72.66 ha sprayed = 300% of 3 budgeted rounds, month completed Aug 2025, remark '2nd round completed'.",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Spraying FY2025/26 · BQ47-13A1",
+      "v": "BQ47-13A1 (13.47 ha), FY2025/26 (May 2025–Apr 2026): circle: 52.37 ha sprayed = 389% of 3 budgeted rounds, month completed Jun 2025, remark '3rd round completed'; selective: 40.36 ha sprayed = 300% of 3 budgeted rounds, month completed Aug 2025, remark '2nd round completed'.",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Spraying FY2025/26 · BR43-13A1",
+      "v": "BR43-13A1 (27.20 ha), FY2025/26 (May 2025–Apr 2026): circle: 81.60 ha sprayed = 300% of 3 budgeted rounds, month completed Sep 2025, remark '3rd round completed'; selective: 54.40 ha sprayed = 200% of 3 budgeted rounds, month completed Aug 2025, remark '2nd round completed'.",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Spraying FY2025/26 · BR44-13A1",
+      "v": "BR44-13A1 (26.29 ha), FY2025/26 (May 2025–Apr 2026): circle: 26.29 ha sprayed = 100% of 3 budgeted rounds, month completed Sep 2025, remark '3rd round completed'; selective: 52.58 ha sprayed = 200% of 3 budgeted rounds, month completed Aug 2025, remark '2nd round completed'.",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Spraying FY2025/26 · BR45-13A1",
+      "v": "BR45-13A1 (26.97 ha), FY2025/26 (May 2025–Apr 2026): circle: 53.93 ha sprayed = 200% of 3 budgeted rounds, month completed Sep 2025, remark '2nd round completed'; selective: 53.93 ha sprayed = 200% of 3 budgeted rounds, month completed Aug 2025, remark '2nd round completed'.",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "BP31-13A1 field condition (May 2026)",
+      "v": "Unacceptable field conditions in BP31-13A1 flagged in Agro 2-2025 have improved significantly (before/after photos, 19 May 2026 visit).",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "pests": [
+     {
+      "k": "Rat damage census Sep 2025–Mar 2026",
+      "v": "BP50-13A1 census 06 Dec 2025: 3275 palms sampled on 23.77 ha, old damage L1 206 palms (6.29%), fresh damage L2 82 palms (2.50%); BP51-13A1 census 08 Dec 2025: 2913 palms sampled on 22.32 ha, old damage L1 139 palms (4.77%), fresh damage L2 72 palms (2.47%); BP49-13A1 census 09 Dec 2025: 3319 palms sampled on 23.73 ha, old damage L1 230 palms (6.93%), fresh damage L2 114 palms (3.43%); BP48-13A1 census 11 Dec 2025: 4217 palms sampled on 30.83 ha, old damage L1 372 palms (8.82%), fresh damage L2 220 palms (5.22%) (fresh damage above 5% baiting threshold); BO46-13A1 census 03 Jan 2026: 3424 palms sampled on 26.39 ha, old damage L1 118 palms (3.45%), fresh damage L2 172 palms (5.02%) (fresh damage above 5% baiting threshold); BP27-13A1 census 07 Nov 2025: 1732 palms sampled on 11.86 ha, old damage L1 115 palms (6.64%), fresh damage L2 40 palms (2.31%); BP29-13A1 census 08 Nov 2025: 1869 palms sampled on 13.04 ha, old damage L1 160 palms (8.56%), fresh damage L2 44 palms (2.35%); BP31-13A1 census 12 Nov 2025: 1673 palms sampled on 11.88 ha, old damage L1 70 palms (4.18%), fresh damage L2 55 palms (3.29%); BP32-13A1 census 12 Nov 2025: 1867 palms sampled on 12.94 ha, old damage L1 27 palms (1.45%), fresh damage L2 79 palms (4.23%); BQ40-13A1 census 10 Jan 2026: 4566 palms sampled on 32.04 ha, old damage L1 688 palms (15.07%), fresh damage L2 490 palms (10.73%) (fresh damage above 5% baiting threshold); BQ41-13A1 census 20 Jan 2026: 4964 palms sampled on 34.68 ha, old damage L1 228 palms (4.59%), fresh damage L2 195 palms (3.93%); BQ42-13A1 census 21 Jan 2026: 4668 palms sampled on 33.93 ha, old damage L1 346 palms (7.41%), fresh damage L2 256 palms (5.48%) (fresh damage above 5% baiting threshold); BQ38-13A1 census 28 Jan 2026: 4733 palms sampled on 32.65 ha, old damage L1 291 palms (6.15%), fresh damage L2 230 palms (4.86%); BQ39-13A1 census 28 Jan 2026: 4609 palms sampled on 32.67 ha, old damage L1 498 palms (10.80%), fresh damage L2 477 palms (10.35%) (fresh damage above 5% baiting threshold); BQ37-13A1 census 31 Jan 2026: 4262 palms sampled on 34.20 ha, old damage L1 304 palms (7.13%), fresh damage L2 191 palms (4.48%); BR43-13A1 census 23 Sep 2025: 3896 palms sampled on 27.20 ha, old damage L1 189 palms (4.85%), fresh damage L2 22 palms (0.56%). Baiting campaign Dec 2025–Mar 2026 in blocks with L2 over 5%; fresh damage now minimal (May 2026).",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "yield": [
+     {
+      "k": "FY2025/26 (May 2025–Apr 2026) yield",
+      "v": "18.88 t/ha in FY2025/26 (May 2025–Apr 2026) vs 14.95 t/ha in FY2024/25 (May 2024–Apr 2025); estate average 14.64 vs 12.33 (+18.7%).",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "FY2018/19–FY2023/24 (2018–2024) yield",
+      "v": "FFB t/ha by financial year (May–Apr): FY2018/19 5.06; FY2019/20 9.8; FY2020/21 9.68; FY2021/22 7.66; FY2022/23 7.39; FY2023/24 15.11.",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Bunch weight Apr 2026",
+      "v": "Average bunch weight 9.8 kg in April 2026 vs 7.5 kg in April 2025; PA notes older plantings still low but rising.",
+      "src": "PA 2/2026"
+     }
+    ],
+    "harvesting": [
+     {
+      "k": "Harvester rate & output FY2025/26",
+      "v": "Harvest rate RM26/t, output 1.73 t/man-day, average earning RM45/day vs basic wage RM34 (FY2025/26, to Apr 2026).",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Over-ripe check BO48-13A1 (May 2026)",
+      "v": "14% over-ripe among freshly harvested bunches in BO48-13A1 on the 19 May 2026 visit (estate range 4–14% vs 5–9% at Agro 2-2025).",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Over-ripe check BQ39-13A1 (May 2026)",
+      "v": "12% over-ripe among freshly harvested bunches in BQ39-13A1 on the 19 May 2026 visit (estate range 4–14% vs 5–9% at Agro 2-2025).",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Over-ripe check BP25-13A1 (May 2026)",
+      "v": "6% over-ripe among freshly harvested bunches in BP25-13A1 on the 19 May 2026 visit (estate range 4–14% vs 5–9% at Agro 2-2025).",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Over-ripe check BP29-13A1 (May 2026)",
+      "v": "4% over-ripe among freshly harvested bunches in BP29-13A1 on the 19 May 2026 visit (estate range 4–14% vs 5–9% at Agro 2-2025).",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Loose fruit BP25-13A1 (May 2026)",
+      "v": "Loose fruit collection photographed in BP25-13A1; recommended scraper in use (19 May 2026).",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Loose fruit at platform BP29-13A1 (May 2026)",
+      "v": "High loose fruit at the collection platform in BP29-13A1 (19 May 2026).",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "BM49-13A1 drain bunches (May 2026)",
+      "v": "Uncollected bunches in the BM49-13A1 collection drain (Agro 2-2025) are no longer significantly observed; most drains clear (19 May 2026).",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "pruning": [
+     {
+      "k": "Pruning FY2025/26 (to Apr 2026)",
+      "v": "Progressive pruning FY2025/26 on 1279.25 ha: 2092.54 ha of 3837.74 ha programme to date (55%). Corrective (special) pruning 4.26 ha completed.",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Under-pruning BQ44-13A1 (May 2026)",
+      "v": "Slight under-pruning in localized areas of BQ44-13A1; remove dry hanging fronds at next harvesting round (19 May 2026).",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Pruning quality (May 2026)",
+      "v": "Pruning quality acceptable in BM49-13A1, BN48-13A1, BO48-13A1, BP48-13A1, BP31-13A1, BQ37-13A1, BR43-13A1, BQ41-13A1, BQ39-13A1 (19 May 2026).",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "field": [
+     {
+      "k": "Bare ground (May 2026)",
+      "v": "Bare ground condition in BN48-13A1, BQ37-13A1, BR43-13A1 at the 19 May 2026 visit; sparse/bare area has increased since Agro 2-2025, raising erosion, moisture-loss and runoff risk; encourage soft grasses or Nephrolepis.",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Sparse soft grasses (May 2026)",
+      "v": "Mostly bare areas with growth of sparse soft grasses in BP48-13A1 (19 May 2026 visit).",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Palm census Apr 2026",
+      "v": "Palm census Apr 2026: 171924 palms on 1279.25 ha, 134 palms/ha (same as previous census Oct–Nov 2024); 51 sub-blocks (Apr 2026).",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Flood-prone area (May 2026)",
+      "v": "95.95 ha flood-prone of 568.95 ha surveyed (17%); low-lying areas prone to periodic flooding and prolonged waterlogging favour bracken ferns.",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Supplying 2023–2025",
+      "v": "Palms supplied: 2024 4050, 2025 643; total 4693 (estate 44,953). 2025 supplies estate-wide: 5,535 planted May–Oct 2025, 1,884 died (34%).",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Sub-blocks (PA Appendix 1, Aug 2026)",
+      "v": "BM48-13A1 27.56 ha, 3,936 palms, 143/ha, planted Jul, Socfindo; BM49-13A1 33.13 ha, 4,354 palms, 131/ha, planted Feb, Socfindo; BM50-13A1 28.74 ha, 3,494 palms, 122/ha, planted Sep, Socfindo; BN46-13A1 25.50 ha, 3,531 palms, 138/ha, planted Jul, Socfindo; BN47-13A1 19.87 ha, 2,706 palms, 136/ha, planted Jun, Socfindo; BN48-13A1 29.89 ha, 3,249 palms, 109/ha, planted Jun, Socfindo; BN49-13A1 12.49 ha, 1,738 palms, 139/ha, planted Jun, Socfindo; BN50-13A1 25.54 ha, 3,205 palms, 125/ha, planted Jul, Socfindo; BO46-13A1 26.39 ha, 3,443 palms, 130/ha, planted Sep, Socfindo; BO48-13A1 53.82 ha, 7,193 palms, 134/ha, planted Oct, Socfindo; BO49-13A1 40.83 ha, 5,598 palms, 137/ha, planted Nov, Socfindo; BO50-13A1 44.38 ha, 5,170 palms, 116/ha, planted Oct, Socfindo; BP48-13A1 30.83 ha, 4,269 palms, 138/ha, planted Sep, Socfindo; BP49-13A1 23.73 ha, 3,388 palms, 143/ha, planted Sep, PPKS; BP50-13A1 23.77 ha, 3,311 palms, 139/ha, planted Oct, Socfindo; BP51-13A1 22.32 ha, 2,923 palms, 131/ha, planted Nov, Socfindo; BP52-13A1 23.89 ha, 2,282 palms, 96/ha, planted Nov, Socfindo; BP25-13A1 11.08 ha, 1,628 palms, 147/ha, planted Dec, Socfindo; BP26-13A1 12.39 ha, 1,773 palms, 143/ha, planted Jul, Socfindo; BP27-13A1 11.86 ha, 1,700 palms, 143/ha, planted Sep, Socfindo; BP28-13A1 7.43 ha, 1,064 palms, 143/ha, planted Oct, PPKS; BP29-13A1 13.04 ha, 1,899 palms, 146/ha, planted Oct, Socfindo; BP31-13A1 11.88 ha, 1,678 palms, 141/ha, planted Aug, Socfindo; BP32-13A1 12.94 ha, 1,889 palms, 146/ha, planted Dec, Socfindo; BP33-13A1 9.94 ha, 1,448 palms, 146/ha, planted Jul, Socfindo; BP34-13A1 18.13 ha, 2,515 palms, 139/ha, planted Dec, Socfindo; BQ28-13A1 10.23 ha, 1,293 palms, 126/ha, planted Jun, Socfindo; BQ29-13A1 15.25 ha, 2,050 palms, 134/ha, planted Sep, Socfindo; BQ30-13A1 15.46 ha, 2,136 palms, 138/ha, planted Aug, Socfindo; BQ31-13A1 20.43 ha, 2,858 palms, 140/ha, planted Aug, Socfindo; BQ32-13A1 25.11 ha, 3,525 palms, 140/ha, planted Jul, Socfindo; BQ33-13A1 22.44 ha, 3,139 palms, 140/ha, planted Jun, Socfindo; BQ34-13A1 44.58 ha, 6,154 palms, 138/ha, planted Oct, Socfindo; BQ35-13A1 27.29 ha, 3,899 palms, 143/ha, planted Aug, Socfindo; BQ36-13A1 31.23 ha, 4,395 palms, 141/ha, planted Aug, Socfindo; BQ37-13A1 34.20 ha, 4,229 palms, 124/ha, planted Aug, Socfindo; BQ38-13A1 32.65 ha, 4,660 palms, 143/ha, planted Aug, Socfindo; BQ39-13A1 32.67 ha, 4,666 palms, 143/ha, planted Jul, Socfindo; BQ40-13A1 32.04 ha, 4,591 palms, 143/ha, planted Jul, PPKS; BQ41-13A1 34.68 ha, 4,964 palms, 143/ha, planted Jun, Socfindo; BQ42-13A1 33.93 ha, 4,721 palms, 139/ha, planted Jul, Socfindo; BR41-13A1 13.55 ha, 1,901 palms, 140/ha, planted Oct, Socfindo; BR42-13A1 30.95 ha, 4,144 palms, 134/ha, planted Sep, Socfindo; BQ43-13A1 36.33 ha, 5,068 palms, 139/ha, planted Nov, Socfindo; BQ44-13A1 38.45 ha, 5,073 palms, 132/ha, planted Aug, Socfindo; BQ45-13A1 28.26 ha, 3,319 palms, 117/ha, planted Sep, Socfindo; BQ46-13A1 24.22 ha, 2,866 palms, 118/ha, planted Dec, Socfindo; BQ47-13A1 13.47 ha, 1,694 palms, 126/ha, planted Dec, Socfindo; BR43-13A1 27.20 ha, 3,829 palms, 141/ha, planted Sep, Socfindo; BR44-13A1 26.29 ha, 3,714 palms, 141/ha, planted Dec, Socfindo; BR45-13A1 26.97 ha, 3,652 palms, 135/ha, planted Dec, Socfindo. Soil all Tropaquepts.",
+      "src": "PA 2/2026"
+     }
+    ],
+    "other": [
+     {
+      "k": "PA visit photos Aug 2026",
+      "v": "Photos at the 22 and 24 Aug 2026 visit: Q42/13A1 clean circles, clean inter rows, applied compost, pruned palms; O49/13A1 clean circles, selective spraying with knapsack power sprayer, well sprayed Stenochlaena, lalang, filling sprayer water from field drain, pruned palms.",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Water level trial PB44-13A2 (May 2026)",
+      "v": "Estate ran a simple trial in sub-block PB44-13A2 (as printed) on water level vs parthenocarpy, per Agro 2-2025.",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "fertNow": {
+     "year": "FY2026/27",
+     "rows": [
+      {
+       "k": "Jun 2026",
+       "v": "Mix B 2,200 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Sep 2026",
+       "v": "Mix B 2,200 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Oct 2026",
+       "v": "RP 1,700 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Jan 2027",
+       "v": "Mix B 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Mar 2027",
+       "v": "Mix B 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Notes",
+       "v": "FY2026/27 (May 2026–Apr 2027) programme, no amendment at Agro 1/2026 (same as the revised programme in Agro 2/2025). Mix B = 45% SOA, 40% MOP, 14% kieserite, 1% borate; RP 28–30% P2O5; compound 14:13:9:2.5. No incomplete FY2026/27 programme to be carried beyond Apr 2027. Total per palm per year not printed.",
+       "src": "Agro 1/2026"
+      }
+     ]
+    },
+    "progress": {
+     "spraying": [
+      {
+       "k": "Interrow weeding rd 1",
+       "pct": 100,
+       "note": "1,279.25 ha",
+       "src": "Agro 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Interrow weeding rd 2",
+       "pct": 53,
+       "note": "1,279.25 ha",
+       "src": "Agro 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Interrow weeding rd 3",
+       "pct": 42,
+       "note": "1,279.25 ha",
+       "src": "Agro 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Circle weeding rd 1",
+       "pct": 100,
+       "note": "1,279.25 ha",
+       "src": "Agro 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Circle weeding rd 2",
+       "pct": 94,
+       "note": "1,279.25 ha",
+       "src": "Agro 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Circle weeding rd 3",
+       "pct": 47,
+       "note": "1,279.25 ha",
+       "src": "Agro 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "FY2025/26 (May 2025–Apr 2026), latest period reported; no FY2026/27 progress in the reports"
+    }
+   }
   },
   {
    "id": "P2014",
@@ -344,7 +1122,248 @@
      "src": "Agro 1/2026",
      "text": "FY2025/26 12.65 t/ha (FY2024/25 8.43); stand only 107 palms/ha; BQ52-14A1 10% over-ripe; over-spraying in BO51-14A1."
     }
-   ]
+   ],
+   "detail": {
+    "spraying": [
+     {
+      "k": "Spraying FY2025/26 · BN51-14A1",
+      "v": "BN51-14A1 (19.59 ha), FY2025/26 (May 2025–Apr 2026): circle: 58.80 ha sprayed = 300% of 3 budgeted rounds, month completed Oct 2025, remark '3rd round completed'; selective: 58.77 ha sprayed = 300% of 3 budgeted rounds, month completed Oct 2025, remark '2nd round completed'.",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Spraying FY2025/26 · BO47-14B1",
+      "v": "BO47-14B1 (32.86 ha), FY2025/26 (May 2025–Apr 2026): circle: 98.58 ha sprayed = 300% of 3 budgeted rounds, month completed Oct 2025, remark '3rd round completed'; selective: 98.58 ha sprayed = 300% of 3 budgeted rounds, month completed Oct 2025, remark '2nd round completed'.",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Spraying FY2025/26 · BO51-14A1",
+      "v": "BO51-14A1 (34.59 ha), FY2025/26 (May 2025–Apr 2026): circle: 131.45 ha sprayed = 380% of 3 budgeted rounds, month completed Oct 2025, remark '3rd round completed'; selective: 103.65 ha sprayed = 300% of 3 budgeted rounds, month completed Oct 2025, remark '2nd round completed'.",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Spraying FY2025/26 · BO52-14B1",
+      "v": "BO52-14B1 (22.07 ha), FY2025/26 (May 2025–Apr 2026): circle: 44.14 ha sprayed = 200% of 3 budgeted rounds, month completed Oct 2025, remark '2nd round completed'; selective: 44.14 ha sprayed = 200% of 3 budgeted rounds, month completed Oct 2025, remark '2nd round completed'.",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Spraying FY2025/26 · BQ48-14B1",
+      "v": "BQ48-14B1 (12.93 ha), FY2025/26 (May 2025–Apr 2026): circle: 25.86 ha sprayed = 200% of 3 budgeted rounds, month completed Jun 2025, remark '2nd round completed'; selective: 38.79 ha sprayed = 300% of 3 budgeted rounds, month completed Jun 2025, remark '2nd round completed'.",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Spraying FY2025/26 · BQ50-14A1",
+      "v": "BQ50-14A1 (21.13 ha), FY2025/26 (May 2025–Apr 2026): circle: 63.39 ha sprayed = 300% of 3 budgeted rounds, month completed Jun 2025, remark '3rd round completed'; selective: 63.39 ha sprayed = 300% of 3 budgeted rounds, month completed Jun 2025, remark '3rd round completed'.",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Spraying FY2025/26 · BQ51-14A1",
+      "v": "BQ51-14A1 (30.90 ha), FY2025/26 (May 2025–Apr 2026): circle: 61.80 ha sprayed = 200% of 3 budgeted rounds, month completed Jun 2025, remark '2nd round completed'; selective: 92.70 ha sprayed = 300% of 3 budgeted rounds, month completed Jun 2025, remark '2nd round completed'.",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Spraying FY2025/26 · BQ52-14A1",
+      "v": "BQ52-14A1 (33.15 ha), FY2025/26 (May 2025–Apr 2026): circle: 99.45 ha sprayed = 300% of 3 budgeted rounds, month completed Jun 2025, remark '3rd round completed'; selective: 99.43 ha sprayed = 300% of 3 budgeted rounds, month completed Jun 2025, remark '3rd round completed'.",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Spraying FY2025/26 · BR46-14B1",
+      "v": "BR46-14B1 (32.15 ha), FY2025/26 (May 2025–Apr 2026): circle: 96.45 ha sprayed = 300% of 3 budgeted rounds, month completed Sep 2025, remark '3rd round completed'; selective: 96.45 ha sprayed = 300% of 3 budgeted rounds, month completed Aug 2025, remark '2nd round completed'.",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Spraying FY2025/26 · BR47-14B1",
+      "v": "BR47-14B1 (35.54 ha), FY2025/26 (May 2025–Apr 2026): circle: 129.77 ha sprayed = 365% of 3 budgeted rounds, month completed Jun 2025, remark '3rd round completed'; selective: 142.16 ha sprayed = 400% of 3 budgeted rounds, month completed Jun 2025, remark '3rd round completed'.",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Spraying FY2025/26 · BR48-14A1",
+      "v": "BR48-14A1 (21.29 ha), FY2025/26 (May 2025–Apr 2026): circle: 63.87 ha sprayed = 300% of 3 budgeted rounds, month completed Jun 2025, remark '3rd round completed'; selective: 63.87 ha sprayed = 300% of 3 budgeted rounds, month completed Jun 2025, remark '3rd round completed'.",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Spraying FY2025/26 · BS43-14B1",
+      "v": "BS43-14B1 (14.40 ha), FY2025/26 (May 2025–Apr 2026): circle: 43.20 ha sprayed = 300% of 3 budgeted rounds, month completed Sep 2025, remark '3rd round completed'; selective: 43.20 ha sprayed = 300% of 3 budgeted rounds, month completed Jun 2025, remark '2nd round completed'.",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Spraying FY2025/26 · BS44-14A1",
+      "v": "BS44-14A1 (30.46 ha), FY2025/26 (May 2025–Apr 2026): circle: 91.36 ha sprayed = 300% of 3 budgeted rounds, month completed Sep 2025, remark '3rd round completed'; selective: 91.36 ha sprayed = 300% of 3 budgeted rounds, month completed Jun 2025, remark '2nd round completed'.",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Spraying FY2025/26 · BS45-14A1",
+      "v": "BS45-14A1 (9.36 ha), FY2025/26 (May 2025–Apr 2026): circle: 9.36 ha sprayed = 100% of 3 budgeted rounds, month completed Sep 2025, remark '3rd round completed'; selective: 18.72 ha sprayed = 200% of 3 budgeted rounds, month completed Jun 2025, remark '2nd round completed'.",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Over-spraying BO51-14A1 (May 2026)",
+      "v": "Over-spraying seen in BO51-14A1 at the 19 May 2026 visit; follow up with selective weeding to keep soft cover.",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "pests": [
+     {
+      "k": "Rat damage census Sep 2025–Mar 2026",
+      "v": "BO47-14B1 census 21 Nov 2025: 4397 palms sampled on 32.86 ha, old damage L1 156 palms (3.55%), fresh damage L2 67 palms (1.52%). Baiting campaign Dec 2025–Mar 2026 in blocks with L2 over 5%; fresh damage now minimal (May 2026).",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "yield": [
+     {
+      "k": "FY2025/26 (May 2025–Apr 2026) yield",
+      "v": "12.65 t/ha in FY2025/26 (May 2025–Apr 2026) vs 8.43 t/ha in FY2024/25 (May 2024–Apr 2025); estate average 14.64 vs 12.33 (+18.7%).",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "FY2018/19–FY2023/24 (2018–2024) yield",
+      "v": "FFB t/ha by financial year (May–Apr): FY2018/19 1.53; FY2019/20 3.89; FY2020/21 2.47; FY2021/22 2.93; FY2022/23 2.82; FY2023/24 5.82.",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Bunch weight Apr 2026",
+      "v": "Average bunch weight 6.7 kg in April 2026 vs 5.7 kg in April 2025; PA notes older plantings still low but rising.",
+      "src": "PA 2/2026"
+     }
+    ],
+    "harvesting": [
+     {
+      "k": "Harvester rate & output FY2025/26",
+      "v": "Harvest rate RM30/t, output 1.40 t/man-day, average earning RM42/day vs basic wage RM34 (FY2025/26, to Apr 2026).",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Over-ripe check BQ52-14A1 (May 2026)",
+      "v": "10% over-ripe among freshly harvested bunches in BQ52-14A1 on the 19 May 2026 visit (estate range 4–14% vs 5–9% at Agro 2-2025).",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Loose fruit BQ52-14A1 (May 2026)",
+      "v": "Loose fruit collection photographed in BQ52-14A1 (19 May 2026).",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "pruning": [
+     {
+      "k": "Pruning FY2025/26 (to Apr 2026)",
+      "v": "Progressive pruning FY2025/26 on 341.06 ha: 492.04 ha of 1023.18 ha programme to date (48%). Corrective (special) pruning 10.02 ha completed.",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Pruning quality (May 2026)",
+      "v": "Pruning quality acceptable in BO51-14A1, BS44-14A1, BR47-14B1, BQ52-14A1 (19 May 2026).",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "field": [
+     {
+      "k": "Soft grasses BR47-14B1 (May 2026)",
+      "v": "Localized areas pre-dominated by soft grasses in BR47-14B1 (19 May 2026 visit).",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Palm census Apr 2026",
+      "v": "Palm census Apr 2026: 37650 palms on 350.42 ha, 107 palms/ha (same as previous census Oct–Nov 2024); 14 sub-blocks (Apr 2026).",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Flood-prone area (May 2026)",
+      "v": "17.06 ha flood-prone of 226.06 ha surveyed (8%); low-lying areas prone to periodic flooding and prolonged waterlogging favour bracken ferns.",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Supplying 2023–2025",
+      "v": "Palms supplied: 2023 2603, 2024 22373, 2025 839; total 25815 (estate 44,953). 2025 supplies estate-wide: 5,535 planted May–Oct 2025, 1,884 died (34%).",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Sub-blocks (PA Appendix 1, Aug 2026)",
+      "v": "BN51-14A1 19.59 ha, 1,338 palms, 68/ha, planted Jun, Socfindo; BO47-14B1 32.86 ha, 4,296 palms, 131/ha, planted Sep, PPKS; BO51-14A1 34.59 ha, 4,211 palms, 122/ha, planted Mar, Socfindo; BO52-14B1 22.07 ha, 1,705 palms, 77/ha, planted Mar, Socfindo; BQ48-14B1 12.93 ha, 1,089 palms, 84/ha, planted Jul, Socfindo; BQ50-14A1 21.13 ha, 1,616 palms, 76/ha, planted May, Socfindo; BQ51-14A1 30.90 ha, 3,837 palms, 124/ha, planted Mar, Socfindo; BQ52-14A1 33.15 ha, 3,562 palms, 107/ha, planted Apr, Socfindo; BR46-14B1 32.15 ha, 4,155 palms, 129/ha, planted Sep, Socfindo; BR47-14B1 35.54 ha, 4,222 palms, 119/ha, planted Sep, Socfindo; BR48-14A1 21.29 ha, 1,781 palms, 84/ha, planted Sep, Socfindo; BS43-14B1 14.40 ha, 1,910 palms, 133/ha, planted Sep, Socfindo; BS44-14A1 30.46 ha, 3,928 palms, 129/ha, planted Nov, Socfindo; BS45-14A1 9.36 ha, 1,222 palms, 131/ha, planted Nov, Socfindo. Soil all Tropaquepts.",
+      "src": "PA 2/2026"
+     }
+    ],
+    "other": [
+     {
+      "k": "PA visit photos Aug 2026",
+      "v": "Photos at the 22 and 24 Aug 2026 visit: P46/14A1 clean circles, sprayed Stenochlaena, applying/applied compost, pruned palms.",
+      "src": "PA 2/2026"
+     }
+    ],
+    "fertNow": {
+     "year": "FY2026/27",
+     "rows": [
+      {
+       "k": "Jun 2026",
+       "v": "Mix B 2,200 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Sep 2026",
+       "v": "Mix B 2,200 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Oct 2026",
+       "v": "RP 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Jan 2027",
+       "v": "Mix B 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Mar 2027",
+       "v": "Mix B 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Notes",
+       "v": "FY2026/27 (May 2026–Apr 2027) programme, no amendment at Agro 1/2026 (same as the revised programme in Agro 2/2025). Mix B = 45% SOA, 40% MOP, 14% kieserite, 1% borate; RP 28–30% P2O5; compound 14:13:9:2.5. No incomplete FY2026/27 programme to be carried beyond Apr 2027. Total per palm per year not printed.",
+       "src": "Agro 1/2026"
+      }
+     ]
+    },
+    "progress": {
+     "spraying": [
+      {
+       "k": "Interrow weeding rd 1",
+       "pct": 100,
+       "note": "341.06 ha",
+       "src": "Agro 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Interrow weeding rd 2",
+       "pct": 85,
+       "note": "341.06 ha",
+       "src": "Agro 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Circle weeding rd 1",
+       "pct": 100,
+       "note": "341.06 ha",
+       "src": "Agro 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Circle weeding rd 2",
+       "pct": 100,
+       "note": "341.06 ha",
+       "src": "Agro 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Circle weeding rd 3",
+       "pct": 85,
+       "note": "341.06 ha",
+       "src": "Agro 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "FY2025/26 (May 2025–Apr 2026), latest period reported; no FY2026/27 progress in the reports"
+    }
+   }
   },
   {
    "id": "P2015",
@@ -365,7 +1384,154 @@
      "src": "PA 2/2026",
      "text": "Bunch weight 7.8 kg vs 6.6 kg; harvesters 1.43 t/man-day at RM35/t, RM50/day."
     }
-   ]
+   ],
+   "detail": {
+    "spraying": [
+     {
+      "k": "Spraying FY2025/26 · BN33-15B1",
+      "v": "BN33-15B1 (6.58 ha), FY2025/26 (May 2025–Apr 2026): circle: 19.74 ha sprayed = 300% of 3 budgeted rounds, month completed Jul 2025, remark '2nd round completed'; selective: 19.74 ha sprayed = 300% of 3 budgeted rounds, month completed Jul 2025, remark '2nd round completed'.",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Spraying FY2025/26 · BP28-15C1",
+      "v": "BP28-15C1 (4.14 ha), FY2025/26 (May 2025–Apr 2026): circle: 8.28 ha sprayed = 200% of 3 budgeted rounds, month completed Sep 2025, remark '2nd round completed'; selective: 8.28 ha sprayed = 200% of 3 budgeted rounds, month completed Aug 2025, remark '2nd round completed'.",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Incomplete weed kill BN33-15B1 (May 2026)",
+      "v": "Incomplete weed kill and localized patches of undesirable weeds (Stenochlaena palustris, Dicranopteris linearis, mixed species) in BN33-15B1 at the 19 May 2026 visit.",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "yield": [
+     {
+      "k": "FY2025/26 (May 2025–Apr 2026) yield",
+      "v": "17.93 t/ha in FY2025/26 (May 2025–Apr 2026) vs 10.45 t/ha in FY2024/25 (May 2024–Apr 2025); estate average 14.64 vs 12.33 (+18.7%).",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "FY2018/19–FY2023/24 (2018–2024) yield",
+      "v": "FFB t/ha by financial year (May–Apr): FY2018/19 0.71; FY2019/20 3.55; FY2020/21 8.22; FY2021/22 5.67; FY2022/23 11.89; FY2023/24 9.99.",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Bunch weight Apr 2026",
+      "v": "Average bunch weight 7.8 kg in April 2026 vs 6.6 kg in April 2025; PA notes older plantings still low but rising.",
+      "src": "PA 2/2026"
+     }
+    ],
+    "harvesting": [
+     {
+      "k": "Harvester rate & output FY2025/26",
+      "v": "Harvest rate RM35/t, output 1.43 t/man-day, average earning RM50/day vs basic wage RM34 (FY2025/26, to Apr 2026).",
+      "src": "PA 2/2026"
+     }
+    ],
+    "pruning": [
+     {
+      "k": "Pruning FY2025/26 (to Apr 2026)",
+      "v": "Progressive pruning FY2025/26 on 10.72 ha: 21.25 ha of 32.16 ha programme to date (66%). Corrective (special) pruning 2.58 ha completed.",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Pruning quality (May 2026)",
+      "v": "Pruning quality acceptable in BN33-15B1 (19 May 2026).",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "field": [
+     {
+      "k": "Palm census Apr 2026",
+      "v": "Palm census Apr 2026: 1463 palms on 10.72 ha, 136 palms/ha (same as previous census Oct–Nov 2024); 2 sub-blocks (Apr 2026).",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Flood-prone area (May 2026)",
+      "v": "2.72 ha flood-prone of 10.72 ha surveyed (25%); low-lying areas prone to periodic flooding and prolonged waterlogging favour bracken ferns.",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Sub-blocks (PA Appendix 1, Aug 2026)",
+      "v": "BN33-15B1 6.58 ha, 910 palms, 138/ha, planted Nov, Socfindo; BP28-15C1 4.14 ha, 553 palms, 134/ha, planted Apr, Socfindo. Soil all Tropaquepts.",
+      "src": "PA 2/2026"
+     }
+    ],
+    "fertNow": {
+     "year": "FY2026/27",
+     "rows": [
+      {
+       "k": "Jun 2026",
+       "v": "Mix B 2,200 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Sep 2026",
+       "v": "Mix B 2,200 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Oct 2026",
+       "v": "RP 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Jan 2027",
+       "v": "Mix B 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Mar 2027",
+       "v": "Mix B 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Notes",
+       "v": "FY2026/27 (May 2026–Apr 2027) programme, no amendment at Agro 1/2026 (same as the revised programme in Agro 2/2025). Mix B = 45% SOA, 40% MOP, 14% kieserite, 1% borate; RP 28–30% P2O5; compound 14:13:9:2.5. No incomplete FY2026/27 programme to be carried beyond Apr 2027. Total per palm per year not printed.",
+       "src": "Agro 1/2026"
+      }
+     ]
+    },
+    "progress": {
+     "spraying": [
+      {
+       "k": "Interrow weeding rd 1",
+       "pct": 100,
+       "note": "10.72 ha",
+       "src": "Agro 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Interrow weeding rd 2",
+       "pct": 100,
+       "note": "10.72 ha",
+       "src": "Agro 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Interrow weeding rd 3",
+       "pct": 100,
+       "note": "10.72 ha",
+       "src": "Agro 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Circle weeding rd 1",
+       "pct": 100,
+       "note": "10.72 ha",
+       "src": "Agro 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Circle weeding rd 2",
+       "pct": 100,
+       "note": "10.72 ha",
+       "src": "Agro 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "FY2025/26 (May 2025–Apr 2026), latest period reported; no FY2026/27 progress in the reports"
+    }
+   }
   },
   {
    "id": "P2016",
@@ -386,7 +1552,228 @@
      "src": "PA 2/2026",
      "text": "Bunch weight 8.1 kg vs 6.2 kg; harvesters 1.54 t/man-day."
     }
-   ]
+   ],
+   "detail": {
+    "spraying": [
+     {
+      "k": "Spraying FY2025/26 · BM43-16B1",
+      "v": "BM43-16B1 (21.62 ha), FY2025/26 (May 2025–Apr 2026): circle: 43.23 ha sprayed = 200% of 3 budgeted rounds, month completed Oct 2025, remark '2nd round completed'; selective: 43.23 ha sprayed = 200% of 3 budgeted rounds, month completed Oct 2025, remark '2nd round completed'.",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Spraying FY2025/26 · BM45-16B1",
+      "v": "BM45-16B1 (12.61 ha), FY2025/26 (May 2025–Apr 2026): circle: 37.83 ha sprayed = 300% of 3 budgeted rounds, month completed Oct 2025, remark '3rd round completed'; selective: 37.83 ha sprayed = 300% of 3 budgeted rounds, month completed Oct 2025, remark '2nd round completed'.",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Spraying FY2025/26 · BM46-16B1",
+      "v": "BM46-16B1 (12.54 ha), FY2025/26 (May 2025–Apr 2026): circle: 37.64 ha sprayed = 300% of 3 budgeted rounds, month completed Sep 2025, remark '3rd round completed'; selective: 37.64 ha sprayed = 300% of 3 budgeted rounds, month completed Sep 2025, remark '2nd round completed'.",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Spraying FY2025/26 · BM51-16B1",
+      "v": "BM51-16B1 (14.86 ha), FY2025/26 (May 2025–Apr 2026): circle: 53.31 ha sprayed = 359% of 3 budgeted rounds, month completed Sep 2025, remark '3rd round completed'; selective: 44.58 ha sprayed = 300% of 3 budgeted rounds, month completed Sep 2025, remark '2nd round completed'.",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Spraying FY2025/26 · BN45-16B1",
+      "v": "BN45-16B1 (14.30 ha), FY2025/26 (May 2025–Apr 2026): circle: 42.88 ha sprayed = 300% of 3 budgeted rounds, month completed Sep 2025, remark '3rd round completed'; selective: 42.88 ha sprayed = 300% of 3 budgeted rounds, month completed Sep 2025, remark '2nd round completed'.",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Spraying FY2025/26 · BP30-16C1",
+      "v": "BP30-16C1 (27.89 ha), FY2025/26 (May 2025–Apr 2026): circle: 55.78 ha sprayed = 200% of 3 budgeted rounds, month completed Sep 2025, remark '2nd round completed'; selective: 55.78 ha sprayed = 200% of 3 budgeted rounds, month completed Aug 2025, remark '2nd round completed'.",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Spraying FY2025/26 · BR35-16B1",
+      "v": "BR35-16B1 (19.16 ha), FY2025/26 (May 2025–Apr 2026): circle: 57.73 ha sprayed = 301% of 3 budgeted rounds, month completed Jul 2025, remark '3rd round completed'; selective: 57.48 ha sprayed = 300% of 3 budgeted rounds, month completed Jul 2025, remark '3rd round completed'.",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Spraying FY2025/26 · BR36-16B1",
+      "v": "BR36-16B1 (28.84 ha), FY2025/26 (May 2025–Apr 2026): circle: 86.52 ha sprayed = 300% of 3 budgeted rounds, month completed Jul 2025, remark '3rd round completed'; selective: 86.52 ha sprayed = 300% of 3 budgeted rounds, month completed Jul 2025, remark '3rd round completed'.",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Spraying FY2025/26 · BR37-16B1",
+      "v": "BR37-16B1 (16.13 ha), FY2025/26 (May 2025–Apr 2026): circle: 48.39 ha sprayed = 300% of 3 budgeted rounds, month completed Jul 2025, remark '3rd round completed'; selective: 48.39 ha sprayed = 300% of 3 budgeted rounds, month completed Jul 2025, remark '3rd round completed'.",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Spraying FY2025/26 · BQ53-16B1",
+      "v": "BQ53-16B1 (18.33 ha), FY2025/26 (May 2025–Apr 2026): circle: 36.66 ha sprayed = 200% of 3 budgeted rounds, month completed May 2025, remark '2nd round completed'; selective: 55.00 ha sprayed = 300% of 3 budgeted rounds, month completed May 2025, remark '2nd round completed'.",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Weed patches BR36-16B1 (May 2026)",
+      "v": "Localized patches of undesirable weeds in BR36-16B1 at the 19 May 2026 visit.",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "pests": [
+     {
+      "k": "Rat damage census Sep 2025–Mar 2026",
+      "v": "BM45-16B1 census 30 Mar 2026: 1829 palms sampled on 12.61 ha, old damage L1 84 palms (4.59%), fresh damage L2 43 palms (2.35%); BM46-16B1 census 30 Mar 2026: 1837 palms sampled on 12.54 ha, old damage L1 93 palms (5.06%), fresh damage L2 58 palms (3.16%); BP30-16C1 census 12 Nov 2025: 3681 palms sampled on 27.89 ha, old damage L1 548 palms (14.89%), fresh damage L2 193 palms (5.24%) (fresh damage above 5% baiting threshold). Baiting campaign Dec 2025–Mar 2026 in blocks with L2 over 5%; fresh damage now minimal (May 2026).",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "yield": [
+     {
+      "k": "FY2025/26 (May 2025–Apr 2026) yield",
+      "v": "13.44 t/ha in FY2025/26 (May 2025–Apr 2026) vs 7.12 t/ha in FY2024/25 (May 2024–Apr 2025); estate average 14.64 vs 12.33 (+18.7%).",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "FY2018/19–FY2023/24 (2018–2024) yield",
+      "v": "FFB t/ha by financial year (May–Apr): FY2019/20 0.66; FY2020/21 3.34; FY2021/22 3.87; FY2022/23 4.48; FY2023/24 7.78.",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Bunch weight Apr 2026",
+      "v": "Average bunch weight 8.1 kg in April 2026 vs 6.2 kg in April 2025; PA notes older plantings still low but rising.",
+      "src": "PA 2/2026"
+     }
+    ],
+    "harvesting": [
+     {
+      "k": "Harvester rate & output FY2025/26",
+      "v": "Harvest rate RM29/t, output 1.54 t/man-day, average earning RM45/day vs basic wage RM34 (FY2025/26, to Apr 2026).",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Crop losses BR36-16B1 (May 2026)",
+      "v": "High crop losses in BR36-16B1: over-ripe/rotten bunches on palms and loose fruit in circles; poor evacuation, delayed harvesting, overgrown paths (19 May 2026).",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "pruning": [
+     {
+      "k": "Pruning FY2025/26 (to Apr 2026)",
+      "v": "Progressive pruning FY2025/26 on 186.28 ha: 216.83 ha of 558.84 ha programme to date (39%).",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Over-pruning BR36-16B1 (May 2026)",
+      "v": "Slight over-pruning in BR36-16B1 (19 May 2026); over-pruning in \"shorter\" palm areas shows no improvement.",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Pruning quality (May 2026)",
+      "v": "Pruning quality acceptable in BM43-16B1 (19 May 2026).",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "field": [
+     {
+      "k": "Bare ground (May 2026)",
+      "v": "Bare ground condition in BM43-16B1 at the 19 May 2026 visit; sparse/bare area has increased since Agro 2-2025, raising erosion, moisture-loss and runoff risk; encourage soft grasses or Nephrolepis.",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Palm census Apr 2026",
+      "v": "Palm census Apr 2026: 23606 palms on 186.28 ha, 127 palms/ha (same as previous census Oct–Nov 2024); 10 sub-blocks (Apr 2026).",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Flood-prone area (May 2026)",
+      "v": "10.21 ha flood-prone of 94.21 ha surveyed (11%); low-lying areas prone to periodic flooding and prolonged waterlogging favour bracken ferns.",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Supplying 2023–2025",
+      "v": "Palms supplied: 2024 2799; total 2799 (estate 44,953). 2025 supplies estate-wide: 5,535 planted May–Oct 2025, 1,884 died (34%).",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Sub-blocks (PA Appendix 1, Aug 2026)",
+      "v": "BM43-16B1 21.62 ha, 3,075 palms, 142/ha, planted Dec, Socfindo; BM45-16B1 12.61 ha, 1,720 palms, 136/ha, planted Nov, Socfindo; BM46-16B1 12.54 ha, 1,825 palms, 146/ha, planted Oct, Socfindo; BM51-16B1 14.86 ha, 1,139 palms, 77/ha, planted Jun, Socfindo; BN45-16B1 14.30 ha, 1,791 palms, 125/ha, planted Jul, Socfindo; BP30-16C1 27.89 ha, 3,748 palms, 134/ha, planted Mar, Socfindo; BR35-16B1 19.16 ha, 2,463 palms, 129/ha, planted Nov, Socfindo; BR36-16B1 28.84 ha, 3,645 palms, 126/ha, planted Oct, Socfindo; BR37-16B1 16.13 ha, 1,811 palms, 112/ha, planted Oct, Socfindo; BQ53-16B1 18.33 ha, 2,389 palms, 130/ha, planted Apr, Socfindo. Soil all Tropaquepts.",
+      "src": "PA 2/2026"
+     }
+    ],
+    "fertNow": {
+     "year": "FY2026/27",
+     "rows": [
+      {
+       "k": "May 2026",
+       "v": "Mix B 2,200 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Aug 2026",
+       "v": "Mix B 2,200 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Oct 2026",
+       "v": "RP 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Nov 2026",
+       "v": "Mix B 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Feb 2027",
+       "v": "Mix B 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Notes",
+       "v": "FY2026/27 (May 2026–Apr 2027) programme, no amendment at Agro 1/2026 (same as the revised programme in Agro 2/2025). Mix B = 45% SOA, 40% MOP, 14% kieserite, 1% borate; RP 28–30% P2O5; compound 14:13:9:2.5. No incomplete FY2026/27 programme to be carried beyond Apr 2027. Total per palm per year not printed.",
+       "src": "Agro 1/2026"
+      }
+     ]
+    },
+    "progress": {
+     "spraying": [
+      {
+       "k": "Interrow weeding rd 1",
+       "pct": 100,
+       "note": "186.28 ha",
+       "src": "Agro 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Interrow weeding rd 2",
+       "pct": 100,
+       "note": "186.28 ha",
+       "src": "Agro 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Interrow weeding rd 3",
+       "pct": 30,
+       "note": "186.28 ha",
+       "src": "Agro 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Circle weeding rd 1",
+       "pct": 100,
+       "note": "186.28 ha",
+       "src": "Agro 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Circle weeding rd 2",
+       "pct": 100,
+       "note": "186.28 ha",
+       "src": "Agro 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Circle weeding rd 3",
+       "pct": 67,
+       "note": "186.28 ha",
+       "src": "Agro 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "FY2025/26 (May 2025–Apr 2026), latest period reported; no FY2026/27 progress in the reports"
+    }
+   }
   },
   {
    "id": "P2017",
@@ -407,7 +1794,265 @@
      "src": "PA 2/2026",
      "text": "Bunch weight 6.2 kg vs 5.0 kg; harvesters 1.39 t/man-day at RM35/t."
     }
-   ]
+   ],
+   "detail": {
+    "spraying": [
+     {
+      "k": "Spraying FY2025/26 · BM51-17C1",
+      "v": "BM51-17C1 (4.48 ha), FY2025/26 (May 2025–Apr 2026): circle: 17.84 ha sprayed = 398% of 3 budgeted rounds, month completed Sep 2025, remark '3rd round completed'; selective: 13.44 ha sprayed = 300% of 3 budgeted rounds, month completed Sep 2025, remark '2nd round completed'.",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Spraying FY2025/26 · BM52-17A1",
+      "v": "BM52-17A1 (2.15 ha), FY2025/26 (May 2025–Apr 2026): circle: 7.78 ha sprayed = 362% of 3 budgeted rounds, month completed Jun 2025, remark '3rd round completed'; selective: 8.60 ha sprayed = 400% of 3 budgeted rounds, month completed Jun 2025, remark '2nd round completed'.",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Spraying FY2025/26 · BN49-17B1",
+      "v": "BN49-17B1 (13.73 ha), FY2025/26 (May 2025–Apr 2026): circle: 27.46 ha sprayed = 200% of 3 budgeted rounds, month completed Jun 2025, remark '2nd round completed'; selective: 27.46 ha sprayed = 200% of 3 budgeted rounds, month completed Jun 2025, remark '2nd round completed'.",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Spraying FY2025/26 · BN51-17C1",
+      "v": "BN51-17C1 (7.00 ha), FY2025/26 (May 2025–Apr 2026): circle: 21.00 ha sprayed = 300% of 3 budgeted rounds, month completed Aug 2025, remark '3rd round completed'; selective: 21.00 ha sprayed = 300% of 3 budgeted rounds, month completed Aug 2025, remark '2nd round completed'.",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Spraying FY2025/26 · BN52-17A1",
+      "v": "BN52-17A1 (13.14 ha), FY2025/26 (May 2025–Apr 2026): circle: 46.17 ha sprayed = 351% of 3 budgeted rounds, month completed Aug 2025, remark '3rd round completed'; selective: 52.56 ha sprayed = 400% of 3 budgeted rounds, month completed Aug 2025, remark '2nd round completed'.",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Spraying FY2025/26 · BO47-17D1",
+      "v": "BO47-17D1 (16.72 ha), FY2025/26 (May 2025–Apr 2026): circle: 33.44 ha sprayed = 200% of 3 budgeted rounds, month completed Aug 2025, remark '2nd round completed'; selective: 33.44 ha sprayed = 200% of 3 budgeted rounds, month completed Aug 2025, remark '2nd round completed'.",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Spraying FY2025/26 · BP53-17A1",
+      "v": "BP53-17A1 (0.88 ha), FY2025/26 (May 2025–Apr 2026): circle: 1.76 ha sprayed = 200% of 3 budgeted rounds, month completed Aug 2025, remark '2nd round completed'; selective: 1.76 ha sprayed = 200% of 3 budgeted rounds, month completed Aug 2025, remark '2nd round completed'.",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Spraying FY2025/26 · BO29-17B1",
+      "v": "BO29-17B1 (9.26 ha), FY2025/26 (May 2025–Apr 2026): circle: 27.77 ha sprayed = 300% of 3 budgeted rounds, month completed Jul 2025, remark '3rd round completed'; selective: 27.78 ha sprayed = 300% of 3 budgeted rounds, month completed Jul 2025, remark '3rd round completed'.",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Spraying FY2025/26 · BP29-17B1",
+      "v": "BP29-17B1 (2.77 ha), FY2025/26 (May 2025–Apr 2026): circle: nothing done, 0% of 3 rounds; selective: nothing done, 0% of 3 rounds.",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Spraying FY2025/26 · BP32-17C1",
+      "v": "BP32-17C1 (7.59 ha), FY2025/26 (May 2025–Apr 2026): circle: 15.18 ha sprayed = 200% of 3 budgeted rounds, month completed Sep 2025, remark '2nd round completed'; selective: 15.18 ha sprayed = 200% of 3 budgeted rounds, month completed Aug 2025, remark '2nd round completed'.",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Spraying FY2025/26 · BP34-17D1",
+      "v": "BP34-17D1 (4.54 ha), FY2025/26 (May 2025–Apr 2026): circle: 13.62 ha sprayed = 300% of 3 budgeted rounds, month completed Sep 2025, remark '3rd round completed'; selective: 13.62 ha sprayed = 300% of 3 budgeted rounds, month completed Aug 2025, remark '3rd round completed'.",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Spraying FY2025/26 · BR33-17A1",
+      "v": "BR33-17A1 (9.51 ha), FY2025/26 (May 2025–Apr 2026): circle: 19.02 ha sprayed = 200% of 3 budgeted rounds, month completed Jul 2025, remark '2nd round completed'; selective: 28.53 ha sprayed = 300% of 3 budgeted rounds, month completed Aug 2025, remark '2nd round completed'.",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Spraying FY2025/26 · BR34-17A1",
+      "v": "BR34-17A1 (25.00 ha), FY2025/26 (May 2025–Apr 2026): circle: 75.00 ha sprayed = 300% of 3 budgeted rounds, month completed Jun 2025, remark '3rd round completed'; selective: 83.22 ha sprayed = 333% of 3 budgeted rounds, month completed Jun 2025, remark '3rd round completed'.",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Spraying FY2025/26 · BR35-17C1",
+      "v": "BR35-17C1 (14.35 ha), FY2025/26 (May 2025–Apr 2026): circle: 43.05 ha sprayed = 300% of 3 budgeted rounds, month completed Jun 2025, remark '3rd round completed'; selective: 43.05 ha sprayed = 300% of 3 budgeted rounds, month completed Jun 2025, remark '3rd round completed'.",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Spraying FY2025/26 · BQ45-17B1",
+      "v": "BQ45-17B1 (9.54 ha), FY2025/26 (May 2025–Apr 2026): circle: 37.92 ha sprayed = 397% of 3 budgeted rounds, month completed Sep 2025, remark '3rd round completed'; selective: 28.94 ha sprayed = 303% of 3 budgeted rounds, month completed Jun 2025, remark '2nd round completed'.",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Spraying FY2025/26 · BQ46-17C1",
+      "v": "BQ46-17C1 (19.65 ha), FY2025/26 (May 2025–Apr 2026): circle: 76.10 ha sprayed = 387% of 3 budgeted rounds, month completed Jun 2025, remark '3rd round completed'; selective: 58.95 ha sprayed = 300% of 3 budgeted rounds, month completed Jun 2025, remark '2nd round completed'.",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Spraying FY2025/26 · BQ47-17B1",
+      "v": "BQ47-17B1 (24.30 ha), FY2025/26 (May 2025–Apr 2026): circle: 72.90 ha sprayed = 300% of 3 budgeted rounds, month completed Jun 2025, remark '3rd round completed'; selective: 97.20 ha sprayed = 400% of 3 budgeted rounds, month completed Jun 2025, remark '3rd round completed'.",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Spraying FY2025/26 · BQ48-17C1",
+      "v": "BQ48-17C1 (17.08 ha), FY2025/26 (May 2025–Apr 2026): circle: 34.16 ha sprayed = 200% of 3 budgeted rounds, month completed Jun 2025, remark '2nd round completed'; selective: 51.24 ha sprayed = 300% of 3 budgeted rounds, month completed Jun 2025, remark '2nd round completed'.",
+      "src": "PA 2/2026"
+     }
+    ],
+    "pests": [
+     {
+      "k": "Rat damage census Sep 2025–Mar 2026",
+      "v": "BO47-17D1 census 21 Nov 2025: 2361 palms sampled on 16.72 ha, old damage L1 156 palms (6.61%), fresh damage L2 97 palms (4.11%). Baiting campaign Dec 2025–Mar 2026 in blocks with L2 over 5%; fresh damage now minimal (May 2026).",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "yield": [
+     {
+      "k": "FY2025/26 (May 2025–Apr 2026) yield",
+      "v": "10.97 t/ha in FY2025/26 (May 2025–Apr 2026) vs 3.84 t/ha in FY2024/25 (May 2024–Apr 2025); estate average 14.64 vs 12.33 (+18.7%).",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "FY2018/19–FY2023/24 (2018–2024) yield",
+      "v": "FFB t/ha by financial year (May–Apr): FY2020/21 0.14; FY2021/22 0.71; FY2022/23 0.59; FY2023/24 2.76.",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Bunch weight Apr 2026",
+      "v": "Average bunch weight 6.2 kg in April 2026 vs 5.0 kg in April 2025; PA notes older plantings still low but rising.",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Steep-ascent phase (FY2025/26)",
+      "v": "2017–2019 plantings (462.52 ha, 16.21% of 2,852.55 ha yield-declaring area) are in the steep ascent phase; their FY2025/26 yield rise is mainly due to palm age.",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "harvesting": [
+     {
+      "k": "Harvester rate & output FY2025/26",
+      "v": "Harvest rate RM35/t, output 1.39 t/man-day, average earning RM49/day vs basic wage RM34 (FY2025/26, to Apr 2026).",
+      "src": "PA 2/2026"
+     }
+    ],
+    "pruning": [
+     {
+      "k": "Pruning FY2025/26 (to Apr 2026)",
+      "v": "Progressive pruning FY2025/26 on 211.30 ha: 238.36 ha of 633.90 ha programme to date (38%).",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Rehabilitated BR34-17A1 (May 2026)",
+      "v": "Recently rehabilitated area BR34-17A1 photographed; keep at least 2 supporting fronds below lowest bunch whorl to support recovery (19 May 2026).",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Pruning quality (May 2026)",
+      "v": "Pruning quality acceptable in BO47-17D1 (19 May 2026).",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "field": [
+     {
+      "k": "Palm census Apr 2026",
+      "v": "Palm census Apr 2026: 20839 palms on 211.3 ha, 99 palms/ha (same as previous census Oct–Nov 2024); 19 sub-blocks (Apr 2026).",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Flood-prone area (May 2026)",
+      "v": "26.31 ha flood-prone of 144.31 ha surveyed (18%); low-lying areas prone to periodic flooding and prolonged waterlogging favour bracken ferns.",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Supplying 2023–2025",
+      "v": "Palms supplied: 2024 6154; total 6154 (estate 44,953). 2025 supplies estate-wide: 5,535 planted May–Oct 2025, 1,884 died (34%).",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Sub-blocks (PA Appendix 1, Aug 2026)",
+      "v": "BM51-17C1 4.48 ha, 450 palms, 100/ha, planted May, Socfindo; BM52-17A1 2.15 ha, 166 palms, 77/ha, planted May, Socfindo; BN49-17B1 13.73 ha, 1,656 palms, 121/ha, planted Apr, Socfindo; BN51-17C1 7.00 ha, 464 palms, 66/ha, planted Feb, Socfindo; BN52-17A1 13.14 ha, 522 palms, 40/ha, planted Apr, Socfindo; BO47-17D1 16.72 ha, 2,368 palms, 142/ha, planted Aug, Socfindo; BP53-17A1 0.88 ha, 106 palms, 120/ha, planted Apr, Socfindo; BO29-17B1 9.26 ha, 912 palms, 98/ha, planted Apr, Socfindo; BP29-17B1 2.77 ha, 238 palms, 86/ha, planted Apr, Socfindo; BP32-17C1 7.59 ha, 854 palms, 113/ha, planted Jun, Socfindo; BP34-17D1 4.54 ha, 319 palms, 70/ha, planted Apr, Socfindo; BR33-17A1 9.51 ha, 963 palms, 101/ha, planted Feb, Socfindo; BR34-17A1 25.00 ha, 3,235 palms, 129/ha, planted Feb, Socfindo; BR35-17C1 14.35 ha, 1,800 palms, 125/ha, planted Jan, Socfindo; BQ45-17B1 9.54 ha, 826 palms, 87/ha, planted May, Socfindo; BQ46-17C1 19.65 ha, 2,127 palms, 108/ha, planted Jun, Socfindo; BQ47-17B1 24.30 ha, 2,525 palms, 104/ha, planted Apr, Socfindo; BQ48-17C1 17.08 ha, 1,045 palms, 61/ha, planted Jul, Socfindo. Soil all Tropaquepts.",
+      "src": "PA 2/2026"
+     }
+    ],
+    "other": [
+     {
+      "k": "PA visit photos Aug 2026",
+      "v": "Photos at the 22 and 24 Aug 2026 visit: R34/17A1 drain desilting, pruned palms.",
+      "src": "PA 2/2026"
+     }
+    ],
+    "fertNow": {
+     "year": "FY2026/27",
+     "rows": [
+      {
+       "k": "May 2026",
+       "v": "Mix B 2,200 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Aug 2026",
+       "v": "Mix B 2,200 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Oct 2026",
+       "v": "RP 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Nov 2026",
+       "v": "Mix B 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Feb 2027",
+       "v": "Mix B 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Notes",
+       "v": "FY2026/27 (May 2026–Apr 2027) programme, no amendment at Agro 1/2026 (same as the revised programme in Agro 2/2025). Mix B = 45% SOA, 40% MOP, 14% kieserite, 1% borate; RP 28–30% P2O5; compound 14:13:9:2.5. No incomplete FY2026/27 programme to be carried beyond Apr 2027. Total per palm per year not printed.",
+       "src": "Agro 1/2026"
+      }
+     ]
+    },
+    "progress": {
+     "spraying": [
+      {
+       "k": "Interrow weeding rd 1",
+       "pct": 84,
+       "note": "211.3 ha",
+       "src": "Agro 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Interrow weeding rd 2",
+       "pct": 95,
+       "note": "211.3 ha",
+       "src": "Agro 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Interrow weeding rd 3",
+       "pct": 26,
+       "note": "211.3 ha",
+       "src": "Agro 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Circle weeding rd 1",
+       "pct": 95,
+       "note": "211.3 ha",
+       "src": "Agro 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Circle weeding rd 2",
+       "pct": 95,
+       "note": "211.3 ha",
+       "src": "Agro 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Circle weeding rd 3",
+       "pct": 53,
+       "note": "211.3 ha",
+       "src": "Agro 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "FY2025/26 (May 2025–Apr 2026), latest period reported; no FY2026/27 progress in the reports"
+    }
+   }
   },
   {
    "id": "P2018",
@@ -428,7 +2073,183 @@
      "src": "PA 2/2026",
      "text": "Lowest bunch weight 4.7 kg (4.2 kg Apr 2025); harvester output 1.24 t/man-day flagged as unsatisfactory."
     }
-   ]
+   ],
+   "detail": {
+    "spraying": [
+     {
+      "k": "Spraying FY2025/26 · BQ46-18C1",
+      "v": "BQ46-18C1 (4.31 ha), FY2025/26 (May 2025–Apr 2026): circle: nothing done, 0% of 3 rounds; selective: 8.62 ha sprayed = 200% of 3 budgeted rounds, month completed Jun 2025, remark '2nd round completed'.",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Spraying FY2025/26 · BQ47-18C1",
+      "v": "BQ47-18C1 (11.32 ha), FY2025/26 (May 2025–Apr 2026): circle: 54.37 ha sprayed = 480% of 3 budgeted rounds, month completed Jun 2025, remark '3rd round completed'; selective: 35.88 ha sprayed = 317% of 3 budgeted rounds, month completed Jun 2025, remark '3rd round completed'.",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Spraying FY2025/26 · BQ48-18C1",
+      "v": "BQ48-18C1 (18.49 ha), FY2025/26 (May 2025–Apr 2026): circle: 36.98 ha sprayed = 200% of 3 budgeted rounds, month completed Jun 2025, remark '2nd round completed'; selective: 55.47 ha sprayed = 300% of 3 budgeted rounds, month completed Jun 2025, remark '2nd round completed'.",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Spraying FY2025/26 · BQ49-18A1",
+      "v": "BQ49-18A1 (38.96 ha), FY2025/26 (May 2025–Apr 2026): circle: 38.96 ha sprayed = 100% of 3 budgeted rounds, month completed Jul 2025, remark '3rd round completed'; selective: 116.85 ha sprayed = 300% of 3 budgeted rounds, month completed Jun 2025, remark '2nd round completed'.",
+      "src": "PA 2/2026"
+     }
+    ],
+    "pests": [
+     {
+      "k": "Rat damage census Sep 2025–Mar 2026",
+      "v": "BQ49-18A1 census 03 Nov 2026 (as printed): 4200 palms sampled on 38.96 ha, old damage L1 736 palms (17.52%), fresh damage L2 642 palms (15.29%) (fresh damage above 5% baiting threshold). Baiting campaign Dec 2025–Mar 2026 in blocks with L2 over 5%; fresh damage now minimal (May 2026).",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "yield": [
+     {
+      "k": "FY2025/26 (May 2025–Apr 2026) yield",
+      "v": "9.6 t/ha in FY2025/26 (May 2025–Apr 2026) vs 5.22 t/ha in FY2024/25 (May 2024–Apr 2025); estate average 14.64 vs 12.33 (+18.7%).",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "FY2018/19–FY2023/24 (2018–2024) yield",
+      "v": "FFB t/ha by financial year (May–Apr): FY2021/22 0.18; FY2022/23 0.38; FY2023/24 1.",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Bunch weight Apr 2026",
+      "v": "Average bunch weight 4.7 kg in April 2026 vs 4.2 kg in April 2025; PA notes older plantings still low but rising.",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Steep-ascent phase (FY2025/26)",
+      "v": "2017–2019 plantings (462.52 ha, 16.21% of 2,852.55 ha yield-declaring area) are in the steep ascent phase; their FY2025/26 yield rise is mainly due to palm age.",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "harvesting": [
+     {
+      "k": "Harvester rate & output FY2025/26",
+      "v": "Harvest rate RM35/t, output 1.24 t/man-day, average earning RM43/day vs basic wage RM34 (FY2025/26, to Apr 2026). PA: productivity in 2018 and 2019 plantings not satisfactory; monitor working hours and improve skills.",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Crop losses BQ49-18A1 (May 2026)",
+      "v": "High crop losses in BQ49-18A1: over-ripe/rotten bunches on palms and loose fruit in circles; poor evacuation, delayed harvesting, overgrown paths (19 May 2026). These 3 sub-blocks are 3 of 35 mature sub-blocks checked (8.57%).",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "pruning": [
+     {
+      "k": "Pruning FY2025/26 (to Apr 2026)",
+      "v": "Progressive pruning FY2025/26 on 73.08 ha: 100.54 ha of 219.24 ha programme to date (46%).",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Over-pruning young mature (May 2026)",
+      "v": "Young mature P18–P21: ground vegetation improved but sporadic over-pruning remains with no noticeable improvement; further corrective action needed (19 May 2026).",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "field": [
+     {
+      "k": "Palm census Apr 2026",
+      "v": "Palm census Apr 2026: 6244 palms on 73.08 ha, 85 palms/ha (same as previous census Oct–Nov 2024); 4 sub-blocks (Apr 2026). Stand low: re-verify census and infill toward 148 palms/ha before canopy closure.",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Flood-prone area (May 2026)",
+      "v": "8.89 ha flood-prone of 94.89 ha surveyed (9%); low-lying areas prone to periodic flooding and prolonged waterlogging favour bracken ferns.",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Sub-blocks (PA Appendix 1, Aug 2026)",
+      "v": "BQ46-18C1 4.31 ha, 194 palms, 45/ha, planted Mar, Socfindo; BQ47-18C1 11.32 ha, 990 palms, 87/ha, planted Apr, Socfindo; BQ48-18C1 18.49 ha, 858 palms, 46/ha, planted May, Socfindo; BQ49-18A1 38.96 ha, 4,202 palms, 108/ha, planted Jun, Socfindo. Soil all Tropaquepts.",
+      "src": "PA 2/2026"
+     }
+    ],
+    "fertNow": {
+     "year": "FY2026/27",
+     "rows": [
+      {
+       "k": "May 2026",
+       "v": "Mix B 2,200 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Aug 2026",
+       "v": "Mix B 2,200 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Oct 2026",
+       "v": "RP 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Nov 2026",
+       "v": "Mix B 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Feb 2027",
+       "v": "Mix B 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Notes",
+       "v": "FY2026/27 (May 2026–Apr 2027) programme, no amendment at Agro 1/2026 (same as the revised programme in Agro 2/2025). Mix B = 45% SOA, 40% MOP, 14% kieserite, 1% borate; RP 28–30% P2O5; compound 14:13:9:2.5. No incomplete FY2026/27 programme to be carried beyond Apr 2027. Total per palm per year not printed.",
+       "src": "Agro 1/2026"
+      }
+     ]
+    },
+    "progress": {
+     "spraying": [
+      {
+       "k": "Interrow weeding rd 1",
+       "pct": 100,
+       "note": "73.08 ha",
+       "src": "Agro 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Interrow weeding rd 2",
+       "pct": 75,
+       "note": "73.08 ha",
+       "src": "Agro 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Interrow weeding rd 3",
+       "pct": 75,
+       "note": "73.08 ha",
+       "src": "Agro 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Circle weeding rd 1",
+       "pct": 50,
+       "note": "73.08 ha",
+       "src": "Agro 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Circle weeding rd 2",
+       "pct": 50,
+       "note": "73.08 ha",
+       "src": "Agro 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Circle weeding rd 3",
+       "pct": 25,
+       "note": "73.08 ha",
+       "src": "Agro 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "FY2025/26 (May 2025–Apr 2026), latest period reported; no FY2026/27 progress in the reports"
+    }
+   }
   },
   {
    "id": "P2019",
@@ -449,7 +2270,200 @@
      "src": "PA 2/2026",
      "text": "Bunch weight 6.8 kg vs 5.8 kg; harvester output 1.17 t/man-day flagged as unsatisfactory."
     }
-   ]
+   ],
+   "detail": {
+    "spraying": [
+     {
+      "k": "Spraying FY2025/26 · BM33-19A1",
+      "v": "BM33-19A1 (30.55 ha), FY2025/26 (May 2025–Apr 2026): circle: 122.20 ha sprayed = 400% of 3 budgeted rounds, month completed Jun 2025, remark '2nd round completed'; selective: 122.20 ha sprayed = 400% of 3 budgeted rounds, month completed Jun 2025, remark '3rd round completed'.",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Spraying FY2025/26 · BM34-19A1",
+      "v": "BM34-19A1 (27.36 ha), FY2025/26 (May 2025–Apr 2026): circle: 108.24 ha sprayed = 396% of 3 budgeted rounds, month completed May 2025, remark '2nd round completed'; selective: 112.32 ha sprayed = 411% of 3 budgeted rounds, month completed May 2025, remark '3rd round completed'.",
+      "src": "PA 2/2026"
+     }
+    ],
+    "pests": [
+     {
+      "k": "Rat damage census Sep 2025–Mar 2026",
+      "v": "BM34-19A1 census 26 Mar 2026: 3343 palms sampled on 27.36 ha, old damage L1 510 palms (15.26%), fresh damage L2 73 palms (2.18%). Baiting campaign Dec 2025–Mar 2026 in blocks with L2 over 5%; fresh damage now minimal (May 2026).",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "yield": [
+     {
+      "k": "FY2025/26 (May 2025–Apr 2026) yield",
+      "v": "12.43 t/ha in FY2025/26 (May 2025–Apr 2026) vs 5.55 t/ha in FY2024/25 (May 2024–Apr 2025); estate average 14.64 vs 12.33 (+18.7%).",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Bunch weight Apr 2026",
+      "v": "Average bunch weight 6.8 kg in April 2026 vs 5.8 kg in April 2025; PA notes older plantings still low but rising.",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Steep-ascent phase (FY2025/26)",
+      "v": "2017–2019 plantings (462.52 ha, 16.21% of 2,852.55 ha yield-declaring area) are in the steep ascent phase; their FY2025/26 yield rise is mainly due to palm age.",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "harvesting": [
+     {
+      "k": "Harvester rate & output FY2025/26",
+      "v": "Harvest rate RM35/t, output 1.17 t/man-day, average earning RM41/day vs basic wage RM34 (FY2025/26, to Apr 2026). PA: productivity in 2018 and 2019 plantings not satisfactory; monitor working hours and improve skills.",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Crop losses BR33-19A1 (May 2026)",
+      "v": "High crop losses in BR33-19A1: over-ripe/rotten bunches left on palms and over-ripe/rotten loose fruit in palm circles, far from main roads with overgrown harvesting paths (19 May 2026); occasional incomplete loose fruit collection also noted here.",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "pruning": [
+     {
+      "k": "Pruning FY2025/26 (to Apr 2026)",
+      "v": "Progressive pruning FY2025/26 on 57.91 ha: 114.19 ha of 173.73 ha programme to date (66%). Corrective (special) pruning 24.00 ha completed.",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Over-pruning BS31-19A1 (May 2026)",
+      "v": "Slight over-pruning in BS31-19A1, plus excessive frond removal from excavator damage during drain excavation and soil placement; closer machinery supervision needed (19 May 2026). Recently rehabilitated: keep at least 2 supporting fronds below the lowest bunch whorl.",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Pruning quality (May 2026)",
+      "v": "Pruning quality acceptable in BM33-19A1 (19 May 2026).",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Over-pruning young mature (May 2026)",
+      "v": "Young mature P18–P21: ground vegetation improved but sporadic over-pruning remains with no noticeable improvement; further corrective action needed (19 May 2026).",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "field": [
+     {
+      "k": "Sparse soft grasses (May 2026)",
+      "v": "Mostly bare areas with growth of sparse soft grasses in BM33-19A1 (19 May 2026 visit).",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Bracken ferns BM33-19A1 (May 2026)",
+      "v": "Growth of bracken ferns in BM33-19A1 (photos 77-78, 19 May 2026); flood-prone low-lying areas favour Stenochlaena palustris and Dicranopteris linearis; promote Nephrolepis.",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Palm census Apr 2026",
+      "v": "Palm census Apr 2026: 16855 palms on 178.14 ha, 95 palms/ha (same as previous census Oct–Nov 2024); 16 sub-blocks (Apr 2026). Stand low: re-verify census and infill toward 148 palms/ha before canopy closure.",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Flood-prone area (May 2026)",
+      "v": "4.41 ha flood-prone of 55.41 ha surveyed (8%); low-lying areas prone to periodic flooding and prolonged waterlogging favour bracken ferns.",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Supplying 2023–2025",
+      "v": "Palms supplied: 2025 99; total 99 (estate 44,953). 2025 supplies estate-wide: 5,535 planted May–Oct 2025, 1,884 died (34%).",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Sub-blocks (PA Appendix 1, Aug 2026)",
+      "v": "BM33-19A1 30.55 ha, 2,953 palms, 97/ha, planted Oct, Socfindo; BM34-19A1 27.36 ha, 2,991 palms, 109/ha, planted Oct, Socfindo. Soil all Tropaquepts.",
+      "src": "PA 2/2026"
+     }
+    ],
+    "other": [
+     {
+      "k": "PA visit photos Aug 2026",
+      "v": "Photos at the 22 and 24 Aug 2026 visit: S31/19A1 clean circles, clean inter rows using CKS, pruned palms; S32/19A1 selective spraying, desilted drain, pruned palms.",
+      "src": "PA 2/2026"
+     }
+    ],
+    "fertNow": {
+     "year": "FY2026/27",
+     "rows": [
+      {
+       "k": "May 2026",
+       "v": "Mix B 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Aug 2026",
+       "v": "Mix B 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Oct 2026",
+       "v": "RP 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Nov 2026",
+       "v": "Mix B 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Feb 2027",
+       "v": "Mix B 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Notes",
+       "v": "FY2026/27 (May 2026–Apr 2027) programme, no amendment at Agro 1/2026 (same as the revised programme in Agro 2/2025). Mix B = 45% SOA, 40% MOP, 14% kieserite, 1% borate; RP 28–30% P2O5; compound 14:13:9:2.5. No incomplete FY2026/27 programme to be carried beyond Apr 2027. Total per palm per year not printed.",
+       "src": "Agro 1/2026"
+      }
+     ]
+    },
+    "progress": {
+     "spraying": [
+      {
+       "k": "Interrow weeding rd 1",
+       "pct": 100,
+       "note": "57.91 ha",
+       "src": "Agro 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Interrow weeding rd 2",
+       "pct": 100,
+       "note": "57.91 ha",
+       "src": "Agro 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Interrow weeding rd 3",
+       "pct": 100,
+       "note": "57.91 ha",
+       "src": "Agro 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Circle weeding rd 1",
+       "pct": 100,
+       "note": "57.91 ha",
+       "src": "Agro 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Circle weeding rd 2",
+       "pct": 100,
+       "note": "57.91 ha",
+       "src": "Agro 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Circle weeding rd 3",
+       "pct": 100,
+       "note": "57.91 ha",
+       "src": "Agro 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "FY2025/26 (May 2025–Apr 2026), latest period reported; no FY2026/27 progress in the reports"
+    }
+   }
   },
   {
    "id": "P2020",
@@ -466,7 +2480,63 @@
      "src": "Agro 1/2026",
      "text": "Stand 72 palms/ha; census to be re-verified and infilled toward 148 palms/ha."
     }
-   ]
+   ],
+   "detail": {
+    "pruning": [
+     {
+      "k": "Over-pruning young mature (May 2026)",
+      "v": "Young mature P18–P21: ground vegetation improved but sporadic over-pruning remains with no noticeable improvement; further corrective action needed (19 May 2026).",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "field": [
+     {
+      "k": "Palm census Apr 2026",
+      "v": "Palm census Apr 2026: 1384 palms on 19.21 ha, 72 palms/ha (same as previous census Oct–Nov 2024); 5 sub-blocks (Apr 2026). Stand low: re-verify census and infill toward 148 palms/ha before canopy closure.",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Supplying 2023–2025",
+      "v": "Palms supplied: 2024 602, 2025 453; total 1055 (estate 44,953). 2025 supplies estate-wide: 5,535 planted May–Oct 2025, 1,884 died (34%).",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "fertNow": {
+     "year": "FY2026/27",
+     "rows": [
+      {
+       "k": "May 2026",
+       "v": "Mix B 1,700 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Aug 2026",
+       "v": "Mix B 1,700 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Oct 2026",
+       "v": "RP 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Nov 2026",
+       "v": "Mix B 1,700 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Feb 2027",
+       "v": "Mix B 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Notes",
+       "v": "FY2026/27 (May 2026–Apr 2027) programme, no amendment at Agro 1/2026 (same as the revised programme in Agro 2/2025). Mix B = 45% SOA, 40% MOP, 14% kieserite, 1% borate; RP 28–30% P2O5; compound 14:13:9:2.5. No incomplete FY2026/27 programme to be carried beyond Apr 2027. Total per palm per year not printed.",
+       "src": "Agro 1/2026"
+      }
+     ]
+    }
+   }
   },
   {
    "id": "P2021",
@@ -483,7 +2553,70 @@
      "src": "Agro 1/2026",
      "text": "Stand 71 palms/ha; sporadic over-pruning persists in young mature plantings."
     }
-   ]
+   ],
+   "detail": {
+    "pruning": [
+     {
+      "k": "Over-pruning young mature (May 2026)",
+      "v": "Young mature P18–P21: ground vegetation improved but sporadic over-pruning remains with no noticeable improvement; further corrective action needed (19 May 2026).",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "field": [
+     {
+      "k": "Palm census Apr 2026",
+      "v": "Palm census Apr 2026: 2491 palms on 34.87 ha, 71 palms/ha (same as previous census Oct–Nov 2024); 6 sub-blocks (Apr 2026). Stand low: re-verify census and infill toward 148 palms/ha before canopy closure.",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Supplying 2023–2025",
+      "v": "Palms supplied: 2025 2013; total 2013 (estate 44,953). 2025 supplies estate-wide: 5,535 planted May–Oct 2025, 1,884 died (34%).",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "other": [
+     {
+      "k": "PA visit photos Aug 2026",
+      "v": "Photos at the 22 and 24 Aug 2026 visit: S36/21A1 desilted drain, new water gate.",
+      "src": "PA 2/2026"
+     }
+    ],
+    "fertNow": {
+     "year": "FY2026/27",
+     "rows": [
+      {
+       "k": "May 2026",
+       "v": "Mix B 1,700 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Aug 2026",
+       "v": "Mix B 1,700 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Oct 2026",
+       "v": "RP 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Nov 2026",
+       "v": "Mix B 1,700 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Feb 2027",
+       "v": "Mix B 1,700 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Notes",
+       "v": "FY2026/27 (May 2026–Apr 2027) programme, no amendment at Agro 1/2026 (same as the revised programme in Agro 2/2025). Mix B = 45% SOA, 40% MOP, 14% kieserite, 1% borate; RP 28–30% P2O5; compound 14:13:9:2.5. No incomplete FY2026/27 programme to be carried beyond Apr 2027. Total per palm per year not printed.",
+       "src": "Agro 1/2026"
+      }
+     ]
+    }
+   }
   },
   {
    "id": "P2022",
@@ -500,7 +2633,68 @@
      "src": "Agro 1/2026",
      "text": "Stand 86 palms/ha; dead supply palms still to be replaced."
     }
-   ]
+   ],
+   "detail": {
+    "pests": [
+     {
+      "k": "Rhinoceros beetle (May 2026)",
+      "v": "Leaf defoliation by Rhinoceros beetle in immature plantings under control, no sign of escalation; continue monitoring (19 May 2026).",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "field": [
+     {
+      "k": "Palm census Apr 2026",
+      "v": "Palm census Apr 2026: 351 palms on 4.06 ha, 86 palms/ha (same as previous census Oct–Nov 2024); 2 sub-blocks (Apr 2026). Stand low: re-verify census and infill toward 148 palms/ha before canopy closure.",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Supplying 2023–2025",
+      "v": "Palms supplied: 2025 40; total 40 (estate 44,953). 2025 supplies estate-wide: 5,535 planted May–Oct 2025, 1,884 died (34%).",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Immature plantings (May 2026)",
+      "v": "Vigour of surviving palms generally satisfactory; dead supply palms still to be replaced; re-census supplied areas and keep 148 palms/ha; avoid planting Jun–Aug dry spell (19 May 2026).",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "fertNow": {
+     "year": "FY2026/27",
+     "rows": [
+      {
+       "k": "May 2026",
+       "v": "Mix B 1,500 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Aug 2026",
+       "v": "Mix B 1,500 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Oct 2026",
+       "v": "RP 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Nov 2026",
+       "v": "Mix B 1,500 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Feb 2027",
+       "v": "Mix B 1,700 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Notes",
+       "v": "FY2026/27 (May 2026–Apr 2027) programme, no amendment at Agro 1/2026 (same as the revised programme in Agro 2/2025). Mix B = 45% SOA, 40% MOP, 14% kieserite, 1% borate; RP 28–30% P2O5; compound 14:13:9:2.5. No incomplete FY2026/27 programme to be carried beyond Apr 2027. Total per palm per year not printed.",
+       "src": "Agro 1/2026"
+      }
+     ]
+    }
+   }
   },
   {
    "id": "P2023",
@@ -517,7 +2711,75 @@
      "src": "Agro 1/2026",
      "text": "Stand 140 palms/ha; BS39-23A1 and BS40-23A1 photographed; surviving palms' vigour satisfactory."
     }
-   ]
+   ],
+   "detail": {
+    "pests": [
+     {
+      "k": "Rhinoceros beetle (May 2026)",
+      "v": "Leaf defoliation by Rhinoceros beetle in immature plantings under control, no sign of escalation; continue monitoring (19 May 2026).",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "field": [
+     {
+      "k": "Palm census Apr 2026",
+      "v": "Palm census Apr 2026: 1471 palms on 10.48 ha, 140 palms/ha (same as previous census Oct–Nov 2024); 3 sub-blocks (Apr 2026).",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Supplying 2023–2025",
+      "v": "Palms supplied: 2025 958; total 958 (estate 44,953). 2025 supplies estate-wide: 5,535 planted May–Oct 2025, 1,884 died (34%).",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Immature plantings (May 2026)",
+      "v": "Vigour of surviving palms generally satisfactory; dead supply palms still to be replaced; re-census supplied areas and keep 148 palms/ha; avoid planting Jun–Aug dry spell (19 May 2026).",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "other": [
+     {
+      "k": "Photos BS39/BS40-23A1 (May 2026)",
+      "v": "Immature planting photographed in BS39-23A1 and BS40-23A1 (19 May 2026).",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "fertNow": {
+     "year": "FY2026/27",
+     "rows": [
+      {
+       "k": "May 2026",
+       "v": "Mix B 1,200 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Aug 2026",
+       "v": "Mix B 1,500 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Oct 2026",
+       "v": "RP 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Nov 2026",
+       "v": "Mix B 1,500 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Feb 2027",
+       "v": "Mix B 1,500 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Notes",
+       "v": "FY2026/27 (May 2026–Apr 2027) programme, no amendment at Agro 1/2026 (same as the revised programme in Agro 2/2025). Mix B = 45% SOA, 40% MOP, 14% kieserite, 1% borate; RP 28–30% P2O5; compound 14:13:9:2.5. No incomplete FY2026/27 programme to be carried beyond Apr 2027. Total per palm per year not printed.",
+       "src": "Agro 1/2026"
+      }
+     ]
+    }
+   }
   },
   {
    "id": "P2024",
@@ -534,7 +2796,68 @@
      "src": "Agro 1/2026",
      "text": "Stand 148 palms/ha; Rhinoceros beetle defoliation under control."
     }
-   ]
+   ],
+   "detail": {
+    "pests": [
+     {
+      "k": "Rhinoceros beetle (May 2026)",
+      "v": "Leaf defoliation by Rhinoceros beetle in immature plantings under control, no sign of escalation; continue monitoring (19 May 2026).",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "field": [
+     {
+      "k": "Palm census Apr 2026",
+      "v": "Palm census Apr 2026: 1273 palms on 8.6 ha, 148 palms/ha (same as previous census Oct–Nov 2024); 4 sub-blocks (Apr 2026).",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Supplying 2023–2025",
+      "v": "Palms supplied: 2025 26; total 26 (estate 44,953). 2025 supplies estate-wide: 5,535 planted May–Oct 2025, 1,884 died (34%).",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Immature plantings (May 2026)",
+      "v": "Vigour of surviving palms generally satisfactory; dead supply palms still to be replaced; re-census supplied areas and keep 148 palms/ha; avoid planting Jun–Aug dry spell (19 May 2026).",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "fertNow": {
+     "year": "FY2026/27",
+     "rows": [
+      {
+       "k": "May 2026",
+       "v": "Compound 1,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Aug 2026",
+       "v": "Compound 1,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Oct 2026",
+       "v": "RP 1,700 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Nov 2026",
+       "v": "Compound 1,200 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Feb 2027",
+       "v": "Compound 1,200 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Notes",
+       "v": "FY2026/27 (May 2026–Apr 2027) programme, no amendment at Agro 1/2026 (same as the revised programme in Agro 2/2025). Mix B = 45% SOA, 40% MOP, 14% kieserite, 1% borate; RP 28–30% P2O5; compound 14:13:9:2.5. No incomplete FY2026/27 programme to be carried beyond Apr 2027. Total per palm per year not printed.",
+       "src": "Agro 1/2026"
+      }
+     ]
+    }
+   }
   },
   {
    "id": "P2025",
@@ -555,7 +2878,82 @@
      "src": "Agro 1/2026",
      "text": "No new cases of compost placed too close to palm base in BR32-25A1."
     }
-   ]
+   ],
+   "detail": {
+    "manuring": [
+     {
+      "k": "Compost placement BR32-25A1 (May 2026)",
+      "v": "No new cases of compost placed too close to the palm base in BR32-25A1 (flagged in Agro 2-2025).",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "pests": [
+     {
+      "k": "Rhinoceros beetle (May 2026)",
+      "v": "Leaf defoliation by Rhinoceros beetle in immature plantings under control, no sign of escalation; continue monitoring (19 May 2026).",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "field": [
+     {
+      "k": "Palm census Apr 2026",
+      "v": "Palm census Apr 2026: 464 palms on 3.13 ha, 148 palms/ha (same as previous census Oct–Nov 2024); 2 sub-blocks (Apr 2026).",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Supplying 2023–2025",
+      "v": "Palms supplied: 2025 464; total 464 (estate 44,953). 2025 supplies estate-wide: 5,535 planted May–Oct 2025, 1,884 died (34%).",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Immature plantings (May 2026)",
+      "v": "Vigour of surviving palms generally satisfactory; dead supply palms still to be replaced; re-census supplied areas and keep 148 palms/ha; avoid planting Jun–Aug dry spell (19 May 2026).",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "other": [
+     {
+      "k": "PA visit photos Aug 2026",
+      "v": "Photos at the 22 and 24 Aug 2026 visit: R32/25A1 clean inter rows, sprayed sedges, palms appearance, mulching with compost, desilted drain.",
+      "src": "PA 2/2026"
+     },
+     {
+      "k": "Photos BR32-25A1 (May 2026)",
+      "v": "Immature planting photographed in BR32-25A1 (19 May 2026).",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "fertNow": {
+     "year": "FY2026/27",
+     "rows": [
+      {
+       "k": "Jul 2026",
+       "v": "Compound 800 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Oct 2026",
+       "v": "RP 1,500 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Nov 2026",
+       "v": "Compound 900 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Feb 2027",
+       "v": "Compound 1,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Notes",
+       "v": "FY2026/27 (May 2026–Apr 2027) programme, no amendment at Agro 1/2026 (same as the revised programme in Agro 2/2025). Mix B = 45% SOA, 40% MOP, 14% kieserite, 1% borate; RP 28–30% P2O5; compound 14:13:9:2.5. No incomplete FY2026/27 programme to be carried beyond Apr 2027. Total per palm per year not printed.",
+       "src": "Agro 1/2026"
+      }
+     ]
+    }
+   }
   }
  ],
  "blockPeriod": "May 2025–Apr 2026 (FY2025/26)",
@@ -1029,5 +3427,131 @@
   "combinedWith": null,
   "notes": "Both full-FY tonnages from PA 2/2026 crop table (budget FY2025/26 34,308.12 t; last year's 12-month budget 30,710.94 t, not used). Basis change: FY2025/26 is on 2,722.71 ha mature (incl. the 940.05 ha Division 2 taken back from Haruan); the FY2024/25 figure at 15.00 t/ha implies about 2,224 ha, so tonnage rose 33% while yield rose only 9% - the two years are not on the same area. PA upkeep table prints FFB 44,453 t vs 44,442.76 t in the crop table. Agro 1/2026 gives yields only (FY2018/19–FY2025/26, Table 13), no tonnes; its FY2024/25 12.33 and FY2025/26 14.64 t/ha differ from PA 15.00 and 16.32. No FY2026/27 to-date tonnage printed (PA data end Apr 2026)."
  },
- "reportName": "Biawan Estate (Inti)"
+ "reportName": "Biawan Estate (Inti)",
+ "blockEstateWide": {
+  "manuring": [
+   {
+    "k": "Manuring FY2025/26 (to Apr 2026)",
+    "v": "Table 4, FY2025/26 programme vs applied (mt): Mix B 3,221.35 vs 1,811.95 (56%); ZA 76.6 vs 40.61 (53%); RP 789.55 vs 739.55 (94%); compound 14.13.9.2.5 11 vs 2.25 (20%); MOP 35.55 vs 23.7 (67%); estate trials kieserite 17.7 vs 17.7 (100%), HGFB 1.18 vs 1.18 (100%), urea 11.85 vs 8.15 (69%); FY2024/25 carry-forward applied Hi-Kay 464.8, NK Mix 1,291.83, NPK 15.15.6.4 18.8, NPK 15.15.15 6.3, NPK 12.12.7.2 0.55, Auruma Basic 0.86; total 4,164.78 vs 4,428.23 (106%). Agronomist: only 63.3% of the FY2025/26 programme completed (carry-forward of FY2024/25 and late fertiliser delivery).",
+    "src": "Agro 1/2026"
+   },
+   {
+    "k": "Manuring record FY2022/23–FY2025/26 (2022–2026)",
+    "v": "Programme completion 40% FY2022/23, 50% FY2023/24, 61% FY2024/25, 63.3% FY2025/26. From FY2025/26 no incomplete programme carried beyond April 2026; same-type balances deducted from FY2026/27; non-aligned types still carried forward.",
+    "src": "Agro 1/2026"
+   },
+   {
+    "k": "Manuring rounds FY2025/26 (to Apr 2026)",
+    "v": "282 of 344 rounds applied to April 2026; shortfall because old stock was used but declared as extra application, not as programme rounds (not correct). Broadcasting, 20 bags/man-day, RM2.12/bag, earnings RM42.40/day vs basic RM33.45. Manuring workers 21 vs 32 required, contract workers engaged. PA: implement semi-mechanical application on the flat, accessible terrain; strive to complete the FY2026/27 programme.",
+    "src": "PA 2/2026"
+   },
+   {
+    "k": "Compost FY2025/26 (to Apr 2026)",
+    "v": "918.09 ha composted vs 917.44 ha budgeted at 20 t/ha; 34 palms/man-day, RM1.08/palm, earnings RM36.72/day; work satisfactory.",
+    "src": "PA 2/2026"
+   },
+   {
+    "k": "Manuring status Oct 2025",
+    "v": "FY2025/26 as at Oct 2025 (programme vs applied mt): Mix B 2,137.95 vs 1,097.05 (51%); AS 64.75 vs 44.95 (69%); RP 775.15 vs 3 (0%); compound 15.25 vs 2.25 (15%); MOP 35.55 vs 35.3 (99%); kieserite 17.7 vs 2.95 (17%); HGFB 100%; urea 69%; behind schedule due to delayed delivery and FY2024/25 carry-forward.",
+    "src": "Agro 2/2025"
+   },
+   {
+    "k": "Frond stacking (May 2026)",
+    "v": "Recommended frond stacking adopted only locally; fronds mostly in straight train-like lines; expand as at Belida Estate to cut runoff and fertiliser loss into field drains.",
+    "src": "Agro 1/2026"
+   },
+   {
+    "k": "Compost heaps (May 2026)",
+    "v": "Compost stacked 5–6 ft high along main roads before interrow application; one-time decomposition/C:N check recommended.",
+    "src": "Agro 1/2026"
+   }
+  ],
+  "spraying": [
+   {
+    "k": "Circle spraying FY2025/26 (to Apr 2026)",
+    "v": "5,038 ha (1.9 rounds) = 62% of 8,168 ha (3 rounds) budgeted to April 2026; many circles clean and deferred. Circles generally clean (Aug 2026). CKS high-volume, 4.8 ha/man-day; sprayers work only 5 h/day and refill from field drains. Paraquat 0.33 l/ha + Ally 0.01 kg/ha (2.5 pumps/ha). Piece rate RM13.23/ha, earnings RM63.50/day vs basic RM33.34. Advice: 8-hour day, jerry cans pre-mixed at chemical store, VLV low-volume nozzles, glyphosate only without Ally, time and motion study.",
+    "src": "PA 2/2026"
+   },
+   {
+    "k": "Selective spraying FY2025/26 (to Apr 2026)",
+    "v": "8,104 ha (2.9 rounds) = 99% of 8,168 ha (3 rounds) to April 2026. Inter-rows satisfactory except spots of jungle woodies; Stenochlaena and sedges well sprayed so inter-rows lack soft grass; let soft grasses or Nephrolepis dominate. CKS 4.8 ha/man-day (paraquat 0.39 l/ha + Ally 0.01 kg/ha, only for noxious ferns and sedges); knapsack power sprayer 4.9 ha/man-day (Garlon 0.2 l/ha; expected 5–6). 13 pumps/man-day = 5 hours work. Earnings RM63.50 (CKS) and RM64.82 (power sprayer) vs basic RM33.45. Use Paraquat CKS for Stenochlaena, sedges, VOP; mist blower with Triclopyr for Asystasia, Clidemia, Hedyotis, Eupatorium, Melastoma.",
+    "src": "PA 2/2026"
+   },
+   {
+    "k": "Weeding FY2025/26 (to Apr 2026)",
+    "v": "Estate total 2,725.95 ha: interrow rounds 99%, 75%, 28%; circle rounds 98%, 95%, 55%.",
+    "src": "Agro 1/2026"
+   },
+   {
+    "k": "Ground vegetation (May 2026)",
+    "v": "Improved vs Agro 2-2025 but mostly bare ground with sparse soft grasses; bare area increased; patches of Stenochlaena palustris and Dicranopteris linearis. 218.5 ha (7.4% of 2,932.9 ha) low-lying and flood-prone. Promote Nephrolepis, avoid blanket spraying, keep 3–4 ft clean circle, weed flood areas after water recedes; mist blower with one-sided shield (sparse) or round shield (dense weeds). Path-spraying signs in taller palm areas reduced.",
+    "src": "Agro 1/2026"
+   }
+  ],
+  "pests": [
+   {
+    "k": "Rat census Sep 2025–Mar 2026",
+    "v": "Estate 843.65 ha censused, 110,882 palms: L1 9,409 (8.49%), L2 5,221 (4.71%). Div 1 6.34%/3.12%; Div 2 6.37%/3.56%; Div 4 10.09%/4.40%; Div 5 8.47%/6.61%; Div 6 11.48%/8.20%. Census twice yearly on 20% of palms; baiting on alternate rows when L2 over 5%, baits replaced every 3–4 days until uptake under 20%; campaign Dec 2025–Mar 2026; use second-generation bait for 7-day replacement.",
+    "src": "Agro 1/2026"
+   },
+   {
+    "k": "Rat baiting FY2025/26 (to Apr 2026)",
+    "v": "2 rounds over 297 ha and 3 rounds over 779 ha to April 2026; damage very minimal at the Aug 2026 visit. PA: census quarterly, bait when damage exceeds 10%.",
+    "src": "PA 2/2026"
+   },
+   {
+    "k": "Bagworm FY2025/26 (2025–2026)",
+    "v": "268 ha affected, mainly along roadsides; trunk injection with Asifat 75%; infestation reduced drastically, frond damage negligible (Aug 2026).",
+    "src": "PA 2/2026"
+   }
+  ],
+  "harvesting": [
+   {
+    "k": "Harvesting FY2025/26 (to Apr 2026)",
+    "v": "Rounds 31.2 vs 36 budget to April 2026; interval averaging 13 days at Aug 2026 visit (keep 10–12); harvesters outturn 89%; 118 harvesters vs 121 needed at 1:18 ha. Cost RM64.56/t vs RM56.82 budget. Introduce mechanical infield FFB evacuation.",
+    "src": "PA 2/2026"
+   },
+   {
+    "k": "Interval & crop recovery FY2025/26 (to Apr 2026)",
+    "v": "Interval 7–20 days, average 11.3; crop recovery 73% vs 54% in FY2024/25. Over-ripe 4–14% (was 5–9%). Loose fruit collection and quality improved; scraper adopted. Flooding Nov–Mar disrupted harvesting.",
+    "src": "Agro 1/2026"
+   }
+  ],
+  "nutrients": [
+   {
+    "k": "Leaf analysis (2025)",
+    "v": "Large variation in N and P across sampling blocks; N mostly moderate-low to low (leaching, denitrification); K high to normal; Mg adequate; P low to moderate-low (fixed in acidic waterlogged soils). Lab results in Appendix 2 are listed by sample code only (BLDE/BANE/SLNE 174–333), not by block.",
+    "src": "Agro 1/2026"
+   },
+   {
+    "k": "Soil analysis Oct 2025",
+    "v": "74 soil samples received 13/10/2025 (Appendix 3, circle and frond-heap 0–30/31–60 cm): pH 3.53–4.29, C-organic 3.01–12.47%, N 0.15–0.61%, P-Bray II 17.0–274.3 ppm; sample codes not linked to blocks.",
+    "src": "Agro 1/2026"
+   }
+  ],
+  "field": [
+   {
+    "k": "Rehabilitation Jan 2026",
+    "v": "41 ha of area to be rehabilitated completed in January 2026, satisfactory. 544 of 2,722 ha mature not yet productive (net productive 2,178 ha).",
+    "src": "PA 2/2026"
+   },
+   {
+    "k": "Pruning FY2025/26 (to Apr 2026)",
+    "v": "Progressive pruning 575,720 of 699,894 palms (82%), 4,479.30 ha; by division 1 77%, 2 60%, 4MN 193%, 4OP 82%, 5 97%, 6 78%; shortfall due to harvester shortage; no under/unpruned palms seen; RM0.79/palm/year.",
+    "src": "PA 2/2026"
+   },
+   {
+    "k": "Supplying FY2025/26 (to Apr 2026)",
+    "v": "5,535 of 8,990 palms budgeted supplied to April 2026; no seedlings available now; more supplies needed in rehabilitated areas.",
+    "src": "PA 2/2026"
+   },
+   {
+    "k": "Water management (May 2026)",
+    "v": "Drain water levels already high in moderate rainfall; keep water table 50–80 cm; map waterlogged/fast-flooding/flood-free areas; install homemade piezometers (Far East Delima design). 5 of 5 water gates installed FY2025/26 at RM5,474 each; none budgeted FY2026/27.",
+    "src": "Agro 1/2026"
+   }
+  ]
+ },
+ "blockGaps": "No FY2025/26 per-palm fertiliser programme in either Agronomy report (Agro 2/2025 Appendix 1 is the revised FY2026/27 programme, same as Agro 1/2026), so fertPrev omitted for all blocks; Agro 2/2025 Table 4 gives FY2025/26 tonnages only. No block-level manuring progress (only estate tonnage by fertiliser and 282/344 rounds). Leaf/soil results not linked to blocks. No Ganoderma data. PA circle/selective table covers sub-blocks of P2012–P2019 only; P2020–P2025 have no spraying data. No FY2026/27 progress in either report (PA period ends Apr 2026). Agro Tables 8/9 use 57.91 ha for P2019 vs 178.14 ha in the area statement. PA field details omit P2020–P2025 and most P2019 sub-blocks.",
+ "blockMap": "Dashboard blocks are planting-year fields P2012–P2025. Report sub-block codes carry the planting year after the dash (e.g. BM41-12A1 and BR35-16B1 = YOP 2012 and 2016); each sub-block row was placed under P20xx from those two digits. Agronomy tables by planting year (P12/YP2012) map one-to-one."
 }

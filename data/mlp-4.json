@@ -477,7 +477,164 @@
      "src": "PA 1/2026",
      "text": "Sub-surface manuring in A03 at 0.2 ha/man-day (very low); poorly sprayed woodies and bamboo in A03."
     }
-   ]
+   ],
+   "detail": {
+    "spraying": [
+     {
+      "k": "Spraying FY2025/26 (May 2025–Mar 2026)",
+      "v": "Circle spray 415.13 ha done (3 rounds budgeted); selective 236.43 ha done (2 rounds budgeted) (PA block-table subtotals; per sub-block detail under each block)",
+      "src": "PA 1/2026"
+     }
+    ],
+    "yield": [
+     {
+      "k": "Yield FY2025/26 (May 2025–Apr 2026)",
+      "v": "22.2 t/ha vs 15.58 t/ha in FY2024/25 (May 2024–Apr 2025), 30% as printed; estate 17.42 vs 15.46 t/ha (+11%)",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Bunch weight Mar 2026",
+      "v": "2011 planting: 18.8 kg (Mar 2025) to 18.3 kg (Mar 2026)",
+      "src": "PA 1/2026"
+     }
+    ],
+    "harvesting": [
+     {
+      "k": "Harvesting rounds FY2025/26 (to Apr 2026)",
+      "v": "28.1 rounds, 117% of the minimum 24",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Harvesting interval May 2025–Apr 2026",
+      "v": "Days by month May 2025 to Apr 2026: 25-30, 20-24, 11-18, 12-19, 14-18, 10-19, 13-25, 12-26, 17-23, 10-17, 10-12, 9-11",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Harvesting interval May 2026",
+      "v": "9-11 days",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Harvester productivity FY2025/26 (to Mar 2026)",
+      "v": "2011 planting: 2.09 t/man-day at RM50/t, average earning RM104.50/day (basic wage RM68.35)",
+      "src": "PA 1/2026"
+     }
+    ],
+    "pruning": [
+     {
+      "k": "Pruning record FY2025/26 (to Apr 2026)",
+      "v": "37.14 of 203.3 ha (18%); estate says payment records not updated, so field completion is higher",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Routine pruning paid May 2025–Mar 2026",
+      "v": "26.21 of 203.30 ha (PA block table subtotal)",
+      "src": "PA 1/2026"
+     }
+    ],
+    "field": [
+     {
+      "k": "Area and palms",
+      "v": "PA (Mar 2026): 203.30 ha, 23,206 palms, 114 SPH. Agro (May 2026): 205.85 ha, 23,509 palms, 114 SPH after supply planting",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Palm thinning (Oct 2025–Apr 2026)",
+      "v": "224 palms removed; 587 removed since planting",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Sub-blocks",
+      "v": "A01, A02, A03, A04, A05, A06",
+      "src": "PA 1/2026"
+     }
+    ],
+    "fertNow": {
+     "year": "FY2026/27",
+     "rows": [
+      {
+       "k": "May",
+       "v": "Mix B 2,000 g (A01, A02, A04, A05, A06 only)",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "May",
+       "v": "Mix B 8,000 g (printed with *, sub-soil application) (A03 only)",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Jun",
+       "v": "Kieserite 1,000 g (A02, A03, A06 only)",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Aug",
+       "v": "Mix B 2,000 g (A01, A02, A04, A05, A06 only)",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Oct",
+       "v": "Rock phosphate (BRP) 750 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Nov",
+       "v": "Mix B 2,000 g (A01, A02, A04, A05, A06 only)",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Feb",
+       "v": "Mix B 2,000 g (A01, A02, A04, A05, A06 only)",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Note",
+       "v": "Mix B 9.45:0:24:3.7:0.48; Kieserite; BRP = Bayovar rock phosphate. Columns May 2026 to Apr 2027. Agro 1/2026 says the FY2026/27 programme is unchanged",
+       "src": "Agro 1/2026"
+      }
+     ]
+    },
+    "fertPrev": {
+     "year": "FY2025/26",
+     "rows": [
+      {
+       "k": "May",
+       "v": "Mix B 8,000 g (printed with *, sub-soil application) (A03 only)",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Jun",
+       "v": "Mix B 2,000 g (A01, A02, A04, A05, A06 only)",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Jul",
+       "v": "Kieserite 1,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Sep",
+       "v": "Mix B 2,000 g (A01, A02, A04, A05, A06 only)",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Oct",
+       "v": "Rock phosphate 750 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Jan",
+       "v": "Mix B 2,000 g (A01, A02, A04, A05, A06 only)",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Apr",
+       "v": "Mix B 2,000 g (A01, A02, A04, A05, A06 only)",
+       "src": "Agro 2/2025"
+      }
+     ]
+    }
+   }
   },
   {
    "id": "P12A",
@@ -510,7 +667,154 @@
      "src": "Agro 1/2026",
      "text": "Pruning 116.66 of 488.66 ha (24%) to Apr 2026; 25.5 rounds; 117 palms thinned Oct 2025–Apr 2026."
     }
-   ]
+   ],
+   "detail": {
+    "spraying": [
+     {
+      "k": "Spraying FY2025/26 (May 2025–Mar 2026)",
+      "v": "Circle spray 861.86 ha done (3 rounds budgeted); selective 1,033.57 ha done (2 rounds budgeted) (PA block-table subtotals; per sub-block detail under each block)",
+      "src": "PA 1/2026"
+     }
+    ],
+    "yield": [
+     {
+      "k": "Yield FY2025/26 (May 2025–Apr 2026)",
+      "v": "19.74 t/ha vs 15.76 t/ha in FY2024/25 (May 2024–Apr 2025), 20% as printed; estate 17.42 vs 15.46 t/ha (+11%)",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Bunch weight Mar 2026",
+      "v": "2012 plantings: 18.8 kg (Mar 2025) to 18.3 kg (Mar 2026)",
+      "src": "PA 1/2026"
+     }
+    ],
+    "harvesting": [
+     {
+      "k": "Harvesting rounds FY2025/26 (to Apr 2026)",
+      "v": "25.5 rounds, 106% of the minimum 24",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Harvesting interval May 2025–Apr 2026",
+      "v": "Days by month May 2025 to Apr 2026: 15-31, 18-29, 11-16, 14-20, 11-18, 10-19, 18-24, 22-25, 14-24, 11-15, 11-14, 10-12",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Harvesting interval May 2026",
+      "v": "9-11 days",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Harvester productivity FY2025/26 (to Mar 2026)",
+      "v": "PA lists two 2012 rows without saying which is 12A or 12B: 1.84 t/man-day (RM92.00/day) and 1.42 t/man-day (RM71.00/day), at RM50/t, basic wage RM68.35; productivity of 2012 plantings still not desirable",
+      "src": "PA 1/2026"
+     }
+    ],
+    "pruning": [
+     {
+      "k": "Pruning record FY2025/26 (to Apr 2026)",
+      "v": "116.66 of 488.66 ha (24%); estate says payment records not updated, so field completion is higher",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Routine pruning paid May 2025–Mar 2026",
+      "v": "103.13 of 488.66 ha (PA block table subtotal)",
+      "src": "PA 1/2026"
+     }
+    ],
+    "field": [
+     {
+      "k": "Area and palms",
+      "v": "PA (Mar 2026): 488.66 ha, 46,733 palms, 96 SPH. Agro (May 2026): 495.28 ha, 47,356 palms, 96 SPH after supply planting",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Palm thinning (Oct 2025–Apr 2026)",
+      "v": "117 palms removed; 1,038 removed since planting",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Sub-blocks",
+      "v": "A07, A08, A09, A10, A11, A12, A13, A14, A15, A16, A17, A18, A19, A20",
+      "src": "PA 1/2026"
+     }
+    ],
+    "fertNow": {
+     "year": "FY2026/27",
+     "rows": [
+      {
+       "k": "May",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Jun",
+       "v": "Kieserite 1,000 g (A08, A12, A13, A14, A15, A16, A17, A19, A20 only)",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Aug",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Oct",
+       "v": "Rock phosphate (BRP) 750 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Nov",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Feb",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Note",
+       "v": "Mix B 9.45:0:24:3.7:0.48; Kieserite; BRP = Bayovar rock phosphate. Columns May 2026 to Apr 2027. Agro 1/2026 says the FY2026/27 programme is unchanged",
+       "src": "Agro 1/2026"
+      }
+     ]
+    },
+    "fertPrev": {
+     "year": "FY2025/26",
+     "rows": [
+      {
+       "k": "Jun",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Jul",
+       "v": "Kieserite 1,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Sep",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Oct",
+       "v": "Rock phosphate 750 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Jan",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Apr",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      }
+     ]
+    }
+   }
   },
   {
    "id": "P12B",
@@ -543,7 +847,169 @@
      "src": "Agro 1/2026",
      "text": "Agro area 600.84 ha after 3.68 ha (B06) and 8.92 ha (B20) supply planting."
     }
-   ]
+   ],
+   "detail": {
+    "spraying": [
+     {
+      "k": "Spraying FY2025/26 (May 2025–Mar 2026)",
+      "v": "Circle spray 681.29 ha done (3 rounds budgeted); selective 856.19 ha done (2 rounds budgeted) (PA block-table subtotals; per sub-block detail under each block)",
+      "src": "PA 1/2026"
+     }
+    ],
+    "yield": [
+     {
+      "k": "Yield FY2025/26 (May 2025–Apr 2026)",
+      "v": "14.68 t/ha vs 15.08 t/ha in FY2024/25 (May 2024–Apr 2025), -3% as printed; estate 17.42 vs 15.46 t/ha (+11%)",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Bunch weight Mar 2026",
+      "v": "2012 plantings: 18.8 kg (Mar 2025) to 18.3 kg (Mar 2026)",
+      "src": "PA 1/2026"
+     },
+     {
+      "k": "Why P12B fell FY2025/26",
+      "v": "Only 20 harvesting rounds against a minimum 24 (16% short, lowest field), linked to earlier access problems; improving after road repairs",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "harvesting": [
+     {
+      "k": "Harvesting rounds FY2025/26 (to Apr 2026)",
+      "v": "20.1 rounds, 84% of the minimum 24",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Harvesting interval May 2025–Apr 2026",
+      "v": "Days by month May 2025 to Apr 2026: 19-28, 16-40, 10-30, 17-35, 21-32, 11-30, 13-24, 18-21, 20-23, 13-23, 12-15, 12-17",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Harvesting interval May 2026",
+      "v": "11-16 days",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Harvester productivity FY2025/26 (to Mar 2026)",
+      "v": "PA lists two 2012 rows without saying which is 12A or 12B: 1.84 t/man-day (RM92.00/day) and 1.42 t/man-day (RM71.00/day), at RM50/t, basic wage RM68.35; productivity of 2012 plantings still not desirable",
+      "src": "PA 1/2026"
+     },
+     {
+      "k": "Interval note FY2025/26",
+      "v": "Longest intervals early in FY2025/26 (up to 16–40 days); improved to 11–16 days by Apr–May 2026",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "pruning": [
+     {
+      "k": "Pruning record FY2025/26 (to Apr 2026)",
+      "v": "60.44 of 588.24 ha (10%); estate says payment records not updated, so field completion is higher",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Routine pruning paid May 2025–Mar 2026",
+      "v": "49.68 of 588.24 ha (PA block table subtotal)",
+      "src": "PA 1/2026"
+     }
+    ],
+    "field": [
+     {
+      "k": "Area and palms",
+      "v": "PA (Mar 2026): 588.24 ha, 61,723 palms, 105 SPH. Agro (May 2026): 600.84 ha, 62,436 palms, 104 SPH after supply planting",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Palm thinning (Oct 2025–Apr 2026)",
+      "v": "10 palms removed; 620 removed since planting",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Sub-blocks",
+      "v": "B01, B02, B03, B04, B05, B06, B07, B08, B09, B10, B11, B12, B13, B14, B15, B16, B17, B18, B19, B20",
+      "src": "PA 1/2026"
+     }
+    ],
+    "fertNow": {
+     "year": "FY2026/27",
+     "rows": [
+      {
+       "k": "May",
+       "v": "Mix B 8,000 g (printed with *, sub-soil application) (B20 only)",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Jun",
+       "v": "Mix B 2,000 g (B01, B02, B03, B04, B05, B06, B07, B08, B09, B10, B11, B12, B13, B14, B15, B16, B17, B18, B19 only)",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Jul",
+       "v": "Kieserite 1,000 g (B03, B04, B06, B07, B08, B09, B10, B12, B13, B16, B17, B18, B20 only)",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Sep",
+       "v": "Mix B 2,000 g (B01, B02, B03, B04, B05, B06, B07, B08, B09, B10, B11, B12, B13, B14, B15, B16, B17, B18, B19 only)",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Oct",
+       "v": "Rock phosphate (BRP) 750 g (B01, B02, B03, B04, B05, B06, B07, B08, B09, B10, B11, B12, B13, B14, B15, B16, B17, B18, B19 only)",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Jan",
+       "v": "Mix B 2,000 g (B01, B02, B03, B04, B05, B06, B07, B08, B09, B10, B11, B12, B13, B14, B15, B16, B17, B18, B19 only)",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Apr",
+       "v": "Mix B 2,000 g (B01, B02, B03, B04, B05, B06, B07, B08, B09, B10, B11, B12, B13, B14, B15, B16, B17, B18, B19 only)",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Note",
+       "v": "Mix B 9.45:0:24:3.7:0.48; Kieserite; BRP = Bayovar rock phosphate. Columns May 2026 to Apr 2027. Agro 1/2026 says the FY2026/27 programme is unchanged",
+       "src": "Agro 1/2026"
+      }
+     ]
+    },
+    "fertPrev": {
+     "year": "FY2025/26",
+     "rows": [
+      {
+       "k": "May",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Jul",
+       "v": "Kieserite 1,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Aug",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Oct",
+       "v": "Rock phosphate 750 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Nov",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Feb",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      }
+     ]
+    }
+   }
   },
   {
    "id": "A01",
@@ -564,7 +1030,176 @@
      "src": "Agro 1/2026",
      "text": "Checklist: pruning good, sanitation good, circle good, inter-row good."
     }
-   ]
+   ],
+   "detail": {
+    "spraying": [
+     {
+      "k": "Weeding checklist May 2026",
+      "v": "Circle good, inter-row good",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "pruning": [
+     {
+      "k": "Routine pruning paid May 2025–Mar 2026",
+      "v": "3.68 ha of 31.18 ha",
+      "src": "PA 1/2026"
+     },
+     {
+      "k": "Pruning & sanitation checklist May 2026",
+      "v": "Pruning good, sanitation good",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "nutrients": [
+     {
+      "k": "Leaf analysis Oct 2025",
+      "v": "N 2.73 (H), P 0.168 (N), K 1.14 (H), Mg 0.29 (H), Ca 0.45 (ML), B 14.7 (N). Key: ML marginal low, N normal, H high",
+      "src": "Agro 2/2025"
+     }
+    ],
+    "field": [
+     {
+      "k": "Block details (Mar 2026)",
+      "v": "Field 11A, 31.18 ha, 3,858 palms, 124 SPH, IOI material, planted 2011",
+      "src": "PA 1/2026"
+     }
+    ],
+    "fertNow": {
+     "year": "FY2026/27",
+     "rows": [
+      {
+       "k": "May",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Aug",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Oct",
+       "v": "Rock phosphate (BRP) 750 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Nov",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Feb",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Note",
+       "v": "Mix B 9.45:0:24:3.7:0.48; Kieserite; BRP = Bayovar rock phosphate. Columns May 2026 to Apr 2027. Agro 1/2026 says the FY2026/27 programme is unchanged",
+       "src": "Agro 1/2026"
+      }
+     ]
+    },
+    "fertPrev": {
+     "year": "FY2025/26",
+     "rows": [
+      {
+       "k": "Jun",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Jul",
+       "v": "Kieserite 1,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Sep",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Oct",
+       "v": "Rock phosphate 750 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Jan",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Apr",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      }
+     ]
+    },
+    "progress": {
+     "manuring": [
+      {
+       "k": "Mix B (Jun 25)",
+       "pct": 100,
+       "note": "applied 26/07 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Kieserite (Jul 25)",
+       "pct": 100,
+       "note": "applied 22/08 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Mix B (Sep 25)",
+       "pct": 100,
+       "note": "applied 04/10 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "RP (Oct 25)",
+       "pct": 100,
+       "note": "applied 19/06 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Mix B (Jan 26)",
+       "pct": 100,
+       "note": "applied 11/12 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Mix B (Apr 26)",
+       "pct": 100,
+       "note": "applied 03/03 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "FY2025/26 programme, May 2025–Mar 2026 (rounds with an application date only)",
+     "spraying": [
+      {
+       "k": "Circle spraying",
+       "pct": 67,
+       "note": "62.28 ha · Sep 2025 / Feb 2026",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Selective spraying",
+       "pct": 50,
+       "note": "31.18 ha · Jul 2025",
+       "src": "PA 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "FY2025/26, May 2025–Mar 2026"
+    }
+   }
   },
   {
    "id": "A02",
@@ -585,7 +1220,188 @@
      "src": "Agro 1/2026",
      "text": "Checklist: pruning good, sanitation good, circle good, inter-row good."
     }
-   ]
+   ],
+   "detail": {
+    "manuring": [
+     {
+      "k": "BRP quality check A02 (Oct 2025)",
+      "v": "BRP application assessed in P11A-02: quality acceptable, supervision satisfactory, but only about 6 bags/man-day",
+      "src": "Agro 2/2025"
+     }
+    ],
+    "spraying": [
+     {
+      "k": "Weeding checklist May 2026",
+      "v": "Circle good, inter-row good",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "pruning": [
+     {
+      "k": "Routine pruning paid May 2025–Mar 2026",
+      "v": "5.62 ha of 36.82 ha",
+      "src": "PA 1/2026"
+     },
+     {
+      "k": "Pruning & sanitation checklist May 2026",
+      "v": "Pruning good, sanitation good",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "nutrients": [
+     {
+      "k": "Leaf analysis Oct 2025",
+      "v": "N 2.68 (N), P 0.167 (N), K 1.17 (H), Mg 0.26 (N), Ca 0.49 (ML), B 14.5 (N). Key: ML marginal low, N normal, H high",
+      "src": "Agro 2/2025"
+     }
+    ],
+    "field": [
+     {
+      "k": "Block details (Mar 2026)",
+      "v": "Field 11A, 36.82 ha, 4,481 palms, 122 SPH, IOI material, planted 2011",
+      "src": "PA 1/2026"
+     }
+    ],
+    "fertNow": {
+     "year": "FY2026/27",
+     "rows": [
+      {
+       "k": "May",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Jun",
+       "v": "Kieserite 1,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Aug",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Oct",
+       "v": "Rock phosphate (BRP) 750 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Nov",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Feb",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Note",
+       "v": "Mix B 9.45:0:24:3.7:0.48; Kieserite; BRP = Bayovar rock phosphate. Columns May 2026 to Apr 2027. Agro 1/2026 says the FY2026/27 programme is unchanged",
+       "src": "Agro 1/2026"
+      }
+     ]
+    },
+    "fertPrev": {
+     "year": "FY2025/26",
+     "rows": [
+      {
+       "k": "Jun",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Jul",
+       "v": "Kieserite 1,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Sep",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Oct",
+       "v": "Rock phosphate 750 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Jan",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Apr",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      }
+     ]
+    },
+    "progress": {
+     "manuring": [
+      {
+       "k": "Mix B (Jun 25)",
+       "pct": 100,
+       "note": "applied 29/07 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Kieserite (Jul 25)",
+       "pct": 100,
+       "note": "applied 25/08 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Mix B (Sep 25)",
+       "pct": 100,
+       "note": "applied 06/10 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "RP (Oct 25)",
+       "pct": 100,
+       "note": "applied 22/10 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Mix B (Jan 26)",
+       "pct": 100,
+       "note": "applied 13/12 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Mix B (Apr 26)",
+       "pct": 100,
+       "note": "applied 02/03 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "FY2025/26 programme, May 2025–Mar 2026 (rounds with an application date only)",
+     "spraying": [
+      {
+       "k": "Circle spraying",
+       "pct": 67,
+       "note": "73.52 ha · Sep 2025 / Feb 2026 (printed Feb'27)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Selective spraying",
+       "pct": 50,
+       "note": "36.82 ha · Aug 2025",
+       "src": "PA 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "FY2025/26, May 2025–Mar 2026"
+    }
+   }
   },
   {
    "id": "A03",
@@ -614,7 +1430,142 @@
      "src": "PA 1/2026",
      "text": "Poorly sprayed woodies, bamboo and uncollected loose fruit photographed."
     }
-   ]
+   ],
+   "detail": {
+    "manuring": [
+     {
+      "k": "Mix B sub-surface (May 2025)",
+      "v": "8,000 g/palm programmed May 2025; application dates printed 14/08, 15/08, 16/08, 18/08, 19/08, 20/08 (dd/mm); PA 6.4.4 says sub-surface work in A03 was completed in May 2025",
+      "src": "PA 1/2026"
+     },
+     {
+      "k": "Sub-surface productivity (FY2025/26)",
+      "v": "0.2 ha/man-day at 4 bags/man-day (25 palms), very low; RM1.80/palm, earning RM45/day vs basic wage RM65.38; target 1 ha/man-day at 20 bags (FEHB method: bags along harvester path, 4-worker gangs)",
+      "src": "PA 1/2026"
+     }
+    ],
+    "spraying": [
+     {
+      "k": "Weeding checklist May 2026",
+      "v": "Circle good, inter-row good",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Weeds A03 (May 2026)",
+      "v": "Poorly sprayed woodies, sprayed woodies and bamboo photographed; circles clean",
+      "src": "PA 1/2026"
+     }
+    ],
+    "yield": [
+     {
+      "k": "Low crop A03 (May 2026)",
+      "v": "Male flowers photographed; estate in a low-crop period",
+      "src": "PA 1/2026"
+     }
+    ],
+    "harvesting": [
+     {
+      "k": "Loose fruit A03 (May 2026)",
+      "v": "Uncollected loose fruit photographed",
+      "src": "PA 1/2026"
+     }
+    ],
+    "pruning": [
+     {
+      "k": "Routine pruning paid May 2025–Mar 2026",
+      "v": "0.50 ha of 21.96 ha",
+      "src": "PA 1/2026"
+     },
+     {
+      "k": "Pruning & sanitation checklist May 2026",
+      "v": "Pruning good, sanitation good",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Pruned palms A03 (May 2026)",
+      "v": "Pruned palms photographed (satisfactory overall)",
+      "src": "PA 1/2026"
+     }
+    ],
+    "nutrients": [
+     {
+      "k": "Leaf analysis Oct 2025",
+      "v": "N 2.72 (H), P 0.17 (H), K 1.1 (H), Mg 0.27 (N), Ca 0.49 (ML), B 14.4 (N). Key: ML marginal low, N normal, H high",
+      "src": "Agro 2/2025"
+     }
+    ],
+    "field": [
+     {
+      "k": "Block details (Mar 2026)",
+      "v": "Field 11A, 21.96 ha, 2,761 palms, 126 SPH, IOI material, planted 2011",
+      "src": "PA 1/2026"
+     }
+    ],
+    "fertNow": {
+     "year": "FY2026/27",
+     "rows": [
+      {
+       "k": "May",
+       "v": "Mix B 8,000 g (printed with *, sub-soil application)",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Jun",
+       "v": "Kieserite 1,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Oct",
+       "v": "Rock phosphate (BRP) 750 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Note",
+       "v": "Mix B 9.45:0:24:3.7:0.48; Kieserite; BRP = Bayovar rock phosphate. Columns May 2026 to Apr 2027. Agro 1/2026 says the FY2026/27 programme is unchanged",
+       "src": "Agro 1/2026"
+      }
+     ]
+    },
+    "fertPrev": {
+     "year": "FY2025/26",
+     "rows": [
+      {
+       "k": "May",
+       "v": "Mix B 8,000 g (printed with *, sub-soil application)",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Jul",
+       "v": "Kieserite 1,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Oct",
+       "v": "Rock phosphate 750 g",
+       "src": "Agro 2/2025"
+      }
+     ]
+    },
+    "progress": {
+     "spraying": [
+      {
+       "k": "Circle spraying",
+       "pct": 67,
+       "note": "43.88 ha · Oct 2025 / Mar 2026",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Selective spraying",
+       "pct": 41,
+       "note": "17.94 ha · Jul 2025",
+       "src": "PA 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "FY2025/26, May 2025–Mar 2026"
+    }
+   }
   },
   {
    "id": "A04",
@@ -643,7 +1594,201 @@
      "src": "Agro 1/2026",
      "text": "Agro area 43.69 ha, 5,207 palms after 2.55 ha / 303 supply palms; new supply palms acceptable; ravine corrective pruning and road repair done."
     }
-   ]
+   ],
+   "detail": {
+    "spraying": [
+     {
+      "k": "Weeding checklist May 2026",
+      "v": "Circle good, inter-row good",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Weeds A04 (May 2026)",
+      "v": "VOPs photographed; circles clean (PA); circle maintenance satisfactory, completed toward end of FY (Agro)",
+      "src": "PA 1/2026"
+     }
+    ],
+    "pruning": [
+     {
+      "k": "Routine pruning paid May 2025–Mar 2026",
+      "v": "4.19 ha of 41.14 ha",
+      "src": "PA 1/2026"
+     },
+     {
+      "k": "Pruning & sanitation checklist May 2026",
+      "v": "Pruning good, sanitation good",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Corrective pruning A04 (May 2026)",
+      "v": "Corrective pruning done on previously neglected ravine palms after access improved",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "nutrients": [
+     {
+      "k": "Leaf analysis Oct 2025",
+      "v": "N 2.7 (H), P 0.17 (H), K 1.08 (H), Mg 0.28 (N), Ca 0.47 (ML), B 13.8 (N). Key: ML marginal low, N normal, H high",
+      "src": "Agro 2/2025"
+     }
+    ],
+    "field": [
+     {
+      "k": "Block details (Mar 2026)",
+      "v": "Field 11A, 41.14 ha, 4,904 palms, 119 SPH, IOI material, planted 2011",
+      "src": "PA 1/2026"
+     },
+     {
+      "k": "Supply planting (FY2025/26, Agro May 2026)",
+      "v": "2.55 ha of previously vacant land planted with 303 supply palms; block now 43.69 ha, 5,207 palms in the FY2026/27 programme",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Supplying A04 (May 2026)",
+      "v": "Supplying of vacant areas and supply palms photographed; new supply palms in acceptable condition (Agro)",
+      "src": "PA 1/2026"
+     },
+     {
+      "k": "Road repair A04 (May 2026)",
+      "v": "Road repaired (Agro photos)",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "fertNow": {
+     "year": "FY2026/27",
+     "rows": [
+      {
+       "k": "May",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Aug",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Oct",
+       "v": "Rock phosphate (BRP) 750 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Nov",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Feb",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Note",
+       "v": "Mix B 9.45:0:24:3.7:0.48; Kieserite; BRP = Bayovar rock phosphate. Columns May 2026 to Apr 2027. Agro 1/2026 says the FY2026/27 programme is unchanged",
+       "src": "Agro 1/2026"
+      }
+     ]
+    },
+    "fertPrev": {
+     "year": "FY2025/26",
+     "rows": [
+      {
+       "k": "Jun",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Jul",
+       "v": "Kieserite 1,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Sep",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Oct",
+       "v": "Rock phosphate 750 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Jan",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Apr",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      }
+     ]
+    },
+    "progress": {
+     "manuring": [
+      {
+       "k": "Mix B (Jun 25)",
+       "pct": 100,
+       "note": "applied 01/08 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Kieserite (Jul 25)",
+       "pct": 100,
+       "note": "applied 26/08 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Mix B (Sep 25)",
+       "pct": 100,
+       "note": "applied 10/10 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "RP (Oct 25)",
+       "pct": 100,
+       "note": "applied 27/10 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Mix B (Jan 26)",
+       "pct": 100,
+       "note": "applied 15/12 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Mix B (Apr 26)",
+       "pct": 100,
+       "note": "applied 07/03 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "FY2025/26 programme, May 2025–Mar 2026 (rounds with an application date only)",
+     "spraying": [
+      {
+       "k": "Circle spraying",
+       "pct": 66,
+       "note": "81.37 ha · Jun 2025 / Jan 2026",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Selective spraying",
+       "pct": 50,
+       "note": "41.46 ha · Sep 2025",
+       "src": "PA 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "FY2025/26, May 2025–Mar 2026"
+    }
+   }
   },
   {
    "id": "A05",
@@ -668,7 +1813,198 @@
      "src": "Agro 1/2026",
      "text": "Sub-soil fertiliser check: acceptable, but hole distance, depth and covering inconsistent; ravine corrective pruning and road repair done."
     }
-   ]
+   ],
+   "detail": {
+    "manuring": [
+     {
+      "k": "Sub-soil check A05 (May 2026)",
+      "v": "Sub-soil fertiliser application assessed: acceptable, but hole distance from palm base and hole depth inconsistent, holes should be properly covered",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "spraying": [
+     {
+      "k": "Weeding checklist May 2026",
+      "v": "Circle fair, inter-row fair",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Circles A05 (May 2026)",
+      "v": "Circle maintenance satisfactory, completed toward end of FY",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "pruning": [
+     {
+      "k": "Routine pruning paid May 2025–Mar 2026",
+      "v": "9.52 ha of 37.11 ha",
+      "src": "PA 1/2026"
+     },
+     {
+      "k": "Pruning & sanitation checklist May 2026",
+      "v": "Pruning fair, sanitation fair",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Corrective pruning A05 (May 2026)",
+      "v": "Corrective pruning done on previously neglected ravine palms after access improved",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "nutrients": [
+     {
+      "k": "Leaf analysis Oct 2025",
+      "v": "N 2.77 (H), P 0.158 (ML), K 1.06 (H), Mg 0.26 (N), Ca 0.44 (ML), B 17.5 (H). Key: ML marginal low, N normal, H high",
+      "src": "Agro 2/2025"
+     }
+    ],
+    "field": [
+     {
+      "k": "Block details (Mar 2026)",
+      "v": "Field 11A, 37.11 ha, 3,770 palms, 102 SPH, IOI material, planted 2011",
+      "src": "PA 1/2026"
+     },
+     {
+      "k": "Road repair A05 (May 2026)",
+      "v": "Road repaired (Agro photos)",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "fertNow": {
+     "year": "FY2026/27",
+     "rows": [
+      {
+       "k": "May",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Aug",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Oct",
+       "v": "Rock phosphate (BRP) 750 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Nov",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Feb",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Note",
+       "v": "Mix B 9.45:0:24:3.7:0.48; Kieserite; BRP = Bayovar rock phosphate. Columns May 2026 to Apr 2027. Agro 1/2026 says the FY2026/27 programme is unchanged",
+       "src": "Agro 1/2026"
+      }
+     ]
+    },
+    "fertPrev": {
+     "year": "FY2025/26",
+     "rows": [
+      {
+       "k": "Jun",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Jul",
+       "v": "Kieserite 1,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Sep",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Oct",
+       "v": "Rock phosphate 750 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Jan",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Apr",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      }
+     ]
+    },
+    "progress": {
+     "manuring": [
+      {
+       "k": "Mix B (Jun 25)",
+       "pct": 100,
+       "note": "applied 19/09 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Kieserite (Jul 25)",
+       "pct": 100,
+       "note": "applied 27/08 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Mix B (Sep 25)",
+       "pct": 100,
+       "note": "applied 11/10 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "RP (Oct 25)",
+       "pct": 100,
+       "note": "applied 25/10 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Mix B (Jan 26)",
+       "pct": 100,
+       "note": "applied 16/12 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Mix B (Apr 26)",
+       "pct": 100,
+       "note": "applied 05/03 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "FY2025/26 programme, May 2025–Mar 2026 (rounds with an application date only)",
+     "spraying": [
+      {
+       "k": "Circle spraying",
+       "pct": 62,
+       "note": "68.89 ha · Jun 2025 / Feb 2026",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Selective spraying",
+       "pct": 100,
+       "note": "73.94 ha · Aug 2025 / Feb 2026",
+       "src": "PA 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "FY2025/26, May 2025–Mar 2026"
+    }
+   }
   },
   {
    "id": "A06",
@@ -689,7 +2025,181 @@
      "src": "Agro 1/2026",
      "text": "Checklist: pruning good, sanitation good, circle good, inter-row not rated."
     }
-   ]
+   ],
+   "detail": {
+    "spraying": [
+     {
+      "k": "Weeding checklist May 2026",
+      "v": "Circle good, inter-row not rated",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "pruning": [
+     {
+      "k": "Routine pruning paid May 2025–Mar 2026",
+      "v": "2.70 ha of 35.09 ha",
+      "src": "PA 1/2026"
+     },
+     {
+      "k": "Pruning & sanitation checklist May 2026",
+      "v": "Pruning good, sanitation good",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "nutrients": [
+     {
+      "k": "Leaf analysis Oct 2025",
+      "v": "N 2.76 (H), P 0.159 (ML), K 1.15 (H), Mg 0.26 (N), Ca 0.49 (ML), B 13.9 (N). Key: ML marginal low, N normal, H high",
+      "src": "Agro 2/2025"
+     }
+    ],
+    "field": [
+     {
+      "k": "Block details (Mar 2026)",
+      "v": "Field 11A, 35.09 ha, 3,432 palms, 98 SPH, IOI material, planted 2011",
+      "src": "PA 1/2026"
+     }
+    ],
+    "fertNow": {
+     "year": "FY2026/27",
+     "rows": [
+      {
+       "k": "May",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Jun",
+       "v": "Kieserite 1,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Aug",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Oct",
+       "v": "Rock phosphate (BRP) 750 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Nov",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Feb",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Note",
+       "v": "Mix B 9.45:0:24:3.7:0.48; Kieserite; BRP = Bayovar rock phosphate. Columns May 2026 to Apr 2027. Agro 1/2026 says the FY2026/27 programme is unchanged",
+       "src": "Agro 1/2026"
+      }
+     ]
+    },
+    "fertPrev": {
+     "year": "FY2025/26",
+     "rows": [
+      {
+       "k": "Jun",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Jul",
+       "v": "Kieserite 1,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Sep",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Oct",
+       "v": "Rock phosphate 750 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Jan",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Apr",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      }
+     ]
+    },
+    "progress": {
+     "manuring": [
+      {
+       "k": "Mix B (Jun 25)",
+       "pct": 100,
+       "note": "applied 21/07 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Kieserite (Jul 25)",
+       "pct": 100,
+       "note": "applied 04/08 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Mix B (Sep 25)",
+       "pct": 100,
+       "note": "applied 14/10 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "RP (Oct 25)",
+       "pct": 100,
+       "note": "applied 20/12 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Mix B (Jan 26)",
+       "pct": 100,
+       "note": "applied 17/12 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Mix B (Apr 26)",
+       "pct": 100,
+       "note": "applied 27/02 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "FY2025/26 programme, May 2025–Mar 2026 (rounds with an application date only)",
+     "spraying": [
+      {
+       "k": "Circle spraying",
+       "pct": 81,
+       "note": "85.19 ha · Jun 2025 / Feb 2026",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Selective spraying",
+       "pct": 50,
+       "note": "35.09 ha · Aug 2025",
+       "src": "PA 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "FY2025/26, May 2025–Mar 2026"
+    }
+   }
   },
   {
    "id": "A07",
@@ -710,7 +2220,176 @@
      "src": "Agro 1/2026",
      "text": "Checklist: pruning good, sanitation good, circle good/fair, inter-row fair."
     }
-   ]
+   ],
+   "detail": {
+    "spraying": [
+     {
+      "k": "Weeding checklist May 2026",
+      "v": "Circle ticked good and fair, inter-row fair",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "pruning": [
+     {
+      "k": "Routine pruning paid May 2025–Mar 2026",
+      "v": "2.86 ha of 24.60 ha",
+      "src": "PA 1/2026"
+     },
+     {
+      "k": "Pruning & sanitation checklist May 2026",
+      "v": "Pruning good, sanitation good",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "nutrients": [
+     {
+      "k": "Leaf analysis Oct 2025",
+      "v": "N 2.64 (N), P 0.166 (N), K 1.06 (H), Mg 0.27 (N), Ca 0.55 (ML), B 14.7 (N). Key: ML marginal low, N normal, H high",
+      "src": "Agro 2/2025"
+     }
+    ],
+    "field": [
+     {
+      "k": "Block details (Mar 2026)",
+      "v": "Field 12A, 24.60 ha, 2,795 palms, 114 SPH, IOI material, planted 2012",
+      "src": "PA 1/2026"
+     }
+    ],
+    "fertNow": {
+     "year": "FY2026/27",
+     "rows": [
+      {
+       "k": "May",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Aug",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Oct",
+       "v": "Rock phosphate (BRP) 750 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Nov",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Feb",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Note",
+       "v": "Mix B 9.45:0:24:3.7:0.48; Kieserite; BRP = Bayovar rock phosphate. Columns May 2026 to Apr 2027. Agro 1/2026 says the FY2026/27 programme is unchanged",
+       "src": "Agro 1/2026"
+      }
+     ]
+    },
+    "fertPrev": {
+     "year": "FY2025/26",
+     "rows": [
+      {
+       "k": "Jun",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Jul",
+       "v": "Kieserite 1,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Sep",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Oct",
+       "v": "Rock phosphate 750 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Jan",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Apr",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      }
+     ]
+    },
+    "progress": {
+     "manuring": [
+      {
+       "k": "Mix B (Jun 25)",
+       "pct": 100,
+       "note": "applied 04/07 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Kieserite (Jul 25)",
+       "pct": 100,
+       "note": "applied 21/08 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Mix B (Sep 25)",
+       "pct": 100,
+       "note": "applied 17/10 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "RP (Oct 25)",
+       "pct": 100,
+       "note": "applied 18/06 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Mix B (Jan 26)",
+       "pct": 100,
+       "note": "applied 09/12 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Mix B (Apr 26)",
+       "pct": 100,
+       "note": "applied 27/01 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "FY2025/26 programme, May 2025–Mar 2026 (rounds with an application date only)",
+     "spraying": [
+      {
+       "k": "Circle spraying",
+       "pct": 67,
+       "note": "49.17 ha · Oct 2025 / Feb 2026",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Selective spraying",
+       "pct": 100,
+       "note": "49.20 ha · May 2025 / Feb 2026",
+       "src": "PA 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "FY2025/26, May 2025–Mar 2026"
+    }
+   }
   },
   {
    "id": "A08",
@@ -735,7 +2414,198 @@
      "src": "PA 1/2026",
      "text": "Clidemia, bamboo, missed unsprayed woodies and overgrown VOPs; new bridge under construction."
     }
-   ]
+   ],
+   "detail": {
+    "spraying": [
+     {
+      "k": "Weeding checklist May 2026",
+      "v": "Circle good, inter-row fair",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Weeds A08 (May 2026)",
+      "v": "Sprayed Clidemia, bamboo, missed unsprayed woodies and overgrown VOPs photographed; circles clean",
+      "src": "PA 1/2026"
+     }
+    ],
+    "yield": [
+     {
+      "k": "Low crop A08 (May 2026)",
+      "v": "Palms with no bunches photographed",
+      "src": "PA 1/2026"
+     }
+    ],
+    "pruning": [
+     {
+      "k": "Routine pruning paid May 2025–Mar 2026",
+      "v": "1.47 ha of 32.45 ha",
+      "src": "PA 1/2026"
+     },
+     {
+      "k": "Pruning & sanitation checklist May 2026",
+      "v": "Pruning good, sanitation good",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "nutrients": [
+     {
+      "k": "Leaf analysis Oct 2025",
+      "v": "N 2.64 (N), P 0.167 (N), K 1.1 (H), Mg 0.27 (N), Ca 0.48 (ML), B 14.4 (N). Key: ML marginal low, N normal, H high",
+      "src": "Agro 2/2025"
+     }
+    ],
+    "field": [
+     {
+      "k": "Block details (Mar 2026)",
+      "v": "Field 12A, 32.45 ha, 3,850 palms, 119 SPH, IOI material, planted 2012",
+      "src": "PA 1/2026"
+     },
+     {
+      "k": "Bridge A08 (May 2026)",
+      "v": "New bridge under construction",
+      "src": "PA 1/2026"
+     }
+    ],
+    "fertNow": {
+     "year": "FY2026/27",
+     "rows": [
+      {
+       "k": "May",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Jun",
+       "v": "Kieserite 1,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Aug",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Oct",
+       "v": "Rock phosphate (BRP) 750 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Nov",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Feb",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Note",
+       "v": "Mix B 9.45:0:24:3.7:0.48; Kieserite; BRP = Bayovar rock phosphate. Columns May 2026 to Apr 2027. Agro 1/2026 says the FY2026/27 programme is unchanged",
+       "src": "Agro 1/2026"
+      }
+     ]
+    },
+    "fertPrev": {
+     "year": "FY2025/26",
+     "rows": [
+      {
+       "k": "Jun",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Jul",
+       "v": "Kieserite 1,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Sep",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Oct",
+       "v": "Rock phosphate 750 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Jan",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Apr",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      }
+     ]
+    },
+    "progress": {
+     "manuring": [
+      {
+       "k": "Mix B (Jun 25)",
+       "pct": 100,
+       "note": "applied 22/07 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Kieserite (Jul 25)",
+       "pct": 100,
+       "note": "applied 04/06 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Mix B (Sep 25)",
+       "pct": 100,
+       "note": "applied 10/09 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "RP (Oct 25)",
+       "pct": 100,
+       "note": "applied 24/10 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Mix B (Jan 26)",
+       "pct": 100,
+       "note": "applied 10/12 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Mix B (Apr 26)",
+       "pct": 100,
+       "note": "applied 24/02 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "FY2025/26 programme, May 2025–Mar 2026 (rounds with an application date only)",
+     "spraying": [
+      {
+       "k": "Circle spraying",
+       "pct": 68,
+       "note": "65.93 ha · Jun 2025 / Feb 2026",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Selective spraying",
+       "pct": 100,
+       "note": "64.85 ha · Aug 2025 / Feb 2026",
+       "src": "PA 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "FY2025/26, May 2025–Mar 2026"
+    }
+   }
   },
   {
    "id": "A09",
@@ -760,7 +2630,186 @@
      "src": "PA 1/2026",
      "text": "Giant Paspalum and a damaged road photographed."
     }
-   ]
+   ],
+   "detail": {
+    "spraying": [
+     {
+      "k": "Weeding checklist May 2026",
+      "v": "Circle good, inter-row fair",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Weeds A09 (May 2026)",
+      "v": "Giant Paspalum photographed",
+      "src": "PA 1/2026"
+     }
+    ],
+    "pruning": [
+     {
+      "k": "Routine pruning paid May 2025–Mar 2026",
+      "v": "3.45 ha of 35.90 ha",
+      "src": "PA 1/2026"
+     },
+     {
+      "k": "Pruning & sanitation checklist May 2026",
+      "v": "Pruning good, sanitation good",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "nutrients": [
+     {
+      "k": "Leaf analysis Oct 2025",
+      "v": "N 2.69 (N), P 0.169 (N), K 1.07 (H), Mg 0.3 (H), Ca 0.48 (ML), B 17.6 (H). Key: ML marginal low, N normal, H high",
+      "src": "Agro 2/2025"
+     }
+    ],
+    "field": [
+     {
+      "k": "Block details (Mar 2026)",
+      "v": "Field 12A, 35.90 ha, 3,805 palms, 106 SPH, IOI material, planted 2012",
+      "src": "PA 1/2026"
+     },
+     {
+      "k": "Road A09 (May 2026)",
+      "v": "Damaged road photographed",
+      "src": "PA 1/2026"
+     }
+    ],
+    "fertNow": {
+     "year": "FY2026/27",
+     "rows": [
+      {
+       "k": "May",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Aug",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Oct",
+       "v": "Rock phosphate (BRP) 750 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Nov",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Feb",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Note",
+       "v": "Mix B 9.45:0:24:3.7:0.48; Kieserite; BRP = Bayovar rock phosphate. Columns May 2026 to Apr 2027. Agro 1/2026 says the FY2026/27 programme is unchanged",
+       "src": "Agro 1/2026"
+      }
+     ]
+    },
+    "fertPrev": {
+     "year": "FY2025/26",
+     "rows": [
+      {
+       "k": "Jun",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Jul",
+       "v": "Kieserite 1,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Sep",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Oct",
+       "v": "Rock phosphate 750 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Jan",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Apr",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      }
+     ]
+    },
+    "progress": {
+     "manuring": [
+      {
+       "k": "Mix B (Jun 25)",
+       "pct": 100,
+       "note": "applied 24/07 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Kieserite (Jul 25)",
+       "pct": 100,
+       "note": "applied 03/06 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Mix B (Sep 25)",
+       "pct": 100,
+       "note": "applied 01/10 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "RP (Oct 25)",
+       "pct": 100,
+       "note": "applied 23/10 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Mix B (Jan 26)",
+       "pct": 100,
+       "note": "applied 18/12 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Mix B (Apr 26)",
+       "pct": 100,
+       "note": "applied 26/02 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "FY2025/26 programme, May 2025–Mar 2026 (rounds with an application date only)",
+     "spraying": [
+      {
+       "k": "Circle spraying",
+       "pct": 50,
+       "note": "53.85 ha · Jun 2025 / Mar 2026",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Selective spraying",
+       "pct": 109,
+       "note": "78.45 ha · Jul 2025 / Feb 2026",
+       "src": "PA 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "FY2025/26, May 2025–Mar 2026"
+    }
+   }
   },
   {
    "id": "A10",
@@ -785,7 +2834,176 @@
      "src": "PA 1/2026",
      "text": "Apr 2026 Mix B round has no application date in the PA table."
     }
-   ]
+   ],
+   "detail": {
+    "manuring": [
+     {
+      "k": "Mix B (Apr 2026)",
+      "v": "Mix B 2,000 g/palm, no application date in the PA table (to Mar 2026)",
+      "src": "PA 1/2026"
+     }
+    ],
+    "spraying": [
+     {
+      "k": "Weeding checklist May 2026",
+      "v": "Circle good, inter-row fair",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "pruning": [
+     {
+      "k": "Routine pruning paid May 2025–Mar 2026",
+      "v": "2.06 ha of 35.06 ha",
+      "src": "PA 1/2026"
+     },
+     {
+      "k": "Pruning & sanitation checklist May 2026",
+      "v": "Pruning good, sanitation good",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "nutrients": [
+     {
+      "k": "Leaf analysis Oct 2025",
+      "v": "N 2.66 (N), P 0.17 (H), K 1.07 (H), Mg 0.28 (N), Ca 0.53 (ML), B 17.4 (H). Key: ML marginal low, N normal, H high",
+      "src": "Agro 2/2025"
+     }
+    ],
+    "field": [
+     {
+      "k": "Block details (Mar 2026)",
+      "v": "Field 12A, 35.06 ha, 3,243 palms, 92 SPH, IOI material, planted 2012",
+      "src": "PA 1/2026"
+     }
+    ],
+    "fertNow": {
+     "year": "FY2026/27",
+     "rows": [
+      {
+       "k": "May",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Aug",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Oct",
+       "v": "Rock phosphate (BRP) 750 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Nov",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Feb",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Note",
+       "v": "Mix B 9.45:0:24:3.7:0.48; Kieserite; BRP = Bayovar rock phosphate. Columns May 2026 to Apr 2027. Agro 1/2026 says the FY2026/27 programme is unchanged",
+       "src": "Agro 1/2026"
+      }
+     ]
+    },
+    "fertPrev": {
+     "year": "FY2025/26",
+     "rows": [
+      {
+       "k": "Jun",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Jul",
+       "v": "Kieserite 1,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Sep",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Oct",
+       "v": "Rock phosphate 750 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Jan",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Apr",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      }
+     ]
+    },
+    "progress": {
+     "manuring": [
+      {
+       "k": "Mix B (Jun 25)",
+       "pct": 100,
+       "note": "applied 10/07 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Kieserite (Jul 25)",
+       "pct": 100,
+       "note": "applied 08/09 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Mix B (Sep 25)",
+       "pct": 100,
+       "note": "applied 02/10 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "RP (Oct 25)",
+       "pct": 100,
+       "note": "applied 16/06 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Mix B (Jan 26)",
+       "pct": 100,
+       "note": "applied 15/01 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "FY2025/26 programme, May 2025–Mar 2026 (rounds with an application date only)",
+     "spraying": [
+      {
+       "k": "Circle spraying",
+       "pct": 67,
+       "note": "70.10 ha · Jun 2025 / Feb 2026",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Selective spraying",
+       "pct": 86,
+       "note": "60.16 ha · Jul 2025 / Mar 2026",
+       "src": "PA 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "FY2025/26, May 2025–Mar 2026"
+    }
+   }
   },
   {
    "id": "A11",
@@ -810,7 +3028,176 @@
      "src": "PA 1/2026",
      "text": "Apr 2026 Mix B round has no application date in the PA table."
     }
-   ]
+   ],
+   "detail": {
+    "manuring": [
+     {
+      "k": "Mix B (Apr 2026)",
+      "v": "Mix B 2,000 g/palm, no application date in the PA table (to Mar 2026)",
+      "src": "PA 1/2026"
+     }
+    ],
+    "spraying": [
+     {
+      "k": "Weeding checklist May 2026",
+      "v": "Circle good, inter-row fair",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "pruning": [
+     {
+      "k": "Routine pruning paid May 2025–Mar 2026",
+      "v": "2.93 ha of 30.20 ha",
+      "src": "PA 1/2026"
+     },
+     {
+      "k": "Pruning & sanitation checklist May 2026",
+      "v": "Pruning good, sanitation good",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "nutrients": [
+     {
+      "k": "Leaf analysis Oct 2025",
+      "v": "N 2.67 (N), P 0.169 (N), K 1.08 (H), Mg 0.28 (N), Ca 0.44 (ML), B 17.7 (H). Key: ML marginal low, N normal, H high",
+      "src": "Agro 2/2025"
+     }
+    ],
+    "field": [
+     {
+      "k": "Block details (Mar 2026)",
+      "v": "Field 12A, 30.20 ha, 2,601 palms, 86 SPH, IOI material, planted 2012",
+      "src": "PA 1/2026"
+     }
+    ],
+    "fertNow": {
+     "year": "FY2026/27",
+     "rows": [
+      {
+       "k": "May",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Aug",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Oct",
+       "v": "Rock phosphate (BRP) 750 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Nov",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Feb",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Note",
+       "v": "Mix B 9.45:0:24:3.7:0.48; Kieserite; BRP = Bayovar rock phosphate. Columns May 2026 to Apr 2027. Agro 1/2026 says the FY2026/27 programme is unchanged",
+       "src": "Agro 1/2026"
+      }
+     ]
+    },
+    "fertPrev": {
+     "year": "FY2025/26",
+     "rows": [
+      {
+       "k": "Jun",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Jul",
+       "v": "Kieserite 1,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Sep",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Oct",
+       "v": "Rock phosphate 750 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Jan",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Apr",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      }
+     ]
+    },
+    "progress": {
+     "manuring": [
+      {
+       "k": "Mix B (Jun 25)",
+       "pct": 100,
+       "note": "applied 11/07 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Kieserite (Jul 25)",
+       "pct": 100,
+       "note": "applied 03/09 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Mix B (Sep 25)",
+       "pct": 100,
+       "note": "applied 04/09 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "RP (Oct 25)",
+       "pct": 100,
+       "note": "applied 14/06 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Mix B (Jan 26)",
+       "pct": 100,
+       "note": "applied 16/01 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "FY2025/26 programme, May 2025–Mar 2026 (rounds with an application date only)",
+     "spraying": [
+      {
+       "k": "Circle spraying",
+       "pct": 48,
+       "note": "43.63 ha · Sep 2025 / Mar 2026",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Selective spraying",
+       "pct": 100,
+       "note": "60.40 ha · Jul 2025 / Feb 2026",
+       "src": "PA 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "FY2025/26, May 2025–Mar 2026"
+    }
+   }
   },
   {
    "id": "A12",
@@ -835,7 +3222,181 @@
      "src": "PA 1/2026",
      "text": "Apr 2026 Mix B round has no application date in the PA table."
     }
-   ]
+   ],
+   "detail": {
+    "manuring": [
+     {
+      "k": "Mix B (Apr 2026)",
+      "v": "Mix B 2,000 g/palm, no application date in the PA table (to Mar 2026)",
+      "src": "PA 1/2026"
+     }
+    ],
+    "spraying": [
+     {
+      "k": "Weeding checklist May 2026",
+      "v": "Circle good, inter-row fair",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "pruning": [
+     {
+      "k": "Routine pruning paid May 2025–Mar 2026",
+      "v": "16.66 ha of 36.21 ha",
+      "src": "PA 1/2026"
+     },
+     {
+      "k": "Pruning & sanitation checklist May 2026",
+      "v": "Pruning good, sanitation good",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "nutrients": [
+     {
+      "k": "Leaf analysis Oct 2025",
+      "v": "N 2.59 (ML), P 0.161 (N), K 1.13 (H), Mg 0.26 (N), Ca 0.49 (ML), B 14.2 (N). Key: ML marginal low, N normal, H high",
+      "src": "Agro 2/2025"
+     }
+    ],
+    "field": [
+     {
+      "k": "Block details (Mar 2026)",
+      "v": "Field 12A, 36.21 ha, 3,293 palms, 91 SPH, IOI material, planted 2012",
+      "src": "PA 1/2026"
+     }
+    ],
+    "fertNow": {
+     "year": "FY2026/27",
+     "rows": [
+      {
+       "k": "May",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Jun",
+       "v": "Kieserite 1,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Aug",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Oct",
+       "v": "Rock phosphate (BRP) 750 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Nov",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Feb",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Note",
+       "v": "Mix B 9.45:0:24:3.7:0.48; Kieserite; BRP = Bayovar rock phosphate. Columns May 2026 to Apr 2027. Agro 1/2026 says the FY2026/27 programme is unchanged",
+       "src": "Agro 1/2026"
+      }
+     ]
+    },
+    "fertPrev": {
+     "year": "FY2025/26",
+     "rows": [
+      {
+       "k": "Jun",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Jul",
+       "v": "Kieserite 1,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Sep",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Oct",
+       "v": "Rock phosphate 750 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Jan",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Apr",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      }
+     ]
+    },
+    "progress": {
+     "manuring": [
+      {
+       "k": "Mix B (Jun 25)",
+       "pct": 100,
+       "note": "applied 12/07 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Kieserite (Jul 25)",
+       "pct": 100,
+       "note": "applied 03/09 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Mix B (Sep 25)",
+       "pct": 100,
+       "note": "applied 03/09 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "RP (Oct 25)",
+       "pct": 100,
+       "note": "applied 14/06 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Mix B (Jan 26)",
+       "pct": 100,
+       "note": "applied 17/01 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "FY2025/26 programme, May 2025–Mar 2026 (rounds with an application date only)",
+     "spraying": [
+      {
+       "k": "Circle spraying",
+       "pct": 67,
+       "note": "72.41 ha · Jun 2025 / Feb 2026",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Selective spraying",
+       "pct": 100,
+       "note": "72.21 ha · Aug 2025 / Feb 2026",
+       "src": "PA 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "FY2025/26, May 2025–Mar 2026"
+    }
+   }
   },
   {
    "id": "A13",
@@ -868,7 +3429,205 @@
      "src": "Agro 1/2026",
      "text": "Agro area 47.39 ha, 3,984 palms (84 SPH) after 5.83 ha / 565 supply palms."
     }
-   ]
+   ],
+   "detail": {
+    "manuring": [
+     {
+      "k": "Mix B (Apr 2026)",
+      "v": "Mix B 2,000 g/palm, no application date in the PA table (to Mar 2026)",
+      "src": "PA 1/2026"
+     }
+    ],
+    "spraying": [
+     {
+      "k": "Weeding checklist May 2026",
+      "v": "Circle good, inter-row fair",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Weeds A13 (May 2026)",
+      "v": "Giant Paspalum, unsprayed bamboo, missed woodies and sprayed woodies photographed; circles clean",
+      "src": "PA 1/2026"
+     }
+    ],
+    "yield": [
+     {
+      "k": "Low crop A13 (May 2026)",
+      "v": "Male flowers photographed",
+      "src": "PA 1/2026"
+     }
+    ],
+    "harvesting": [
+     {
+      "k": "Loose fruit A13 (May 2026)",
+      "v": "Uncollected loose fruit photographed",
+      "src": "PA 1/2026"
+     }
+    ],
+    "pruning": [
+     {
+      "k": "Routine pruning paid May 2025–Mar 2026",
+      "v": "15.12 ha of 41.56 ha",
+      "src": "PA 1/2026"
+     },
+     {
+      "k": "Pruning & sanitation checklist May 2026",
+      "v": "Pruning good, sanitation good",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "nutrients": [
+     {
+      "k": "Leaf analysis Oct 2025",
+      "v": "N 2.65 (N), P 0.168 (N), K 1.15 (H), Mg 0.28 (N), Ca 0.51 (N), B 14.1 (N). Key: ML marginal low, N normal, H high",
+      "src": "Agro 2/2025"
+     }
+    ],
+    "field": [
+     {
+      "k": "Block details (Mar 2026)",
+      "v": "Field 12A, 41.56 ha, 3,419 palms, 82 SPH, IOI material, planted 2012",
+      "src": "PA 1/2026"
+     },
+     {
+      "k": "Supply planting (FY2025/26, Agro May 2026)",
+      "v": "5.83 ha of previously vacant land planted with 565 supply palms; block now 47.39 ha, 3,984 palms in the FY2026/27 programme",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "fertNow": {
+     "year": "FY2026/27",
+     "rows": [
+      {
+       "k": "May",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Jun",
+       "v": "Kieserite 1,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Aug",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Oct",
+       "v": "Rock phosphate (BRP) 750 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Nov",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Feb",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Note",
+       "v": "Mix B 9.45:0:24:3.7:0.48; Kieserite; BRP = Bayovar rock phosphate. Columns May 2026 to Apr 2027. Agro 1/2026 says the FY2026/27 programme is unchanged",
+       "src": "Agro 1/2026"
+      }
+     ]
+    },
+    "fertPrev": {
+     "year": "FY2025/26",
+     "rows": [
+      {
+       "k": "Jun",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Jul",
+       "v": "Kieserite 1,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Sep",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Oct",
+       "v": "Rock phosphate 750 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Jan",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Apr",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      }
+     ]
+    },
+    "progress": {
+     "manuring": [
+      {
+       "k": "Mix B (Jun 25)",
+       "pct": 100,
+       "note": "applied 17/07 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Kieserite (Jul 25)",
+       "pct": 100,
+       "note": "applied 30/08 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Mix B (Sep 25)",
+       "pct": 100,
+       "note": "applied 18/10 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "RP (Oct 25)",
+       "pct": 100,
+       "note": "applied 12/06 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Mix B (Jan 26)",
+       "pct": 100,
+       "note": "applied 19/01 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "FY2025/26 programme, May 2025–Mar 2026 (rounds with an application date only)",
+     "spraying": [
+      {
+       "k": "Circle spraying",
+       "pct": 67,
+       "note": "83.03 ha · Oct 2025 / Mar 2026",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Selective spraying",
+       "pct": 128,
+       "note": "106.04 ha · Jun 2025 / Nov 2025 / Mar 2026",
+       "src": "PA 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "FY2025/26, May 2025–Mar 2026"
+    }
+   }
   },
   {
    "id": "A14",
@@ -901,7 +3660,186 @@
      "src": "Agro 1/2026",
      "text": "Agro area 44.56 ha, 3,295 palms after 0.79 ha / 58 supply palms."
     }
-   ]
+   ],
+   "detail": {
+    "manuring": [
+     {
+      "k": "Mix B (Apr 2026)",
+      "v": "Mix B 2,000 g/palm, no application date in the PA table (to Mar 2026)",
+      "src": "PA 1/2026"
+     }
+    ],
+    "spraying": [
+     {
+      "k": "Weeding checklist May 2026",
+      "v": "Circle good, inter-row fair",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "pruning": [
+     {
+      "k": "Routine pruning paid May 2025–Mar 2026",
+      "v": "9.53 ha of 43.77 ha",
+      "src": "PA 1/2026"
+     },
+     {
+      "k": "Pruning & sanitation checklist May 2026",
+      "v": "Pruning good, sanitation good",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "nutrients": [
+     {
+      "k": "Leaf analysis Oct 2025",
+      "v": "N 2.65 (N), P 0.16 (N), K 1.11 (H), Mg 0.26 (N), Ca 0.45 (ML), B 17.4 (H). Key: ML marginal low, N normal, H high",
+      "src": "Agro 2/2025"
+     }
+    ],
+    "field": [
+     {
+      "k": "Block details (Mar 2026)",
+      "v": "Field 12A, 43.77 ha, 3,237 palms, 74 SPH, IOI material, planted 2012",
+      "src": "PA 1/2026"
+     },
+     {
+      "k": "Supply planting (FY2025/26, Agro May 2026)",
+      "v": "0.79 ha of previously vacant land planted with 58 supply palms; block now 44.56 ha, 3,295 palms in the FY2026/27 programme",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "fertNow": {
+     "year": "FY2026/27",
+     "rows": [
+      {
+       "k": "May",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Jun",
+       "v": "Kieserite 1,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Aug",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Oct",
+       "v": "Rock phosphate (BRP) 750 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Nov",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Feb",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Note",
+       "v": "Mix B 9.45:0:24:3.7:0.48; Kieserite; BRP = Bayovar rock phosphate. Columns May 2026 to Apr 2027. Agro 1/2026 says the FY2026/27 programme is unchanged",
+       "src": "Agro 1/2026"
+      }
+     ]
+    },
+    "fertPrev": {
+     "year": "FY2025/26",
+     "rows": [
+      {
+       "k": "Jun",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Jul",
+       "v": "Kieserite 1,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Sep",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Oct",
+       "v": "Rock phosphate 750 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Jan",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Apr",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      }
+     ]
+    },
+    "progress": {
+     "manuring": [
+      {
+       "k": "Mix B (Jun 25)",
+       "pct": 100,
+       "note": "applied 15/07 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Kieserite (Jul 25)",
+       "pct": 100,
+       "note": "applied 29/08 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Mix B (Sep 25)",
+       "pct": 100,
+       "note": "applied 20/01 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "RP (Oct 25)",
+       "pct": 100,
+       "note": "applied 10/06 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Mix B (Jan 26)",
+       "pct": 100,
+       "note": "applied 14/01 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "FY2025/26 programme, May 2025–Mar 2026 (rounds with an application date only)",
+     "spraying": [
+      {
+       "k": "Circle spraying",
+       "pct": 64,
+       "note": "83.66 ha · Sep 2025 / Feb 2026",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Selective spraying",
+       "pct": 150,
+       "note": "131.28 ha · Jun 2025 / Oct 2025 / Mar 2026",
+       "src": "PA 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "FY2025/26, May 2025–Mar 2026"
+    }
+   }
   },
   {
    "id": "A15",
@@ -926,7 +3864,181 @@
      "src": "PA 1/2026",
      "text": "Apr 2026 Mix B round has no application date in the PA table."
     }
-   ]
+   ],
+   "detail": {
+    "manuring": [
+     {
+      "k": "Mix B (Apr 2026)",
+      "v": "Mix B 2,000 g/palm, no application date in the PA table (to Mar 2026)",
+      "src": "PA 1/2026"
+     }
+    ],
+    "spraying": [
+     {
+      "k": "Weeding checklist May 2026",
+      "v": "Circle good, inter-row fair",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "pruning": [
+     {
+      "k": "Routine pruning paid May 2025–Mar 2026",
+      "v": "0.31 ha of 36.27 ha",
+      "src": "PA 1/2026"
+     },
+     {
+      "k": "Pruning & sanitation checklist May 2026",
+      "v": "Pruning good, sanitation good",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "nutrients": [
+     {
+      "k": "Leaf analysis Oct 2025",
+      "v": "N 2.69 (N), P 0.163 (N), K 1.17 (H), Mg 0.27 (N), Ca 0.47 (ML), B 14.2 (N). Key: ML marginal low, N normal, H high",
+      "src": "Agro 2/2025"
+     }
+    ],
+    "field": [
+     {
+      "k": "Block details (Mar 2026)",
+      "v": "Field 12A, 36.27 ha, 3,081 palms, 85 SPH, IOI material, planted 2012",
+      "src": "PA 1/2026"
+     }
+    ],
+    "fertNow": {
+     "year": "FY2026/27",
+     "rows": [
+      {
+       "k": "May",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Jun",
+       "v": "Kieserite 1,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Aug",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Oct",
+       "v": "Rock phosphate (BRP) 750 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Nov",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Feb",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Note",
+       "v": "Mix B 9.45:0:24:3.7:0.48; Kieserite; BRP = Bayovar rock phosphate. Columns May 2026 to Apr 2027. Agro 1/2026 says the FY2026/27 programme is unchanged",
+       "src": "Agro 1/2026"
+      }
+     ]
+    },
+    "fertPrev": {
+     "year": "FY2025/26",
+     "rows": [
+      {
+       "k": "Jun",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Jul",
+       "v": "Kieserite 1,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Sep",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Oct",
+       "v": "Rock phosphate 750 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Jan",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Apr",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      }
+     ]
+    },
+    "progress": {
+     "manuring": [
+      {
+       "k": "Mix B (Jun 25)",
+       "pct": 100,
+       "note": "applied 08/07 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Kieserite (Jul 25)",
+       "pct": 100,
+       "note": "applied 28/06 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Mix B (Sep 25)",
+       "pct": 100,
+       "note": "applied 26/09 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "RP (Oct 25)",
+       "pct": 100,
+       "note": "applied 20/10 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Mix B (Jan 26)",
+       "pct": 100,
+       "note": "applied 20/01 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "FY2025/26 programme, May 2025–Mar 2026 (rounds with an application date only)",
+     "spraying": [
+      {
+       "k": "Circle spraying",
+       "pct": 66,
+       "note": "72.24 ha · Sep 2025 / Feb 2026",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Selective spraying",
+       "pct": 100,
+       "note": "72.54 ha · Jun 2025 / Feb 2026",
+       "src": "PA 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "FY2025/26, May 2025–Mar 2026"
+    }
+   }
   },
   {
    "id": "A16",
@@ -951,7 +4063,181 @@
      "src": "PA 1/2026",
      "text": "Apr 2026 Mix B round has no application date in the PA table."
     }
-   ]
+   ],
+   "detail": {
+    "manuring": [
+     {
+      "k": "Mix B (Apr 2026)",
+      "v": "Mix B 2,000 g/palm, no application date in the PA table (to Mar 2026)",
+      "src": "PA 1/2026"
+     }
+    ],
+    "spraying": [
+     {
+      "k": "Weeding checklist May 2026",
+      "v": "Circle good, inter-row fair",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "pruning": [
+     {
+      "k": "Routine pruning paid May 2025–Mar 2026",
+      "v": "7.01 ha of 37.70 ha",
+      "src": "PA 1/2026"
+     },
+     {
+      "k": "Pruning & sanitation checklist May 2026",
+      "v": "Pruning good, sanitation good",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "nutrients": [
+     {
+      "k": "Leaf analysis Oct 2025",
+      "v": "N 2.69 (N), P 0.17 (H), K 1.14 (H), Mg 0.28 (N), Ca 0.5 (ML), B 15.9 (H). Key: ML marginal low, N normal, H high",
+      "src": "Agro 2/2025"
+     }
+    ],
+    "field": [
+     {
+      "k": "Block details (Mar 2026)",
+      "v": "Field 12A, 37.70 ha, 3,727 palms, 99 SPH, IOI material, planted 2012",
+      "src": "PA 1/2026"
+     }
+    ],
+    "fertNow": {
+     "year": "FY2026/27",
+     "rows": [
+      {
+       "k": "May",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Jun",
+       "v": "Kieserite 1,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Aug",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Oct",
+       "v": "Rock phosphate (BRP) 750 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Nov",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Feb",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Note",
+       "v": "Mix B 9.45:0:24:3.7:0.48; Kieserite; BRP = Bayovar rock phosphate. Columns May 2026 to Apr 2027. Agro 1/2026 says the FY2026/27 programme is unchanged",
+       "src": "Agro 1/2026"
+      }
+     ]
+    },
+    "fertPrev": {
+     "year": "FY2025/26",
+     "rows": [
+      {
+       "k": "Jun",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Jul",
+       "v": "Kieserite 1,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Sep",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Oct",
+       "v": "Rock phosphate 750 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Jan",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Apr",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      }
+     ]
+    },
+    "progress": {
+     "manuring": [
+      {
+       "k": "Mix B (Jun 25)",
+       "pct": 100,
+       "note": "applied 05/07 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Kieserite (Jul 25)",
+       "pct": 100,
+       "note": "applied 30/06 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Mix B (Sep 25)",
+       "pct": 100,
+       "note": "applied 29/09 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "RP (Oct 25)",
+       "pct": 100,
+       "note": "applied 17/06 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Mix B (Jan 26)",
+       "pct": 100,
+       "note": "applied 19/12 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "FY2025/26 programme, May 2025–Mar 2026 (rounds with an application date only)",
+     "spraying": [
+      {
+       "k": "Circle spraying",
+       "pct": 67,
+       "note": "75.39 ha · May 2025 / Mar 2026",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Selective spraying",
+       "pct": 50,
+       "note": "37.67 ha · Aug 2025",
+       "src": "PA 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "FY2025/26, May 2025–Mar 2026"
+    }
+   }
   },
   {
    "id": "A17",
@@ -972,7 +4258,181 @@
      "src": "Agro 1/2026",
      "text": "Checklist: pruning good, sanitation good, circle good/fair, inter-row fair."
     }
-   ]
+   ],
+   "detail": {
+    "spraying": [
+     {
+      "k": "Weeding checklist May 2026",
+      "v": "Circle ticked good and fair, inter-row fair",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "pruning": [
+     {
+      "k": "Routine pruning paid May 2025–Mar 2026",
+      "v": "0.00 ha of 21.25 ha",
+      "src": "PA 1/2026"
+     },
+     {
+      "k": "Pruning & sanitation checklist May 2026",
+      "v": "Pruning good, sanitation good",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "nutrients": [
+     {
+      "k": "Leaf analysis Oct 2025",
+      "v": "N 2.65 (N), P 0.16 (N), K 1.15 (H), Mg 0.27 (N), Ca 0.5 (ML), B 17.7 (H). Key: ML marginal low, N normal, H high",
+      "src": "Agro 2/2025"
+     }
+    ],
+    "field": [
+     {
+      "k": "Block details (Mar 2026)",
+      "v": "Field 12A, 21.25 ha, 1,848 palms, 87 SPH, IOI material, planted 2012",
+      "src": "PA 1/2026"
+     }
+    ],
+    "fertNow": {
+     "year": "FY2026/27",
+     "rows": [
+      {
+       "k": "May",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Jun",
+       "v": "Kieserite 1,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Aug",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Oct",
+       "v": "Rock phosphate (BRP) 750 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Nov",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Feb",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Note",
+       "v": "Mix B 9.45:0:24:3.7:0.48; Kieserite; BRP = Bayovar rock phosphate. Columns May 2026 to Apr 2027. Agro 1/2026 says the FY2026/27 programme is unchanged",
+       "src": "Agro 1/2026"
+      }
+     ]
+    },
+    "fertPrev": {
+     "year": "FY2025/26",
+     "rows": [
+      {
+       "k": "Jun",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Jul",
+       "v": "Kieserite 1,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Sep",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Oct",
+       "v": "Rock phosphate 750 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Jan",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Apr",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      }
+     ]
+    },
+    "progress": {
+     "manuring": [
+      {
+       "k": "Mix B (Jun 25)",
+       "pct": 100,
+       "note": "applied 02/07 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Kieserite (Jul 25)",
+       "pct": 100,
+       "note": "applied 05/06 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Mix B (Sep 25)",
+       "pct": 100,
+       "note": "applied 23/09 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "RP (Oct 25)",
+       "pct": 100,
+       "note": "applied 29/10 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Mix B (Jan 26)",
+       "pct": 100,
+       "note": "applied 20/12 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Mix B (Apr 26)",
+       "pct": 100,
+       "note": "applied 11/03 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "FY2025/26 programme, May 2025–Mar 2026 (rounds with an application date only)",
+     "spraying": [
+      {
+       "k": "Circle spraying",
+       "pct": 66,
+       "note": "42.37 ha · Sep 2025 / Jan 2026",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Selective spraying",
+       "pct": 94,
+       "note": "40.10 ha · Jul 2025 / Feb 2026",
+       "src": "PA 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "FY2025/26, May 2025–Mar 2026"
+    }
+   }
   },
   {
    "id": "A18",
@@ -997,7 +4457,176 @@
      "src": "PA 1/2026",
      "text": "Apr 2026 Mix B round has no application date in the PA table."
     }
-   ]
+   ],
+   "detail": {
+    "manuring": [
+     {
+      "k": "Mix B (Apr 2026)",
+      "v": "Mix B 2,000 g/palm, no application date in the PA table (to Mar 2026)",
+      "src": "PA 1/2026"
+     }
+    ],
+    "spraying": [
+     {
+      "k": "Weeding checklist May 2026",
+      "v": "Circle ticked good and fair, inter-row fair",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "pruning": [
+     {
+      "k": "Routine pruning paid May 2025–Mar 2026",
+      "v": "1.49 ha of 36.64 ha",
+      "src": "PA 1/2026"
+     },
+     {
+      "k": "Pruning & sanitation checklist May 2026",
+      "v": "Pruning good, sanitation good",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "nutrients": [
+     {
+      "k": "Leaf analysis Oct 2025",
+      "v": "N 2.6 (N), P 0.166 (N), K 1.07 (H), Mg 0.27 (N), Ca 0.49 (ML), B 17.7 (H). Key: ML marginal low, N normal, H high",
+      "src": "Agro 2/2025"
+     }
+    ],
+    "field": [
+     {
+      "k": "Block details (Mar 2026)",
+      "v": "Field 12A, 36.64 ha, 3,694 palms, 101 SPH, IOI material, planted 2012",
+      "src": "PA 1/2026"
+     }
+    ],
+    "fertNow": {
+     "year": "FY2026/27",
+     "rows": [
+      {
+       "k": "May",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Aug",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Oct",
+       "v": "Rock phosphate (BRP) 750 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Nov",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Feb",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Note",
+       "v": "Mix B 9.45:0:24:3.7:0.48; Kieserite; BRP = Bayovar rock phosphate. Columns May 2026 to Apr 2027. Agro 1/2026 says the FY2026/27 programme is unchanged",
+       "src": "Agro 1/2026"
+      }
+     ]
+    },
+    "fertPrev": {
+     "year": "FY2025/26",
+     "rows": [
+      {
+       "k": "Jun",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Jul",
+       "v": "Kieserite 1,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Sep",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Oct",
+       "v": "Rock phosphate 750 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Jan",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Apr",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      }
+     ]
+    },
+    "progress": {
+     "manuring": [
+      {
+       "k": "Mix B (Jun 25)",
+       "pct": 100,
+       "note": "applied 02/07 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Kieserite (Jul 25)",
+       "pct": 100,
+       "note": "applied 05/06 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Mix B (Sep 25)",
+       "pct": 100,
+       "note": "applied 25/09 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "RP (Oct 25)",
+       "pct": 100,
+       "note": "applied 29/10 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Mix B (Jan 26)",
+       "pct": 100,
+       "note": "applied 22/12 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "FY2025/26 programme, May 2025–Mar 2026 (rounds with an application date only)",
+     "spraying": [
+      {
+       "k": "Circle spraying",
+       "pct": 67,
+       "note": "73.24 ha · Sep 2025 / Mar 2026",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Selective spraying",
+       "pct": 100,
+       "note": "73.28 ha · Jun 2025 / Feb 2026",
+       "src": "PA 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "FY2025/26, May 2025–Mar 2026"
+    }
+   }
   },
   {
    "id": "A19",
@@ -1018,7 +4647,181 @@
      "src": "Agro 1/2026",
      "text": "Checklist: pruning good, sanitation good, circle good, inter-row fair."
     }
-   ]
+   ],
+   "detail": {
+    "spraying": [
+     {
+      "k": "Weeding checklist May 2026",
+      "v": "Circle good, inter-row fair",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "pruning": [
+     {
+      "k": "Routine pruning paid May 2025–Mar 2026",
+      "v": "20.37 ha of 35.70 ha",
+      "src": "PA 1/2026"
+     },
+     {
+      "k": "Pruning & sanitation checklist May 2026",
+      "v": "Pruning good, sanitation good",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "nutrients": [
+     {
+      "k": "Leaf analysis Oct 2025",
+      "v": "N 2.62 (N), P 0.164 (N), K 1.19 (H), Mg 0.26 (N), Ca 0.46 (ML), B 15.4 (H). Key: ML marginal low, N normal, H high",
+      "src": "Agro 2/2025"
+     }
+    ],
+    "field": [
+     {
+      "k": "Block details (Mar 2026)",
+      "v": "Field 12A, 35.70 ha, 3,373 palms, 94 SPH, IOI material, planted 2012",
+      "src": "PA 1/2026"
+     }
+    ],
+    "fertNow": {
+     "year": "FY2026/27",
+     "rows": [
+      {
+       "k": "May",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Jun",
+       "v": "Kieserite 1,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Aug",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Oct",
+       "v": "Rock phosphate (BRP) 750 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Nov",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Feb",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Note",
+       "v": "Mix B 9.45:0:24:3.7:0.48; Kieserite; BRP = Bayovar rock phosphate. Columns May 2026 to Apr 2027. Agro 1/2026 says the FY2026/27 programme is unchanged",
+       "src": "Agro 1/2026"
+      }
+     ]
+    },
+    "fertPrev": {
+     "year": "FY2025/26",
+     "rows": [
+      {
+       "k": "Jun",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Jul",
+       "v": "Kieserite 1,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Sep",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Oct",
+       "v": "Rock phosphate 750 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Jan",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Apr",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      }
+     ]
+    },
+    "progress": {
+     "manuring": [
+      {
+       "k": "Mix B (Jun 25)",
+       "pct": 100,
+       "note": "applied 25/09 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Kieserite (Jul 25)",
+       "pct": 100,
+       "note": "applied 01/11 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Mix B (Sep 25)",
+       "pct": 100,
+       "note": "applied 21/10 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "RP (Oct 25)",
+       "pct": 100,
+       "note": "applied 31/10 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Mix B (Jan 26)",
+       "pct": 100,
+       "note": "applied 26/12 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Mix B (Apr 26)",
+       "pct": 100,
+       "note": "applied 10/03 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "FY2025/26 programme, May 2025–Mar 2026 (rounds with an application date only)",
+     "spraying": [
+      {
+       "k": "Circle spraying",
+       "pct": 33,
+       "note": "35.56 ha · Feb 2026",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Selective spraying",
+       "pct": 150,
+       "note": "107.04 ha · Jul 2025 / Mar 2026",
+       "src": "PA 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "FY2025/26, May 2025–Mar 2026"
+    }
+   }
   },
   {
    "id": "A20",
@@ -1047,7 +4850,186 @@
      "src": "Agro 1/2026",
      "text": "Supply palms improving since the previous visit (ED had asked for closer attention)."
     }
-   ]
+   ],
+   "detail": {
+    "manuring": [
+     {
+      "k": "Mix B (Apr 2026)",
+      "v": "Mix B 2,000 g/palm, no application date in the PA table (to Mar 2026)",
+      "src": "PA 1/2026"
+     }
+    ],
+    "spraying": [
+     {
+      "k": "Weeding checklist May 2026",
+      "v": "Circle good, inter-row fair",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "pruning": [
+     {
+      "k": "Routine pruning paid May 2025–Mar 2026",
+      "v": "19.86 ha of 41.35 ha",
+      "src": "PA 1/2026"
+     },
+     {
+      "k": "Pruning & sanitation checklist May 2026",
+      "v": "Pruning good, sanitation good",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "nutrients": [
+     {
+      "k": "Leaf analysis Oct 2025",
+      "v": "N 2.6 (N), P 0.16 (N), K 1.14 (H), Mg 0.27 (N), Ca 0.48 (ML), B 14.2 (N). Key: ML marginal low, N normal, H high",
+      "src": "Agro 2/2025"
+     }
+    ],
+    "field": [
+     {
+      "k": "Block details (Mar 2026)",
+      "v": "Field 12A, 41.35 ha, 4,767 palms, 115 SPH, IOI material, planted 2012",
+      "src": "PA 1/2026"
+     },
+     {
+      "k": "Supply palms A20 (May 2026)",
+      "v": "Supply palms in acceptable condition, improved since the Oct 2025 visit",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "fertNow": {
+     "year": "FY2026/27",
+     "rows": [
+      {
+       "k": "May",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Jun",
+       "v": "Kieserite 1,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Aug",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Oct",
+       "v": "Rock phosphate (BRP) 750 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Nov",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Feb",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Note",
+       "v": "Mix B 9.45:0:24:3.7:0.48; Kieserite; BRP = Bayovar rock phosphate. Columns May 2026 to Apr 2027. Agro 1/2026 says the FY2026/27 programme is unchanged",
+       "src": "Agro 1/2026"
+      }
+     ]
+    },
+    "fertPrev": {
+     "year": "FY2025/26",
+     "rows": [
+      {
+       "k": "Jun",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Jul",
+       "v": "Kieserite 1,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Sep",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Oct",
+       "v": "Rock phosphate 750 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Jan",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Apr",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      }
+     ]
+    },
+    "progress": {
+     "manuring": [
+      {
+       "k": "Mix B (Jun 25)",
+       "pct": 100,
+       "note": "applied 24/09 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Kieserite (Jul 25)",
+       "pct": 100,
+       "note": "applied 04/11 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Mix B (Sep 25)",
+       "pct": 100,
+       "note": "applied 06/11 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "RP (Oct 25)",
+       "pct": 100,
+       "note": "applied 30/10 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Mix B (Jan 26)",
+       "pct": 100,
+       "note": "applied 09/03 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "FY2025/26 programme, May 2025–Mar 2026 (rounds with an application date only)",
+     "spraying": [
+      {
+       "k": "Circle spraying",
+       "pct": 33,
+       "note": "41.28 ha · Feb 2026",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Selective spraying",
+       "pct": 97,
+       "note": "80.35 ha · Jul 2025 / Oct 2025",
+       "src": "PA 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "FY2025/26, May 2025–Mar 2026"
+    }
+   }
   },
   {
    "id": "B01",
@@ -1072,7 +5054,176 @@
      "src": "PA 1/2026",
      "text": "Feb 2026 Mix B round has no application date in the PA table."
     }
-   ]
+   ],
+   "detail": {
+    "manuring": [
+     {
+      "k": "Mix B (Feb 2026)",
+      "v": "Mix B 2,000 g/palm, no application date in the PA table (to Mar 2026)",
+      "src": "PA 1/2026"
+     }
+    ],
+    "spraying": [
+     {
+      "k": "Weeding checklist May 2026",
+      "v": "Circle good, inter-row fair",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "pruning": [
+     {
+      "k": "Routine pruning paid May 2025–Mar 2026",
+      "v": "0.66 ha of 29.52 ha",
+      "src": "PA 1/2026"
+     },
+     {
+      "k": "Pruning & sanitation checklist May 2026",
+      "v": "Pruning good, sanitation good",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "nutrients": [
+     {
+      "k": "Leaf analysis Oct 2025",
+      "v": "N 2.59 (ML), P 0.166 (N), K 1.09 (H), Mg 0.27 (N), Ca 0.52 (N), B 17.2 (H). Key: ML marginal low, N normal, H high",
+      "src": "Agro 2/2025"
+     }
+    ],
+    "field": [
+     {
+      "k": "Block details (Mar 2026)",
+      "v": "Field 12B, 29.52 ha, 2,988 palms, 101 SPH, IOI material, planted 2012",
+      "src": "PA 1/2026"
+     }
+    ],
+    "fertNow": {
+     "year": "FY2026/27",
+     "rows": [
+      {
+       "k": "Jun",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Sep",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Oct",
+       "v": "Rock phosphate (BRP) 750 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Jan",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Apr",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Note",
+       "v": "Mix B 9.45:0:24:3.7:0.48; Kieserite; BRP = Bayovar rock phosphate. Columns May 2026 to Apr 2027. Agro 1/2026 says the FY2026/27 programme is unchanged",
+       "src": "Agro 1/2026"
+      }
+     ]
+    },
+    "fertPrev": {
+     "year": "FY2025/26",
+     "rows": [
+      {
+       "k": "May",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Jul",
+       "v": "Kieserite 1,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Aug",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Oct",
+       "v": "Rock phosphate 750 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Nov",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Feb",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      }
+     ]
+    },
+    "progress": {
+     "manuring": [
+      {
+       "k": "Mix B (May 25)",
+       "pct": 100,
+       "note": "applied 22/09 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Kieserite (Jul 25)",
+       "pct": 100,
+       "note": "applied 06/11 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Mix B (Aug 25)",
+       "pct": 100,
+       "note": "applied 16/12 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "RP (Oct 25)",
+       "pct": 100,
+       "note": "applied 29/12 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Mix B (Nov 25)",
+       "pct": 100,
+       "note": "applied 21/01 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "FY2025/26 programme, May 2025–Mar 2026 (rounds with an application date only)",
+     "spraying": [
+      {
+       "k": "Circle spraying",
+       "pct": 33,
+       "note": "29.52 ha · Jun 2025",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Selective spraying",
+       "pct": 47,
+       "note": "28.00 ha · Oct 2025",
+       "src": "PA 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "FY2025/26, May 2025–Mar 2026"
+    }
+   }
   },
   {
    "id": "B02",
@@ -1097,7 +5248,176 @@
      "src": "PA 1/2026",
      "text": "Feb 2026 Mix B round has no application date in the PA table."
     }
-   ]
+   ],
+   "detail": {
+    "manuring": [
+     {
+      "k": "Mix B (Feb 2026)",
+      "v": "Mix B 2,000 g/palm, no application date in the PA table (to Mar 2026)",
+      "src": "PA 1/2026"
+     }
+    ],
+    "spraying": [
+     {
+      "k": "Weeding checklist May 2026",
+      "v": "Circle good, inter-row fair",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "pruning": [
+     {
+      "k": "Routine pruning paid May 2025–Mar 2026",
+      "v": "0.02 ha of 27.57 ha",
+      "src": "PA 1/2026"
+     },
+     {
+      "k": "Pruning & sanitation checklist May 2026",
+      "v": "Pruning good, sanitation good",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "nutrients": [
+     {
+      "k": "Leaf analysis Oct 2025",
+      "v": "N 2.52 (ML), P 0.168 (N), K 1.07 (H), Mg 0.26 (N), Ca 0.51 (N), B 18.4 (H). Key: ML marginal low, N normal, H high",
+      "src": "Agro 2/2025"
+     }
+    ],
+    "field": [
+     {
+      "k": "Block details (Mar 2026)",
+      "v": "Field 12B, 27.57 ha, 2,529 palms, 92 SPH, IOI material, planted 2012",
+      "src": "PA 1/2026"
+     }
+    ],
+    "fertNow": {
+     "year": "FY2026/27",
+     "rows": [
+      {
+       "k": "Jun",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Sep",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Oct",
+       "v": "Rock phosphate (BRP) 750 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Jan",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Apr",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Note",
+       "v": "Mix B 9.45:0:24:3.7:0.48; Kieserite; BRP = Bayovar rock phosphate. Columns May 2026 to Apr 2027. Agro 1/2026 says the FY2026/27 programme is unchanged",
+       "src": "Agro 1/2026"
+      }
+     ]
+    },
+    "fertPrev": {
+     "year": "FY2025/26",
+     "rows": [
+      {
+       "k": "May",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Jul",
+       "v": "Kieserite 1,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Aug",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Oct",
+       "v": "Rock phosphate 750 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Nov",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Feb",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      }
+     ]
+    },
+    "progress": {
+     "manuring": [
+      {
+       "k": "Mix B (May 25)",
+       "pct": 100,
+       "note": "applied 03/09 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Kieserite (Jul 25)",
+       "pct": 100,
+       "note": "applied 07/11 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Mix B (Aug 25)",
+       "pct": 100,
+       "note": "applied 18/12 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "RP (Oct 25)",
+       "pct": 100,
+       "note": "applied 29/12 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Mix B (Nov 25)",
+       "pct": 100,
+       "note": "applied 22/01 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "FY2025/26 programme, May 2025–Mar 2026 (rounds with an application date only)",
+     "spraying": [
+      {
+       "k": "Circle spraying",
+       "pct": 33,
+       "note": "27.57 ha · Dec 2025",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Selective spraying",
+       "pct": 50,
+       "note": "27.57 ha · Jul 2025",
+       "src": "PA 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "FY2025/26, May 2025–Mar 2026"
+    }
+   }
   },
   {
    "id": "B03",
@@ -1122,7 +5442,179 @@
      "src": "PA 1/2026",
      "text": "Feb 2026 Mix B round has no application date in the PA table."
     }
-   ]
+   ],
+   "detail": {
+    "manuring": [
+     {
+      "k": "Mix B (Feb 2026)",
+      "v": "Mix B 2,000 g/palm, no application date in the PA table (to Mar 2026)",
+      "src": "PA 1/2026"
+     }
+    ],
+    "spraying": [
+     {
+      "k": "Circle spray FY2025/26 (May 2025–Mar 2026)",
+      "v": "No entry in the PA table for this block",
+      "src": "PA 1/2026"
+     },
+     {
+      "k": "Weeding checklist May 2026",
+      "v": "Circle good, inter-row fair",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "pruning": [
+     {
+      "k": "Routine pruning paid May 2025–Mar 2026",
+      "v": "0.68 ha of 33.11 ha",
+      "src": "PA 1/2026"
+     },
+     {
+      "k": "Pruning & sanitation checklist May 2026",
+      "v": "Pruning good, sanitation good",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "nutrients": [
+     {
+      "k": "Leaf analysis Oct 2025",
+      "v": "N 2.58 (ML), P 0.162 (N), K 1.12 (H), Mg 0.28 (N), Ca 0.49 (ML), B 14.2 (N). Key: ML marginal low, N normal, H high",
+      "src": "Agro 2/2025"
+     }
+    ],
+    "field": [
+     {
+      "k": "Block details (Mar 2026)",
+      "v": "Field 12B, 33.11 ha, 3,275 palms, 99 SPH, IOI material, planted 2012",
+      "src": "PA 1/2026"
+     }
+    ],
+    "fertNow": {
+     "year": "FY2026/27",
+     "rows": [
+      {
+       "k": "Jun",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Jul",
+       "v": "Kieserite 1,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Sep",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Oct",
+       "v": "Rock phosphate (BRP) 750 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Jan",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Apr",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Note",
+       "v": "Mix B 9.45:0:24:3.7:0.48; Kieserite; BRP = Bayovar rock phosphate. Columns May 2026 to Apr 2027. Agro 1/2026 says the FY2026/27 programme is unchanged",
+       "src": "Agro 1/2026"
+      }
+     ]
+    },
+    "fertPrev": {
+     "year": "FY2025/26",
+     "rows": [
+      {
+       "k": "May",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Jul",
+       "v": "Kieserite 1,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Aug",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Oct",
+       "v": "Rock phosphate 750 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Nov",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Feb",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      }
+     ]
+    },
+    "progress": {
+     "manuring": [
+      {
+       "k": "Mix B (May 25)",
+       "pct": 100,
+       "note": "applied 02/09 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Kieserite (Jul 25)",
+       "pct": 100,
+       "note": "applied 09/10 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Mix B (Aug 25)",
+       "pct": 100,
+       "note": "applied 18/12 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "RP (Oct 25)",
+       "pct": 100,
+       "note": "applied 27/12 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Mix B (Nov 25)",
+       "pct": 100,
+       "note": "applied 23/01 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "FY2025/26 programme, May 2025–Mar 2026 (rounds with an application date only)",
+     "spraying": [
+      {
+       "k": "Selective spraying",
+       "pct": 50,
+       "note": "33.11 ha · Jul 2025",
+       "src": "PA 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "FY2025/26, May 2025–Mar 2026"
+    }
+   }
   },
   {
    "id": "B04",
@@ -1147,7 +5639,181 @@
      "src": "PA 1/2026",
      "text": "Feb 2026 Mix B round has no application date in the PA table."
     }
-   ]
+   ],
+   "detail": {
+    "manuring": [
+     {
+      "k": "Mix B (Feb 2026)",
+      "v": "Mix B 2,000 g/palm, no application date in the PA table (to Mar 2026)",
+      "src": "PA 1/2026"
+     }
+    ],
+    "spraying": [
+     {
+      "k": "Weeding checklist May 2026",
+      "v": "Circle good, inter-row fair",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "pruning": [
+     {
+      "k": "Routine pruning paid May 2025–Mar 2026",
+      "v": "No entry (dash) in the PA table",
+      "src": "PA 1/2026"
+     },
+     {
+      "k": "Pruning & sanitation checklist May 2026",
+      "v": "Pruning good, sanitation good",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "nutrients": [
+     {
+      "k": "Leaf analysis Oct 2025",
+      "v": "N 2.71 (H), P 0.159 (ML), K 1.15 (H), Mg 0.27 (N), Ca 0.43 (ML), B 17.1 (H). Key: ML marginal low, N normal, H high",
+      "src": "Agro 2/2025"
+     }
+    ],
+    "field": [
+     {
+      "k": "Block details (Mar 2026)",
+      "v": "Field 12B, 30.87 ha, 2,769 palms, 90 SPH, IOI material, planted 2012",
+      "src": "PA 1/2026"
+     }
+    ],
+    "fertNow": {
+     "year": "FY2026/27",
+     "rows": [
+      {
+       "k": "Jun",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Jul",
+       "v": "Kieserite 1,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Sep",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Oct",
+       "v": "Rock phosphate (BRP) 750 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Jan",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Apr",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Note",
+       "v": "Mix B 9.45:0:24:3.7:0.48; Kieserite; BRP = Bayovar rock phosphate. Columns May 2026 to Apr 2027. Agro 1/2026 says the FY2026/27 programme is unchanged",
+       "src": "Agro 1/2026"
+      }
+     ]
+    },
+    "fertPrev": {
+     "year": "FY2025/26",
+     "rows": [
+      {
+       "k": "May",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Jul",
+       "v": "Kieserite 1,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Aug",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Oct",
+       "v": "Rock phosphate 750 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Nov",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Feb",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      }
+     ]
+    },
+    "progress": {
+     "manuring": [
+      {
+       "k": "Mix B (May 25)",
+       "pct": 100,
+       "note": "applied 29/08 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Kieserite (Jul 25)",
+       "pct": 100,
+       "note": "applied 08/11 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Mix B (Aug 25)",
+       "pct": 100,
+       "note": "applied 26/12 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "RP (Oct 25)",
+       "pct": 100,
+       "note": "applied 27/12 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Mix B (Nov 25)",
+       "pct": 100,
+       "note": "applied 26/01 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "FY2025/26 programme, May 2025–Mar 2026 (rounds with an application date only)",
+     "spraying": [
+      {
+       "k": "Circle spraying",
+       "pct": 33,
+       "note": "30.87 ha · Dec 2025",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Selective spraying",
+       "pct": 97,
+       "note": "59.87 ha · Jul 2025 / Oct 2025",
+       "src": "PA 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "FY2025/26, May 2025–Mar 2026"
+    }
+   }
   },
   {
    "id": "B05",
@@ -1180,7 +5846,196 @@
      "src": "Agro 1/2026",
      "text": "Incomplete weed eradication, poor access in neglected areas, under-pruned palms; road repaired."
     }
-   ]
+   ],
+   "detail": {
+    "manuring": [
+     {
+      "k": "Mix B (Feb 2026)",
+      "v": "Mix B 2,000 g/palm, no application date in the PA table (to Mar 2026)",
+      "src": "PA 1/2026"
+     }
+    ],
+    "spraying": [
+     {
+      "k": "Circle spray FY2025/26 (May 2025–Mar 2026)",
+      "v": "No entry in the PA table for this block",
+      "src": "PA 1/2026"
+     },
+     {
+      "k": "Weeding checklist May 2026",
+      "v": "Circle good, inter-row fair",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Weeds B05 (May 2026)",
+      "v": "Incomplete weed eradication (missed application or poor technique, dense Clidemia hirta); poor access in neglected areas; circle maintenance satisfactory, completed toward end of FY",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "harvesting": [
+     {
+      "k": "Crop quality B05 (May 2026)",
+      "v": "Platforms: 90% ripe / 10% unripe; 100% ripe; 100% ripe; 98% ripe / 2% unripe; some unripe and long-stalk bunches",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "pruning": [
+     {
+      "k": "Routine pruning paid May 2025–Mar 2026",
+      "v": "2.63 ha of 21.66 ha",
+      "src": "PA 1/2026"
+     },
+     {
+      "k": "Pruning & sanitation checklist May 2026",
+      "v": "Pruning good, sanitation good",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Under-pruning B05 (May 2026)",
+      "v": "Under-pruned palms photographed",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "nutrients": [
+     {
+      "k": "Leaf analysis Oct 2025",
+      "v": "N 2.67 (N), P 0.166 (N), K 1.08 (H), Mg 0.28 (N), Ca 0.47 (ML), B 15 (H). Key: ML marginal low, N normal, H high",
+      "src": "Agro 2/2025"
+     }
+    ],
+    "field": [
+     {
+      "k": "Block details (Mar 2026)",
+      "v": "Field 12B, 21.66 ha, 2,145 palms, 99 SPH, IOI material, planted 2012",
+      "src": "PA 1/2026"
+     },
+     {
+      "k": "Road repair B05 (May 2026)",
+      "v": "Road repaired (Agro photos)",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "fertNow": {
+     "year": "FY2026/27",
+     "rows": [
+      {
+       "k": "Jun",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Sep",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Oct",
+       "v": "Rock phosphate (BRP) 750 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Jan",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Apr",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Note",
+       "v": "Mix B 9.45:0:24:3.7:0.48; Kieserite; BRP = Bayovar rock phosphate. Columns May 2026 to Apr 2027. Agro 1/2026 says the FY2026/27 programme is unchanged",
+       "src": "Agro 1/2026"
+      }
+     ]
+    },
+    "fertPrev": {
+     "year": "FY2025/26",
+     "rows": [
+      {
+       "k": "May",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Jul",
+       "v": "Kieserite 1,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Aug",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Oct",
+       "v": "Rock phosphate 750 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Nov",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Feb",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      }
+     ]
+    },
+    "progress": {
+     "manuring": [
+      {
+       "k": "Mix B (May 25)",
+       "pct": 100,
+       "note": "applied 28/08 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Kieserite (Jul 25)",
+       "pct": 100,
+       "note": "applied 10/11 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Mix B (Aug 25)",
+       "pct": 100,
+       "note": "applied 19/12 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "RP (Oct 25)",
+       "pct": 100,
+       "note": "applied 29/12 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Mix B (Nov 25)",
+       "pct": 100,
+       "note": "applied 27/01 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "FY2025/26 programme, May 2025–Mar 2026 (rounds with an application date only)",
+     "spraying": [
+      {
+       "k": "Selective spraying",
+       "pct": 150,
+       "note": "64.98 ha · Jul 2025 / Oct 2025 / Feb 2026",
+       "src": "PA 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "FY2025/26, May 2025–Mar 2026"
+    }
+   }
   },
   {
    "id": "B06",
@@ -1209,7 +6064,186 @@
      "src": "Agro 1/2026",
      "text": "Agro area 11.38 ha, 835 palms (73 SPH) after 3.68 ha / 229 supply palms."
     }
-   ]
+   ],
+   "detail": {
+    "manuring": [
+     {
+      "k": "Mix B (Feb 2026)",
+      "v": "Mix B 2,000 g/palm, no application date in the PA table (to Mar 2026)",
+      "src": "PA 1/2026"
+     }
+    ],
+    "spraying": [
+     {
+      "k": "Weeding checklist May 2026",
+      "v": "Circle good, inter-row fair",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "pruning": [
+     {
+      "k": "Routine pruning paid May 2025–Mar 2026",
+      "v": "No entry (dash) in the PA table",
+      "src": "PA 1/2026"
+     },
+     {
+      "k": "Pruning & sanitation checklist May 2026",
+      "v": "Pruning good, sanitation good",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "nutrients": [
+     {
+      "k": "Leaf analysis Oct 2025",
+      "v": "N 2.64 (N), P 0.17 (H), K 1.1 (H), Mg 0.29 (N), Ca 0.49 (ML), B 16.8 (H). Key: ML marginal low, N normal, H high",
+      "src": "Agro 2/2025"
+     }
+    ],
+    "field": [
+     {
+      "k": "Block details (Mar 2026)",
+      "v": "Field 12B, 7.70 ha, 606 palms, 79 SPH, IOI material, planted 2012",
+      "src": "PA 1/2026"
+     },
+     {
+      "k": "Supply planting (FY2025/26, Agro May 2026)",
+      "v": "3.68 ha of previously vacant land planted with 229 supply palms; block now 11.38 ha, 835 palms in the FY2026/27 programme",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "fertNow": {
+     "year": "FY2026/27",
+     "rows": [
+      {
+       "k": "Jun",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Jul",
+       "v": "Kieserite 1,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Sep",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Oct",
+       "v": "Rock phosphate (BRP) 750 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Jan",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Apr",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Note",
+       "v": "Mix B 9.45:0:24:3.7:0.48; Kieserite; BRP = Bayovar rock phosphate. Columns May 2026 to Apr 2027. Agro 1/2026 says the FY2026/27 programme is unchanged",
+       "src": "Agro 1/2026"
+      }
+     ]
+    },
+    "fertPrev": {
+     "year": "FY2025/26",
+     "rows": [
+      {
+       "k": "May",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Jul",
+       "v": "Kieserite 1,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Aug",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Oct",
+       "v": "Rock phosphate 750 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Nov",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Feb",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      }
+     ]
+    },
+    "progress": {
+     "manuring": [
+      {
+       "k": "Mix B (May 25)",
+       "pct": 100,
+       "note": "applied 04/08 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Kieserite (Jul 25)",
+       "pct": 100,
+       "note": "applied 05/06 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Mix B (Aug 25)",
+       "pct": 100,
+       "note": "applied 15/11 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "RP (Oct 25)",
+       "pct": 100,
+       "note": "applied 31/12 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Mix B (Nov 25)",
+       "pct": 100,
+       "note": "applied 27/01 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "FY2025/26 programme, May 2025–Mar 2026 (rounds with an application date only)",
+     "spraying": [
+      {
+       "k": "Circle spraying",
+       "pct": 37,
+       "note": "8.51 ha · Feb 2026",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Selective spraying",
+       "pct": 96,
+       "note": "14.77 ha · Jul 2025 / Oct 2025",
+       "src": "PA 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "FY2025/26, May 2025–Mar 2026"
+    }
+   }
   },
   {
    "id": "B07",
@@ -1238,7 +6272,186 @@
      "src": "PA 1/2026",
      "text": "SPH printed as 11 in the PA fertiliser table (111 elsewhere)."
     }
-   ]
+   ],
+   "detail": {
+    "manuring": [
+     {
+      "k": "Mix B (Feb 2026)",
+      "v": "Mix B 2,000 g/palm, no application date in the PA table (to Mar 2026)",
+      "src": "PA 1/2026"
+     }
+    ],
+    "spraying": [
+     {
+      "k": "Weeding checklist May 2026",
+      "v": "Circle good, inter-row fair",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "pruning": [
+     {
+      "k": "Routine pruning paid May 2025–Mar 2026",
+      "v": "2.51 ha of 44.91 ha",
+      "src": "PA 1/2026"
+     },
+     {
+      "k": "Pruning & sanitation checklist May 2026",
+      "v": "Pruning good, sanitation good",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "nutrients": [
+     {
+      "k": "Leaf analysis Oct 2025",
+      "v": "N 2.57 (ML), P 0.166 (N), K 1.09 (H), Mg 0.28 (N), Ca 0.54 (N), B 16.3 (H). Key: ML marginal low, N normal, H high",
+      "src": "Agro 2/2025"
+     }
+    ],
+    "field": [
+     {
+      "k": "Block details (Mar 2026)",
+      "v": "Field 12B, 44.91 ha, 5,001 palms, 111 SPH, IOI material, planted 2012",
+      "src": "PA 1/2026"
+     },
+     {
+      "k": "SPH misprint",
+      "v": "PA fertiliser table prints SPH 11 for B07 (111 elsewhere)",
+      "src": "PA 1/2026"
+     }
+    ],
+    "fertNow": {
+     "year": "FY2026/27",
+     "rows": [
+      {
+       "k": "Jun",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Jul",
+       "v": "Kieserite 1,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Sep",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Oct",
+       "v": "Rock phosphate (BRP) 750 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Jan",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Apr",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Note",
+       "v": "Mix B 9.45:0:24:3.7:0.48; Kieserite; BRP = Bayovar rock phosphate. Columns May 2026 to Apr 2027. Agro 1/2026 says the FY2026/27 programme is unchanged",
+       "src": "Agro 1/2026"
+      }
+     ]
+    },
+    "fertPrev": {
+     "year": "FY2025/26",
+     "rows": [
+      {
+       "k": "May",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Jul",
+       "v": "Kieserite 1,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Aug",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Oct",
+       "v": "Rock phosphate 750 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Nov",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Feb",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      }
+     ]
+    },
+    "progress": {
+     "manuring": [
+      {
+       "k": "Mix B (May 25)",
+       "pct": 100,
+       "note": "applied 04/08 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Kieserite (Jul 25)",
+       "pct": 100,
+       "note": "applied 05/06 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Mix B (Aug 25)",
+       "pct": 100,
+       "note": "applied 15/11 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "RP (Oct 25)",
+       "pct": 100,
+       "note": "applied 31/12 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Mix B (Nov 25)",
+       "pct": 100,
+       "note": "applied 31/01 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "FY2025/26 programme, May 2025–Mar 2026 (rounds with an application date only)",
+     "spraying": [
+      {
+       "k": "Circle spraying",
+       "pct": 33,
+       "note": "44.91 ha · Feb 2026",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Selective spraying",
+       "pct": 100,
+       "note": "89.71 ha · Jul 2025 / Oct 2025",
+       "src": "PA 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "FY2025/26, May 2025–Mar 2026"
+    }
+   }
   },
   {
    "id": "B08",
@@ -1263,7 +6476,181 @@
      "src": "PA 1/2026",
      "text": "Feb 2026 Mix B round has no application date in the PA table."
     }
-   ]
+   ],
+   "detail": {
+    "manuring": [
+     {
+      "k": "Mix B (Feb 2026)",
+      "v": "Mix B 2,000 g/palm, no application date in the PA table (to Mar 2026)",
+      "src": "PA 1/2026"
+     }
+    ],
+    "spraying": [
+     {
+      "k": "Weeding checklist May 2026",
+      "v": "Circle good, inter-row fair",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "pruning": [
+     {
+      "k": "Routine pruning paid May 2025–Mar 2026",
+      "v": "2.32 ha of 30.42 ha",
+      "src": "PA 1/2026"
+     },
+     {
+      "k": "Pruning & sanitation checklist May 2026",
+      "v": "Pruning good, sanitation good",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "nutrients": [
+     {
+      "k": "Leaf analysis Oct 2025",
+      "v": "N 2.63 (N), P 0.168 (N), K 1.14 (H), Mg 0.28 (N), Ca 0.5 (ML), B 18.3 (H). Key: ML marginal low, N normal, H high",
+      "src": "Agro 2/2025"
+     }
+    ],
+    "field": [
+     {
+      "k": "Block details (Mar 2026)",
+      "v": "Field 12B, 30.42 ha, 3,284 palms, 108 SPH, IOI material, planted 2012",
+      "src": "PA 1/2026"
+     }
+    ],
+    "fertNow": {
+     "year": "FY2026/27",
+     "rows": [
+      {
+       "k": "Jun",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Jul",
+       "v": "Kieserite 1,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Sep",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Oct",
+       "v": "Rock phosphate (BRP) 750 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Jan",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Apr",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Note",
+       "v": "Mix B 9.45:0:24:3.7:0.48; Kieserite; BRP = Bayovar rock phosphate. Columns May 2026 to Apr 2027. Agro 1/2026 says the FY2026/27 programme is unchanged",
+       "src": "Agro 1/2026"
+      }
+     ]
+    },
+    "fertPrev": {
+     "year": "FY2025/26",
+     "rows": [
+      {
+       "k": "May",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Jul",
+       "v": "Kieserite 1,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Aug",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Oct",
+       "v": "Rock phosphate 750 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Nov",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Feb",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      }
+     ]
+    },
+    "progress": {
+     "manuring": [
+      {
+       "k": "Mix B (May 25)",
+       "pct": 100,
+       "note": "applied 17/07 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Kieserite (Jul 25)",
+       "pct": 100,
+       "note": "applied 28/05 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Mix B (Aug 25)",
+       "pct": 100,
+       "note": "applied 22/11 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "RP (Oct 25)",
+       "pct": 100,
+       "note": "applied 22/12 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Mix B (Nov 25)",
+       "pct": 100,
+       "note": "applied 06/02 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "FY2025/26 programme, May 2025–Mar 2026 (rounds with an application date only)",
+     "spraying": [
+      {
+       "k": "Circle spraying",
+       "pct": 33,
+       "note": "30.42 ha · Feb 2026",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Selective spraying",
+       "pct": 85,
+       "note": "51.60 ha · Jul 2025 / Oct 2025",
+       "src": "PA 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "FY2025/26, May 2025–Mar 2026"
+    }
+   }
   },
   {
    "id": "B09",
@@ -1288,7 +6675,181 @@
      "src": "PA 1/2026",
      "text": "Feb 2026 Mix B round has no application date in the PA table."
     }
-   ]
+   ],
+   "detail": {
+    "manuring": [
+     {
+      "k": "Mix B (Feb 2026)",
+      "v": "Mix B 2,000 g/palm, no application date in the PA table (to Mar 2026)",
+      "src": "PA 1/2026"
+     }
+    ],
+    "spraying": [
+     {
+      "k": "Weeding checklist May 2026",
+      "v": "Circle good, inter-row fair",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "pruning": [
+     {
+      "k": "Routine pruning paid May 2025–Mar 2026",
+      "v": "2.62 ha of 27.64 ha",
+      "src": "PA 1/2026"
+     },
+     {
+      "k": "Pruning & sanitation checklist May 2026",
+      "v": "Pruning good, sanitation good",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "nutrients": [
+     {
+      "k": "Leaf analysis Oct 2025",
+      "v": "N 2.66 (N), P 0.17 (H), K 1.15 (H), Mg 0.28 (N), Ca 0.45 (ML), B 18.1 (H). Key: ML marginal low, N normal, H high",
+      "src": "Agro 2/2025"
+     }
+    ],
+    "field": [
+     {
+      "k": "Block details (Mar 2026)",
+      "v": "Field 12B, 27.64 ha, 2,848 palms, 103 SPH, IOI material, planted 2012",
+      "src": "PA 1/2026"
+     }
+    ],
+    "fertNow": {
+     "year": "FY2026/27",
+     "rows": [
+      {
+       "k": "Jun",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Jul",
+       "v": "Kieserite 1,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Sep",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Oct",
+       "v": "Rock phosphate (BRP) 750 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Jan",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Apr",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Note",
+       "v": "Mix B 9.45:0:24:3.7:0.48; Kieserite; BRP = Bayovar rock phosphate. Columns May 2026 to Apr 2027. Agro 1/2026 says the FY2026/27 programme is unchanged",
+       "src": "Agro 1/2026"
+      }
+     ]
+    },
+    "fertPrev": {
+     "year": "FY2025/26",
+     "rows": [
+      {
+       "k": "May",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Jul",
+       "v": "Kieserite 1,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Aug",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Oct",
+       "v": "Rock phosphate 750 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Nov",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Feb",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      }
+     ]
+    },
+    "progress": {
+     "manuring": [
+      {
+       "k": "Mix B (May 25)",
+       "pct": 100,
+       "note": "applied 19/07 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Kieserite (Jul 25)",
+       "pct": 100,
+       "note": "applied 07/10 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Mix B (Aug 25)",
+       "pct": 100,
+       "note": "applied 25/11 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "RP (Oct 25)",
+       "pct": 100,
+       "note": "applied 24/12 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Mix B (Nov 25)",
+       "pct": 100,
+       "note": "applied 10/02 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "FY2025/26 programme, May 2025–Mar 2026 (rounds with an application date only)",
+     "spraying": [
+      {
+       "k": "Circle spraying",
+       "pct": 33,
+       "note": "27.64 ha · Mar 2026",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Selective spraying",
+       "pct": 50,
+       "note": "27.64 ha · Sep 2025",
+       "src": "PA 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "FY2025/26, May 2025–Mar 2026"
+    }
+   }
   },
   {
    "id": "B10",
@@ -1317,7 +6878,193 @@
      "src": "PA 1/2026",
      "text": "Highest SPH (134); uncollected loose fruit at platforms."
     }
-   ]
+   ],
+   "detail": {
+    "manuring": [
+     {
+      "k": "Mix B (Feb 2026)",
+      "v": "Mix B 2,000 g/palm, no application date in the PA table (to Mar 2026)",
+      "src": "PA 1/2026"
+     }
+    ],
+    "spraying": [
+     {
+      "k": "Weeding checklist May 2026",
+      "v": "Circle good, inter-row fair",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Circles B10 (May 2026)",
+      "v": "Clean circles photographed",
+      "src": "PA 1/2026"
+     }
+    ],
+    "harvesting": [
+     {
+      "k": "Loose fruit B10 (May 2026)",
+      "v": "Uncollected loose fruit in field and at platforms photographed",
+      "src": "PA 1/2026"
+     }
+    ],
+    "pruning": [
+     {
+      "k": "Routine pruning paid May 2025–Mar 2026",
+      "v": "4.57 ha of 32.40 ha",
+      "src": "PA 1/2026"
+     },
+     {
+      "k": "Pruning & sanitation checklist May 2026",
+      "v": "Pruning good, sanitation good",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "nutrients": [
+     {
+      "k": "Leaf analysis Oct 2025",
+      "v": "N 2.61 (N), P 0.167 (N), K 1.11 (H), Mg 0.27 (N), Ca 0.49 (ML), B 17.2 (H). Key: ML marginal low, N normal, H high",
+      "src": "Agro 2/2025"
+     }
+    ],
+    "field": [
+     {
+      "k": "Block details (Mar 2026)",
+      "v": "Field 12B, 32.40 ha, 4,328 palms, 134 SPH, IOI material, planted 2012",
+      "src": "PA 1/2026"
+     }
+    ],
+    "fertNow": {
+     "year": "FY2026/27",
+     "rows": [
+      {
+       "k": "Jun",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Jul",
+       "v": "Kieserite 1,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Sep",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Oct",
+       "v": "Rock phosphate (BRP) 750 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Jan",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Apr",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Note",
+       "v": "Mix B 9.45:0:24:3.7:0.48; Kieserite; BRP = Bayovar rock phosphate. Columns May 2026 to Apr 2027. Agro 1/2026 says the FY2026/27 programme is unchanged",
+       "src": "Agro 1/2026"
+      }
+     ]
+    },
+    "fertPrev": {
+     "year": "FY2025/26",
+     "rows": [
+      {
+       "k": "May",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Jul",
+       "v": "Kieserite 1,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Aug",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Oct",
+       "v": "Rock phosphate 750 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Nov",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Feb",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      }
+     ]
+    },
+    "progress": {
+     "manuring": [
+      {
+       "k": "Mix B (May 25)",
+       "pct": 100,
+       "note": "applied 21/07 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Kieserite (Jul 25)",
+       "pct": 100,
+       "note": "applied 06/10 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Mix B (Aug 25)",
+       "pct": 100,
+       "note": "applied 28/11 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "RP (Oct 25)",
+       "pct": 100,
+       "note": "applied 26/12 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Mix B (Nov 25)",
+       "pct": 100,
+       "note": "applied 11/12 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "FY2025/26 programme, May 2025–Mar 2026 (rounds with an application date only)",
+     "spraying": [
+      {
+       "k": "Circle spraying",
+       "pct": 33,
+       "note": "32.40 ha · Feb 2026",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Selective spraying",
+       "pct": 96,
+       "note": "62.37 ha · Aug 2025 / Oct 2025",
+       "src": "PA 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "FY2025/26, May 2025–Mar 2026"
+    }
+   }
   },
   {
    "id": "B11",
@@ -1346,7 +7093,188 @@
      "src": "PA 1/2026",
      "text": "Uncollected loose fruit photographed."
     }
-   ]
+   ],
+   "detail": {
+    "manuring": [
+     {
+      "k": "Mix B (Feb 2026)",
+      "v": "Mix B 2,000 g/palm, no application date in the PA table (to Mar 2026)",
+      "src": "PA 1/2026"
+     }
+    ],
+    "spraying": [
+     {
+      "k": "Weeding checklist May 2026",
+      "v": "Circle good, inter-row fair",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Circles B11 (May 2026)",
+      "v": "Clean circles photographed",
+      "src": "PA 1/2026"
+     }
+    ],
+    "harvesting": [
+     {
+      "k": "Loose fruit B11 (May 2026)",
+      "v": "Uncollected loose fruit photographed",
+      "src": "PA 1/2026"
+     }
+    ],
+    "pruning": [
+     {
+      "k": "Routine pruning paid May 2025–Mar 2026",
+      "v": "3.13 ha of 19.70 ha",
+      "src": "PA 1/2026"
+     },
+     {
+      "k": "Pruning & sanitation checklist May 2026",
+      "v": "Pruning good, sanitation good",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "nutrients": [
+     {
+      "k": "Leaf analysis Oct 2025",
+      "v": "N 2.64 (N), P 0.163 (N), K 1.07 (H), Mg 0.27 (N), Ca 0.48 (ML), B 15.7 (H). Key: ML marginal low, N normal, H high",
+      "src": "Agro 2/2025"
+     }
+    ],
+    "field": [
+     {
+      "k": "Block details (Mar 2026)",
+      "v": "Field 12B, 19.70 ha, 2,590 palms, 131 SPH, IOI material, planted 2012",
+      "src": "PA 1/2026"
+     }
+    ],
+    "fertNow": {
+     "year": "FY2026/27",
+     "rows": [
+      {
+       "k": "Jun",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Sep",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Oct",
+       "v": "Rock phosphate (BRP) 750 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Jan",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Apr",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Note",
+       "v": "Mix B 9.45:0:24:3.7:0.48; Kieserite; BRP = Bayovar rock phosphate. Columns May 2026 to Apr 2027. Agro 1/2026 says the FY2026/27 programme is unchanged",
+       "src": "Agro 1/2026"
+      }
+     ]
+    },
+    "fertPrev": {
+     "year": "FY2025/26",
+     "rows": [
+      {
+       "k": "May",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Jul",
+       "v": "Kieserite 1,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Aug",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Oct",
+       "v": "Rock phosphate 750 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Nov",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Feb",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      }
+     ]
+    },
+    "progress": {
+     "manuring": [
+      {
+       "k": "Mix B (May 25)",
+       "pct": 100,
+       "note": "applied 22/07 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Kieserite (Jul 25)",
+       "pct": 100,
+       "note": "applied 29/05 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Mix B (Aug 25)",
+       "pct": 100,
+       "note": "applied 21/11 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "RP (Oct 25)",
+       "pct": 100,
+       "note": "applied 20/12 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Mix B (Nov 25)",
+       "pct": 100,
+       "note": "applied 14/02 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "FY2025/26 programme, May 2025–Mar 2026 (rounds with an application date only)",
+     "spraying": [
+      {
+       "k": "Circle spraying",
+       "pct": 33,
+       "note": "19.70 ha · Oct 2025",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Selective spraying",
+       "pct": 97,
+       "note": "38.40 ha · May 2025 / Feb 2026",
+       "src": "PA 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "FY2025/26, May 2025–Mar 2026"
+    }
+   }
   },
   {
    "id": "B12",
@@ -1375,7 +7303,179 @@
      "src": "PA 1/2026",
      "text": "Nov 2025 Mix B round has no application date in the PA table."
     }
-   ]
+   ],
+   "detail": {
+    "manuring": [
+     {
+      "k": "Mix B (Nov 2025)",
+      "v": "Mix B 2,000 g/palm, no application date in the PA table (to Mar 2026)",
+      "src": "PA 1/2026"
+     },
+     {
+      "k": "Mix B (Feb 2026)",
+      "v": "Mix B 2,000 g/palm, no application date in the PA table (to Mar 2026)",
+      "src": "PA 1/2026"
+     }
+    ],
+    "spraying": [
+     {
+      "k": "Weeding checklist May 2026",
+      "v": "Circle good, inter-row fair",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "pruning": [
+     {
+      "k": "Routine pruning paid May 2025–Mar 2026",
+      "v": "5.07 ha of 41.29 ha",
+      "src": "PA 1/2026"
+     },
+     {
+      "k": "Pruning & sanitation checklist May 2026",
+      "v": "Pruning good, sanitation fair",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "nutrients": [
+     {
+      "k": "Leaf analysis Oct 2025",
+      "v": "N 2.67 (N), P 0.162 (N), K 1.14 (H), Mg 0.26 (N), Ca 0.43 (ML), B 15.4 (H). Key: ML marginal low, N normal, H high",
+      "src": "Agro 2/2025"
+     }
+    ],
+    "field": [
+     {
+      "k": "Block details (Mar 2026)",
+      "v": "Field 12B, 41.29 ha, 4,757 palms, 115 SPH, IOI material, planted 2012",
+      "src": "PA 1/2026"
+     }
+    ],
+    "fertNow": {
+     "year": "FY2026/27",
+     "rows": [
+      {
+       "k": "Jun",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Jul",
+       "v": "Kieserite 1,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Sep",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Oct",
+       "v": "Rock phosphate (BRP) 750 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Jan",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Apr",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Note",
+       "v": "Mix B 9.45:0:24:3.7:0.48; Kieserite; BRP = Bayovar rock phosphate. Columns May 2026 to Apr 2027. Agro 1/2026 says the FY2026/27 programme is unchanged",
+       "src": "Agro 1/2026"
+      }
+     ]
+    },
+    "fertPrev": {
+     "year": "FY2025/26",
+     "rows": [
+      {
+       "k": "May",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Jul",
+       "v": "Kieserite 1,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Aug",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Oct",
+       "v": "Rock phosphate 750 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Nov",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Feb",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      }
+     ]
+    },
+    "progress": {
+     "manuring": [
+      {
+       "k": "Mix B (May 25)",
+       "pct": 100,
+       "note": "applied 26/07 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Kieserite (Jul 25)",
+       "pct": 100,
+       "note": "applied 14/07 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Mix B (Aug 25)",
+       "pct": 100,
+       "note": "applied 05/11 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "RP (Oct 25)",
+       "pct": 100,
+       "note": "applied 18/02 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "FY2025/26 programme, May 2025–Mar 2026 (rounds with an application date only)",
+     "spraying": [
+      {
+       "k": "Circle spraying",
+       "pct": 60,
+       "note": "74.77 ha · May 2025 / Feb 2026",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Selective spraying",
+       "pct": 50,
+       "note": "41.29 ha · Aug 2025",
+       "src": "PA 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "FY2025/26, May 2025–Mar 2026"
+    }
+   }
   },
   {
    "id": "B13",
@@ -1404,7 +7504,186 @@
      "src": "PA 1/2026",
      "text": "Irish bridge built (one of two at RM7,500 each)."
     }
-   ]
+   ],
+   "detail": {
+    "manuring": [
+     {
+      "k": "Mix B (Feb 2026)",
+      "v": "Mix B 2,000 g/palm, no application date in the PA table (to Mar 2026)",
+      "src": "PA 1/2026"
+     }
+    ],
+    "spraying": [
+     {
+      "k": "Weeding checklist May 2026",
+      "v": "Circle ticked good and fair, inter-row fair",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "pruning": [
+     {
+      "k": "Routine pruning paid May 2025–Mar 2026",
+      "v": "4.11 ha of 36.93 ha",
+      "src": "PA 1/2026"
+     },
+     {
+      "k": "Pruning & sanitation checklist May 2026",
+      "v": "Pruning good, sanitation good",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "nutrients": [
+     {
+      "k": "Leaf analysis Oct 2025",
+      "v": "N 2.7 (H), P 0.158 (ML), K 1.1 (H), Mg 0.27 (N), Ca 0.42 (ML), B 15.1 (H). Key: ML marginal low, N normal, H high",
+      "src": "Agro 2/2025"
+     }
+    ],
+    "field": [
+     {
+      "k": "Block details (Mar 2026)",
+      "v": "Field 12B, 36.93 ha, 3,883 palms, 105 SPH, IOI material, planted 2012",
+      "src": "PA 1/2026"
+     },
+     {
+      "k": "Irish bridge B13 (FY2025/26)",
+      "v": "Irish bridge built (one of 2 units this FY at RM7,500 each)",
+      "src": "PA 1/2026"
+     }
+    ],
+    "fertNow": {
+     "year": "FY2026/27",
+     "rows": [
+      {
+       "k": "Jun",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Jul",
+       "v": "Kieserite 1,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Sep",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Oct",
+       "v": "Rock phosphate (BRP) 750 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Jan",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Apr",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Note",
+       "v": "Mix B 9.45:0:24:3.7:0.48; Kieserite; BRP = Bayovar rock phosphate. Columns May 2026 to Apr 2027. Agro 1/2026 says the FY2026/27 programme is unchanged",
+       "src": "Agro 1/2026"
+      }
+     ]
+    },
+    "fertPrev": {
+     "year": "FY2025/26",
+     "rows": [
+      {
+       "k": "May",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Jul",
+       "v": "Kieserite 1,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Aug",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Oct",
+       "v": "Rock phosphate 750 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Nov",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Feb",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      }
+     ]
+    },
+    "progress": {
+     "manuring": [
+      {
+       "k": "Mix B (May 25)",
+       "pct": 100,
+       "note": "applied 24/07 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Kieserite (Jul 25)",
+       "pct": 100,
+       "note": "applied 25/09 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Mix B (Aug 25)",
+       "pct": 100,
+       "note": "applied 03/11 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "RP (Oct 25)",
+       "pct": 100,
+       "note": "applied 16/06 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Mix B (Nov 25)",
+       "pct": 100,
+       "note": "applied 24/02 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "FY2025/26 programme, May 2025–Mar 2026 (rounds with an application date only)",
+     "spraying": [
+      {
+       "k": "Circle spraying",
+       "pct": 66,
+       "note": "72.71 ha · Jun 2025 / Mar 2026",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Selective spraying",
+       "pct": 50,
+       "note": "36.93 ha · Sep 2025",
+       "src": "PA 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "FY2025/26, May 2025–Mar 2026"
+    }
+   }
   },
   {
    "id": "B14",
@@ -1429,7 +7708,176 @@
      "src": "PA 1/2026",
      "text": "Feb 2026 Mix B round has no application date in the PA table."
     }
-   ]
+   ],
+   "detail": {
+    "manuring": [
+     {
+      "k": "Mix B (Feb 2026)",
+      "v": "Mix B 2,000 g/palm, no application date in the PA table (to Mar 2026)",
+      "src": "PA 1/2026"
+     }
+    ],
+    "spraying": [
+     {
+      "k": "Weeding checklist May 2026",
+      "v": "Circle good, inter-row fair",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "pruning": [
+     {
+      "k": "Routine pruning paid May 2025–Mar 2026",
+      "v": "No entry (dash) in the PA table",
+      "src": "PA 1/2026"
+     },
+     {
+      "k": "Pruning & sanitation checklist May 2026",
+      "v": "Pruning fair, sanitation fair",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "nutrients": [
+     {
+      "k": "Leaf analysis Oct 2025",
+      "v": "N 2.65 (N), P 0.163 (N), K 1.06 (H), Mg 0.26 (N), Ca 0.52 (N), B 18 (H). Key: ML marginal low, N normal, H high",
+      "src": "Agro 2/2025"
+     }
+    ],
+    "field": [
+     {
+      "k": "Block details (Mar 2026)",
+      "v": "Field 12B, 27.65 ha, 2,595 palms, 94 SPH, IOI material, planted 2012",
+      "src": "PA 1/2026"
+     }
+    ],
+    "fertNow": {
+     "year": "FY2026/27",
+     "rows": [
+      {
+       "k": "Jun",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Sep",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Oct",
+       "v": "Rock phosphate (BRP) 750 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Jan",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Apr",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Note",
+       "v": "Mix B 9.45:0:24:3.7:0.48; Kieserite; BRP = Bayovar rock phosphate. Columns May 2026 to Apr 2027. Agro 1/2026 says the FY2026/27 programme is unchanged",
+       "src": "Agro 1/2026"
+      }
+     ]
+    },
+    "fertPrev": {
+     "year": "FY2025/26",
+     "rows": [
+      {
+       "k": "May",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Jul",
+       "v": "Kieserite 1,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Aug",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Oct",
+       "v": "Rock phosphate 750 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Nov",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Feb",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      }
+     ]
+    },
+    "progress": {
+     "manuring": [
+      {
+       "k": "Mix B (May 25)",
+       "pct": 100,
+       "note": "applied 15/07 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Kieserite (Jul 25)",
+       "pct": 100,
+       "note": "applied 08/10 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Mix B (Aug 25)",
+       "pct": 100,
+       "note": "applied 12/11 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "RP (Oct 25)",
+       "pct": 100,
+       "note": "applied 02/01 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Mix B (Nov 25)",
+       "pct": 100,
+       "note": "applied 03/02 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "FY2025/26 programme, May 2025–Mar 2026 (rounds with an application date only)",
+     "spraying": [
+      {
+       "k": "Circle spraying",
+       "pct": 68,
+       "note": "56.23 ha · Jun 2025 / Mar 2026",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Selective spraying",
+       "pct": 94,
+       "note": "52.22 ha · Aug 2025 / Oct 2025",
+       "src": "PA 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "FY2025/26, May 2025–Mar 2026"
+    }
+   }
   },
   {
    "id": "B15",
@@ -1454,7 +7902,176 @@
      "src": "PA 1/2026",
      "text": "Feb 2026 Mix B round has no application date in the PA table."
     }
-   ]
+   ],
+   "detail": {
+    "manuring": [
+     {
+      "k": "Mix B (Feb 2026)",
+      "v": "Mix B 2,000 g/palm, no application date in the PA table (to Mar 2026)",
+      "src": "PA 1/2026"
+     }
+    ],
+    "spraying": [
+     {
+      "k": "Weeding checklist May 2026",
+      "v": "Circle good, inter-row fair",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "pruning": [
+     {
+      "k": "Routine pruning paid May 2025–Mar 2026",
+      "v": "13.27 ha of 42.03 ha",
+      "src": "PA 1/2026"
+     },
+     {
+      "k": "Pruning & sanitation checklist May 2026",
+      "v": "Pruning fair, sanitation good",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "nutrients": [
+     {
+      "k": "Leaf analysis Oct 2025",
+      "v": "N 2.72 (ML as printed), P 0.162 (N), K 1.06 (H), Mg 0.27 (N), Ca 0.52 (N), B 18 (H). Key: ML marginal low, N normal, H high",
+      "src": "Agro 2/2025"
+     }
+    ],
+    "field": [
+     {
+      "k": "Block details (Mar 2026)",
+      "v": "Field 12B, 42.03 ha, 4,219 palms, 100 SPH, IOI material, planted 2012",
+      "src": "PA 1/2026"
+     }
+    ],
+    "fertNow": {
+     "year": "FY2026/27",
+     "rows": [
+      {
+       "k": "Jun",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Sep",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Oct",
+       "v": "Rock phosphate (BRP) 750 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Jan",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Apr",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Note",
+       "v": "Mix B 9.45:0:24:3.7:0.48; Kieserite; BRP = Bayovar rock phosphate. Columns May 2026 to Apr 2027. Agro 1/2026 says the FY2026/27 programme is unchanged",
+       "src": "Agro 1/2026"
+      }
+     ]
+    },
+    "fertPrev": {
+     "year": "FY2025/26",
+     "rows": [
+      {
+       "k": "May",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Jul",
+       "v": "Kieserite 1,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Aug",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Oct",
+       "v": "Rock phosphate 750 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Nov",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Feb",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      }
+     ]
+    },
+    "progress": {
+     "manuring": [
+      {
+       "k": "Mix B (May 25)",
+       "pct": 100,
+       "note": "applied 08/08 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Kieserite (Jul 25)",
+       "pct": 100,
+       "note": "applied 01/10 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Mix B (Aug 25)",
+       "pct": 100,
+       "note": "applied 11/11 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "RP (Oct 25)",
+       "pct": 100,
+       "note": "applied 30/12 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Mix B (Nov 25)",
+       "pct": 100,
+       "note": "applied 24/02 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "FY2025/26 programme, May 2025–Mar 2026 (rounds with an application date only)",
+     "spraying": [
+      {
+       "k": "Circle spraying",
+       "pct": 67,
+       "note": "84.06 ha · Jun 2025 / Mar 2026",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Selective spraying",
+       "pct": 50,
+       "note": "42.02 ha · Aug 2025",
+       "src": "PA 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "FY2025/26, May 2025–Mar 2026"
+    }
+   }
   },
   {
    "id": "B16",
@@ -1479,7 +8096,181 @@
      "src": "PA 1/2026",
      "text": "Feb 2026 Mix B round has no application date in the PA table."
     }
-   ]
+   ],
+   "detail": {
+    "manuring": [
+     {
+      "k": "Mix B (Feb 2026)",
+      "v": "Mix B 2,000 g/palm, no application date in the PA table (to Mar 2026)",
+      "src": "PA 1/2026"
+     }
+    ],
+    "spraying": [
+     {
+      "k": "Weeding checklist May 2026",
+      "v": "Circle good, inter-row fair",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "pruning": [
+     {
+      "k": "Routine pruning paid May 2025–Mar 2026",
+      "v": "No entry (dash) in the PA table",
+      "src": "PA 1/2026"
+     },
+     {
+      "k": "Pruning & sanitation checklist May 2026",
+      "v": "Pruning good, sanitation good",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "nutrients": [
+     {
+      "k": "Leaf analysis Oct 2025",
+      "v": "N 2.66 (N), P 0.167 (N), K 1.12 (H), Mg 0.27 (N), Ca 0.46 (ML), B 18.5 (H). Key: ML marginal low, N normal, H high",
+      "src": "Agro 2/2025"
+     }
+    ],
+    "field": [
+     {
+      "k": "Block details (Mar 2026)",
+      "v": "Field 12B, 23.36 ha, 2,256 palms, 97 SPH, IOI material, planted 2012",
+      "src": "PA 1/2026"
+     }
+    ],
+    "fertNow": {
+     "year": "FY2026/27",
+     "rows": [
+      {
+       "k": "Jun",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Jul",
+       "v": "Kieserite 1,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Sep",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Oct",
+       "v": "Rock phosphate (BRP) 750 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Jan",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Apr",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Note",
+       "v": "Mix B 9.45:0:24:3.7:0.48; Kieserite; BRP = Bayovar rock phosphate. Columns May 2026 to Apr 2027. Agro 1/2026 says the FY2026/27 programme is unchanged",
+       "src": "Agro 1/2026"
+      }
+     ]
+    },
+    "fertPrev": {
+     "year": "FY2025/26",
+     "rows": [
+      {
+       "k": "May",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Jul",
+       "v": "Kieserite 1,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Aug",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Oct",
+       "v": "Rock phosphate 750 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Nov",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Feb",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      }
+     ]
+    },
+    "progress": {
+     "manuring": [
+      {
+       "k": "Mix B (May 25)",
+       "pct": 100,
+       "note": "applied 09/08 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Kieserite (Jul 25)",
+       "pct": 100,
+       "note": "applied 03/10 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Mix B (Aug 25)",
+       "pct": 100,
+       "note": "applied 12/12 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "RP (Oct 25)",
+       "pct": 100,
+       "note": "applied 09/06 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Mix B (Nov 25)",
+       "pct": 100,
+       "note": "applied 31/03 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "FY2025/26 programme, May 2025–Mar 2026 (rounds with an application date only)",
+     "spraying": [
+      {
+       "k": "Circle spraying",
+       "pct": 33,
+       "note": "23.36 ha · printed Feb'25",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Selective spraying",
+       "pct": 50,
+       "note": "23.36 ha · Jul 2025",
+       "src": "PA 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "FY2025/26, May 2025–Mar 2026"
+    }
+   }
   },
   {
    "id": "B17",
@@ -1504,7 +8295,179 @@
      "src": "PA 1/2026",
      "text": "Feb 2026 Mix B round has no application date in the PA table."
     }
-   ]
+   ],
+   "detail": {
+    "manuring": [
+     {
+      "k": "Mix B (Feb 2026)",
+      "v": "Mix B 2,000 g/palm, no application date in the PA table (to Mar 2026)",
+      "src": "PA 1/2026"
+     }
+    ],
+    "spraying": [
+     {
+      "k": "Circle spray FY2025/26 (May 2025–Mar 2026)",
+      "v": "No entry in the PA table for this block",
+      "src": "PA 1/2026"
+     },
+     {
+      "k": "Weeding checklist May 2026",
+      "v": "Circle good, inter-row fair",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "pruning": [
+     {
+      "k": "Routine pruning paid May 2025–Mar 2026",
+      "v": "No entry (dash) in the PA table",
+      "src": "PA 1/2026"
+     },
+     {
+      "k": "Pruning & sanitation checklist May 2026",
+      "v": "Pruning good, sanitation good",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "nutrients": [
+     {
+      "k": "Leaf analysis Oct 2025",
+      "v": "N 2.72 (H), P 0.158 (ML), K 1.1 (H), Mg 0.27 (N), Ca 0.5 (ML), B 16 (H). Key: ML marginal low, N normal, H high",
+      "src": "Agro 2/2025"
+     }
+    ],
+    "field": [
+     {
+      "k": "Block details (Mar 2026)",
+      "v": "Field 12B, 15.47 ha, 1,654 palms, 107 SPH, IOI material, planted 2012",
+      "src": "PA 1/2026"
+     }
+    ],
+    "fertNow": {
+     "year": "FY2026/27",
+     "rows": [
+      {
+       "k": "Jun",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Jul",
+       "v": "Kieserite 1,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Sep",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Oct",
+       "v": "Rock phosphate (BRP) 750 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Jan",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Apr",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Note",
+       "v": "Mix B 9.45:0:24:3.7:0.48; Kieserite; BRP = Bayovar rock phosphate. Columns May 2026 to Apr 2027. Agro 1/2026 says the FY2026/27 programme is unchanged",
+       "src": "Agro 1/2026"
+      }
+     ]
+    },
+    "fertPrev": {
+     "year": "FY2025/26",
+     "rows": [
+      {
+       "k": "May",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Jul",
+       "v": "Kieserite 1,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Aug",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Oct",
+       "v": "Rock phosphate 750 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Nov",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Feb",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      }
+     ]
+    },
+    "progress": {
+     "manuring": [
+      {
+       "k": "Mix B (May 25)",
+       "pct": 100,
+       "note": "applied 11/08 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Kieserite (Jul 25)",
+       "pct": 100,
+       "note": "applied 02/10 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Mix B (Aug 25)",
+       "pct": 100,
+       "note": "applied 29/11 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "RP (Oct 25)",
+       "pct": 100,
+       "note": "applied 10/06 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Mix B (Nov 25)",
+       "pct": 100,
+       "note": "applied 18/03 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "FY2025/26 programme, May 2025–Mar 2026 (rounds with an application date only)",
+     "spraying": [
+      {
+       "k": "Selective spraying",
+       "pct": 100,
+       "note": "30.94 ha · Jun 2025 / Feb 2026",
+       "src": "PA 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "FY2025/26, May 2025–Mar 2026"
+    }
+   }
   },
   {
    "id": "B18",
@@ -1529,7 +8492,181 @@
      "src": "PA 1/2026",
      "text": "Feb 2026 Mix B round has no application date in the PA table."
     }
-   ]
+   ],
+   "detail": {
+    "manuring": [
+     {
+      "k": "Mix B (Feb 2026)",
+      "v": "Mix B 2,000 g/palm, no application date in the PA table (to Mar 2026)",
+      "src": "PA 1/2026"
+     }
+    ],
+    "spraying": [
+     {
+      "k": "Weeding checklist May 2026",
+      "v": "Circle good, inter-row fair",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "pruning": [
+     {
+      "k": "Routine pruning paid May 2025–Mar 2026",
+      "v": "No entry (dash) in the PA table",
+      "src": "PA 1/2026"
+     },
+     {
+      "k": "Pruning & sanitation checklist May 2026",
+      "v": "Pruning good, sanitation good",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "nutrients": [
+     {
+      "k": "Leaf analysis Oct 2025",
+      "v": "N 2.68 (N), P 0.168 (N), K 1.16 (H), Mg 0.26 (N), Ca 0.46 (ML), B 18.3 (H). Key: ML marginal low, N normal, H high",
+      "src": "Agro 2/2025"
+     }
+    ],
+    "field": [
+     {
+      "k": "Block details (Mar 2026)",
+      "v": "Field 12B, 31.26 ha, 3,489 palms, 112 SPH, IOI material, planted 2012",
+      "src": "PA 1/2026"
+     }
+    ],
+    "fertNow": {
+     "year": "FY2026/27",
+     "rows": [
+      {
+       "k": "Jun",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Jul",
+       "v": "Kieserite 1,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Sep",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Oct",
+       "v": "Rock phosphate (BRP) 750 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Jan",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Apr",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Note",
+       "v": "Mix B 9.45:0:24:3.7:0.48; Kieserite; BRP = Bayovar rock phosphate. Columns May 2026 to Apr 2027. Agro 1/2026 says the FY2026/27 programme is unchanged",
+       "src": "Agro 1/2026"
+      }
+     ]
+    },
+    "fertPrev": {
+     "year": "FY2025/26",
+     "rows": [
+      {
+       "k": "May",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Jul",
+       "v": "Kieserite 1,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Aug",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Oct",
+       "v": "Rock phosphate 750 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Nov",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Feb",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      }
+     ]
+    },
+    "progress": {
+     "manuring": [
+      {
+       "k": "Mix B (May 25)",
+       "pct": 100,
+       "note": "applied 13/08 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Kieserite (Jul 25)",
+       "pct": 100,
+       "note": "applied 18/09 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Mix B (Aug 25)",
+       "pct": 100,
+       "note": "applied 13/12 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "RP (Oct 25)",
+       "pct": 100,
+       "note": "applied 04/06 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Mix B (Nov 25)",
+       "pct": 100,
+       "note": "applied 31/03 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "FY2025/26 programme, May 2025–Mar 2026 (rounds with an application date only)",
+     "spraying": [
+      {
+       "k": "Circle spraying",
+       "pct": 31,
+       "note": "29.30 ha · Mar 2026",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Selective spraying",
+       "pct": 99,
+       "note": "61.86 ha · Jun 2025 / Feb 2026",
+       "src": "PA 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "FY2025/26, May 2025–Mar 2026"
+    }
+   }
   },
   {
    "id": "B19",
@@ -1558,7 +8695,196 @@
      "src": "Agro 1/2026",
      "text": "Poor roads, under-pruning and woody weeds in inaccessible areas; palms recovering after rehabilitation."
     }
-   ]
+   ],
+   "detail": {
+    "manuring": [
+     {
+      "k": "Mix B (Feb 2026)",
+      "v": "Mix B 2,000 g/palm, no application date in the PA table (to Mar 2026)",
+      "src": "PA 1/2026"
+     }
+    ],
+    "spraying": [
+     {
+      "k": "Weeding checklist May 2026",
+      "v": "Circle ticked good and fair, inter-row fair",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Weeds B19 (May 2026)",
+      "v": "Woody weeds in inaccessible areas, to be treated after road maintenance; circle maintenance satisfactory, completed toward end of FY",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "pruning": [
+     {
+      "k": "Routine pruning paid May 2025–Mar 2026",
+      "v": "No entry (dash) in the PA table",
+      "src": "PA 1/2026"
+     },
+     {
+      "k": "Pruning & sanitation checklist May 2026",
+      "v": "Pruning good, sanitation good",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Under-pruning B19 (May 2026)",
+      "v": "Canopy maintenance delayed by poor access; some palms neglected and under-pruned until roads were repaired",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "nutrients": [
+     {
+      "k": "Leaf analysis Oct 2025",
+      "v": "N 2.62 (N), P 0.164 (N), K 1.06 (H), Mg 0.27 (N), Ca 0.53 (N), B 18.1 (H). Key: ML marginal low, N normal, H high",
+      "src": "Agro 2/2025"
+     },
+     {
+      "k": "Palm vigour B19 (May 2026)",
+      "v": "Palms recovering after rehabilitation: greener, better canopy and vigour",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "field": [
+     {
+      "k": "Block details (Mar 2026)",
+      "v": "Field 12B, 32.12 ha, 3,469 palms, 108 SPH, IOI material, planted 2012",
+      "src": "PA 1/2026"
+     },
+     {
+      "k": "Roads B19 (May 2026)",
+      "v": "Poor road conditions photographed",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "fertNow": {
+     "year": "FY2026/27",
+     "rows": [
+      {
+       "k": "Jun",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Sep",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Oct",
+       "v": "Rock phosphate (BRP) 750 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Jan",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Apr",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Note",
+       "v": "Mix B 9.45:0:24:3.7:0.48; Kieserite; BRP = Bayovar rock phosphate. Columns May 2026 to Apr 2027. Agro 1/2026 says the FY2026/27 programme is unchanged",
+       "src": "Agro 1/2026"
+      }
+     ]
+    },
+    "fertPrev": {
+     "year": "FY2025/26",
+     "rows": [
+      {
+       "k": "May",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Jul",
+       "v": "Kieserite 1,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Aug",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Oct",
+       "v": "Rock phosphate 750 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Nov",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Feb",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      }
+     ]
+    },
+    "progress": {
+     "manuring": [
+      {
+       "k": "Mix B (May 25)",
+       "pct": 100,
+       "note": "applied 17/09 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Kieserite (Jul 25)",
+       "pct": 100,
+       "note": "applied 19/09 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Mix B (Aug 25)",
+       "pct": 100,
+       "note": "applied 11/12 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "RP (Oct 25)",
+       "pct": 100,
+       "note": "applied 12/06 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Mix B (Nov 25)",
+       "pct": 100,
+       "note": "applied 26/02 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "FY2025/26 programme, May 2025–Mar 2026 (rounds with an application date only)",
+     "spraying": [
+      {
+       "k": "Circle spraying",
+       "pct": 25,
+       "note": "24.06 ha · Oct 2025",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Selective spraying",
+       "pct": 50,
+       "note": "32.12 ha · Jun 2025",
+       "src": "PA 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "FY2025/26, May 2025–Mar 2026"
+    }
+   }
   },
   {
    "id": "B20",
@@ -1591,7 +8917,191 @@
      "src": "PA 1/2026",
      "text": "Supply palms and new knapsack power sprayer photographed."
     }
-   ]
+   ],
+   "detail": {
+    "manuring": [
+     {
+      "k": "Mix B (Feb 2026)",
+      "v": "Mix B 2,000 g/palm, no application date in the PA table (to Mar 2026)",
+      "src": "PA 1/2026"
+     }
+    ],
+    "spraying": [
+     {
+      "k": "Weeding checklist May 2026",
+      "v": "Circle ticked good and fair, inter-row fair",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Sprayer B20 (May 2026)",
+      "v": "New knapsack power sprayer (2 units bought) photographed; circles clean",
+      "src": "PA 1/2026"
+     }
+    ],
+    "pruning": [
+     {
+      "k": "Routine pruning paid May 2025–Mar 2026",
+      "v": "8.10 ha of 32.63 ha",
+      "src": "PA 1/2026"
+     },
+     {
+      "k": "Pruning & sanitation checklist May 2026",
+      "v": "Pruning good, sanitation good",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "nutrients": [
+     {
+      "k": "Leaf analysis Oct 2025",
+      "v": "N 2.61 (N), P 0.168 (N), K 1.17 (H), Mg 0.27 (N), Ca 0.51 (N), B 18.3 (H). Key: ML marginal low, N normal, H high",
+      "src": "Agro 2/2025"
+     },
+     {
+      "k": "Palm vigour B20 (May 2026)",
+      "v": "Palms recovering after rehabilitation: greener, better canopy and vigour",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "field": [
+     {
+      "k": "Block details (Mar 2026)",
+      "v": "Field 12B, 32.63 ha, 3,038 palms, 93 SPH, IOI material, planted 2012",
+      "src": "PA 1/2026"
+     },
+     {
+      "k": "Supply planting (FY2025/26, Agro May 2026)",
+      "v": "8.92 ha of previously vacant land planted with 484 supply palms; block now 41.55 ha, 3,522 palms in the FY2026/27 programme",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Supply palms B20 (May 2026)",
+      "v": "Supply palms photographed",
+      "src": "PA 1/2026"
+     }
+    ],
+    "fertNow": {
+     "year": "FY2026/27",
+     "rows": [
+      {
+       "k": "May",
+       "v": "Mix B 8,000 g (printed with *, sub-soil application)",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Jul",
+       "v": "Kieserite 1,000 g",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Note: earlier draft",
+       "v": "Agro 2/2025 Appendix 2 also gave B20 BRP 750 g in Oct 2026; Agro 1/2026 has none",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Note",
+       "v": "Area 41.55 ha, 85 SPH, 3,522 palms in the FY2026/27 programme (after supply planting)",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Note",
+       "v": "Mix B 9.45:0:24:3.7:0.48; Kieserite; BRP = Bayovar rock phosphate. Columns May 2026 to Apr 2027. Agro 1/2026 says the FY2026/27 programme is unchanged",
+       "src": "Agro 1/2026"
+      }
+     ]
+    },
+    "fertPrev": {
+     "year": "FY2025/26",
+     "rows": [
+      {
+       "k": "May",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Jul",
+       "v": "Kieserite 1,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Aug",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Oct",
+       "v": "Rock phosphate 750 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Nov",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      },
+      {
+       "k": "Feb",
+       "v": "Mix B 2,000 g",
+       "src": "Agro 2/2025"
+      }
+     ]
+    },
+    "progress": {
+     "manuring": [
+      {
+       "k": "Mix B (May 25)",
+       "pct": 100,
+       "note": "applied 13/09 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Kieserite (Jul 25)",
+       "pct": 100,
+       "note": "applied 27/09 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Mix B (Aug 25)",
+       "pct": 100,
+       "note": "applied 30/10 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "RP (Oct 25)",
+       "pct": 100,
+       "note": "applied 13/06 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Mix B (Nov 25)",
+       "pct": 100,
+       "note": "applied 19/01 (as printed)",
+       "src": "PA 1/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "FY2025/26 programme, May 2025–Mar 2026 (rounds with an application date only)",
+     "spraying": [
+      {
+       "k": "Circle spraying",
+       "pct": 67,
+       "note": "65.26 ha · Nov 2025 / Mar 2026",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Selective spraying",
+       "pct": 57,
+       "note": "37.43 ha · Jul 2025",
+       "src": "PA 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "FY2025/26, May 2025–Mar 2026"
+    }
+   }
   }
  ],
  "blockPeriod": "May 2025–Apr 2026 (FY2025/26)",
@@ -1902,5 +9412,70 @@
   },
   "notes": "No full-FY tonnage printed in either report. FY2025/26 is only to Mar 2026 (11 months) in the PA, so it sits in ytd (year 2026, months 1–11). Same period last year (May 2024–Mar 2025) 17,518.27 t on 1,256.09 ha (13.95 t/ha). TRAP: the PA last-year column headed 'Annual 12 months budget' (25,500.00 t, 20.30 t/ha) is a BUDGET, not FY2024/25 actual, so no FY2024/25 tonnage is recorded. Annual budget FY2025/26 25,971.93 t. Agro Table 12 gives full-FY yields only (FY24/25 15.46, FY25/26 17.42 t/ha as at Apr 2026, Period 12) with no tonnes; PA 8.1 forecast about 19.5 t/ha to April. Not computed from t/ha × area."
  },
- "reportName": "Millian Labau Plantations-4 (MLP 4)"
+ "reportName": "Millian Labau Plantations-4 (MLP 4)",
+ "blockEstateWide": {
+  "manuring": [
+   {
+    "k": "Manuring FY2025/26 (to Mar 2026)",
+    "v": "210 of 235 budgeted block-rounds applied. Broadcasting 15 bags/man-day (3.7 ha), RM26.50/ha, earning RM98.32/day. Labour 14 manuring workers on checkroll; PA says 7 short",
+    "src": "PA 1/2026"
+   },
+   {
+    "k": "Manuring FY2025/26 full year (Agro May 2026)",
+    "v": "Mix B 1,053.4 of 1,053.41 t (100%); Kieserite 128.95 of 128.93 t (100%); BRP 96.85 of 98.76 t (98%); completed in May 2026, some carried into FY2026/27. Delays from delivery, access, logistics and too few machines to carry fertiliser",
+    "src": "Agro 1/2026"
+   },
+   {
+    "k": "Manuring FY2026/27 to Jun 2026",
+    "v": "Mix B 7.8 of 159.74 t (5%), mainly sub-soil; Kieserite 0 of 41.89 t (0%). No delivery problem; behind because the FY2025/26 programme had to be finished first",
+    "src": "Agro 1/2026"
+   },
+   {
+    "k": "Manuring cost FY2025/26 (to Mar 2026)",
+    "v": "Labour RM182,374 (RM142/ha); material RM1,170,091 (RM914/ha, 19% under budget); transport RM37,183 (RM29/ha)",
+    "src": "PA 1/2026"
+   },
+   {
+    "k": "Fertiliser store May 2026",
+    "v": "Acceptable: bags on pallets, no spillage; packed sub-soil fertiliser stored properly",
+    "src": "Agro 1/2026"
+   }
+  ],
+  "spraying": [
+   {
+    "k": "Circle spray FY2025/26 (to Mar 2026)",
+    "v": "1,958 ha of 3,840 ha budgeted (51%, 1.5 rounds), short of sprayers. Inter Pump, 1.3 ha/man-day (not acceptable), RM28/ha, earning RM36.40/day vs basic RM65.38; PA advises 4 ha/man-day at RM18/ha. Glyphosate 2.74 L/ha and Ally 0.07 kg/ha recorded (inconsistent; stop Ally in circles). Circles generally clean",
+    "src": "PA 1/2026"
+   },
+   {
+    "k": "Selective spray FY2025/26 (to Mar 2026)",
+    "v": "2,126 ha of 2,560 ha budgeted (83%, 1.7 rounds). Mist blower 3.7 ha/man-day, RM26/ha, earning RM96.20/day; Garlon 1.28 L/ha recorded (too high). Clidemia reduced but unsprayed and poorly killed woodies need corrective spraying; dense Giant Paspalum, bamboo, VOPs, Asystasia and woodies remain. Use Garlon or Ally only (no glyphosate mix); sodium chlorate 3 kg per bamboo cluster",
+    "src": "PA 1/2026"
+   },
+   {
+    "k": "Weeding FY2025/26 full year (to Apr 2026)",
+    "v": "Selective 2,555.12 of 2,560.40 ha (100%); circle 1,985.85 of 3,840.60 ha (52%); poisoning woodies 906.64 of 1,280.20 ha (71%). Short of workers, irregular rain, poor roads",
+    "src": "Agro 1/2026"
+   },
+   {
+    "k": "Weed status May 2026",
+    "v": "Circles acceptable in most areas; inter-row still suboptimal with Clidemia hirta, Asystasia, giant grasses and broadleaf weeds (some areas last treated Dec 2025–Jan 2026); soft grasses and Nephrolepis kept only in some areas",
+    "src": "Agro 1/2026"
+   },
+   {
+    "k": "Weeding cost FY2025/26 (to Mar 2026)",
+    "v": "Selective RM134,595 (RM105/ha); circle RM125,238 (RM98/ha, 35% over budget); blanket RM28,852; poisoning RM35,742 (63% over); slashing RM9,771",
+    "src": "PA 1/2026"
+   }
+  ],
+  "pests": [
+   {
+    "k": "Pests and diseases May 2026",
+    "v": "No pest or disease issues (PA); under control, no outbreaks, keep regular rat census (Agro). P&D cost RM6,021 to Mar 2026",
+    "src": "Agro 1/2026"
+   }
+  ]
+ },
+ "blockGaps": "No block-level FY2026/27 manuring or spraying progress (Agro Table 7 is estate totals). Block manuring progress is from the PA table (FY2025/26, May 2025–Mar 2026); 30 rounds have no application date though PA says 210 of 235 rounds were done (25 missing). Some PA date cells are odd (e.g. Oct 2025 RP applied 19/06, A14 Sep round applied 20/01); shown as printed. PA circle and selective tables have year misprints (Feb'27, Sept'26) and no circle entry for B03, B05, B17. PA pruning subtotal is 179.02 ha (14%) but text says 853 ha pruned and paid. No Ganoderma or rat census. No leaf analysis in Agro 1/2026 (Oct 2025 results from Agro 2/2025 shown as earlier records). No per-block yield. No total g/palm/year printed. fertNext not given.",
+ "blockMap": "The dashboard has both levels: field rows P11A (A01–A06), P12A (A07–A20), P12B (B01–B20) and the 40 sub-blocks. Field-wide figures from the reports (yield, rounds, intervals, thinning, census, pruning records, harvester output, bunch weight, PA subtotals) are under P11A/P12A/P12B; sub-block tables (manuring dates, circle and selective spraying, pruning ha, checklists, leaf analysis) are under each A/B block. Agro checklists also list a B21 that is not in the PA or dashboard block list; ignored. The two 2012 rows in the PA harvester table are not labelled A or B, so both values are shown under P12A and P12B."
 }

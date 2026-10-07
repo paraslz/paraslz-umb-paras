@@ -103,3 +103,1000 @@ Total operating cost: 281.75 / 296.90
 FFB PRODUCTION (tonnes, whole estate, as printed in the reports)
 FY2024/25 (May–Apr): 33,942.99 t (PA Report 1/2026 Table 20, last-year actual 12 months (May 2024–Apr 2025; 22.30 t/ha))
 FY2025/26 (May–Apr): 34,259.92 t (PA Report 1/2026 Table 20 (May 2025–Apr 2026, 12 months; 22.51 t/ha))
+
+BLOCK DETAIL (everything the latest reports say per block)
+ESTATE-WIDE FIELD NOTES
+[manuring] Programme FY2025/26 (May 2025–Apr 2026) (PA): 2,156.50 t programmed; 1,905.70 t delivered and applied by Apr 2026 (88%), slightly delayed mainly by late delivery; the programme was completed by the Jun 2026 visit (PA 1/2026)
+[manuring] Mix B May 2025: 124.40 of 124.40 t applied (100%) (PA 1/2026)
+[manuring] Mix B Jun 2025: 274.43 of 274.43 t applied (100%) (PA 1/2026)
+[manuring] Mix B Jul 2025: 157.90 of 157.90 t applied (100%) (PA 1/2026)
+[manuring] Kieserite Jul 2025: 161.49 of 161.49 t applied (100%) (PA 1/2026)
+[manuring] Mix B Aug 2025: 121.83 of 121.83 t applied (100%) (PA 1/2026)
+[manuring] Mix B Sep 2025: 103.78 of 103.78 t applied (100%) (PA 1/2026)
+[manuring] Mix B Oct 2025: 121.83 of 121.83 t applied (100%) (PA 1/2026)
+[manuring] RP Jan 2026: 72.38 of 144.75 t applied (50%) (PA 1/2026)
+[manuring] Mix B Feb 2026: 537.43 of 537.43 t applied (100%) (PA 1/2026)
+[manuring] RP Mar 2026: 72.38 of 154.14 t applied (50%) (PA 1/2026)
+[manuring] Mix B Apr 2026: 157.85 of 254.52 t applied (62% in the table; PA concluding remarks say 52%) (PA 1/2026)
+[manuring] Programme FY2025/26 (May 2025–Apr 2026) (Agro, May 2026): Mix B 1,546.77 of 1,696.18 t applied (91%); kieserite 13.55 of 13.55 t (100%); RP 142.43 of 313.44 t (table prints 91%; 156.72 t delivered); total 1,702.75 of 2,023.17 t (91%). Mix B and RP still to catch up at the May 2026 visit (Agro 1/2026)
+[manuring] Methods and labour: EMDEK spreader on 1,390.55 ha (91.4%) where above 100 palms/ha; semi-mechanised elsewhere; sub-soil in flood-hit areas (131.52 ha, mainly P07). 10 workers shared with Bukit Senorang: semi-mechanised 30 bags/day at RM2.50 = RM75; sub-soil 10 bags/day at RM9.00 = RM90 (target 20 bags); spreader 180 bags per 3 man-days, driver RM0.50/bag = RM90/day, helpers RM0.40/bag = RM72/day (PA 1/2026 · Agro 1/2026)
+[manuring] Manuring cost FY2025/26 (May 2025–Apr 2026): RM1,523.15/ha, 5% below the RM1,598.27/ha budget, mainly because the programme ran behind (PA 1/2026)
+[manuring] Compost FY2025/26 (May 2025–Apr 2026): 23,827.04 t on 1,399.51 ha (17.03 t/ha) vs 14,757.58 t programme (10.54 t/ha): 161%; 140 kg between 2 palms on the frond row, 2 rounds a year. Cost RM649.90/ha vs RM434.59/ha. Agro Table 5 (to Nov 2025): 20,089.86 t on 1,399.57 ha, 14 t/ha (PA 1/2026 · Agro 1/2026)
+[manuring] EFB from May 2026: Compost to be replaced by EFB from May 2026 at a planned 20 t/ha (acceptable). Compost no longer uses microbial inoculants; compare C/N ratio and decomposition of compost and EFB before paying for composting (Agro 1/2026)
+[manuring] Frond stacking and trenches: Fronds not stacked as recommended; slant-cut trenches with fronds inside do not create the intended organic-matter fertiliser zone. Stop slant-cut trenching; for future mounding dig straight trenches in the interrow parallel to the harvesting path (Agro 1/2026)
+[manuring] FY2026/27 programme: FY2026/27 programme in Agro Appendix 1a–i; no manuring for blocks due for replanting in 2027. Mix A: 45% SOA, 40% MOP, 15% kieserite, no borate; Mix B: 45% SOA, 40% MOP, 14% kieserite, 1% borate. The appendix still carries old notes 'EFB compost scheduled May'24–Nov'24' (Agro 1/2026)
+[spraying] Circle and path spraying FY2025/26 (May 2025–Apr 2026): 2,853.50 of 4,566.21 ha (1.87 of 3.0 rounds, 62%), delayed; circles generally weed-free and acceptable, helped by mounding. Battery knapsack, low-volume nozzle, pure glyphosate; 5.0 ha/day at RM15/ha = RM75/day. Cost RM85.36/ha vs RM108.04/ha (PA 1/2026)
+[spraying] Selective spraying FY2025/26 (May 2025–Apr 2026): 3,898.00 of 4,566.21 ha (2.56 rounds, 85%); delay in field 2006. Mist blower with Garlon 250 for woody weeds (Clidemia, lantana, wild brinjal, bitter gourd), rotated with pure Ally for Hedyotis and Ageratum. Cost RM90.25/ha (budget RM117.25) (PA 1/2026)
+[spraying] Weeding cost FY2025/26 (May 2025–Apr 2026): RM171.55/ha (Table 6 RM175.61) vs RM225.29/ha, 24% below because some rounds were delayed or skipped. Weeding contracted out to 13 workers who also spray Bukit Senorang (PA 1/2026)
+[spraying] Ground vegetation (May 2026 visit): Improved: soft grasses and Nephrolepis about 50% each. Undesirable species: wild bitter gourd, Clidemia hirta, Asystasia, Tetracera indica, Stenochlaena palustris, Dicranopteris linearis. Most vacant points overgrown. Fewer incomplete kills than in Dec 2025 (Agro 1/2026)
+[pests] Ganoderma census Apr 2026: 15,664 infected palms (7.75% of 202,163 standing) plus 22,642 dead; 17.04% if dead palms counted as Ganoderma; considered high. Mounding recommended for the remaining palms (PA 1/2026)
+[pests] Rat damage census Jan–Mar 2026: Q1 census covered only 850.35 of 1,522.07 ha (55.86%); at this pace the full census takes up to 6 months. Baiting began Apr 2026; finish the census first, group all blocks over 10%, bait in one direction (Agro 1/2026)
+[pests] Rat control FY2025/26 (May 2025–Apr 2026) (PA): No serious rat attack and no treatment; no serious fresh damage seen in Jun 2026. Census every 3 months, bait above 10%. Cost RM1.23/ha vs RM74.69/ha (PA 1/2026)
+[pests] Barn owls May–Jun 2025: 137 boxes, 41% occupied (low); no cleaning in FY2025/26, planned May 2026 (Agro 1/2026)
+[pests] Bagworm FY2025/26 (May 2025–Apr 2026): No new outbreak; old damage only. Cost RM24.97/ha vs RM27.81/ha (treatment in the early months). Stay vigilant; neighbouring estates had severe attacks (PA 1/2026 · Agro 1/2026)
+[harvesting] Harvesting FY2025/26 (May 2025–Apr 2026): Contracted out (Purple Lavender, 55 harvesters on 1,391.30 ha); 62 harvesters, 1 per 25 ha (optimum 1:22, 69 harvesters); 13 pruners can help at peak. Interval 13–16 days; rounds 23.70–24.00 vs budget 24. Keep the interval under 15 days (PA 1/2026)
+[harvesting] Harvesting cost FY2025/26 (May 2025–Apr 2026): RM84.45/t FFB vs RM87.41/t budget; contract system the main contributor (PA 1/2026)
+[harvesting] Crop recovery (May 2026 visit): Overripe bunches down since Dec 2025 but still 8–15%; loose fruit, overnight and leftover bunches improved; loose fruit quality better. Train harvesters to strip loose fruit from overripe bunches (Agro 1/2026)
+[yield] Estate FFB FY2025/26 (May 2025–Apr 2026): 34,259.92 t, 22.51 t/ha vs budget 30,453 t / 20.01 t/ha (+13%); FY2024/25 33,942.99 t, 22.30 t/ha. OER 19.42%, KER 3.35% (PA 1/2026)
+[yield] Estate FFB Jan–Apr 2026: 4.58 t/ha vs 5.88 t/ha in Jan–Apr 2025 (-22%) (Agro 1/2026)
+[field] Palm census Jul 2024: 207,351 palms, 136 SPH (previous 142); new census requested. 72% of palms aged 20–25 (Agro 1/2026)
+[field] De-silting FY2025/26 (May 2025–Apr 2026): None in FY2024/25 or FY2025/26; annual de-silting advised for low-lying flood-prone and silty areas, especially along the Serting River (PA 1/2026 · Agro 1/2026)
+[field] Mounding FY2025/26 (May 2025–Apr 2026): 64,543 palms on 598.89 ha at RM7.20 = RM464,709 (RM450/ha, unbudgeted). Agro: 106,857 palms mounded (52.8%), mostly with improper slant-cut trenches despite briefings (PA 1/2026 · Agro 1/2026)
+[field] Silty subsoil: Substantial areas have silty subsoil: poor drainage, aeration and vigour (pale green to yellowish palms); compost or EFB would help but slant trenches leave less interrow space (Agro 1/2026)
+[field] Roads FY2025/26 (May 2025–Apr 2026): No lateriting; backhoe maintenance RM82,850 (RM54.43/ha); grading RM1,352; culverts RM2,701. Prioritise motor-grader grading (PA 1/2026)
+
+BLOCK P2005 (483.03 ha, planted 2005, Mature)
+Manuring progress (May 2025–Apr 2026 (FY2025/26; no FY2026/27 progress printed yet)):
+  - Compost: 264% — 12,746.86 of 4,826.50 t · 26.39 t/ha (PA 1/2026)
+Spraying progress (May 2025–Apr 2026 (FY2025/26; no FY2026/27 progress printed yet)):
+  - Circle & path spraying: 100% — 3.00 of 3 rounds · 1,439.76 of 1,439.76 ha (PA 1/2026)
+  - Selective spraying: 100% — 3.00 of 3 rounds · 1,439.76 of 1,439.76 ha (PA 1/2026)
+Spraying & weeding:
+  - Weeding rounds FY2025/26 (May 2025–Apr 2026) (Agro): Interrow rounds 1–3 all 100%; circle rounds 1 and 2 100%, round 3 blank (as printed; differs from the PA circle figures) (Agro 1/2026)
+Pests & diseases:
+  - Ganoderma census Apr 2026: 4,995 infected palms (8.20% of 60,913 standing) and 10,115 dead palms (18%); 21.27% of 71,028 palms planted if dead palms are counted as Ganoderma; 55,918 healthy; 127 SPH (PA 1/2026)
+  - Barn owl occupancy May–Jun 2025: 64 boxes, 37% occupied (census May–Jun 2025); no box cleaning in FY2025/26, planned May 2026 (Agro 1/2026)
+Yield:
+  - FFB yield FY2020/21–FY2025/26 (2021–2026): t/ha by FY: 24.26, 16.70, 23.55, 14.50, 20.78, 19.34 (Agro 1/2026)
+  - FFB yield FY2025/26 (May 2025–Apr 2026): 19.34 t/ha vs 20.78 t/ha in FY2024/25; lowest field (Agro 1/2026)
+  - FFB yield Jan–Apr 2026: 3.59 t/ha vs 5.53 t/ha in Jan–Apr 2025 (-35%); estate 4.58 vs 5.88 t/ha (-22%) (Agro 1/2026)
+  - FFB yield May–Nov 2025: 14.02 t/ha vs 14.07 t/ha in May–Nov 2024 (0%) (Agro 2/2025 visit)
+Harvesting:
+  - Harvester output Oct 2025: 3.09 t per man-day at RM31.00/t, earning RM89.94 a day (PA 1/2026)
+  - Harvesting rounds FY2025/26 (May 2025–Apr 2026): 3.00 rounds in Apr 2026; 24.00 rounds for the year (budget 24); interval 13-15 days (PA 1/2026)
+  - Harvesting interval by month FY2025/26 (May 2025–Apr 2026): Days, May to Apr: 10-14 · 10 · 11-13 · 20-26 · 15-20 · 10-13 · 19.22 (as printed) · 10-13 · 10-12 · 12-15 · 12-14 · 8-12. Long intervals Aug–Sep 2025 from peak crop; Nov–Dec 2025 from rain and floods in P07 (Agro 1/2026)
+Pruning:
+  - Progressive pruning FY2025/26 (May 2025–Apr 2026): Rounds 1–4 each 100% of 479.92 ha (programme 1,919.7 ha); Agro: 1st and 2nd half both 100%, four rounds achieved (PA 1/2026 · Agro 1/2026)
+Field:
+  - Palm base mounding FY2025/26 (May 2025–Apr 2026): 52,035 palms on 479.92 ha (100% of field 2005) at RM7.20 per palm, RM374,652 (PA). Agro Table 13: 52,014 of 60,913 palms (85%) (PA 1/2026 · Agro 1/2026)
+  - Palm census Jul 2024: 60,913 palms; stand 131 previously, 126 now (last census Jul 2024; new census requested) (Agro 1/2026)
+  - Area Apr 2026: 483.03 ha, 126 SPH (PA area statement); all mature, no replanting in the next two financial years (PA 1/2026)
+
+BLOCK P2006 (614.23 ha, planted 2006, Mature)
+Manuring progress (May 2025–Apr 2026 (FY2025/26; no FY2026/27 progress printed yet)):
+  - Compost: 134% — 8,245.76 of 6,143.60 t · 13.42 t/ha (PA 1/2026)
+Spraying progress (May 2025–Apr 2026 (FY2025/26; no FY2026/27 progress printed yet)):
+  - Circle & path spraying: 33% — 1.50 of 3 rounds · 921.35 of 1,842.69 ha (PA 1/2026)
+  - Selective spraying: 64% — 1.93 of 3 rounds · 1,183.81 of 1,842.69 ha (PA 1/2026)
+Spraying & weeding:
+  - Weeding rounds FY2025/26 (May 2025–Apr 2026) (Agro): Interrow rounds 1–3 all 100%; circle rounds 1 and 2 100%, round 3 blank (as printed; differs from the PA circle figures) (Agro 1/2026)
+  - Selective spraying delayed: Field 2006 at only 1.93 rounds (64%); estate delayed it deliberately based on interrow condition, but broadleaf weeds are regenerating, especially in field 2006, and need interrow spraying (PA 1/2026)
+  - Circle spraying 2006: Only 1.50 rounds (33%); PA notes some circle spraying was intentionally omitted where circles were clean (PA 1/2026)
+Pests & diseases:
+  - Ganoderma census Apr 2026: 5,915 infected palms (7.01% of 84,365 standing) and 6,541 dead palms (8%); 13.70% of 90,906 palms planted if dead palms are counted as Ganoderma; 78,450 healthy; 137 SPH (PA 1/2026)
+  - Barn owl occupancy May–Jun 2025: 50 boxes, 46% occupied (census May–Jun 2025); no box cleaning in FY2025/26, planned May 2026 (Agro 1/2026)
+Yield:
+  - FFB yield FY2020/21–FY2025/26 (2021–2026): t/ha by FY: 25.90, 19.71, 25.62, 18.19, 23.40, 25.69 (Agro 1/2026)
+  - FFB yield FY2025/26 (May 2025–Apr 2026): 25.69 t/ha vs 23.40 t/ha in FY2024/25; best field (Agro 1/2026)
+  - FFB yield Jan–Apr 2026: 5.11 t/ha vs 6.17 t/ha in Jan–Apr 2025 (-17%); estate 4.58 vs 5.88 t/ha (-22%) (Agro 1/2026)
+  - FFB yield May–Nov 2025: 18.54 t/ha vs 15.99 t/ha in May–Nov 2024 (16%) (Agro 2/2025 visit)
+Harvesting:
+  - Harvester output Oct 2025: 3.38 t per man-day at RM32.00/t, earning RM95.21 a day (PA 1/2026)
+  - Harvesting rounds FY2025/26 (May 2025–Apr 2026): 2.70 rounds in Apr 2026; 23.70 rounds for the year (budget 24); interval 14-16 days (PA 1/2026)
+  - Harvesting interval by month FY2025/26 (May 2025–Apr 2026): Days, May to Apr: 10-13 · 10-11 · 10-12 · 18-23 · 18-23 · 10-13 · 17-21 · 17-21 · 9-11 · 12-15 · 9-12 · 9-11. Long intervals Aug–Sep 2025 from peak crop; Nov–Dec 2025 from rain and floods in P07 (Agro 1/2026)
+Pruning:
+  - Progressive pruning FY2025/26 (May 2025–Apr 2026): Rounds 1–4 each 100% of 614.23 ha (programme 2,456.9 ha); Agro: 1st and 2nd half both 100%, four rounds achieved (PA 1/2026 · Agro 1/2026)
+Field:
+  - Palm base mounding FY2025/26 (May 2025–Apr 2026): 12,508 palms on 118.97 ha at RM7.20 per palm, RM90,057; PA text says 90% of field 2006. Agro Table 13 prints 54,843 of 84,365 palms (65%) — the two reports differ (PA 1/2026 · Agro 1/2026)
+  - Palm census Jul 2024: 84,466 palms; stand 144 previously, 137 now (last census Jul 2024; new census requested) (Agro 1/2026)
+  - Area Apr 2026: 614.23 ha, 137 SPH (PA area statement); all mature, no replanting in the next two financial years (PA 1/2026)
+Other:
+  - Compost placement (Jun 2026 visit): Compost placed between two palms in the frond-stacking row in 2006H (photo) (PA 1/2026)
+
+BLOCK P2007 (424.81 ha, planted 2007, Mature)
+Manuring progress (May 2025–Apr 2026 (FY2025/26; no FY2026/27 progress printed yet)):
+  - Compost: 75% — 2,834.42 of 3,787.48 t · 9.38 t/ha (PA 1/2026)
+Spraying progress (May 2025–Apr 2026 (FY2025/26; no FY2026/27 progress printed yet)):
+  - Circle & path spraying: 39% — 1.16 of 3 rounds · 492.39 of 1,274.43 ha (PA 1/2026)
+  - Selective spraying: 100% — 3.00 of 3 rounds · 1,274.43 of 1,274.43 ha (PA 1/2026)
+Manuring progress:
+  - Manuring delayed by floods FY2025/26 (May 2025–Apr 2026): Fertiliser application in flood-prone low-lying P07A, B, C, D, E, F, G and K delayed by flooding Nov 2025–Feb 2026; estate expected to finish by end Jun 2026 (Agro 1/2026)
+  - Sub-soil application: Sub-soil fertiliser application practised in flood-prone areas, mainly P07 plantings (131.52 ha); EMDEK spreader elsewhere (Agro 1/2026)
+Spraying & weeding:
+  - Weeding rounds FY2025/26 (May 2025–Apr 2026) (Agro): Interrow rounds 1–3 all 100%; circle rounds 1 and 2 100%, round 3 blank (as printed; differs from the PA circle figures) (Agro 1/2026)
+  - Circle spraying due (Jun 2026 visit): Areas due for circle spraying seen in field 2007, delayed (PA 1/2026)
+Pests & diseases:
+  - Ganoderma census Apr 2026: 4,754 infected palms (8.36% of 56,885 standing) and 5,986 dead palms (11%); 17.08% of 62,871 palms planted if dead palms are counted as Ganoderma; 52,131 healthy; 134 SPH (PA 1/2026)
+  - Barn owl occupancy May–Jun 2025: 23 boxes, 41% occupied (census May–Jun 2025); no box cleaning in FY2025/26, planned May 2026 (Agro 1/2026)
+Yield:
+  - FFB yield FY2020/21–FY2025/26 (2021–2026): t/ha by FY: 24.34, 20.10, 23.96, 15.82, 22.45, 22.06 (Agro 1/2026)
+  - FFB yield FY2025/26 (May 2025–Apr 2026): 22.06 t/ha vs 22.45 t/ha in FY2024/25 (Agro 1/2026)
+  - FFB yield Jan–Apr 2026: 4.96 t/ha vs 5.56 t/ha in Jan–Apr 2025 (-11%); estate 4.58 vs 5.88 t/ha (-22%) (Agro 1/2026)
+  - FFB yield May–Nov 2025: 15.05 t/ha vs 15.57 t/ha in May–Nov 2024 (-3%) (Agro 2/2025 visit)
+Harvesting:
+  - Harvester output Oct 2025: 3.06 t per man-day at RM32.00/t, earning RM91.36 a day (PA 1/2026)
+  - Harvesting rounds FY2025/26 (May 2025–Apr 2026): 2.90 rounds in Apr 2026; 24.00 rounds for the year (budget 24); interval 13-15 days (PA 1/2026)
+  - Harvesting interval by month FY2025/26 (May 2025–Apr 2026): Days, May to Apr: 10-11 · 13-15 · 15-16 · 13-15 · 19-22 · 10-12 · 16-20 · 20-26 · 11-13 · 12-14 · 11-13 · 8-10. Long intervals Aug–Sep 2025 from peak crop; Nov–Dec 2025 from rain and floods in P07 (Agro 1/2026)
+Pruning:
+  - Progressive pruning FY2025/26 (May 2025–Apr 2026): Rounds 1–4 each 100% of 424.81 ha (programme 1,699.2 ha); Agro: 1st and 2nd half both 100%, four rounds achieved (PA 1/2026 · Agro 1/2026)
+Field:
+  - Palm base mounding FY2025/26 (May 2025–Apr 2026): Not yet mounded; recommended for the next financial year (FY2026/27) (PA 1/2026 · Agro 1/2026)
+  - Palm census Jul 2024: 61,972 palms; stand 142 previously, 146 now (last census Jul 2024; new census requested) (Agro 1/2026)
+  - Area Apr 2026: 424.81 ha, 146 SPH (PA area statement); all mature, no replanting in the next two financial years (PA 1/2026)
+
+BLOCK P05A (35.54 ha, planted 2005, Mature)
+Manuring progress:
+  - Compost FY2025/26 (May 2025–Apr 2026): 755.08 t on 35.54 ha, 21 t/ha, 100% of area (as of Nov 2025) (Agro 1/2026)
+Fertiliser programme (this year) FY2026/27:
+  - May: Mix A 2,000 g/palm (Agro 1/2026)
+  - Aug: Mix A 2,000 g/palm (Agro 1/2026)
+  - Oct: Mix A 2,000 g/palm (Agro 1/2026)
+  - Feb: Mix A 2,000 g/palm (Agro 1/2026)
+  - Total: 8,000 g/palm per year (Mix A 8,000 g) (Agro 1/2026)
+  - Note: 4,247 palms, 119 SPH, 35.54 ha; 33.98 t of fertiliser for the year. Compost 10 t/ha in May 2026 (Agro 1/2026)
+Pests & diseases:
+  - Rat damage census Jan 2026: 40% damage (32.54 ha as printed); above the 10% threshold. Baiting started Apr 2026 (Agro 1/2026)
+Yield:
+  - FFB yield May–Nov 2025: 12.31 t/ha vs 15.53 t/ha in May–Nov 2024 (-21%); no sub-block yields in the May 2026 report (Agro 2/2025 visit)
+Nutrients:
+  - Leaf analysis Jun 2025: N 2.69%, P 0.165%, K 0.96%, Mg 0.33%, Ca 0.56%, B 17.63 ppm (samples received 21 Jun 2025, results 12 Jul 2025) (Agro 1/2026)
+
+BLOCK P05B (37.99 ha, planted 2005, Mature)
+Manuring progress:
+  - Compost FY2025/26 (May 2025–Apr 2026): 729.34 t on 37.99 ha, 19 t/ha, 100% of area (as of Nov 2025) (Agro 1/2026)
+Spraying & weeding:
+  - Ground cover (May 2026 visit): Interrow predominantly soft grasses but sparse, mixed with undesirable weeds (photo) (Agro 1/2026)
+Fertiliser programme (this year) FY2026/27:
+  - May: Mix A 2,200 g/palm (Agro 1/2026)
+  - Aug: Mix A 2,000 g/palm (Agro 1/2026)
+  - Oct: Mix A 2,200 g/palm (Agro 1/2026)
+  - Feb: Mix A 2,000 g/palm (Agro 1/2026)
+  - Total: 8,400 g/palm per year (Mix A 8,400 g) (Agro 1/2026)
+  - Note: 4,397 palms, 116 SPH, 37.99 ha; 36.93 t of fertiliser for the year. Compost 10 t/ha in May 2026 (Agro 1/2026)
+Pests & diseases:
+  - Rat damage census Jan 2026: 55% damage; above the 10% threshold. Baiting started Apr 2026 (Agro 1/2026)
+Yield:
+  - FFB yield May–Nov 2025: 12.63 t/ha vs 13.96 t/ha in May–Nov 2024 (-10%); no sub-block yields in the May 2026 report (Agro 2/2025 visit)
+Harvesting:
+  - Ripeness check (May 2026 visit): 15% overripe among freshly harvested bunches (photos); 8–15% across checked blocks is still high, keep a 15-day interval (Agro 1/2026)
+Nutrients:
+  - Leaf analysis Jun 2025: N 2.54%, P 0.164%, K 1.04%, Mg 0.33%, Ca 0.58%, B 17.56 ppm (samples received 21 Jun 2025, results 12 Jul 2025) (Agro 1/2026)
+Field:
+  - Fronds in trenches (May 2026 visit): Fronds placed in the slant-cut trenches (photos); this does not create an organic-matter fertiliser zone and may let fertiliser wash into the trenches (Agro 1/2026)
+  - Slant-cut trenches (May 2026 visit): Improper slant-cut mounding trenches toward the harvesting path (photos); severe root damage and possibly over 30% fertiliser loss under EMDEK; stop slant-cut trenching (Agro 1/2026)
+
+BLOCK P05C (41.44 ha, planted 2005, Mature)
+Manuring progress:
+  - Compost FY2025/26 (May 2025–Apr 2026): 828.14 t on 41.44 ha, 20 t/ha, 100% of area (as of Nov 2025) (Agro 1/2026)
+Fertiliser programme (this year) FY2026/27:
+  - May: Mix A 2,200 g/palm (Agro 1/2026)
+  - Aug: Mix A 2,000 g/palm (Agro 1/2026)
+  - Oct: Mix A 2,200 g/palm (Agro 1/2026)
+  - Feb: Mix A 2,000 g/palm (Agro 1/2026)
+  - Total: 8,400 g/palm per year (Mix A 8,400 g) (Agro 1/2026)
+  - Note: 5,191 palms, 125 SPH, 41.44 ha; 43.60 t of fertiliser for the year. Compost 10 t/ha in May 2026 (Agro 1/2026)
+Pests & diseases:
+  - Rat damage census Jan 2026: 27% damage; above the 10% threshold. Baiting started Apr 2026 (Agro 1/2026)
+Yield:
+  - FFB yield May–Nov 2025: 11.55 t/ha vs 13.03 t/ha in May–Nov 2024 (-11%); no sub-block yields in the May 2026 report (Agro 2/2025 visit)
+Harvesting:
+  - Loose fruit (May 2026 visit): Acceptable loose fruit collection with less trash (photo) (Agro 1/2026)
+Nutrients:
+  - Leaf analysis Jun 2025: N 2.52%, P 0.166%, K 0.96%, Mg 0.30%, Ca 0.60%, B 18.63 ppm (samples received 21 Jun 2025, results 12 Jul 2025) (Agro 1/2026)
+Field:
+  - Silty subsoil (May 2026 visit): Subsoil with high silt content (photos): poor drainage and aeration, waterlogging; improve with organic matter through proper frond stacking (Agro 1/2026)
+
+BLOCK P05D (42.55 ha, planted 2005, Mature)
+Manuring progress:
+  - Compost FY2025/26 (May 2025–Apr 2026): 917.92 t on 42.55 ha, 22 t/ha, 100% of area (as of Nov 2025) (Agro 1/2026)
+Spraying & weeding:
+  - Vacant points (May 2026 visit): Vacant points overgrown with weeds (photos); potential hotspots for undesirable weed spread (Agro 1/2026)
+  - Ground cover (May 2026 visit): Interrow predominantly soft grasses but sparse, mixed with undesirable weeds (photo) (Agro 1/2026)
+Fertiliser programme (this year) FY2026/27:
+  - May: Mix A 2,000 g/palm (Agro 1/2026)
+  - Aug: Mix A 2,000 g/palm (Agro 1/2026)
+  - Oct: Mix A 2,000 g/palm (Agro 1/2026)
+  - Feb: Mix A 2,000 g/palm (Agro 1/2026)
+  - Total: 8,000 g/palm per year (Mix A 8,000 g) (Agro 1/2026)
+  - Note: 5,178 palms, 122 SPH, 42.55 ha; 41.42 t of fertiliser for the year. Compost 10 t/ha in May 2026 (Agro 1/2026)
+Pests & diseases:
+  - Rat damage census Jan–Mar 2026: Not yet censused by Mar 2026 (Q1 census covered 850.35 of 1,522.07 ha, 55.86%) (Agro 1/2026)
+Yield:
+  - FFB yield May–Nov 2025: 12.39 t/ha vs 11.95 t/ha in May–Nov 2024 (4%); no sub-block yields in the May 2026 report (Agro 2/2025 visit)
+Harvesting:
+  - Leftover bunches (May 2026 visit): Leftover uncollected old bunches seen (photo), believed to be excess overripe bunches left by harvesters (Agro 1/2026)
+Nutrients:
+  - Leaf analysis Jun 2025: N 2.67%, P 0.160%, K 1.00%, Mg 0.34%, Ca 0.55%, B 14.71 ppm (samples received 21 Jun 2025, results 12 Jul 2025) (Agro 1/2026)
+
+BLOCK P05E (31.61 ha, planted 2005, Mature)
+Manuring progress:
+  - Compost FY2025/26 (May 2025–Apr 2026): 606.82 t on 31.61 ha, 19 t/ha, 100% of area (as of Nov 2025) (Agro 1/2026)
+Spraying & weeding:
+  - Ground cover (May 2026 visit): Interrow predominantly soft grasses but sparse, mixed with undesirable weeds (photo) (Agro 1/2026)
+  - Palm circle (Jun 2026 visit): Palm circle free of weeds thanks to palm base soil mounding (photo) (PA 1/2026)
+Fertiliser programme (this year) FY2026/27:
+  - May: Mix A 2,000 g/palm (Agro 1/2026)
+  - Aug: Mix A 2,000 g/palm (Agro 1/2026)
+  - Oct: Mix A 2,000 g/palm (Agro 1/2026)
+  - Jan: RP 1,000 g/palm (Agro 1/2026)
+  - Feb: Mix A 2,000 g/palm (Agro 1/2026)
+  - Total: 9,000 g/palm per year (Mix A 8,000 g + RP 1,000 g) (Agro 1/2026)
+  - Note: 4,039 palms, 128 SPH, 31.61 ha; 36.35 t of fertiliser for the year. Compost 10 t/ha in May 2026 (Agro 1/2026)
+Pests & diseases:
+  - Rat damage census Jan–Mar 2026: Not yet censused by Mar 2026 (Q1 census covered 850.35 of 1,522.07 ha, 55.86%) (Agro 1/2026)
+Yield:
+  - FFB yield May–Nov 2025: 16.83 t/ha vs 16.54 t/ha in May–Nov 2024 (2%); no sub-block yields in the May 2026 report (Agro 2/2025 visit)
+Nutrients:
+  - Leaf analysis Jun 2025: N 2.51%, P 0.159%, K 0.98%, Mg 0.35%, Ca 0.56%, B 21.41 ppm (samples received 21 Jun 2025, results 12 Jul 2025) (Agro 1/2026)
+Field:
+  - Mounding quality (Jun 2026 visit): Satisfactory size and quality of palm base soil mounding (photo) (PA 1/2026)
+
+BLOCK P05F (36.42 ha, planted 2005, Mature)
+Manuring progress:
+  - Compost FY2025/26 (May 2025–Apr 2026): 912.16 t on 36.42 ha, 25 t/ha, 100% of area (as of Nov 2025) (Agro 1/2026)
+Fertiliser programme (this year) FY2026/27:
+  - May: Mix A 2,000 g/palm (Agro 1/2026)
+  - Aug: Mix A 2,000 g/palm (Agro 1/2026)
+  - Oct: Mix A 2,000 g/palm (Agro 1/2026)
+  - Jan: RP 1,000 g/palm (Agro 1/2026)
+  - Feb: Mix A 2,000 g/palm (Agro 1/2026)
+  - Total: 9,000 g/palm per year (Mix A 8,000 g + RP 1,000 g) (Agro 1/2026)
+  - Note: 4,624 palms, 127 SPH, 36.42 ha; 41.62 t of fertiliser for the year. Compost 10 t/ha in Jun 2026 (Agro 1/2026)
+Pests & diseases:
+  - Rat damage census Jan 2026: 35% damage; above the 10% threshold. Baiting started Apr 2026 (Agro 1/2026)
+Yield:
+  - FFB yield May–Nov 2025: 13.27 t/ha vs 14.07 t/ha in May–Nov 2024 (-6%); no sub-block yields in the May 2026 report (Agro 2/2025 visit)
+Nutrients:
+  - Leaf analysis Jun 2025: N 2.52%, P 0.152%, K 0.98%, Mg 0.34%, Ca 0.52%, B 15.02 ppm (samples received 21 Jun 2025, results 12 Jul 2025) (Agro 1/2026)
+
+BLOCK P05G (42.07 ha, planted 2005, Mature)
+Manuring progress:
+  - Compost FY2025/26 (May 2025–Apr 2026): 974.52 t on 42.07 ha, 23 t/ha, 100% of area (as of Nov 2025) (Agro 1/2026)
+Fertiliser programme (this year) FY2026/27:
+  - May: Mix A 2,000 g/palm (Agro 1/2026)
+  - Aug: Mix A 2,000 g/palm (Agro 1/2026)
+  - Oct: Mix A 2,000 g/palm (Agro 1/2026)
+  - Jan: RP 1,000 g/palm (Agro 1/2026)
+  - Feb: Mix A 2,000 g/palm (Agro 1/2026)
+  - Total: 9,000 g/palm per year (Mix A 8,000 g + RP 1,000 g) (Agro 1/2026)
+  - Note: 5,680 palms, 135 SPH, 42.07 ha; 51.12 t of fertiliser for the year. Compost 10 t/ha in Jun 2026 (Agro 1/2026)
+Pests & diseases:
+  - Rat damage census Jan 2026: 34% damage; above the 10% threshold. Baiting started Apr 2026 (Agro 1/2026)
+Yield:
+  - FFB yield May–Nov 2025: 15.96 t/ha vs 14.58 t/ha in May–Nov 2024 (9%); no sub-block yields in the May 2026 report (Agro 2/2025 visit)
+Nutrients:
+  - Leaf analysis Jun 2025: N 2.53%, P 0.150%, K 0.96%, Mg 0.31%, Ca 0.52%, B 17.71 ppm (samples received 21 Jun 2025, results 12 Jul 2025) (Agro 1/2026)
+
+BLOCK P05H (37.37 ha, planted 2005, Mature)
+Manuring progress:
+  - Compost FY2025/26 (May 2025–Apr 2026): 923.74 t on 37.37 ha, 25 t/ha, 100% of area (as of Nov 2025) (Agro 1/2026)
+Fertiliser programme (this year) FY2026/27:
+  - May: Mix A 2,000 g/palm (Agro 1/2026)
+  - Aug: Mix A 2,000 g/palm (Agro 1/2026)
+  - Oct: Mix A 2,000 g/palm (Agro 1/2026)
+  - Jan: RP 1,000 g/palm (Agro 1/2026)
+  - Feb: Mix A 2,000 g/palm (Agro 1/2026)
+  - Total: 9,000 g/palm per year (Mix A 8,000 g + RP 1,000 g) (Agro 1/2026)
+  - Note: 5,223 palms, 140 SPH, 37.37 ha; 47.01 t of fertiliser for the year. Compost 10 t/ha in Jun 2026 (Agro 1/2026)
+Pests & diseases:
+  - Rat damage census Jan–Mar 2026: Not yet censused by Mar 2026 (Q1 census covered 850.35 of 1,522.07 ha, 55.86%) (Agro 1/2026)
+Yield:
+  - FFB yield May–Nov 2025: 17.15 t/ha vs 13.99 t/ha in May–Nov 2024 (23%); no sub-block yields in the May 2026 report (Agro 2/2025 visit)
+Nutrients:
+  - Leaf analysis Jun 2025: N 2.46%, P 0.151%, K 0.96%, Mg 0.34%, Ca 0.55%, B 18.25 ppm (samples received 21 Jun 2025, results 12 Jul 2025) (Agro 1/2026)
+
+BLOCK P05I (25.71 ha, planted 2005, Mature)
+Manuring progress:
+  - Compost FY2025/26 (May 2025–Apr 2026): 587.42 t on 25.71 ha, 23 t/ha, 100% of area (as of Nov 2025) (Agro 1/2026)
+Spraying & weeding:
+  - Palm circle (Jun 2026 visit): Weed-free palm circle (photo) (PA 1/2026)
+Fertiliser programme (this year) FY2026/27:
+  - May: Mix A 2,000 g/palm (Agro 1/2026)
+  - Aug: Mix A 2,000 g/palm (Agro 1/2026)
+  - Oct: Mix A 2,000 g/palm (Agro 1/2026)
+  - Feb: Mix A 2,000 g/palm (Agro 1/2026)
+  - Total: 8,000 g/palm per year (Mix A 8,000 g) (Agro 1/2026)
+  - Note: 3,282 palms, 128 SPH, 25.71 ha; 26.26 t of fertiliser for the year. Compost 10 t/ha in Jun 2026 (Agro 1/2026)
+Pests & diseases:
+  - Rat damage census Jan 2026: 26% damage; above the 10% threshold. Baiting started Apr 2026 (Agro 1/2026)
+Yield:
+  - FFB yield May–Nov 2025: 14.85 t/ha vs 14.38 t/ha in May–Nov 2024 (3%); no sub-block yields in the May 2026 report (Agro 2/2025 visit)
+Nutrients:
+  - Leaf analysis Jun 2025: N 2.62%, P 0.166%, K 1.04%, Mg 0.32%, Ca 0.55%, B 22.41 ppm (samples received 21 Jun 2025, results 12 Jul 2025) (Agro 1/2026)
+
+BLOCK P05J (36.81 ha, planted 2005, Mature)
+Manuring progress:
+  - Compost FY2025/26 (May 2025–Apr 2026): 1,008.92 t on 36.81 ha, 27 t/ha, 100% of area (as of Nov 2025) (Agro 1/2026)
+Spraying & weeding:
+  - Vacant points (May 2026 visit): Vacant points overgrown with weeds (photos); potential hotspots for undesirable weed spread (Agro 1/2026)
+  - Palm circle (Jun 2026 visit): Weed-free palm circle (photo) (PA 1/2026)
+  - Interrow (Jun 2026 visit): Satisfactory soft grass establishment (photo) (PA 1/2026)
+  - Woody weed spraying (Jun 2026 visit): Satisfactory spraying of woody weeds with triclopyr (photos) (PA 1/2026)
+Fertiliser programme (this year) FY2026/27:
+  - May: Mix A 2,000 g/palm (Agro 1/2026)
+  - Aug: Mix A 2,000 g/palm (Agro 1/2026)
+  - Oct: Mix A 2,000 g/palm (Agro 1/2026)
+  - Feb: Mix A 2,000 g/palm (Agro 1/2026)
+  - Total: 8,000 g/palm per year (Mix A 8,000 g) (Agro 1/2026)
+  - Note: 4,624 palms, 126 SPH, 36.81 ha; 36.99 t of fertiliser for the year. Compost 10 t/ha in Jun 2026 (Agro 1/2026)
+Pests & diseases:
+  - Rat damage census Jan–Mar 2026: Not yet censused by Mar 2026 (Q1 census covered 850.35 of 1,522.07 ha, 55.86%) (Agro 1/2026)
+Yield:
+  - FFB yield May–Nov 2025: 11.69 t/ha vs 13.23 t/ha in May–Nov 2024 (-12%); no sub-block yields in the May 2026 report (Agro 2/2025 visit)
+Nutrients:
+  - Leaf analysis Jun 2025: N 2.65%, P 0.165%, K 1.06%, Mg 0.30%, Ca 0.54%, B 23.57 ppm (samples received 21 Jun 2025, results 12 Jul 2025) (Agro 1/2026)
+
+BLOCK P05K (36.44 ha, planted 2005, Mature)
+Manuring progress:
+  - Compost FY2025/26 (May 2025–Apr 2026): 908.92 t on 36.44 ha, 25 t/ha, 100% of area (as of Nov 2025) (Agro 1/2026)
+Spraying & weeding:
+  - Ground cover (May 2026 visit): Interrow predominantly soft grasses but sparse, mixed with undesirable weeds (photo) (Agro 1/2026)
+Fertiliser programme (this year) FY2026/27:
+  - May: Mix A 2,200 g/palm (Agro 1/2026)
+  - Aug: Mix A 2,000 g/palm (Agro 1/2026)
+  - Oct: Mix A 2,200 g/palm (Agro 1/2026)
+  - Feb: Mix A 2,000 g/palm (Agro 1/2026)
+  - Total: 8,400 g/palm per year (Mix A 8,400 g) (Agro 1/2026)
+  - Note: 4,470 palms, 123 SPH, 36.44 ha; 37.55 t of fertiliser for the year. Compost 10 t/ha in Jun 2026 (Agro 1/2026)
+Pests & diseases:
+  - Rat damage census Jan–Mar 2026: Not yet censused by Mar 2026 (Q1 census covered 850.35 of 1,522.07 ha, 55.86%) (Agro 1/2026)
+Yield:
+  - FFB yield May–Nov 2025: 13.24 t/ha vs 13.47 t/ha in May–Nov 2024 (-2%); no sub-block yields in the May 2026 report (Agro 2/2025 visit)
+Nutrients:
+  - Leaf analysis Jun 2025: N 2.48%, P 0.165%, K 1.04%, Mg 0.31%, Ca 0.54%, B 16.71 ppm (samples received 21 Jun 2025, results 12 Jul 2025) (Agro 1/2026)
+
+BLOCK P05L (42.07 ha, planted 2005, Mature)
+Manuring progress:
+  - Compost FY2025/26 (May 2025–Apr 2026): 992.08 t on 42.07 ha, 24 t/ha, 100% of area (as of Nov 2025) (Agro 1/2026)
+  - Compost in trenches (May 2026 visit): Compost placed in or over waterlogged trenches (photo): anaerobic breakdown risk; partial covering of trenches with compost not needed (Agro 1/2026)
+Fertiliser programme (this year) FY2026/27:
+  - May: Mix A 2,200 g/palm (Agro 1/2026)
+  - Aug: Mix A 2,000 g/palm (Agro 1/2026)
+  - Oct: Mix A 2,200 g/palm (Agro 1/2026)
+  - Feb: Mix A 2,000 g/palm (Agro 1/2026)
+  - Total: 8,400 g/palm per year (Mix A 8,400 g) (Agro 1/2026)
+  - Note: 4,963 palms, 118 SPH, 42.07 ha; 41.69 t of fertiliser for the year. Compost 10 t/ha in Jul 2026 (Agro 1/2026)
+Pests & diseases:
+  - Rat damage census Jan 2026: 33% damage; above the 10% threshold. Baiting started Apr 2026 (Agro 1/2026)
+Yield:
+  - FFB yield May–Nov 2025: 15.00 t/ha vs 13.77 t/ha in May–Nov 2024 (9%); no sub-block yields in the May 2026 report (Agro 2/2025 visit)
+Nutrients:
+  - Leaf analysis Jun 2025: N 2.56%, P 0.168%, K 1.02%, Mg 0.34%, Ca 0.57%, B 21.79 ppm (samples received 21 Jun 2025, results 12 Jul 2025) (Agro 1/2026)
+Field:
+  - Fronds in trenches (May 2026 visit): Fronds placed in the slant-cut trenches (photos); this does not create an organic-matter fertiliser zone and may let fertiliser wash into the trenches (Agro 1/2026)
+  - Slant-cut trenches (May 2026 visit): Improper slant-cut mounding trenches toward the harvesting path (photos); severe root damage and possibly over 30% fertiliser loss under EMDEK; stop slant-cut trenching (Agro 1/2026)
+
+BLOCK P05M (37.01 ha, planted 2005, Mature)
+Manuring progress:
+  - Compost FY2025/26 (May 2025–Apr 2026): 916.22 t on 37.01 ha, 25 t/ha, 100% of area (as of Nov 2025) (Agro 1/2026)
+Spraying & weeding:
+  - Ground cover (May 2026 visit): Interrow predominantly soft fern Nephrolepis (photo): beneficial cover; avoid over-spraying, control only where it encroaches circles or harvesting (Agro 1/2026)
+  - Palm circle (Jun 2026 visit): Palm circle free of weeds thanks to palm base soil mounding (photo) (PA 1/2026)
+  - Interrow (Jun 2026 visit): Satisfactory Nephrolepis established; harvester path grass cut with a roto-slasher (photos) (PA 1/2026)
+Fertiliser programme (this year) FY2026/27:
+  - May: Mix A 2,200 g/palm (Agro 1/2026)
+  - Aug: Mix A 2,000 g/palm (Agro 1/2026)
+  - Oct: Mix A 2,200 g/palm (Agro 1/2026)
+  - Feb: Mix A 2,000 g/palm (Agro 1/2026)
+  - Total: 8,400 g/palm per year (Mix A 8,400 g) (Agro 1/2026)
+  - Note: 4,995 palms, 135 SPH, 37.01 ha; 41.96 t of fertiliser for the year. Compost 10 t/ha in Jul 2026 (Agro 1/2026)
+Pests & diseases:
+  - Rat damage census Jan 2026: 30% damage; above the 10% threshold. Baiting started Apr 2026 (Agro 1/2026)
+  - Bagworm (May 2026 visit): Old bagworm defoliation on older fronds; new fronds show minimal damage, population under control (photos) (Agro 1/2026)
+Yield:
+  - FFB yield May–Nov 2025: 14.84 t/ha vs 15.30 t/ha in May–Nov 2024 (-3%); no sub-block yields in the May 2026 report (Agro 2/2025 visit)
+Harvesting:
+  - Ripeness check (May 2026 visit): 10% overripe among freshly harvested bunches (photos); 8–15% across checked blocks is still high, keep a 15-day interval (Agro 1/2026)
+Pruning:
+  - Pruning standard (May 2026 visit): Satisfactory pruning condition (photo); estate pruning up to date with only minor dry hanging fronds (Agro 1/2026)
+Nutrients:
+  - Leaf analysis Jun 2025: N 2.57%, P 0.170%, K 1.00%, Mg 0.34%, Ca 0.53%, B 19.48 ppm (samples received 21 Jun 2025, results 12 Jul 2025) (Agro 1/2026)
+Field:
+  - Road (Jun 2026 visit): Satisfactory road condition (photo) (PA 1/2026)
+
+BLOCK P06A (53.81 ha, planted 2006, Mature)
+Manuring progress:
+  - Compost FY2025/26 (May 2025–Apr 2026): 538.10 t on 53.81 ha, 10 t/ha, 100% of area (as of Nov 2025) (Agro 1/2026)
+Fertiliser programme (this year) FY2026/27:
+  - Jun: Mix A 2,200 g/palm (Agro 1/2026)
+  - Sep: Mix A 2,000 g/palm (Agro 1/2026)
+  - Feb: Mix A 2,200 g/palm (Agro 1/2026)
+  - Apr: Mix A 2,000 g/palm (Agro 1/2026)
+  - Total: 8,400 g/palm per year (Mix A 8,400 g) (Agro 1/2026)
+  - Note: 7,501 palms, 140 SPH, 53.81 ha; 63.01 t of fertiliser for the year. Compost 10 t/ha in Jul 2026 (Agro 1/2026)
+Pests & diseases:
+  - Rat damage census Feb 2026: 44% damage; above the 10% threshold. Baiting started Apr 2026 (Agro 1/2026)
+Yield:
+  - FFB yield May–Nov 2025: 18.04 t/ha vs 17.51 t/ha in May–Nov 2024 (3%); no sub-block yields in the May 2026 report (Agro 2/2025 visit)
+Pruning:
+  - Pruning standard (May 2026 visit): Satisfactory pruning condition (photo); estate pruning up to date with only minor dry hanging fronds (Agro 1/2026)
+Nutrients:
+  - Leaf analysis Jun 2025: N 2.54%, P 0.165%, K 0.96%, Mg 0.31%, Ca 0.59%, B 16.02 ppm (samples received 21 Jun 2025, results 12 Jul 2025) (Agro 1/2026)
+
+BLOCK P06B (65.16 ha, planted 2006, Mature)
+Manuring progress:
+  - Compost FY2025/26 (May 2025–Apr 2026): 651.60 t on 65.16 ha, 10 t/ha, 100% of area (as of Nov 2025) (Agro 1/2026)
+Fertiliser programme (this year) FY2026/27:
+  - Jun: Mix A 2,000 g/palm (Agro 1/2026)
+  - Sep: Mix A 2,000 g/palm (Agro 1/2026)
+  - Jan: RP 1,000 g/palm (Agro 1/2026)
+  - Feb: Mix A 2,000 g/palm (Agro 1/2026)
+  - Apr: Mix A 2,000 g/palm (Agro 1/2026)
+  - Total: 9,000 g/palm per year (Mix A 8,000 g + RP 1,000 g) (Agro 1/2026)
+  - Note: 9,575 palms, 147 SPH, 65.16 ha; 86.18 t of fertiliser for the year. Compost 10 t/ha in Jul 2026 (Agro 1/2026)
+Pests & diseases:
+  - Rat damage census Feb 2026: 42% damage; above the 10% threshold. Baiting started Apr 2026 (Agro 1/2026)
+Yield:
+  - FFB yield May–Nov 2025: 19.85 t/ha vs 16.54 t/ha in May–Nov 2024 (20%); no sub-block yields in the May 2026 report (Agro 2/2025 visit)
+Nutrients:
+  - Leaf analysis Jun 2025: N 2.52%, P 0.160%, K 0.88%, Mg 0.30%, Ca 0.67%, B 21.02 ppm (samples received 21 Jun 2025, results 12 Jul 2025) (Agro 1/2026)
+
+BLOCK P06C (31.11 ha, planted 2006, Mature)
+Manuring progress:
+  - Compost FY2025/26 (May 2025–Apr 2026): 311.10 t on 31.11 ha, 10 t/ha, 100% of area (as of Nov 2025) (Agro 1/2026)
+Fertiliser programme (this year) FY2026/27:
+  - Jun: Mix A 2,000 g/palm (Agro 1/2026)
+  - Sep: Mix A 2,000 g/palm (Agro 1/2026)
+  - Jan: RP 1,000 g/palm (Agro 1/2026)
+  - Feb: Mix A 2,000 g/palm (Agro 1/2026)
+  - Apr: Mix A 2,000 g/palm (Agro 1/2026)
+  - Total: 9,000 g/palm per year (Mix A 8,000 g + RP 1,000 g) (Agro 1/2026)
+  - Note: 3,468 palms, 111 SPH, 31.11 ha; 31.21 t of fertiliser for the year. Compost 10 t/ha in Jul 2026 (Agro 1/2026)
+Pests & diseases:
+  - Rat damage census Feb 2026: 51% damage; above the 10% threshold. Baiting started Apr 2026 (Agro 1/2026)
+Yield:
+  - FFB yield May–Nov 2025: 14.33 t/ha vs 15.06 t/ha in May–Nov 2024 (-5%); no sub-block yields in the May 2026 report (Agro 2/2025 visit)
+Nutrients:
+  - Leaf analysis Jun 2025: N 2.46%, P 0.158%, K 0.92%, Mg 0.34%, Ca 0.58%, B 24.18 ppm (samples received 21 Jun 2025, results 12 Jul 2025) (Agro 1/2026)
+
+BLOCK P06D (29.06 ha, planted 2006, Mature)
+Manuring progress:
+  - Compost FY2025/26 (May 2025–Apr 2026): 290.60 t on 29.06 ha, 10 t/ha, 100% of area (as of Nov 2025) (Agro 1/2026)
+Fertiliser programme (this year) FY2026/27:
+  - Jun: Mix A 2,000 g/palm (Agro 1/2026)
+  - Sep: Mix A 2,000 g/palm (Agro 1/2026)
+  - Jan: RP 1,000 g/palm (Agro 1/2026)
+  - Feb: Mix A 2,000 g/palm (Agro 1/2026)
+  - Apr: Mix A 2,000 g/palm (Agro 1/2026)
+  - Total: 9,000 g/palm per year (Mix A 8,000 g + RP 1,000 g) (Agro 1/2026)
+  - Note: 3,883 palms, 134 SPH, 29.06 ha; 34.95 t of fertiliser for the year. Compost 10 t/ha in Aug 2026 (Agro 1/2026)
+Pests & diseases:
+  - Rat damage census Jan–Mar 2026: Not yet censused by Mar 2026 (Q1 census covered 850.35 of 1,522.07 ha, 55.86%) (Agro 1/2026)
+Yield:
+  - FFB yield May–Nov 2025: 22.13 t/ha vs 18.45 t/ha in May–Nov 2024 (20%); no sub-block yields in the May 2026 report (Agro 2/2025 visit)
+Nutrients:
+  - Leaf analysis Jun 2025: N 2.59%, P 0.152%, K 0.90%, Mg 0.34%, Ca 0.52%, B 18.56 ppm (samples received 21 Jun 2025, results 12 Jul 2025) (Agro 1/2026)
+
+BLOCK P06E (52.73 ha, planted 2006, Mature)
+Manuring progress:
+  - Compost FY2025/26 (May 2025–Apr 2026): 527.30 t on 52.73 ha, 10 t/ha, 100% of area (as of Nov 2025) (Agro 1/2026)
+Spraying & weeding:
+  - Ground cover (May 2026 visit): Interrow predominantly soft grasses but sparse, mixed with undesirable weeds (photo) (Agro 1/2026)
+Fertiliser programme (this year) FY2026/27:
+  - Jun: Mix A 2,000 g/palm (Agro 1/2026)
+  - Sep: Mix A 2,000 g/palm (Agro 1/2026)
+  - Jan: RP 1,000 g/palm (Agro 1/2026)
+  - Feb: Mix A 2,000 g/palm (Agro 1/2026)
+  - Apr: Mix A 2,000 g/palm (Agro 1/2026)
+  - Total: 9,000 g/palm per year (Mix A 8,000 g + RP 1,000 g) (Agro 1/2026)
+  - Note: 6,617 palms, 125 SPH, 52.73 ha; 59.55 t of fertiliser for the year. Compost 10 t/ha in Aug 2026 (Agro 1/2026)
+Pests & diseases:
+  - Ganoderma palms (May 2026 visit): Ganoderma-infected palms photographed: mild to moderately severe, poor vigour, small canopies, frond snapping, multiple unopened spears (Agro 1/2026)
+  - Rat damage census Jan–Mar 2026: Not yet censused by Mar 2026 (Q1 census covered 850.35 of 1,522.07 ha, 55.86%) (Agro 1/2026)
+Yield:
+  - FFB yield May–Nov 2025: 18.41 t/ha vs 14.79 t/ha in May–Nov 2024 (24%); no sub-block yields in the May 2026 report (Agro 2/2025 visit)
+Nutrients:
+  - Leaf analysis Jun 2025: N 2.77%, P 0.155%, K 0.90%, Mg 0.35%, Ca 0.57%, B 17.33 ppm (samples received 21 Jun 2025, results 12 Jul 2025) (Agro 1/2026)
+Field:
+  - Palm vigour (May 2026 visit): Palms on silty subsoil photographed: poorer vigour, pale green to yellowish foliage (Agro 1/2026)
+
+BLOCK P06F (33.33 ha, planted 2006, Mature)
+Manuring progress:
+  - Compost FY2025/26 (May 2025–Apr 2026): 333.30 t on 33.33 ha, 10 t/ha, 100% of area (as of Nov 2025) (Agro 1/2026)
+Spraying & weeding:
+  - Vacant points (May 2026 visit): Vacant points overgrown with weeds (photos); potential hotspots for undesirable weed spread (Agro 1/2026)
+  - Ground cover (May 2026 visit): Interrow predominantly soft grasses but sparse, mixed with undesirable weeds (photo) (Agro 1/2026)
+Fertiliser programme (this year) FY2026/27:
+  - Jun: Mix A 2,000 g/palm (Agro 1/2026)
+  - Sep: Mix A 2,000 g/palm (Agro 1/2026)
+  - Jan: RP 1,000 g/palm (Agro 1/2026)
+  - Feb: Mix A 2,000 g/palm (Agro 1/2026)
+  - Apr: Mix A 2,000 g/palm (Agro 1/2026)
+  - Total: 9,000 g/palm per year (Mix A 8,000 g + RP 1,000 g) (Agro 1/2026)
+  - Note: 3,846 palms, 136 SPH, 28.33 ha as printed in the programme (blocking table 33.33 ha); 34.61 t of fertiliser for the year. Compost 10 t/ha in Aug 2026 (Agro 1/2026)
+Pests & diseases:
+  - Rat damage census Jan–Mar 2026: Not yet censused by Mar 2026 (Q1 census covered 850.35 of 1,522.07 ha, 55.86%) (Agro 1/2026)
+Yield:
+  - FFB yield May–Nov 2025: 19.29 t/ha vs 16.39 t/ha in May–Nov 2024 (18%); no sub-block yields in the May 2026 report (Agro 2/2025 visit)
+Pruning:
+  - Pruning standard (May 2026 visit): Satisfactory pruning condition (photo); estate pruning up to date with only minor dry hanging fronds (Agro 1/2026)
+Nutrients:
+  - Leaf analysis Jun 2025: N 2.59%, P 0.152%, K 0.92%, Mg 0.33%, Ca 0.57%, B 16.63 ppm (samples received 21 Jun 2025, results 12 Jul 2025) (Agro 1/2026)
+Field:
+  - Slant-cut trenches (May 2026 visit): Improper slant-cut mounding trenches toward the harvesting path (photos); severe root damage and possibly over 30% fertiliser loss under EMDEK; stop slant-cut trenching (Agro 1/2026)
+
+BLOCK P06G (28.75 ha, planted 2006, Mature)
+Manuring progress:
+  - Compost FY2025/26 (May 2025–Apr 2026): 287.50 t on 28.75 ha, 10 t/ha, 100% of area (as of Nov 2025) (Agro 1/2026)
+Fertiliser programme (this year) FY2026/27:
+  - Jun: Mix A 2,000 g/palm (Agro 1/2026)
+  - Sep: Mix A 2,000 g/palm (Agro 1/2026)
+  - Jan: RP 1,000 g/palm (Agro 1/2026)
+  - Feb: Mix A 2,000 g/palm (Agro 1/2026)
+  - Apr: Mix A 2,000 g/palm (Agro 1/2026)
+  - Total: 9,000 g/palm per year (Mix A 8,000 g + RP 1,000 g) (Agro 1/2026)
+  - Note: 4,514 palms, 134 SPH, 33.75 ha as printed in the programme (blocking table 28.75 ha); 40.63 t of fertiliser for the year. Compost 10 t/ha in Aug 2026 (Agro 1/2026)
+Pests & diseases:
+  - Rat damage census Feb 2026: 41% damage; above the 10% threshold. Baiting started Apr 2026 (Agro 1/2026)
+Yield:
+  - FFB yield May–Nov 2025: 15.92 t/ha vs 18.90 t/ha in May–Nov 2024 (-16%); no sub-block yields in the May 2026 report (Agro 2/2025 visit)
+Pruning:
+  - Pruning standard (May 2026 visit): Satisfactory pruning condition (photo); estate pruning up to date with only minor dry hanging fronds (Agro 1/2026)
+Nutrients:
+  - Leaf analysis Jun 2025: N 2.45%, P 0.155%, K 1.04%, Mg 0.32%, Ca 0.57%, B 16.48 ppm (samples received 21 Jun 2025, results 12 Jul 2025) (Agro 1/2026)
+Field:
+  - Road (Jun 2026 visit): Satisfactory road condition (photo) (PA 1/2026)
+
+BLOCK P06H (32.88 ha, planted 2006, Mature)
+Manuring progress:
+  - Compost FY2025/26 (May 2025–Apr 2026): 323.92 t on 32.88 ha, 10 t/ha, 100% of area (as of Nov 2025) (Agro 1/2026)
+  - Compost placement (Jun 2026 visit): Compost placed between two palms in the frond-stacking row (photos); 140 kg between 2 palms, 2 rounds a year (estate practice) (PA 1/2026)
+Fertiliser programme (this year) FY2026/27:
+  - Jun: Mix A 2,000 g/palm (Agro 1/2026)
+  - Sep: Mix A 2,000 g/palm (Agro 1/2026)
+  - Jan: RP 1,500 g/palm (Agro 1/2026)
+  - Feb: Mix A 2,000 g/palm (Agro 1/2026)
+  - Apr: Mix A 2,000 g/palm (Agro 1/2026)
+  - Total: 9,500 g/palm per year (Mix A 8,000 g + RP 1,500 g) (Agro 1/2026)
+  - Note: 4,730 palms, 144 SPH, 32.88 ha; 44.94 t of fertiliser for the year. Compost 10 t/ha in Aug 2026 (Agro 1/2026)
+Pests & diseases:
+  - Rat damage census Feb 2026: 44% damage; above the 10% threshold. Baiting started Apr 2026 (Agro 1/2026)
+Yield:
+  - FFB yield May–Nov 2025: 14.64 t/ha vs 17.59 t/ha in May–Nov 2024 (-17%); no sub-block yields in the May 2026 report (Agro 2/2025 visit)
+Pruning:
+  - Pruning and frond stacking (Jun 2026 visit): Satisfactory pruned-palm appearance; cut frond stacking began to be realigned slanting between two palms (photos) (PA 1/2026)
+  - Pruning standard (May 2026 visit): Satisfactory pruning condition (photo); estate pruning up to date with only minor dry hanging fronds (Agro 1/2026)
+Nutrients:
+  - Leaf analysis Jun 2025: N 2.40%, P 0.158%, K 1.08%, Mg 0.31%, Ca 0.54%, B 14.55 ppm (samples received 21 Jun 2025, results 12 Jul 2025) (Agro 1/2026)
+
+BLOCK P06I (31.55 ha, planted 2006, Mature)
+Manuring progress:
+  - Compost FY2025/26 (May 2025–Apr 2026): 315.50 t on 31.55 ha, 10 t/ha, 100% of area (as of Nov 2025) (Agro 1/2026)
+Spraying & weeding:
+  - Ground cover (May 2026 visit): Interrow predominantly soft grasses but sparse, mixed with undesirable weeds (photo) (Agro 1/2026)
+  - Interrow (Jun 2026 visit): Satisfactory soft grass establishment (photo) (PA 1/2026)
+Fertiliser programme (this year) FY2026/27:
+  - Jun: Mix A 2,000 g/palm (Agro 1/2026)
+  - Sep: Mix A 2,000 g/palm (Agro 1/2026)
+  - Jan: RP 1,000 g/palm (Agro 1/2026)
+  - Feb: Mix A 2,000 g/palm (Agro 1/2026)
+  - Apr: Mix A 2,000 g/palm (Agro 1/2026)
+  - Total: 9,000 g/palm per year (Mix A 8,000 g + RP 1,000 g) (Agro 1/2026)
+  - Note: 4,377 palms, 139 SPH, 31.55 ha; 39.39 t of fertiliser for the year. Compost 10 t/ha in Aug 2026 (Agro 1/2026)
+Pests & diseases:
+  - Rat damage census Feb 2026: 41% damage; above the 10% threshold. Baiting started Apr 2026 (Agro 1/2026)
+Yield:
+  - FFB yield May–Nov 2025: 21.10 t/ha vs 16.02 t/ha in May–Nov 2024 (32%); no sub-block yields in the May 2026 report (Agro 2/2025 visit)
+Pruning:
+  - Pruning and frond stacking (Jun 2026 visit): Satisfactory pruned-palm appearance; cut frond stacking began to be realigned slanting between two palms (photos) (PA 1/2026)
+  - Pruning standard (May 2026 visit): Satisfactory pruning condition (photo); estate pruning up to date with only minor dry hanging fronds (Agro 1/2026)
+Nutrients:
+  - Leaf analysis Jun 2025: N 2.57%, P 0.160%, K 1.00%, Mg 0.33%, Ca 0.57%, B 19.72 ppm (samples received 21 Jun 2025, results 12 Jul 2025) (Agro 1/2026)
+
+BLOCK P06J (33.18 ha, planted 2006, Mature)
+Manuring progress:
+  - Compost FY2025/26 (May 2025–Apr 2026): 288.00 t on 33.18 ha, 9 t/ha, 100% of area (as of Nov 2025) (Agro 1/2026)
+Fertiliser programme (this year) FY2026/27:
+  - Jun: Mix A 2,000 g/palm (Agro 1/2026)
+  - Sep: Mix A 2,000 g/palm (Agro 1/2026)
+  - Jan: RP 1,000 g/palm (Agro 1/2026)
+  - Feb: Mix A 2,000 g/palm (Agro 1/2026)
+  - Apr: Mix A 2,000 g/palm (Agro 1/2026)
+  - Total: 9,000 g/palm per year (Mix A 8,000 g + RP 1,000 g) (Agro 1/2026)
+  - Note: 4,484 palms, 135 SPH, 33.18 ha; 40.36 t of fertiliser for the year. Compost 10 t/ha in Sep 2026 (Agro 1/2026)
+Pests & diseases:
+  - Rat damage census Feb 2026: 32% damage; above the 10% threshold. Baiting started Apr 2026 (Agro 1/2026)
+Yield:
+  - FFB yield May–Nov 2025: 17.16 t/ha vs 14.65 t/ha in May–Nov 2024 (17%); no sub-block yields in the May 2026 report (Agro 2/2025 visit)
+Nutrients:
+  - Leaf analysis Jun 2025: N 2.56%, P 0.160%, K 0.94%, Mg 0.35%, Ca 0.62%, B 18.71 ppm (samples received 21 Jun 2025, results 12 Jul 2025) (Agro 1/2026)
+Field:
+  - Mounding quality (Jun 2026 visit): Satisfactory size and quality of palm base soil mounding (photo) (PA 1/2026)
+
+BLOCK P06K (40.37 ha, planted 2006, Mature)
+Manuring progress:
+  - Compost FY2025/26 (May 2025–Apr 2026): 410.66 t on 40.37 ha, 10 t/ha, 100% of area (as of Nov 2025) (Agro 1/2026)
+Fertiliser programme (this year) FY2026/27:
+  - Jun: Mix A 2,000 g/palm (Agro 1/2026)
+  - Sep: Mix A 2,000 g/palm (Agro 1/2026)
+  - Jan: RP 1,000 g/palm (Agro 1/2026)
+  - Feb: Mix A 2,000 g/palm (Agro 1/2026)
+  - Apr: Mix A 2,000 g/palm (Agro 1/2026)
+  - Total: 9,000 g/palm per year (Mix A 8,000 g + RP 1,000 g) (Agro 1/2026)
+  - Note: 5,132 palms, 139 SPH, 36.92 ha as printed in the programme (blocking table 40.37 ha); 46.19 t of fertiliser for the year. Compost 10 t/ha in Sep 2026 (Agro 1/2026)
+Pests & diseases:
+  - Rat damage census Feb 2026: 33% damage; above the 10% threshold. Baiting started Apr 2026 (Agro 1/2026)
+Yield:
+  - FFB yield May–Nov 2025: 18.46 t/ha vs 13.35 t/ha in May–Nov 2024 (38%); no sub-block yields in the May 2026 report (Agro 2/2025 visit)
+Nutrients:
+  - Leaf analysis Jun 2025: N 2.56%, P 0.160%, K 0.86%, Mg 0.38%, Ca 0.63%, B 20.10 ppm (samples received 21 Jun 2025, results 12 Jul 2025) (Agro 1/2026)
+
+BLOCK P06L (46.95 ha, planted 2006, Mature)
+Manuring progress:
+  - Compost FY2025/26 (May 2025–Apr 2026): 486.28 t on 46.95 ha, 10 t/ha, 100% of area (as of Nov 2025) (Agro 1/2026)
+Fertiliser programme (this year) FY2026/27:
+  - Jun: Mix A 2,000 g/palm (Agro 1/2026)
+  - Sep: Mix A 2,000 g/palm (Agro 1/2026)
+  - Jan: RP 1,000 g/palm (Agro 1/2026)
+  - Feb: Mix A 2,000 g/palm (Agro 1/2026)
+  - Apr: Mix A 2,000 g/palm (Agro 1/2026)
+  - Total: 9,000 g/palm per year (Mix A 8,000 g + RP 1,000 g) (Agro 1/2026)
+  - Note: 7,075 palms, 140 SPH, 50.40 ha as printed in the programme (blocking table 46.95 ha); 63.68 t of fertiliser for the year. Compost 10 t/ha in Sep 2026 (Agro 1/2026)
+Pests & diseases:
+  - Rat damage census Jan–Mar 2026: Not yet censused by Mar 2026 (Q1 census covered 850.35 of 1,522.07 ha, 55.86%) (Agro 1/2026)
+Yield:
+  - FFB yield May–Nov 2025: 14.58 t/ha vs 12.32 t/ha in May–Nov 2024 (18%); no sub-block yields in the May 2026 report (Agro 2/2025 visit)
+Nutrients:
+  - Leaf analysis Jun 2025: N 2.55%, P 0.160%, K 0.90%, Mg 0.35%, Ca 0.64%, B 18.33 ppm (samples received 21 Jun 2025, results 12 Jul 2025) (Agro 1/2026)
+
+BLOCK P06M (38.76 ha, planted 2006, Mature)
+Manuring progress:
+  - Compost FY2025/26 (May 2025–Apr 2026): 400.28 t on 38.76 ha, 10 t/ha, 100% of area (as of Nov 2025) (Agro 1/2026)
+Fertiliser programme (this year) FY2026/27:
+  - Jun: Mix A 2,000 g/palm (Agro 1/2026)
+  - Sep: Mix A 2,000 g/palm (Agro 1/2026)
+  - Jan: RP 1,000 g/palm (Agro 1/2026)
+  - Feb: Mix A 2,000 g/palm (Agro 1/2026)
+  - Apr: Mix A 2,000 g/palm (Agro 1/2026)
+  - Total: 9,000 g/palm per year (Mix A 8,000 g + RP 1,000 g) (Agro 1/2026)
+  - Note: 5,478 palms, 141 SPH, 38.76 ha; 49.30 t of fertiliser for the year. Compost 10 t/ha in Sep 2026 (Agro 1/2026)
+Pests & diseases:
+  - Ganoderma palms (May 2026 visit): Ganoderma-infected palms photographed: mild to moderately severe, poor vigour, small canopies, frond snapping, multiple unopened spears (Agro 1/2026)
+  - Rat damage census Jan–Mar 2026: Not yet censused by Mar 2026 (Q1 census covered 850.35 of 1,522.07 ha, 55.86%) (Agro 1/2026)
+Yield:
+  - FFB yield May–Nov 2025: 20.02 t/ha vs 13.61 t/ha in May–Nov 2024 (47%); no sub-block yields in the May 2026 report (Agro 2/2025 visit)
+Nutrients:
+  - Leaf analysis Jun 2025: N 2.49%, P 0.158%, K 0.90%, Mg 0.34%, Ca 0.61%, B 20.10 ppm (samples received 21 Jun 2025, results 12 Jul 2025) (Agro 1/2026)
+Field:
+  - Silty subsoil (May 2026 visit): Subsoil with high silt content (photos): poor drainage and aeration, waterlogging; improve with organic matter through proper frond stacking (Agro 1/2026)
+  - Palm vigour (May 2026 visit): Palms on silty subsoil photographed: poorer vigour, pale green to yellowish foliage (Agro 1/2026)
+
+BLOCK P06N (33.91 ha, planted 2006, Mature)
+Manuring progress:
+  - Compost FY2025/26 (May 2025–Apr 2026): 341.58 t on 33.91 ha, 10 t/ha, 100% of area (as of Nov 2025) (Agro 1/2026)
+Spraying & weeding:
+  - Ground cover (May 2026 visit): Interrow predominantly soft grasses but sparse, mixed with undesirable weeds (photo) (Agro 1/2026)
+Fertiliser programme (this year) FY2026/27:
+  - Jun: Mix A 2,000 g/palm (Agro 1/2026)
+  - Sep: Mix A 2,000 g/palm (Agro 1/2026)
+  - Jan: RP 1,000 g/palm (Agro 1/2026)
+  - Feb: Mix A 2,000 g/palm (Agro 1/2026)
+  - Apr: Mix A 2,000 g/palm (Agro 1/2026)
+  - Total: 9,000 g/palm per year (Mix A 8,000 g + RP 1,000 g) (Agro 1/2026)
+  - Note: 4,949 palms, 146 SPH, 33.91 ha; 44.54 t of fertiliser for the year. Compost 10 t/ha in Sep 2026 (Agro 1/2026)
+Pests & diseases:
+  - Rat damage census Feb 2026: 39% damage; above the 10% threshold. Baiting started Apr 2026 (Agro 1/2026)
+Yield:
+  - FFB yield May–Nov 2025: 22.86 t/ha vs 16.34 t/ha in May–Nov 2024 (40%); no sub-block yields in the May 2026 report (Agro 2/2025 visit)
+Nutrients:
+  - Leaf analysis Jun 2025: N 2.49%, P 0.154%, K 0.88%, Mg 0.39%, Ca 0.59%, B 18.02 ppm (samples received 21 Jun 2025, results 12 Jul 2025) (Agro 1/2026)
+
+BLOCK P06O (32.71 ha, planted 2006, Mature)
+Manuring progress:
+  - Compost FY2025/26 (May 2025–Apr 2026): 348.12 t on 32.71 ha, 11 t/ha, 100% of area (as of Nov 2025) (Agro 1/2026)
+Spraying & weeding:
+  - Ground cover (May 2026 visit): Interrow predominantly soft grasses but sparse, mixed with undesirable weeds (photo) (Agro 1/2026)
+Fertiliser programme (this year) FY2026/27:
+  - Jun: Mix A 2,000 g/palm (Agro 1/2026)
+  - Sep: Mix A 2,000 g/palm (Agro 1/2026)
+  - Jan: RP 1,000 g/palm (Agro 1/2026)
+  - Feb: Mix A 2,000 g/palm (Agro 1/2026)
+  - Apr: Mix A 2,000 g/palm (Agro 1/2026)
+  - Total: 9,000 g/palm per year (Mix A 8,000 g + RP 1,000 g) (Agro 1/2026)
+  - Note: 4,393 palms, 134 SPH, 32.71 ha; 39.54 t of fertiliser for the year. Compost 10 t/ha in Sep 2026 (Agro 1/2026)
+Pests & diseases:
+  - Rat damage census Feb 2026: 42% damage; above the 10% threshold. Baiting started Apr 2026 (Agro 1/2026)
+Yield:
+  - FFB yield May–Nov 2025: 20.28 t/ha vs 16.65 t/ha in May–Nov 2024 (22%); no sub-block yields in the May 2026 report (Agro 2/2025 visit)
+Nutrients:
+  - Leaf analysis Jun 2025: N 2.45%, P 0.149%, K 0.86%, Mg 0.36%, Ca 0.59%, B 18.02 ppm (samples received 21 Jun 2025, results 12 Jul 2025) (Agro 1/2026)
+
+BLOCK P06P (29.97 ha, planted 2006, Mature)
+Manuring progress:
+  - Compost FY2025/26 (May 2025–Apr 2026): 310.70 t on 29.97 ha, 10 t/ha, 100% of area (as of Nov 2025) (Agro 1/2026)
+Spraying & weeding:
+  - Ground cover (May 2026 visit): Interrow predominantly soft grasses but sparse, mixed with undesirable weeds (photo) (Agro 1/2026)
+Fertiliser programme (this year) FY2026/27:
+  - Jun: Mix A 2,000 g/palm (Agro 1/2026)
+  - Sep: Mix A 2,000 g/palm (Agro 1/2026)
+  - Jan: RP 1,000 g/palm (Agro 1/2026)
+  - Feb: Mix A 2,000 g/palm (Agro 1/2026)
+  - Apr: Mix A 2,000 g/palm (Agro 1/2026)
+  - Total: 9,000 g/palm per year (Mix A 8,000 g + RP 1,000 g) (Agro 1/2026)
+  - Note: 4,334 palms, 145 SPH, 29.97 ha; 39.01 t of fertiliser for the year. Compost 10 t/ha in Oct 2026 (Agro 1/2026)
+Pests & diseases:
+  - Ganoderma palms (May 2026 visit): Ganoderma-infected palms photographed: mild to moderately severe, poor vigour, small canopies, frond snapping, multiple unopened spears (Agro 1/2026)
+  - Rat damage census Feb 2026: 61% damage (highest in the census); above the 10% threshold. Baiting started Apr 2026 (Agro 1/2026)
+  - Zinc plate trial (May 2026 visit): Zinc plates wrapped round the trunks of 293 palms to stop rats climbing (photos); commended (Agro 1/2026)
+Yield:
+  - FFB yield May–Nov 2025: 21.00 t/ha vs 20.57 t/ha in May–Nov 2024 (2%); no sub-block yields in the May 2026 report (Agro 2/2025 visit)
+Pruning:
+  - Pruning standard (May 2026 visit): Satisfactory pruning condition (photo); estate pruning up to date with only minor dry hanging fronds (Agro 1/2026)
+Nutrients:
+  - Leaf analysis Jun 2025: N 2.40%, P 0.156%, K 0.82%, Mg 0.36%, Ca 0.60%, B 21.79 ppm (samples received 21 Jun 2025, results 12 Jul 2025) (Agro 1/2026)
+Field:
+  - Slant-cut trenches (May 2026 visit): Improper slant-cut mounding trenches toward the harvesting path (photos); severe root damage and possibly over 30% fertiliser loss under EMDEK; stop slant-cut trenching (Agro 1/2026)
+  - Palm vigour (May 2026 visit): Palms on silty subsoil photographed: poorer vigour, pale green to yellowish foliage (Agro 1/2026)
+
+BLOCK P07A (45.46 ha, planted 2007, Mature)
+Manuring progress:
+  - Compost FY2025/26 (May 2025–Apr 2026): 263.56 t on 26.54 ha (section 1 area), 10 t/ha, 100% of area (as of Nov 2025) (Agro 1/2026)
+  - Manuring delayed by floods FY2025/26 (May 2025–Apr 2026): Fertiliser application delayed by flooding Nov 2025–Feb 2026; estate to complete the FY2025/26 programme by end Jun 2026 (PA: completed by the Jun 2026 visit, estate-wide) (Agro 1/2026)
+Fertiliser programme (this year) FY2026/27:
+  - Jun (Sect.1): Mix B 2,000 g/palm (Agro 1/2026)
+  - Sep (Sect.1): Mix A 2,000 g/palm (Agro 1/2026)
+  - Jan (Sect.1): RP 1,000 g/palm (Agro 1/2026)
+  - Feb (Sect.1): Mix B 2,000 g/palm (Agro 1/2026)
+  - Apr (Sect.1): Mix A 2,000 g/palm (Agro 1/2026)
+  - Jul (Sect.2): Mix B 8,000 g/palm, sub-soil (Agro 1/2026)
+  - Jan (Sect.2): RP 1,000 g/palm (Agro 1/2026)
+  - Total: Section 1: 9,000 g/palm per year; section 2: 9,000 g/palm per year (Agro 1/2026)
+  - Note: Section 1: 25.33 ha, 3,742 palms, 148 SPH, 33.68 t; compost 10 t/ha in Oct 2026. Section 2 (flood-prone): 20.13 ha, 2,979 palms, 148 SPH, 26.81 t; no compost; Mix B buried in 3–4 pockets, 1,500–2,000 g per pocket (Agro 1/2026)
+Pests & diseases:
+  - Rat damage census Mar 2026: 19% damage (section 1, 26.54 ha); above the 10% threshold. Baiting started Apr 2026 (Agro 1/2026)
+Yield:
+  - FFB yield May–Nov 2025: 14.22 t/ha vs 14.89 t/ha in May–Nov 2024 (-4%); no sub-block yields in the May 2026 report (Agro 2/2025 visit)
+Nutrients:
+  - Leaf analysis Jun 2025: N 2.53%, P 0.159%, K 0.80%, Mg 0.37%, Ca 0.61%, B 20.41 ppm (samples received 21 Jun 2025, results 12 Jul 2025) (Agro 1/2026)
+
+BLOCK P07B (45.12 ha, planted 2007, Mature)
+Manuring progress:
+  - Compost FY2025/26 (May 2025–Apr 2026): 333.14 t on 30.29 ha (section 1 area), 11 t/ha, 100% of area (as of Nov 2025) (Agro 1/2026)
+  - Manuring delayed by floods FY2025/26 (May 2025–Apr 2026): Fertiliser application delayed by flooding Nov 2025–Feb 2026; estate to complete the FY2025/26 programme by end Jun 2026 (PA: completed by the Jun 2026 visit, estate-wide) (Agro 1/2026)
+Fertiliser programme (this year) FY2026/27:
+  - Jun (Sect.1): Mix B 2,000 g/palm (Agro 1/2026)
+  - Sep (Sect.1): Mix A 2,000 g/palm (Agro 1/2026)
+  - Jan (Sect.1): RP 1,000 g/palm (Agro 1/2026)
+  - Feb (Sect.1): Mix B 2,000 g/palm (Agro 1/2026)
+  - Apr (Sect.1): Mix A 2,000 g/palm (Agro 1/2026)
+  - Jul (Sect.2): Mix B 8,000 g/palm, sub-soil (Agro 1/2026)
+  - Jan (Sect.2): RP 1,000 g/palm (Agro 1/2026)
+  - Total: Section 1: 9,000 g/palm per year; section 2: 9,000 g/palm per year (Agro 1/2026)
+  - Note: Section 1: 29.34 ha, 4,239 palms, 145 SPH, 38.15 t; compost 10 t/ha in Oct 2026. Section 2 (flood-prone): 15.78 ha, 2,288 palms, 145 SPH, 20.59 t; no compost; Mix B buried in 3–4 pockets, 1,500–2,000 g per pocket (Agro 1/2026)
+Pests & diseases:
+  - Rat damage census Mar 2026: 26% damage (section 1, 30.29 ha); above the 10% threshold. Baiting started Apr 2026 (Agro 1/2026)
+Yield:
+  - FFB yield May–Nov 2025: 13.91 t/ha vs 16.28 t/ha in May–Nov 2024 (-15%); no sub-block yields in the May 2026 report (Agro 2/2025 visit)
+Nutrients:
+  - Leaf analysis Jun 2025: N 2.60%, P 0.160%, K 0.90%, Mg 0.35%, Ca 0.57%, B 19.10 ppm (samples received 21 Jun 2025, results 12 Jul 2025) (Agro 1/2026)
+
+BLOCK P07C (36.67 ha, planted 2007, Mature)
+Manuring progress:
+  - Compost FY2025/26 (May 2025–Apr 2026): 161.40 t on 16.33 ha (section 1 area), 10 t/ha, 100% of area (as of Nov 2025) (Agro 1/2026)
+  - Manuring delayed by floods FY2025/26 (May 2025–Apr 2026): Fertiliser application delayed by flooding Nov 2025–Feb 2026; estate to complete the FY2025/26 programme by end Jun 2026 (PA: completed by the Jun 2026 visit, estate-wide) (Agro 1/2026)
+Fertiliser programme (this year) FY2026/27:
+  - Jun (Sect.1): Mix B 2,200 g/palm (Agro 1/2026)
+  - Jul (Sect.1): Kieserite 0 g/palm (listed at 0.00) (Agro 1/2026)
+  - Sep (Sect.1): Mix A 2,000 g/palm (Agro 1/2026)
+  - Feb (Sect.1): Mix B 2,200 g/palm (Agro 1/2026)
+  - Apr (Sect.1): Mix A 2,000 g/palm (Agro 1/2026)
+  - Jul (Sect.2): Mix B 8,000 g/palm, sub-soil (Agro 1/2026)
+  - Total: Section 1: 8,400 g/palm per year; section 2: 8,000 g/palm per year (Agro 1/2026)
+  - Note: Section 1: 19.23 ha, 2,597 palms, 135 SPH, 21.81 t; compost 10 t/ha in Oct 2026. Section 2 (flood-prone): 22.71 ha, 3,066 palms, 135 SPH, 24.53 t; no compost; Mix B buried in 3–4 pockets, 1,500–2,000 g per pocket (Agro 1/2026)
+Pests & diseases:
+  - Rat damage census Mar 2026: 38% damage (section 1, 16.33 ha); above the 10% threshold. Baiting started Apr 2026 (Agro 1/2026)
+Yield:
+  - FFB yield May–Nov 2025: 11.97 t/ha vs 14.23 t/ha in May–Nov 2024 (-16%); no sub-block yields in the May 2026 report (Agro 2/2025 visit)
+Nutrients:
+  - Leaf analysis Jun 2025: N 2.54%, P 0.164%, K 0.92%, Mg 0.32%, Ca 0.53%, B 19.63 ppm (samples received 21 Jun 2025, results 12 Jul 2025) (Agro 1/2026)
+
+BLOCK P07D (45.63 ha, planted 2007, Mature)
+Manuring progress:
+  - Compost FY2025/26 (May 2025–Apr 2026): 349.94 t on 38.70 ha (section 1 area), 9 t/ha, 100% of area (as of Nov 2025) (Agro 1/2026)
+  - Manuring delayed by floods FY2025/26 (May 2025–Apr 2026): Fertiliser application delayed by flooding Nov 2025–Feb 2026; estate to complete the FY2025/26 programme by end Jun 2026 (PA: completed by the Jun 2026 visit, estate-wide) (Agro 1/2026)
+Spraying & weeding:
+  - Ground cover (May 2026 visit): Interrow predominantly soft fern Nephrolepis (photo): beneficial cover; avoid over-spraying, control only where it encroaches circles or harvesting (Agro 1/2026)
+Fertiliser programme (this year) FY2026/27:
+  - Jun (Sect.1): Mix B 2,000 g/palm (Agro 1/2026)
+  - Sep (Sect.1): Mix A 2,000 g/palm (Agro 1/2026)
+  - Jan (Sect.1): RP 1,500 g/palm (Agro 1/2026)
+  - Feb (Sect.1): Mix B 2,000 g/palm (Agro 1/2026)
+  - Apr (Sect.1): Mix A 2,000 g/palm (Agro 1/2026)
+  - Jul (Sect.2): Mix B 8,000 g/palm, sub-soil (Agro 1/2026)
+  - Jan (Sect.2): RP 1,500 g/palm (Agro 1/2026)
+  - Total: Section 1: 9,500 g/palm per year; section 2: 9,500 g/palm per year (Agro 1/2026)
+  - Note: Section 1: 32.98 ha, 4,897 palms, 148 SPH, 46.52 t; compost 10 t/ha in Oct 2026. Section 2 (flood-prone): 7.38 ha, 1,092 palms, 148 SPH, 10.37 t; no compost; Mix B buried in 3–4 pockets, 1,500–2,000 g per pocket (Agro 1/2026)
+Pests & diseases:
+  - Rat damage census Mar 2026: 32% damage (section 1, 38.7 ha); above the 10% threshold. Baiting started Apr 2026 (Agro 1/2026)
+Yield:
+  - FFB yield May–Nov 2025: 18.80 t/ha vs 16.43 t/ha in May–Nov 2024 (14%); no sub-block yields in the May 2026 report (Agro 2/2025 visit)
+Pruning:
+  - Pruning standard (May 2026 visit): Satisfactory pruning condition (photo); estate pruning up to date with only minor dry hanging fronds (Agro 1/2026)
+Nutrients:
+  - Leaf analysis Jun 2025: N 2.46%, P 0.160%, K 0.98%, Mg 0.31%, Ca 0.61%, B 22.11 ppm (samples received 21 Jun 2025, results 12 Jul 2025) (Agro 1/2026)
+
+BLOCK P07E (36.35 ha, planted 2007, Mature)
+Manuring progress:
+  - Compost FY2025/26 (May 2025–Apr 2026): 300.24 t on 29.78 ha (section 1 area), 10 t/ha, 100% of area (as of Nov 2025) (Agro 1/2026)
+  - Manuring delayed by floods FY2025/26 (May 2025–Apr 2026): Fertiliser application delayed by flooding Nov 2025–Feb 2026; estate to complete the FY2025/26 programme by end Jun 2026 (PA: completed by the Jun 2026 visit, estate-wide) (Agro 1/2026)
+Spraying & weeding:
+  - Vacant points (May 2026 visit): Vacant points overgrown with weeds (photos); potential hotspots for undesirable weed spread (Agro 1/2026)
+  - Ground cover (May 2026 visit): Interrow predominantly soft fern Nephrolepis (photo): beneficial cover; avoid over-spraying, control only where it encroaches circles or harvesting (Agro 1/2026)
+Fertiliser programme (this year) FY2026/27:
+  - Jun (Sect.1): Mix B 2,200 g/palm (Agro 1/2026)
+  - Sep (Sect.1): Mix A 2,200 g/palm (Agro 1/2026)
+  - Feb (Sect.1): Mix B 2,200 g/palm (Agro 1/2026)
+  - Apr (Sect.1): Mix A 2,200 g/palm (Agro 1/2026)
+  - Jul (Sect.2): Mix B 8,000 g/palm, sub-soil (Agro 1/2026)
+  - Total: Section 1: 8,800 g/palm per year; section 2: 8,000 g/palm per year (Agro 1/2026)
+  - Note: Section 1: 29.29 ha, 4,230 palms, 145 SPH, 37.22 t; compost 10 t/ha in Oct 2026. Section 2 (flood-prone): 7.06 ha, 1,024 palms, 145 SPH, 8.19 t; no compost; Mix B buried in 3–4 pockets, 1,500–2,000 g per pocket (Agro 1/2026)
+Pests & diseases:
+  - Rat damage census Mar 2026: 35% damage (section 1, 29.72 ha); above the 10% threshold. Baiting started Apr 2026 (Agro 1/2026)
+Yield:
+  - FFB yield May–Nov 2025: 12.77 t/ha vs 16.77 t/ha in May–Nov 2024 (-24%); no sub-block yields in the May 2026 report (Agro 2/2025 visit)
+Pruning:
+  - Pruning standard (May 2026 visit): Satisfactory pruning condition (photo); estate pruning up to date with only minor dry hanging fronds (Agro 1/2026)
+Nutrients:
+  - Leaf analysis Jun 2025: N 2.58%, P 0.164%, K 0.96%, Mg 0.29%, Ca 0.65%, B 17.43 ppm (samples received 21 Jun 2025, results 12 Jul 2025) (Agro 1/2026)
+
+BLOCK P07F (41.86 ha, planted 2007, Mature)
+Manuring progress:
+  - Compost FY2025/26 (May 2025–Apr 2026): 258.32 t on 25.66 ha (section 1 area), 10 t/ha, 100% of area (as of Nov 2025) (Agro 1/2026)
+  - Manuring delayed by floods FY2025/26 (May 2025–Apr 2026): Fertiliser application delayed by flooding Nov 2025–Feb 2026; estate to complete the FY2025/26 programme by end Jun 2026 (PA: completed by the Jun 2026 visit, estate-wide) (Agro 1/2026)
+Spraying & weeding:
+  - Ground cover (May 2026 visit): Interrow predominantly soft fern Nephrolepis (photo): beneficial cover; avoid over-spraying, control only where it encroaches circles or harvesting (Agro 1/2026)
+Fertiliser programme (this year) FY2026/27:
+  - Jun (Sect.1): Mix B 2,200 g/palm (Agro 1/2026)
+  - Sep (Sect.1): Mix A 2,000 g/palm (Agro 1/2026)
+  - Feb (Sect.1): Mix B 2,200 g/palm (Agro 1/2026)
+  - Apr (Sect.1): Mix A 2,000 g/palm (Agro 1/2026)
+  - Jul (Sect.2): Mix B 8,000 g/palm, sub-soil (Agro 1/2026)
+  - Total: Section 1: 8,400 g/palm per year; section 2: 8,000 g/palm per year (Agro 1/2026)
+  - Note: Section 1: 24.62 ha, 3,579 palms, 146 SPH, 30.06 t; compost 10 t/ha in Nov 2026. Section 2 (flood-prone): 17.24 ha, 2,517 palms, 146 SPH, 20.14 t; no compost; Mix B buried in 3–4 pockets, 1,500–2,000 g per pocket (Agro 1/2026)
+Pests & diseases:
+  - Rat damage census Jan–Mar 2026: Not yet censused by Mar 2026 (Q1 census covered 850.35 of 1,522.07 ha, 55.86%) (Agro 1/2026)
+Yield:
+  - FFB yield May–Nov 2025: 13.59 t/ha vs 14.44 t/ha in May–Nov 2024 (-6%); no sub-block yields in the May 2026 report (Agro 2/2025 visit)
+Pruning:
+  - Pruning standard (May 2026 visit): Satisfactory pruning condition (photo); estate pruning up to date with only minor dry hanging fronds (Agro 1/2026)
+Nutrients:
+  - Leaf analysis Jun 2025: N 2.49%, P 0.164%, K 0.96%, Mg 0.29%, Ca 0.64%, B 15.63 ppm (samples received 21 Jun 2025, results 12 Jul 2025) (Agro 1/2026)
+
+BLOCK P07G (29.98 ha, planted 2007, Mature)
+Manuring progress:
+  - Compost FY2025/26 (May 2025–Apr 2026): No tonnage printed; 8.79 ha (section 1 area) listed as 100% done at 0 t/ha (as of Nov 2025) (Agro 1/2026)
+  - Manuring delayed by floods FY2025/26 (May 2025–Apr 2026): Fertiliser application delayed by flooding Nov 2025–Feb 2026; estate to complete the FY2025/26 programme by end Jun 2026 (PA: completed by the Jun 2026 visit, estate-wide) (Agro 1/2026)
+Fertiliser programme (this year) FY2026/27:
+  - Jun (Sect.1): Mix B 2,000 g/palm (Agro 1/2026)
+  - Sep (Sect.1): Mix A 2,000 g/palm (Agro 1/2026)
+  - Jan (Sect.1): RP 1,500 g/palm (Agro 1/2026)
+  - Feb (Sect.1): Mix B 2,000 g/palm (Agro 1/2026)
+  - Apr (Sect.1): Mix A 2,000 g/palm (Agro 1/2026)
+  - Jul (Sect.2): Mix B 8,000 g/palm, sub-soil (Agro 1/2026)
+  - Jan (Sect.2): RP 1,000 g/palm (Agro 1/2026)
+  - Total: Section 1: 9,500 g/palm per year; section 2: 9,000 g/palm per year (Agro 1/2026)
+  - Note: Section 1: 8.45 ha, 1,239 palms, 148 SPH, 11.77 t; compost 10 t/ha in Nov 2026. Section 2 (flood-prone): 22.55 ha, 3,337 palms, 148 SPH, 30.03 t; no compost; Mix B buried in 3–4 pockets, 1,500–2,000 g per pocket (Agro 1/2026)
+Pests & diseases:
+  - Rat damage census Jan–Mar 2026: Not yet censused by Mar 2026 (Q1 census covered 850.35 of 1,522.07 ha, 55.86%) (Agro 1/2026)
+Yield:
+  - FFB yield May–Nov 2025: 13.15 t/ha vs 14.67 t/ha in May–Nov 2024 (-10%); no sub-block yields in the May 2026 report (Agro 2/2025 visit)
+Harvesting:
+  - Ripeness check (May 2026 visit): 8% overripe among freshly harvested bunches (photos); 8–15% across checked blocks is still high, keep a 15-day interval (Agro 1/2026)
+Pruning:
+  - Pruning standard (May 2026 visit): Satisfactory pruning condition (photo); estate pruning up to date with only minor dry hanging fronds (Agro 1/2026)
+Nutrients:
+  - Leaf analysis Jun 2025: N 2.51%, P 0.159%, K 0.94%, Mg 0.32%, Ca 0.62%, B 15.55 ppm (samples received 21 Jun 2025, results 12 Jul 2025) (Agro 1/2026)
+
+BLOCK P07H (27.17 ha, planted 2007, Mature)
+Manuring progress:
+  - Compost FY2025/26 (May 2025–Apr 2026): 257.96 t on 24.42 ha (section 1 area), 11 t/ha, 100% of area (as of Nov 2025) (Agro 1/2026)
+Spraying & weeding:
+  - Ground cover (May 2026 visit): Interrow predominantly soft fern Nephrolepis (photo): beneficial cover; avoid over-spraying, control only where it encroaches circles or harvesting (Agro 1/2026)
+Fertiliser programme (this year) FY2026/27:
+  - Jun (Sect.1): Mix B 2,000 g/palm (Agro 1/2026)
+  - Sep (Sect.1): Mix A 2,000 g/palm (Agro 1/2026)
+  - Feb (Sect.1): Mix B 2,000 g/palm (Agro 1/2026)
+  - Apr (Sect.1): Mix A 2,000 g/palm (Agro 1/2026)
+  - Jul (Sect.2): Mix B 8,000 g/palm, sub-soil (Agro 1/2026)
+  - Total: Section 1: 8,000 g/palm per year; section 2: 8,000 g/palm per year (Agro 1/2026)
+  - Note: Section 1: 14.35 ha, 2,027 palms, 141 SPH, 16.22 t; compost 10 t/ha in Nov 2026. Section 2 (flood-prone): 2.94 ha, 415 palms, 141 SPH, 3.32 t; no compost; Mix B buried in 3–4 pockets, 1,500–2,000 g per pocket (Agro 1/2026)
+Pests & diseases:
+  - Rat damage census Jan–Mar 2026: Not yet censused by Mar 2026 (Q1 census covered 850.35 of 1,522.07 ha, 55.86%) (Agro 1/2026)
+Yield:
+  - FFB yield May–Nov 2025: 20.87 t/ha vs 17.44 t/ha in May–Nov 2024 (20%); no sub-block yields in the May 2026 report (Agro 2/2025 visit)
+Harvesting:
+  - Ripeness check (May 2026 visit): 12% overripe among freshly harvested bunches (photos); 8–15% across checked blocks is still high, keep a 15-day interval (Agro 1/2026)
+Pruning:
+  - Pruning standard (May 2026 visit): Satisfactory pruning condition (photo); estate pruning up to date with only minor dry hanging fronds (Agro 1/2026)
+Nutrients:
+  - Leaf analysis Jun 2025: N 2.68%, P 0.161%, K 1.00%, Mg 0.34%, Ca 0.60%, B 18.79 ppm (samples received 21 Jun 2025, results 12 Jul 2025) (Agro 1/2026)
+
+BLOCK P07I (30.19 ha, planted 2007, Mature)
+Manuring progress:
+  - Compost FY2025/26 (May 2025–Apr 2026): 250.08 t on 25.15 ha (section 1 area), 10 t/ha, 100% of area (as of Nov 2025) (Agro 1/2026)
+Spraying & weeding:
+  - Ground cover (May 2026 visit): Interrow predominantly soft fern Nephrolepis (photo): beneficial cover; avoid over-spraying, control only where it encroaches circles or harvesting (Agro 1/2026)
+  - Undesirable ferns (May 2026 visit): Interrow mixed with Stenochlaena palustris and Dicranopteris linearis (photos); selective spray 150 ml Garlon + 25 g Ally per 10 L via mist blower with one-sided nozzle cover, rotated with 200 ml Plantek, 3 rounds a year (Agro 1/2026)
+Fertiliser programme (this year) FY2026/27:
+  - Jun (Sect.1): Mix B 2,000 g/palm (Agro 1/2026)
+  - Sep (Sect.1): Mix A 2,000 g/palm (Agro 1/2026)
+  - Jan (Sect.1): RP 1,500 g/palm (Agro 1/2026)
+  - Feb (Sect.1): Mix B 2,000 g/palm (Agro 1/2026)
+  - Apr (Sect.1): Mix A 2,000 g/palm (Agro 1/2026)
+  - Jul (Sect.2): Mix B 8,000 g/palm, sub-soil (Agro 1/2026)
+  - Jan (Sect.2): RP 1,000 g/palm (Agro 1/2026)
+  - Total: Section 1: 9,500 g/palm per year; section 2: 9,000 g/palm per year (Agro 1/2026)
+  - Note: Section 1: 33.67 ha, 5,014 palms, 149 SPH, 47.63 t; compost 10 t/ha in Nov 2026. Section 2 (flood-prone): 5.37 ha, 800 palms, 149 SPH, 7.20 t; no compost; Mix B buried in 3–4 pockets, 1,500–2,000 g per pocket (Agro 1/2026)
+Pests & diseases:
+  - Ganoderma palms (May 2026 visit): Ganoderma-infected palms photographed: mild to moderately severe, poor vigour, small canopies, frond snapping, multiple unopened spears (Agro 1/2026)
+  - Rat damage census Jan–Mar 2026: Not yet censused by Mar 2026 (Q1 census covered 850.35 of 1,522.07 ha, 55.86%) (Agro 1/2026)
+Yield:
+  - FFB yield May–Nov 2025: 16.53 t/ha vs 16.91 t/ha in May–Nov 2024 (-2%); no sub-block yields in the May 2026 report (Agro 2/2025 visit)
+Harvesting:
+  - Ripeness check (May 2026 visit): 10% overripe among freshly harvested bunches (photos); 8–15% across checked blocks is still high, keep a 15-day interval (Agro 1/2026)
+Pruning:
+  - Pruning standard (May 2026 visit): Satisfactory pruning condition (photo); estate pruning up to date with only minor dry hanging fronds (Agro 1/2026)
+Nutrients:
+  - Leaf analysis Jun 2025: N 2.45%, P 0.158%, K 1.06%, Mg 0.35%, Ca 0.59%, B 17.71 ppm (samples received 21 Jun 2025, results 12 Jul 2025) (Agro 1/2026)
+Field:
+  - Palm vigour (May 2026 visit): Palms on silty subsoil photographed: poorer vigour, pale green to yellowish foliage (Agro 1/2026)
+
+BLOCK P07J (34.32 ha, planted 2007, Mature)
+Manuring progress:
+  - Compost FY2025/26 (May 2025–Apr 2026): 291.56 t on 32.10 ha (section 1 area), 9 t/ha, 100% of area (as of Nov 2025) (Agro 1/2026)
+  - Sub-soil holes (May 2026 visit): Sub-soil fertiliser holes placed beside the drain (photos); place them diagonally opposite the drain, in the palm feeding zone (Agro 1/2026)
+Spraying & weeding:
+  - Ground cover (May 2026 visit): Interrow predominantly soft fern Nephrolepis (photo): beneficial cover; avoid over-spraying, control only where it encroaches circles or harvesting (Agro 1/2026)
+Fertiliser programme (this year) FY2026/27:
+  - Jun (Sect.1): Mix B 2,000 g/palm (Agro 1/2026)
+  - Sep (Sect.1): Mix A 2,000 g/palm (Agro 1/2026)
+  - Jan (Sect.1): RP 1,500 g/palm (Agro 1/2026)
+  - Feb (Sect.1): Mix B 2,000 g/palm (Agro 1/2026)
+  - Apr (Sect.1): Mix A 2,000 g/palm (Agro 1/2026)
+  - Jul (Sect.2): Mix B 8,000 g/palm, sub-soil (Agro 1/2026)
+  - Jan (Sect.2): RP 1,000 g/palm (Agro 1/2026)
+  - Total: Section 1: 9,500 g/palm per year; section 2: 9,000 g/palm per year (Agro 1/2026)
+  - Note: Section 1: 31.95 ha, 4,717 palms, 148 SPH, 44.81 t; compost 10 t/ha in Nov 2026. Section 2 (flood-prone): 2.37 ha, 351 palms, 148 SPH, 3.16 t; no compost; Mix B buried in 3–4 pockets, 1,500–2,000 g per pocket (Agro 1/2026)
+Pests & diseases:
+  - Rat damage census Jan–Mar 2026: Not yet censused by Mar 2026 (Q1 census covered 850.35 of 1,522.07 ha, 55.86%) (Agro 1/2026)
+Yield:
+  - FFB yield May–Nov 2025: 18.01 t/ha vs 15.97 t/ha in May–Nov 2024 (13%); no sub-block yields in the May 2026 report (Agro 2/2025 visit)
+Harvesting:
+  - Leftover bunches (May 2026 visit): Leftover uncollected old bunches seen (photo), believed to be excess overripe bunches left by harvesters (Agro 1/2026)
+Pruning:
+  - Pruning standard (May 2026 visit): Satisfactory pruning condition (photo); estate pruning up to date with only minor dry hanging fronds (Agro 1/2026)
+Nutrients:
+  - Leaf analysis Jun 2025: N 2.46%, P 0.156%, K 0.98%, Mg 0.35%, Ca 0.55%, B 16.79 ppm (samples received 21 Jun 2025, results 12 Jul 2025) (Agro 1/2026)
+
+BLOCK P07K (52.06 ha, planted 2007, Mature)
+Manuring progress:
+  - Compost FY2025/26 (May 2025–Apr 2026): 397.84 t on 44.55 ha (section 1 area), 9 t/ha, 100% of area (as of Nov 2025) (Agro 1/2026)
+  - Manuring delayed by floods FY2025/26 (May 2025–Apr 2026): Fertiliser application delayed by flooding Nov 2025–Feb 2026; estate to complete the FY2025/26 programme by end Jun 2026 (PA: completed by the Jun 2026 visit, estate-wide) (Agro 1/2026)
+Spraying & weeding:
+  - Ground cover (May 2026 visit): Interrow predominantly soft fern Nephrolepis (photo): beneficial cover; avoid over-spraying, control only where it encroaches circles or harvesting (Agro 1/2026)
+Fertiliser programme (this year) FY2026/27:
+  - Jun (Sect.1): Mix B 2,000 g/palm (Agro 1/2026)
+  - Sep (Sect.1): Mix A 2,000 g/palm (Agro 1/2026)
+  - Feb (Sect.1): Mix B 2,000 g/palm (Agro 1/2026)
+  - Apr (Sect.1): Mix A 2,000 g/palm (Agro 1/2026)
+  - Jul (Sect.2): Mix B 8,000 g/palm, sub-soil (Agro 1/2026)
+  - Total: Section 1: 8,000 g/palm per year; section 2: 8,000 g/palm per year (Agro 1/2026)
+  - Note: Section 1: 44.07 ha, 6,624 palms, 150 SPH, 52.99 t; compost 10 t/ha in Nov 2026. Section 2 (flood-prone): 8.00 ha, 1,198 palms, 150 SPH, 9.58 t; no compost; Mix B buried in 3–4 pockets, 1,500–2,000 g per pocket (Agro 1/2026)
+Pests & diseases:
+  - Rat damage census Jan–Mar 2026: Not yet censused by Mar 2026 (Q1 census covered 850.35 of 1,522.07 ha, 55.86%) (Agro 1/2026)
+Yield:
+  - FFB yield May–Nov 2025: 15.35 t/ha vs 14.38 t/ha in May–Nov 2024 (7%); no sub-block yields in the May 2026 report (Agro 2/2025 visit)
+Nutrients:
+  - Leaf analysis Jun 2025: N 2.67%, P 0.168%, K 1.02%, Mg 0.35%, Ca 0.58%, B 20.56 ppm (samples received 21 Jun 2025, results 12 Jul 2025) (Agro 1/2026)
+Field:
+  - Runt palms (May 2026 visit): Runt palms seen (photos); none thinned in FY2025/26. Kill by injecting about 50 ml glyphosate into two diagonal holes near the trunk base (Agro 1/2026)

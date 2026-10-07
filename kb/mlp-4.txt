@@ -102,3 +102,1620 @@ Total operating cost: 315.09 / 292.04
 
 FFB PRODUCTION (tonnes, whole estate, as printed in the reports)
 FY2025/26 May–Mar: 20,740.88 t (PA Report 1/2026 section 8, 'Crop production as per March 2026', actual to date May 2025–Mar 2026 (11 months; budget 23,764.52 t; 16.20 t/ha))
+
+BLOCK DETAIL (everything the latest reports say per block)
+ESTATE-WIDE FIELD NOTES
+[manuring] Manuring FY2025/26 (to Mar 2026): 210 of 235 budgeted block-rounds applied. Broadcasting 15 bags/man-day (3.7 ha), RM26.50/ha, earning RM98.32/day. Labour 14 manuring workers on checkroll; PA says 7 short (PA 1/2026)
+[manuring] Manuring FY2025/26 full year (Agro May 2026): Mix B 1,053.4 of 1,053.41 t (100%); Kieserite 128.95 of 128.93 t (100%); BRP 96.85 of 98.76 t (98%); completed in May 2026, some carried into FY2026/27. Delays from delivery, access, logistics and too few machines to carry fertiliser (Agro 1/2026)
+[manuring] Manuring FY2026/27 to Jun 2026: Mix B 7.8 of 159.74 t (5%), mainly sub-soil; Kieserite 0 of 41.89 t (0%). No delivery problem; behind because the FY2025/26 programme had to be finished first (Agro 1/2026)
+[manuring] Manuring cost FY2025/26 (to Mar 2026): Labour RM182,374 (RM142/ha); material RM1,170,091 (RM914/ha, 19% under budget); transport RM37,183 (RM29/ha) (PA 1/2026)
+[manuring] Fertiliser store May 2026: Acceptable: bags on pallets, no spillage; packed sub-soil fertiliser stored properly (Agro 1/2026)
+[spraying] Circle spray FY2025/26 (to Mar 2026): 1,958 ha of 3,840 ha budgeted (51%, 1.5 rounds), short of sprayers. Inter Pump, 1.3 ha/man-day (not acceptable), RM28/ha, earning RM36.40/day vs basic RM65.38; PA advises 4 ha/man-day at RM18/ha. Glyphosate 2.74 L/ha and Ally 0.07 kg/ha recorded (inconsistent; stop Ally in circles). Circles generally clean (PA 1/2026)
+[spraying] Selective spray FY2025/26 (to Mar 2026): 2,126 ha of 2,560 ha budgeted (83%, 1.7 rounds). Mist blower 3.7 ha/man-day, RM26/ha, earning RM96.20/day; Garlon 1.28 L/ha recorded (too high). Clidemia reduced but unsprayed and poorly killed woodies need corrective spraying; dense Giant Paspalum, bamboo, VOPs, Asystasia and woodies remain. Use Garlon or Ally only (no glyphosate mix); sodium chlorate 3 kg per bamboo cluster (PA 1/2026)
+[spraying] Weeding FY2025/26 full year (to Apr 2026): Selective 2,555.12 of 2,560.40 ha (100%); circle 1,985.85 of 3,840.60 ha (52%); poisoning woodies 906.64 of 1,280.20 ha (71%). Short of workers, irregular rain, poor roads (Agro 1/2026)
+[spraying] Weed status May 2026: Circles acceptable in most areas; inter-row still suboptimal with Clidemia hirta, Asystasia, giant grasses and broadleaf weeds (some areas last treated Dec 2025–Jan 2026); soft grasses and Nephrolepis kept only in some areas (Agro 1/2026)
+[spraying] Weeding cost FY2025/26 (to Mar 2026): Selective RM134,595 (RM105/ha); circle RM125,238 (RM98/ha, 35% over budget); blanket RM28,852; poisoning RM35,742 (63% over); slashing RM9,771 (PA 1/2026)
+[pests] Pests and diseases May 2026: No pest or disease issues (PA); under control, no outbreaks, keep regular rat census (Agro). P&D cost RM6,021 to Mar 2026 (Agro 1/2026)
+
+BLOCK P11A (203.3 ha, planted 2011, Mature)
+Spraying & weeding:
+  - Spraying FY2025/26 (May 2025–Mar 2026): Circle spray 415.13 ha done (3 rounds budgeted); selective 236.43 ha done (2 rounds budgeted) (PA block-table subtotals; per sub-block detail under each block) (PA 1/2026)
+Fertiliser programme (this year) FY2026/27:
+  - May: Mix B 2,000 g (A01, A02, A04, A05, A06 only) (Agro 1/2026)
+  - May: Mix B 8,000 g (printed with *, sub-soil application) (A03 only) (Agro 1/2026)
+  - Jun: Kieserite 1,000 g (A02, A03, A06 only) (Agro 1/2026)
+  - Aug: Mix B 2,000 g (A01, A02, A04, A05, A06 only) (Agro 1/2026)
+  - Oct: Rock phosphate (BRP) 750 g (Agro 1/2026)
+  - Nov: Mix B 2,000 g (A01, A02, A04, A05, A06 only) (Agro 1/2026)
+  - Feb: Mix B 2,000 g (A01, A02, A04, A05, A06 only) (Agro 1/2026)
+  - Note: Mix B 9.45:0:24:3.7:0.48; Kieserite; BRP = Bayovar rock phosphate. Columns May 2026 to Apr 2027. Agro 1/2026 says the FY2026/27 programme is unchanged (Agro 1/2026)
+Fertiliser programme (previous year) FY2025/26:
+  - May: Mix B 8,000 g (printed with *, sub-soil application) (A03 only) (Agro 2/2025)
+  - Jun: Mix B 2,000 g (A01, A02, A04, A05, A06 only) (Agro 2/2025)
+  - Jul: Kieserite 1,000 g (Agro 2/2025)
+  - Sep: Mix B 2,000 g (A01, A02, A04, A05, A06 only) (Agro 2/2025)
+  - Oct: Rock phosphate 750 g (Agro 2/2025)
+  - Jan: Mix B 2,000 g (A01, A02, A04, A05, A06 only) (Agro 2/2025)
+  - Apr: Mix B 2,000 g (A01, A02, A04, A05, A06 only) (Agro 2/2025)
+Yield:
+  - Yield FY2025/26 (May 2025–Apr 2026): 22.2 t/ha vs 15.58 t/ha in FY2024/25 (May 2024–Apr 2025), 30% as printed; estate 17.42 vs 15.46 t/ha (+11%) (Agro 1/2026)
+  - Bunch weight Mar 2026: 2011 planting: 18.8 kg (Mar 2025) to 18.3 kg (Mar 2026) (PA 1/2026)
+Harvesting:
+  - Harvesting rounds FY2025/26 (to Apr 2026): 28.1 rounds, 117% of the minimum 24 (Agro 1/2026)
+  - Harvesting interval May 2025–Apr 2026: Days by month May 2025 to Apr 2026: 25-30, 20-24, 11-18, 12-19, 14-18, 10-19, 13-25, 12-26, 17-23, 10-17, 10-12, 9-11 (Agro 1/2026)
+  - Harvesting interval May 2026: 9-11 days (Agro 1/2026)
+  - Harvester productivity FY2025/26 (to Mar 2026): 2011 planting: 2.09 t/man-day at RM50/t, average earning RM104.50/day (basic wage RM68.35) (PA 1/2026)
+Pruning:
+  - Pruning record FY2025/26 (to Apr 2026): 37.14 of 203.3 ha (18%); estate says payment records not updated, so field completion is higher (Agro 1/2026)
+  - Routine pruning paid May 2025–Mar 2026: 26.21 of 203.30 ha (PA block table subtotal) (PA 1/2026)
+Field:
+  - Area and palms: PA (Mar 2026): 203.30 ha, 23,206 palms, 114 SPH. Agro (May 2026): 205.85 ha, 23,509 palms, 114 SPH after supply planting (Agro 1/2026)
+  - Palm thinning (Oct 2025–Apr 2026): 224 palms removed; 587 removed since planting (Agro 1/2026)
+  - Sub-blocks: A01, A02, A03, A04, A05, A06 (PA 1/2026)
+
+BLOCK P12A (488.66 ha, planted 2012, Mature)
+Spraying & weeding:
+  - Spraying FY2025/26 (May 2025–Mar 2026): Circle spray 861.86 ha done (3 rounds budgeted); selective 1,033.57 ha done (2 rounds budgeted) (PA block-table subtotals; per sub-block detail under each block) (PA 1/2026)
+Fertiliser programme (this year) FY2026/27:
+  - May: Mix B 2,000 g (Agro 1/2026)
+  - Jun: Kieserite 1,000 g (A08, A12, A13, A14, A15, A16, A17, A19, A20 only) (Agro 1/2026)
+  - Aug: Mix B 2,000 g (Agro 1/2026)
+  - Oct: Rock phosphate (BRP) 750 g (Agro 1/2026)
+  - Nov: Mix B 2,000 g (Agro 1/2026)
+  - Feb: Mix B 2,000 g (Agro 1/2026)
+  - Note: Mix B 9.45:0:24:3.7:0.48; Kieserite; BRP = Bayovar rock phosphate. Columns May 2026 to Apr 2027. Agro 1/2026 says the FY2026/27 programme is unchanged (Agro 1/2026)
+Fertiliser programme (previous year) FY2025/26:
+  - Jun: Mix B 2,000 g (Agro 2/2025)
+  - Jul: Kieserite 1,000 g (Agro 2/2025)
+  - Sep: Mix B 2,000 g (Agro 2/2025)
+  - Oct: Rock phosphate 750 g (Agro 2/2025)
+  - Jan: Mix B 2,000 g (Agro 2/2025)
+  - Apr: Mix B 2,000 g (Agro 2/2025)
+Yield:
+  - Yield FY2025/26 (May 2025–Apr 2026): 19.74 t/ha vs 15.76 t/ha in FY2024/25 (May 2024–Apr 2025), 20% as printed; estate 17.42 vs 15.46 t/ha (+11%) (Agro 1/2026)
+  - Bunch weight Mar 2026: 2012 plantings: 18.8 kg (Mar 2025) to 18.3 kg (Mar 2026) (PA 1/2026)
+Harvesting:
+  - Harvesting rounds FY2025/26 (to Apr 2026): 25.5 rounds, 106% of the minimum 24 (Agro 1/2026)
+  - Harvesting interval May 2025–Apr 2026: Days by month May 2025 to Apr 2026: 15-31, 18-29, 11-16, 14-20, 11-18, 10-19, 18-24, 22-25, 14-24, 11-15, 11-14, 10-12 (Agro 1/2026)
+  - Harvesting interval May 2026: 9-11 days (Agro 1/2026)
+  - Harvester productivity FY2025/26 (to Mar 2026): PA lists two 2012 rows without saying which is 12A or 12B: 1.84 t/man-day (RM92.00/day) and 1.42 t/man-day (RM71.00/day), at RM50/t, basic wage RM68.35; productivity of 2012 plantings still not desirable (PA 1/2026)
+Pruning:
+  - Pruning record FY2025/26 (to Apr 2026): 116.66 of 488.66 ha (24%); estate says payment records not updated, so field completion is higher (Agro 1/2026)
+  - Routine pruning paid May 2025–Mar 2026: 103.13 of 488.66 ha (PA block table subtotal) (PA 1/2026)
+Field:
+  - Area and palms: PA (Mar 2026): 488.66 ha, 46,733 palms, 96 SPH. Agro (May 2026): 495.28 ha, 47,356 palms, 96 SPH after supply planting (Agro 1/2026)
+  - Palm thinning (Oct 2025–Apr 2026): 117 palms removed; 1,038 removed since planting (Agro 1/2026)
+  - Sub-blocks: A07, A08, A09, A10, A11, A12, A13, A14, A15, A16, A17, A18, A19, A20 (PA 1/2026)
+
+BLOCK P12B (588.24 ha, planted 2012, Mature)
+Spraying & weeding:
+  - Spraying FY2025/26 (May 2025–Mar 2026): Circle spray 681.29 ha done (3 rounds budgeted); selective 856.19 ha done (2 rounds budgeted) (PA block-table subtotals; per sub-block detail under each block) (PA 1/2026)
+Fertiliser programme (this year) FY2026/27:
+  - May: Mix B 8,000 g (printed with *, sub-soil application) (B20 only) (Agro 1/2026)
+  - Jun: Mix B 2,000 g (B01, B02, B03, B04, B05, B06, B07, B08, B09, B10, B11, B12, B13, B14, B15, B16, B17, B18, B19 only) (Agro 1/2026)
+  - Jul: Kieserite 1,000 g (B03, B04, B06, B07, B08, B09, B10, B12, B13, B16, B17, B18, B20 only) (Agro 1/2026)
+  - Sep: Mix B 2,000 g (B01, B02, B03, B04, B05, B06, B07, B08, B09, B10, B11, B12, B13, B14, B15, B16, B17, B18, B19 only) (Agro 1/2026)
+  - Oct: Rock phosphate (BRP) 750 g (B01, B02, B03, B04, B05, B06, B07, B08, B09, B10, B11, B12, B13, B14, B15, B16, B17, B18, B19 only) (Agro 1/2026)
+  - Jan: Mix B 2,000 g (B01, B02, B03, B04, B05, B06, B07, B08, B09, B10, B11, B12, B13, B14, B15, B16, B17, B18, B19 only) (Agro 1/2026)
+  - Apr: Mix B 2,000 g (B01, B02, B03, B04, B05, B06, B07, B08, B09, B10, B11, B12, B13, B14, B15, B16, B17, B18, B19 only) (Agro 1/2026)
+  - Note: Mix B 9.45:0:24:3.7:0.48; Kieserite; BRP = Bayovar rock phosphate. Columns May 2026 to Apr 2027. Agro 1/2026 says the FY2026/27 programme is unchanged (Agro 1/2026)
+Fertiliser programme (previous year) FY2025/26:
+  - May: Mix B 2,000 g (Agro 2/2025)
+  - Jul: Kieserite 1,000 g (Agro 2/2025)
+  - Aug: Mix B 2,000 g (Agro 2/2025)
+  - Oct: Rock phosphate 750 g (Agro 2/2025)
+  - Nov: Mix B 2,000 g (Agro 2/2025)
+  - Feb: Mix B 2,000 g (Agro 2/2025)
+Yield:
+  - Yield FY2025/26 (May 2025–Apr 2026): 14.68 t/ha vs 15.08 t/ha in FY2024/25 (May 2024–Apr 2025), -3% as printed; estate 17.42 vs 15.46 t/ha (+11%) (Agro 1/2026)
+  - Bunch weight Mar 2026: 2012 plantings: 18.8 kg (Mar 2025) to 18.3 kg (Mar 2026) (PA 1/2026)
+  - Why P12B fell FY2025/26: Only 20 harvesting rounds against a minimum 24 (16% short, lowest field), linked to earlier access problems; improving after road repairs (Agro 1/2026)
+Harvesting:
+  - Harvesting rounds FY2025/26 (to Apr 2026): 20.1 rounds, 84% of the minimum 24 (Agro 1/2026)
+  - Harvesting interval May 2025–Apr 2026: Days by month May 2025 to Apr 2026: 19-28, 16-40, 10-30, 17-35, 21-32, 11-30, 13-24, 18-21, 20-23, 13-23, 12-15, 12-17 (Agro 1/2026)
+  - Harvesting interval May 2026: 11-16 days (Agro 1/2026)
+  - Harvester productivity FY2025/26 (to Mar 2026): PA lists two 2012 rows without saying which is 12A or 12B: 1.84 t/man-day (RM92.00/day) and 1.42 t/man-day (RM71.00/day), at RM50/t, basic wage RM68.35; productivity of 2012 plantings still not desirable (PA 1/2026)
+  - Interval note FY2025/26: Longest intervals early in FY2025/26 (up to 16–40 days); improved to 11–16 days by Apr–May 2026 (Agro 1/2026)
+Pruning:
+  - Pruning record FY2025/26 (to Apr 2026): 60.44 of 588.24 ha (10%); estate says payment records not updated, so field completion is higher (Agro 1/2026)
+  - Routine pruning paid May 2025–Mar 2026: 49.68 of 588.24 ha (PA block table subtotal) (PA 1/2026)
+Field:
+  - Area and palms: PA (Mar 2026): 588.24 ha, 61,723 palms, 105 SPH. Agro (May 2026): 600.84 ha, 62,436 palms, 104 SPH after supply planting (Agro 1/2026)
+  - Palm thinning (Oct 2025–Apr 2026): 10 palms removed; 620 removed since planting (Agro 1/2026)
+  - Sub-blocks: B01, B02, B03, B04, B05, B06, B07, B08, B09, B10, B11, B12, B13, B14, B15, B16, B17, B18, B19, B20 (PA 1/2026)
+
+BLOCK A01 (31.18 ha, planted 2011, Mature)
+Manuring progress (FY2025/26 programme, May 2025–Mar 2026 (rounds with an application date only)):
+  - Mix B (Jun 25): 100% — applied 26/07 (as printed) (PA 1/2026)
+  - Kieserite (Jul 25): 100% — applied 22/08 (as printed) (PA 1/2026)
+  - Mix B (Sep 25): 100% — applied 04/10 (as printed) (PA 1/2026)
+  - RP (Oct 25): 100% — applied 19/06 (as printed) (PA 1/2026)
+  - Mix B (Jan 26): 100% — applied 11/12 (as printed) (PA 1/2026)
+  - Mix B (Apr 26): 100% — applied 03/03 (as printed) (PA 1/2026)
+Spraying progress (FY2025/26, May 2025–Mar 2026):
+  - Circle spraying: 67% — 62.28 ha · Sep 2025 / Feb 2026 (PA 1/2026)
+  - Selective spraying: 50% — 31.18 ha · Jul 2025 (PA 1/2026)
+Spraying & weeding:
+  - Weeding checklist May 2026: Circle good, inter-row good (Agro 1/2026)
+Fertiliser programme (this year) FY2026/27:
+  - May: Mix B 2,000 g (Agro 1/2026)
+  - Aug: Mix B 2,000 g (Agro 1/2026)
+  - Oct: Rock phosphate (BRP) 750 g (Agro 1/2026)
+  - Nov: Mix B 2,000 g (Agro 1/2026)
+  - Feb: Mix B 2,000 g (Agro 1/2026)
+  - Note: Mix B 9.45:0:24:3.7:0.48; Kieserite; BRP = Bayovar rock phosphate. Columns May 2026 to Apr 2027. Agro 1/2026 says the FY2026/27 programme is unchanged (Agro 1/2026)
+Fertiliser programme (previous year) FY2025/26:
+  - Jun: Mix B 2,000 g (Agro 2/2025)
+  - Jul: Kieserite 1,000 g (Agro 2/2025)
+  - Sep: Mix B 2,000 g (Agro 2/2025)
+  - Oct: Rock phosphate 750 g (Agro 2/2025)
+  - Jan: Mix B 2,000 g (Agro 2/2025)
+  - Apr: Mix B 2,000 g (Agro 2/2025)
+Pruning:
+  - Routine pruning paid May 2025–Mar 2026: 3.68 ha of 31.18 ha (PA 1/2026)
+  - Pruning & sanitation checklist May 2026: Pruning good, sanitation good (Agro 1/2026)
+Nutrients:
+  - Leaf analysis Oct 2025: N 2.73 (H), P 0.168 (N), K 1.14 (H), Mg 0.29 (H), Ca 0.45 (ML), B 14.7 (N). Key: ML marginal low, N normal, H high (Agro 2/2025)
+Field:
+  - Block details (Mar 2026): Field 11A, 31.18 ha, 3,858 palms, 124 SPH, IOI material, planted 2011 (PA 1/2026)
+
+BLOCK A02 (36.82 ha, planted 2011, Mature)
+Manuring progress (FY2025/26 programme, May 2025–Mar 2026 (rounds with an application date only)):
+  - Mix B (Jun 25): 100% — applied 29/07 (as printed) (PA 1/2026)
+  - Kieserite (Jul 25): 100% — applied 25/08 (as printed) (PA 1/2026)
+  - Mix B (Sep 25): 100% — applied 06/10 (as printed) (PA 1/2026)
+  - RP (Oct 25): 100% — applied 22/10 (as printed) (PA 1/2026)
+  - Mix B (Jan 26): 100% — applied 13/12 (as printed) (PA 1/2026)
+  - Mix B (Apr 26): 100% — applied 02/03 (as printed) (PA 1/2026)
+Spraying progress (FY2025/26, May 2025–Mar 2026):
+  - Circle spraying: 67% — 73.52 ha · Sep 2025 / Feb 2026 (printed Feb'27) (PA 1/2026)
+  - Selective spraying: 50% — 36.82 ha · Aug 2025 (PA 1/2026)
+Manuring progress:
+  - BRP quality check A02 (Oct 2025): BRP application assessed in P11A-02: quality acceptable, supervision satisfactory, but only about 6 bags/man-day (Agro 2/2025)
+Spraying & weeding:
+  - Weeding checklist May 2026: Circle good, inter-row good (Agro 1/2026)
+Fertiliser programme (this year) FY2026/27:
+  - May: Mix B 2,000 g (Agro 1/2026)
+  - Jun: Kieserite 1,000 g (Agro 1/2026)
+  - Aug: Mix B 2,000 g (Agro 1/2026)
+  - Oct: Rock phosphate (BRP) 750 g (Agro 1/2026)
+  - Nov: Mix B 2,000 g (Agro 1/2026)
+  - Feb: Mix B 2,000 g (Agro 1/2026)
+  - Note: Mix B 9.45:0:24:3.7:0.48; Kieserite; BRP = Bayovar rock phosphate. Columns May 2026 to Apr 2027. Agro 1/2026 says the FY2026/27 programme is unchanged (Agro 1/2026)
+Fertiliser programme (previous year) FY2025/26:
+  - Jun: Mix B 2,000 g (Agro 2/2025)
+  - Jul: Kieserite 1,000 g (Agro 2/2025)
+  - Sep: Mix B 2,000 g (Agro 2/2025)
+  - Oct: Rock phosphate 750 g (Agro 2/2025)
+  - Jan: Mix B 2,000 g (Agro 2/2025)
+  - Apr: Mix B 2,000 g (Agro 2/2025)
+Pruning:
+  - Routine pruning paid May 2025–Mar 2026: 5.62 ha of 36.82 ha (PA 1/2026)
+  - Pruning & sanitation checklist May 2026: Pruning good, sanitation good (Agro 1/2026)
+Nutrients:
+  - Leaf analysis Oct 2025: N 2.68 (N), P 0.167 (N), K 1.17 (H), Mg 0.26 (N), Ca 0.49 (ML), B 14.5 (N). Key: ML marginal low, N normal, H high (Agro 2/2025)
+Field:
+  - Block details (Mar 2026): Field 11A, 36.82 ha, 4,481 palms, 122 SPH, IOI material, planted 2011 (PA 1/2026)
+
+BLOCK A03 (21.96 ha, planted 2011, Mature)
+Spraying progress (FY2025/26, May 2025–Mar 2026):
+  - Circle spraying: 67% — 43.88 ha · Oct 2025 / Mar 2026 (PA 1/2026)
+  - Selective spraying: 41% — 17.94 ha · Jul 2025 (PA 1/2026)
+Manuring progress:
+  - Mix B sub-surface (May 2025): 8,000 g/palm programmed May 2025; application dates printed 14/08, 15/08, 16/08, 18/08, 19/08, 20/08 (dd/mm); PA 6.4.4 says sub-surface work in A03 was completed in May 2025 (PA 1/2026)
+  - Sub-surface productivity (FY2025/26): 0.2 ha/man-day at 4 bags/man-day (25 palms), very low; RM1.80/palm, earning RM45/day vs basic wage RM65.38; target 1 ha/man-day at 20 bags (FEHB method: bags along harvester path, 4-worker gangs) (PA 1/2026)
+Spraying & weeding:
+  - Weeding checklist May 2026: Circle good, inter-row good (Agro 1/2026)
+  - Weeds A03 (May 2026): Poorly sprayed woodies, sprayed woodies and bamboo photographed; circles clean (PA 1/2026)
+Fertiliser programme (this year) FY2026/27:
+  - May: Mix B 8,000 g (printed with *, sub-soil application) (Agro 1/2026)
+  - Jun: Kieserite 1,000 g (Agro 1/2026)
+  - Oct: Rock phosphate (BRP) 750 g (Agro 1/2026)
+  - Note: Mix B 9.45:0:24:3.7:0.48; Kieserite; BRP = Bayovar rock phosphate. Columns May 2026 to Apr 2027. Agro 1/2026 says the FY2026/27 programme is unchanged (Agro 1/2026)
+Fertiliser programme (previous year) FY2025/26:
+  - May: Mix B 8,000 g (printed with *, sub-soil application) (Agro 2/2025)
+  - Jul: Kieserite 1,000 g (Agro 2/2025)
+  - Oct: Rock phosphate 750 g (Agro 2/2025)
+Yield:
+  - Low crop A03 (May 2026): Male flowers photographed; estate in a low-crop period (PA 1/2026)
+Harvesting:
+  - Loose fruit A03 (May 2026): Uncollected loose fruit photographed (PA 1/2026)
+Pruning:
+  - Routine pruning paid May 2025–Mar 2026: 0.50 ha of 21.96 ha (PA 1/2026)
+  - Pruning & sanitation checklist May 2026: Pruning good, sanitation good (Agro 1/2026)
+  - Pruned palms A03 (May 2026): Pruned palms photographed (satisfactory overall) (PA 1/2026)
+Nutrients:
+  - Leaf analysis Oct 2025: N 2.72 (H), P 0.17 (H), K 1.1 (H), Mg 0.27 (N), Ca 0.49 (ML), B 14.4 (N). Key: ML marginal low, N normal, H high (Agro 2/2025)
+Field:
+  - Block details (Mar 2026): Field 11A, 21.96 ha, 2,761 palms, 126 SPH, IOI material, planted 2011 (PA 1/2026)
+
+BLOCK A04 (41.14 ha, planted 2011, Mature)
+Manuring progress (FY2025/26 programme, May 2025–Mar 2026 (rounds with an application date only)):
+  - Mix B (Jun 25): 100% — applied 01/08 (as printed) (PA 1/2026)
+  - Kieserite (Jul 25): 100% — applied 26/08 (as printed) (PA 1/2026)
+  - Mix B (Sep 25): 100% — applied 10/10 (as printed) (PA 1/2026)
+  - RP (Oct 25): 100% — applied 27/10 (as printed) (PA 1/2026)
+  - Mix B (Jan 26): 100% — applied 15/12 (as printed) (PA 1/2026)
+  - Mix B (Apr 26): 100% — applied 07/03 (as printed) (PA 1/2026)
+Spraying progress (FY2025/26, May 2025–Mar 2026):
+  - Circle spraying: 66% — 81.37 ha · Jun 2025 / Jan 2026 (PA 1/2026)
+  - Selective spraying: 50% — 41.46 ha · Sep 2025 (PA 1/2026)
+Spraying & weeding:
+  - Weeding checklist May 2026: Circle good, inter-row good (Agro 1/2026)
+  - Weeds A04 (May 2026): VOPs photographed; circles clean (PA); circle maintenance satisfactory, completed toward end of FY (Agro) (PA 1/2026)
+Fertiliser programme (this year) FY2026/27:
+  - May: Mix B 2,000 g (Agro 1/2026)
+  - Aug: Mix B 2,000 g (Agro 1/2026)
+  - Oct: Rock phosphate (BRP) 750 g (Agro 1/2026)
+  - Nov: Mix B 2,000 g (Agro 1/2026)
+  - Feb: Mix B 2,000 g (Agro 1/2026)
+  - Note: Mix B 9.45:0:24:3.7:0.48; Kieserite; BRP = Bayovar rock phosphate. Columns May 2026 to Apr 2027. Agro 1/2026 says the FY2026/27 programme is unchanged (Agro 1/2026)
+Fertiliser programme (previous year) FY2025/26:
+  - Jun: Mix B 2,000 g (Agro 2/2025)
+  - Jul: Kieserite 1,000 g (Agro 2/2025)
+  - Sep: Mix B 2,000 g (Agro 2/2025)
+  - Oct: Rock phosphate 750 g (Agro 2/2025)
+  - Jan: Mix B 2,000 g (Agro 2/2025)
+  - Apr: Mix B 2,000 g (Agro 2/2025)
+Pruning:
+  - Routine pruning paid May 2025–Mar 2026: 4.19 ha of 41.14 ha (PA 1/2026)
+  - Pruning & sanitation checklist May 2026: Pruning good, sanitation good (Agro 1/2026)
+  - Corrective pruning A04 (May 2026): Corrective pruning done on previously neglected ravine palms after access improved (Agro 1/2026)
+Nutrients:
+  - Leaf analysis Oct 2025: N 2.7 (H), P 0.17 (H), K 1.08 (H), Mg 0.28 (N), Ca 0.47 (ML), B 13.8 (N). Key: ML marginal low, N normal, H high (Agro 2/2025)
+Field:
+  - Block details (Mar 2026): Field 11A, 41.14 ha, 4,904 palms, 119 SPH, IOI material, planted 2011 (PA 1/2026)
+  - Supply planting (FY2025/26, Agro May 2026): 2.55 ha of previously vacant land planted with 303 supply palms; block now 43.69 ha, 5,207 palms in the FY2026/27 programme (Agro 1/2026)
+  - Supplying A04 (May 2026): Supplying of vacant areas and supply palms photographed; new supply palms in acceptable condition (Agro) (PA 1/2026)
+  - Road repair A04 (May 2026): Road repaired (Agro photos) (Agro 1/2026)
+
+BLOCK A05 (37.11 ha, planted 2011, Mature)
+Manuring progress (FY2025/26 programme, May 2025–Mar 2026 (rounds with an application date only)):
+  - Mix B (Jun 25): 100% — applied 19/09 (as printed) (PA 1/2026)
+  - Kieserite (Jul 25): 100% — applied 27/08 (as printed) (PA 1/2026)
+  - Mix B (Sep 25): 100% — applied 11/10 (as printed) (PA 1/2026)
+  - RP (Oct 25): 100% — applied 25/10 (as printed) (PA 1/2026)
+  - Mix B (Jan 26): 100% — applied 16/12 (as printed) (PA 1/2026)
+  - Mix B (Apr 26): 100% — applied 05/03 (as printed) (PA 1/2026)
+Spraying progress (FY2025/26, May 2025–Mar 2026):
+  - Circle spraying: 62% — 68.89 ha · Jun 2025 / Feb 2026 (PA 1/2026)
+  - Selective spraying: 100% — 73.94 ha · Aug 2025 / Feb 2026 (PA 1/2026)
+Manuring progress:
+  - Sub-soil check A05 (May 2026): Sub-soil fertiliser application assessed: acceptable, but hole distance from palm base and hole depth inconsistent, holes should be properly covered (Agro 1/2026)
+Spraying & weeding:
+  - Weeding checklist May 2026: Circle fair, inter-row fair (Agro 1/2026)
+  - Circles A05 (May 2026): Circle maintenance satisfactory, completed toward end of FY (Agro 1/2026)
+Fertiliser programme (this year) FY2026/27:
+  - May: Mix B 2,000 g (Agro 1/2026)
+  - Aug: Mix B 2,000 g (Agro 1/2026)
+  - Oct: Rock phosphate (BRP) 750 g (Agro 1/2026)
+  - Nov: Mix B 2,000 g (Agro 1/2026)
+  - Feb: Mix B 2,000 g (Agro 1/2026)
+  - Note: Mix B 9.45:0:24:3.7:0.48; Kieserite; BRP = Bayovar rock phosphate. Columns May 2026 to Apr 2027. Agro 1/2026 says the FY2026/27 programme is unchanged (Agro 1/2026)
+Fertiliser programme (previous year) FY2025/26:
+  - Jun: Mix B 2,000 g (Agro 2/2025)
+  - Jul: Kieserite 1,000 g (Agro 2/2025)
+  - Sep: Mix B 2,000 g (Agro 2/2025)
+  - Oct: Rock phosphate 750 g (Agro 2/2025)
+  - Jan: Mix B 2,000 g (Agro 2/2025)
+  - Apr: Mix B 2,000 g (Agro 2/2025)
+Pruning:
+  - Routine pruning paid May 2025–Mar 2026: 9.52 ha of 37.11 ha (PA 1/2026)
+  - Pruning & sanitation checklist May 2026: Pruning fair, sanitation fair (Agro 1/2026)
+  - Corrective pruning A05 (May 2026): Corrective pruning done on previously neglected ravine palms after access improved (Agro 1/2026)
+Nutrients:
+  - Leaf analysis Oct 2025: N 2.77 (H), P 0.158 (ML), K 1.06 (H), Mg 0.26 (N), Ca 0.44 (ML), B 17.5 (H). Key: ML marginal low, N normal, H high (Agro 2/2025)
+Field:
+  - Block details (Mar 2026): Field 11A, 37.11 ha, 3,770 palms, 102 SPH, IOI material, planted 2011 (PA 1/2026)
+  - Road repair A05 (May 2026): Road repaired (Agro photos) (Agro 1/2026)
+
+BLOCK A06 (35.09 ha, planted 2011, Mature)
+Manuring progress (FY2025/26 programme, May 2025–Mar 2026 (rounds with an application date only)):
+  - Mix B (Jun 25): 100% — applied 21/07 (as printed) (PA 1/2026)
+  - Kieserite (Jul 25): 100% — applied 04/08 (as printed) (PA 1/2026)
+  - Mix B (Sep 25): 100% — applied 14/10 (as printed) (PA 1/2026)
+  - RP (Oct 25): 100% — applied 20/12 (as printed) (PA 1/2026)
+  - Mix B (Jan 26): 100% — applied 17/12 (as printed) (PA 1/2026)
+  - Mix B (Apr 26): 100% — applied 27/02 (as printed) (PA 1/2026)
+Spraying progress (FY2025/26, May 2025–Mar 2026):
+  - Circle spraying: 81% — 85.19 ha · Jun 2025 / Feb 2026 (PA 1/2026)
+  - Selective spraying: 50% — 35.09 ha · Aug 2025 (PA 1/2026)
+Spraying & weeding:
+  - Weeding checklist May 2026: Circle good, inter-row not rated (Agro 1/2026)
+Fertiliser programme (this year) FY2026/27:
+  - May: Mix B 2,000 g (Agro 1/2026)
+  - Jun: Kieserite 1,000 g (Agro 1/2026)
+  - Aug: Mix B 2,000 g (Agro 1/2026)
+  - Oct: Rock phosphate (BRP) 750 g (Agro 1/2026)
+  - Nov: Mix B 2,000 g (Agro 1/2026)
+  - Feb: Mix B 2,000 g (Agro 1/2026)
+  - Note: Mix B 9.45:0:24:3.7:0.48; Kieserite; BRP = Bayovar rock phosphate. Columns May 2026 to Apr 2027. Agro 1/2026 says the FY2026/27 programme is unchanged (Agro 1/2026)
+Fertiliser programme (previous year) FY2025/26:
+  - Jun: Mix B 2,000 g (Agro 2/2025)
+  - Jul: Kieserite 1,000 g (Agro 2/2025)
+  - Sep: Mix B 2,000 g (Agro 2/2025)
+  - Oct: Rock phosphate 750 g (Agro 2/2025)
+  - Jan: Mix B 2,000 g (Agro 2/2025)
+  - Apr: Mix B 2,000 g (Agro 2/2025)
+Pruning:
+  - Routine pruning paid May 2025–Mar 2026: 2.70 ha of 35.09 ha (PA 1/2026)
+  - Pruning & sanitation checklist May 2026: Pruning good, sanitation good (Agro 1/2026)
+Nutrients:
+  - Leaf analysis Oct 2025: N 2.76 (H), P 0.159 (ML), K 1.15 (H), Mg 0.26 (N), Ca 0.49 (ML), B 13.9 (N). Key: ML marginal low, N normal, H high (Agro 2/2025)
+Field:
+  - Block details (Mar 2026): Field 11A, 35.09 ha, 3,432 palms, 98 SPH, IOI material, planted 2011 (PA 1/2026)
+
+BLOCK A07 (24.6 ha, planted 2012, Mature)
+Manuring progress (FY2025/26 programme, May 2025–Mar 2026 (rounds with an application date only)):
+  - Mix B (Jun 25): 100% — applied 04/07 (as printed) (PA 1/2026)
+  - Kieserite (Jul 25): 100% — applied 21/08 (as printed) (PA 1/2026)
+  - Mix B (Sep 25): 100% — applied 17/10 (as printed) (PA 1/2026)
+  - RP (Oct 25): 100% — applied 18/06 (as printed) (PA 1/2026)
+  - Mix B (Jan 26): 100% — applied 09/12 (as printed) (PA 1/2026)
+  - Mix B (Apr 26): 100% — applied 27/01 (as printed) (PA 1/2026)
+Spraying progress (FY2025/26, May 2025–Mar 2026):
+  - Circle spraying: 67% — 49.17 ha · Oct 2025 / Feb 2026 (PA 1/2026)
+  - Selective spraying: 100% — 49.20 ha · May 2025 / Feb 2026 (PA 1/2026)
+Spraying & weeding:
+  - Weeding checklist May 2026: Circle ticked good and fair, inter-row fair (Agro 1/2026)
+Fertiliser programme (this year) FY2026/27:
+  - May: Mix B 2,000 g (Agro 1/2026)
+  - Aug: Mix B 2,000 g (Agro 1/2026)
+  - Oct: Rock phosphate (BRP) 750 g (Agro 1/2026)
+  - Nov: Mix B 2,000 g (Agro 1/2026)
+  - Feb: Mix B 2,000 g (Agro 1/2026)
+  - Note: Mix B 9.45:0:24:3.7:0.48; Kieserite; BRP = Bayovar rock phosphate. Columns May 2026 to Apr 2027. Agro 1/2026 says the FY2026/27 programme is unchanged (Agro 1/2026)
+Fertiliser programme (previous year) FY2025/26:
+  - Jun: Mix B 2,000 g (Agro 2/2025)
+  - Jul: Kieserite 1,000 g (Agro 2/2025)
+  - Sep: Mix B 2,000 g (Agro 2/2025)
+  - Oct: Rock phosphate 750 g (Agro 2/2025)
+  - Jan: Mix B 2,000 g (Agro 2/2025)
+  - Apr: Mix B 2,000 g (Agro 2/2025)
+Pruning:
+  - Routine pruning paid May 2025–Mar 2026: 2.86 ha of 24.60 ha (PA 1/2026)
+  - Pruning & sanitation checklist May 2026: Pruning good, sanitation good (Agro 1/2026)
+Nutrients:
+  - Leaf analysis Oct 2025: N 2.64 (N), P 0.166 (N), K 1.06 (H), Mg 0.27 (N), Ca 0.55 (ML), B 14.7 (N). Key: ML marginal low, N normal, H high (Agro 2/2025)
+Field:
+  - Block details (Mar 2026): Field 12A, 24.60 ha, 2,795 palms, 114 SPH, IOI material, planted 2012 (PA 1/2026)
+
+BLOCK A08 (32.45 ha, planted 2012, Mature)
+Manuring progress (FY2025/26 programme, May 2025–Mar 2026 (rounds with an application date only)):
+  - Mix B (Jun 25): 100% — applied 22/07 (as printed) (PA 1/2026)
+  - Kieserite (Jul 25): 100% — applied 04/06 (as printed) (PA 1/2026)
+  - Mix B (Sep 25): 100% — applied 10/09 (as printed) (PA 1/2026)
+  - RP (Oct 25): 100% — applied 24/10 (as printed) (PA 1/2026)
+  - Mix B (Jan 26): 100% — applied 10/12 (as printed) (PA 1/2026)
+  - Mix B (Apr 26): 100% — applied 24/02 (as printed) (PA 1/2026)
+Spraying progress (FY2025/26, May 2025–Mar 2026):
+  - Circle spraying: 68% — 65.93 ha · Jun 2025 / Feb 2026 (PA 1/2026)
+  - Selective spraying: 100% — 64.85 ha · Aug 2025 / Feb 2026 (PA 1/2026)
+Spraying & weeding:
+  - Weeding checklist May 2026: Circle good, inter-row fair (Agro 1/2026)
+  - Weeds A08 (May 2026): Sprayed Clidemia, bamboo, missed unsprayed woodies and overgrown VOPs photographed; circles clean (PA 1/2026)
+Fertiliser programme (this year) FY2026/27:
+  - May: Mix B 2,000 g (Agro 1/2026)
+  - Jun: Kieserite 1,000 g (Agro 1/2026)
+  - Aug: Mix B 2,000 g (Agro 1/2026)
+  - Oct: Rock phosphate (BRP) 750 g (Agro 1/2026)
+  - Nov: Mix B 2,000 g (Agro 1/2026)
+  - Feb: Mix B 2,000 g (Agro 1/2026)
+  - Note: Mix B 9.45:0:24:3.7:0.48; Kieserite; BRP = Bayovar rock phosphate. Columns May 2026 to Apr 2027. Agro 1/2026 says the FY2026/27 programme is unchanged (Agro 1/2026)
+Fertiliser programme (previous year) FY2025/26:
+  - Jun: Mix B 2,000 g (Agro 2/2025)
+  - Jul: Kieserite 1,000 g (Agro 2/2025)
+  - Sep: Mix B 2,000 g (Agro 2/2025)
+  - Oct: Rock phosphate 750 g (Agro 2/2025)
+  - Jan: Mix B 2,000 g (Agro 2/2025)
+  - Apr: Mix B 2,000 g (Agro 2/2025)
+Yield:
+  - Low crop A08 (May 2026): Palms with no bunches photographed (PA 1/2026)
+Pruning:
+  - Routine pruning paid May 2025–Mar 2026: 1.47 ha of 32.45 ha (PA 1/2026)
+  - Pruning & sanitation checklist May 2026: Pruning good, sanitation good (Agro 1/2026)
+Nutrients:
+  - Leaf analysis Oct 2025: N 2.64 (N), P 0.167 (N), K 1.1 (H), Mg 0.27 (N), Ca 0.48 (ML), B 14.4 (N). Key: ML marginal low, N normal, H high (Agro 2/2025)
+Field:
+  - Block details (Mar 2026): Field 12A, 32.45 ha, 3,850 palms, 119 SPH, IOI material, planted 2012 (PA 1/2026)
+  - Bridge A08 (May 2026): New bridge under construction (PA 1/2026)
+
+BLOCK A09 (35.9 ha, planted 2012, Mature)
+Manuring progress (FY2025/26 programme, May 2025–Mar 2026 (rounds with an application date only)):
+  - Mix B (Jun 25): 100% — applied 24/07 (as printed) (PA 1/2026)
+  - Kieserite (Jul 25): 100% — applied 03/06 (as printed) (PA 1/2026)
+  - Mix B (Sep 25): 100% — applied 01/10 (as printed) (PA 1/2026)
+  - RP (Oct 25): 100% — applied 23/10 (as printed) (PA 1/2026)
+  - Mix B (Jan 26): 100% — applied 18/12 (as printed) (PA 1/2026)
+  - Mix B (Apr 26): 100% — applied 26/02 (as printed) (PA 1/2026)
+Spraying progress (FY2025/26, May 2025–Mar 2026):
+  - Circle spraying: 50% — 53.85 ha · Jun 2025 / Mar 2026 (PA 1/2026)
+  - Selective spraying: 109% — 78.45 ha · Jul 2025 / Feb 2026 (PA 1/2026)
+Spraying & weeding:
+  - Weeding checklist May 2026: Circle good, inter-row fair (Agro 1/2026)
+  - Weeds A09 (May 2026): Giant Paspalum photographed (PA 1/2026)
+Fertiliser programme (this year) FY2026/27:
+  - May: Mix B 2,000 g (Agro 1/2026)
+  - Aug: Mix B 2,000 g (Agro 1/2026)
+  - Oct: Rock phosphate (BRP) 750 g (Agro 1/2026)
+  - Nov: Mix B 2,000 g (Agro 1/2026)
+  - Feb: Mix B 2,000 g (Agro 1/2026)
+  - Note: Mix B 9.45:0:24:3.7:0.48; Kieserite; BRP = Bayovar rock phosphate. Columns May 2026 to Apr 2027. Agro 1/2026 says the FY2026/27 programme is unchanged (Agro 1/2026)
+Fertiliser programme (previous year) FY2025/26:
+  - Jun: Mix B 2,000 g (Agro 2/2025)
+  - Jul: Kieserite 1,000 g (Agro 2/2025)
+  - Sep: Mix B 2,000 g (Agro 2/2025)
+  - Oct: Rock phosphate 750 g (Agro 2/2025)
+  - Jan: Mix B 2,000 g (Agro 2/2025)
+  - Apr: Mix B 2,000 g (Agro 2/2025)
+Pruning:
+  - Routine pruning paid May 2025–Mar 2026: 3.45 ha of 35.90 ha (PA 1/2026)
+  - Pruning & sanitation checklist May 2026: Pruning good, sanitation good (Agro 1/2026)
+Nutrients:
+  - Leaf analysis Oct 2025: N 2.69 (N), P 0.169 (N), K 1.07 (H), Mg 0.3 (H), Ca 0.48 (ML), B 17.6 (H). Key: ML marginal low, N normal, H high (Agro 2/2025)
+Field:
+  - Block details (Mar 2026): Field 12A, 35.90 ha, 3,805 palms, 106 SPH, IOI material, planted 2012 (PA 1/2026)
+  - Road A09 (May 2026): Damaged road photographed (PA 1/2026)
+
+BLOCK A10 (35.06 ha, planted 2012, Mature)
+Manuring progress (FY2025/26 programme, May 2025–Mar 2026 (rounds with an application date only)):
+  - Mix B (Jun 25): 100% — applied 10/07 (as printed) (PA 1/2026)
+  - Kieserite (Jul 25): 100% — applied 08/09 (as printed) (PA 1/2026)
+  - Mix B (Sep 25): 100% — applied 02/10 (as printed) (PA 1/2026)
+  - RP (Oct 25): 100% — applied 16/06 (as printed) (PA 1/2026)
+  - Mix B (Jan 26): 100% — applied 15/01 (as printed) (PA 1/2026)
+Spraying progress (FY2025/26, May 2025–Mar 2026):
+  - Circle spraying: 67% — 70.10 ha · Jun 2025 / Feb 2026 (PA 1/2026)
+  - Selective spraying: 86% — 60.16 ha · Jul 2025 / Mar 2026 (PA 1/2026)
+Manuring progress:
+  - Mix B (Apr 2026): Mix B 2,000 g/palm, no application date in the PA table (to Mar 2026) (PA 1/2026)
+Spraying & weeding:
+  - Weeding checklist May 2026: Circle good, inter-row fair (Agro 1/2026)
+Fertiliser programme (this year) FY2026/27:
+  - May: Mix B 2,000 g (Agro 1/2026)
+  - Aug: Mix B 2,000 g (Agro 1/2026)
+  - Oct: Rock phosphate (BRP) 750 g (Agro 1/2026)
+  - Nov: Mix B 2,000 g (Agro 1/2026)
+  - Feb: Mix B 2,000 g (Agro 1/2026)
+  - Note: Mix B 9.45:0:24:3.7:0.48; Kieserite; BRP = Bayovar rock phosphate. Columns May 2026 to Apr 2027. Agro 1/2026 says the FY2026/27 programme is unchanged (Agro 1/2026)
+Fertiliser programme (previous year) FY2025/26:
+  - Jun: Mix B 2,000 g (Agro 2/2025)
+  - Jul: Kieserite 1,000 g (Agro 2/2025)
+  - Sep: Mix B 2,000 g (Agro 2/2025)
+  - Oct: Rock phosphate 750 g (Agro 2/2025)
+  - Jan: Mix B 2,000 g (Agro 2/2025)
+  - Apr: Mix B 2,000 g (Agro 2/2025)
+Pruning:
+  - Routine pruning paid May 2025–Mar 2026: 2.06 ha of 35.06 ha (PA 1/2026)
+  - Pruning & sanitation checklist May 2026: Pruning good, sanitation good (Agro 1/2026)
+Nutrients:
+  - Leaf analysis Oct 2025: N 2.66 (N), P 0.17 (H), K 1.07 (H), Mg 0.28 (N), Ca 0.53 (ML), B 17.4 (H). Key: ML marginal low, N normal, H high (Agro 2/2025)
+Field:
+  - Block details (Mar 2026): Field 12A, 35.06 ha, 3,243 palms, 92 SPH, IOI material, planted 2012 (PA 1/2026)
+
+BLOCK A11 (30.2 ha, planted 2012, Mature)
+Manuring progress (FY2025/26 programme, May 2025–Mar 2026 (rounds with an application date only)):
+  - Mix B (Jun 25): 100% — applied 11/07 (as printed) (PA 1/2026)
+  - Kieserite (Jul 25): 100% — applied 03/09 (as printed) (PA 1/2026)
+  - Mix B (Sep 25): 100% — applied 04/09 (as printed) (PA 1/2026)
+  - RP (Oct 25): 100% — applied 14/06 (as printed) (PA 1/2026)
+  - Mix B (Jan 26): 100% — applied 16/01 (as printed) (PA 1/2026)
+Spraying progress (FY2025/26, May 2025–Mar 2026):
+  - Circle spraying: 48% — 43.63 ha · Sep 2025 / Mar 2026 (PA 1/2026)
+  - Selective spraying: 100% — 60.40 ha · Jul 2025 / Feb 2026 (PA 1/2026)
+Manuring progress:
+  - Mix B (Apr 2026): Mix B 2,000 g/palm, no application date in the PA table (to Mar 2026) (PA 1/2026)
+Spraying & weeding:
+  - Weeding checklist May 2026: Circle good, inter-row fair (Agro 1/2026)
+Fertiliser programme (this year) FY2026/27:
+  - May: Mix B 2,000 g (Agro 1/2026)
+  - Aug: Mix B 2,000 g (Agro 1/2026)
+  - Oct: Rock phosphate (BRP) 750 g (Agro 1/2026)
+  - Nov: Mix B 2,000 g (Agro 1/2026)
+  - Feb: Mix B 2,000 g (Agro 1/2026)
+  - Note: Mix B 9.45:0:24:3.7:0.48; Kieserite; BRP = Bayovar rock phosphate. Columns May 2026 to Apr 2027. Agro 1/2026 says the FY2026/27 programme is unchanged (Agro 1/2026)
+Fertiliser programme (previous year) FY2025/26:
+  - Jun: Mix B 2,000 g (Agro 2/2025)
+  - Jul: Kieserite 1,000 g (Agro 2/2025)
+  - Sep: Mix B 2,000 g (Agro 2/2025)
+  - Oct: Rock phosphate 750 g (Agro 2/2025)
+  - Jan: Mix B 2,000 g (Agro 2/2025)
+  - Apr: Mix B 2,000 g (Agro 2/2025)
+Pruning:
+  - Routine pruning paid May 2025–Mar 2026: 2.93 ha of 30.20 ha (PA 1/2026)
+  - Pruning & sanitation checklist May 2026: Pruning good, sanitation good (Agro 1/2026)
+Nutrients:
+  - Leaf analysis Oct 2025: N 2.67 (N), P 0.169 (N), K 1.08 (H), Mg 0.28 (N), Ca 0.44 (ML), B 17.7 (H). Key: ML marginal low, N normal, H high (Agro 2/2025)
+Field:
+  - Block details (Mar 2026): Field 12A, 30.20 ha, 2,601 palms, 86 SPH, IOI material, planted 2012 (PA 1/2026)
+
+BLOCK A12 (36.21 ha, planted 2012, Mature)
+Manuring progress (FY2025/26 programme, May 2025–Mar 2026 (rounds with an application date only)):
+  - Mix B (Jun 25): 100% — applied 12/07 (as printed) (PA 1/2026)
+  - Kieserite (Jul 25): 100% — applied 03/09 (as printed) (PA 1/2026)
+  - Mix B (Sep 25): 100% — applied 03/09 (as printed) (PA 1/2026)
+  - RP (Oct 25): 100% — applied 14/06 (as printed) (PA 1/2026)
+  - Mix B (Jan 26): 100% — applied 17/01 (as printed) (PA 1/2026)
+Spraying progress (FY2025/26, May 2025–Mar 2026):
+  - Circle spraying: 67% — 72.41 ha · Jun 2025 / Feb 2026 (PA 1/2026)
+  - Selective spraying: 100% — 72.21 ha · Aug 2025 / Feb 2026 (PA 1/2026)
+Manuring progress:
+  - Mix B (Apr 2026): Mix B 2,000 g/palm, no application date in the PA table (to Mar 2026) (PA 1/2026)
+Spraying & weeding:
+  - Weeding checklist May 2026: Circle good, inter-row fair (Agro 1/2026)
+Fertiliser programme (this year) FY2026/27:
+  - May: Mix B 2,000 g (Agro 1/2026)
+  - Jun: Kieserite 1,000 g (Agro 1/2026)
+  - Aug: Mix B 2,000 g (Agro 1/2026)
+  - Oct: Rock phosphate (BRP) 750 g (Agro 1/2026)
+  - Nov: Mix B 2,000 g (Agro 1/2026)
+  - Feb: Mix B 2,000 g (Agro 1/2026)
+  - Note: Mix B 9.45:0:24:3.7:0.48; Kieserite; BRP = Bayovar rock phosphate. Columns May 2026 to Apr 2027. Agro 1/2026 says the FY2026/27 programme is unchanged (Agro 1/2026)
+Fertiliser programme (previous year) FY2025/26:
+  - Jun: Mix B 2,000 g (Agro 2/2025)
+  - Jul: Kieserite 1,000 g (Agro 2/2025)
+  - Sep: Mix B 2,000 g (Agro 2/2025)
+  - Oct: Rock phosphate 750 g (Agro 2/2025)
+  - Jan: Mix B 2,000 g (Agro 2/2025)
+  - Apr: Mix B 2,000 g (Agro 2/2025)
+Pruning:
+  - Routine pruning paid May 2025–Mar 2026: 16.66 ha of 36.21 ha (PA 1/2026)
+  - Pruning & sanitation checklist May 2026: Pruning good, sanitation good (Agro 1/2026)
+Nutrients:
+  - Leaf analysis Oct 2025: N 2.59 (ML), P 0.161 (N), K 1.13 (H), Mg 0.26 (N), Ca 0.49 (ML), B 14.2 (N). Key: ML marginal low, N normal, H high (Agro 2/2025)
+Field:
+  - Block details (Mar 2026): Field 12A, 36.21 ha, 3,293 palms, 91 SPH, IOI material, planted 2012 (PA 1/2026)
+
+BLOCK A13 (41.56 ha, planted 2012, Mature)
+Manuring progress (FY2025/26 programme, May 2025–Mar 2026 (rounds with an application date only)):
+  - Mix B (Jun 25): 100% — applied 17/07 (as printed) (PA 1/2026)
+  - Kieserite (Jul 25): 100% — applied 30/08 (as printed) (PA 1/2026)
+  - Mix B (Sep 25): 100% — applied 18/10 (as printed) (PA 1/2026)
+  - RP (Oct 25): 100% — applied 12/06 (as printed) (PA 1/2026)
+  - Mix B (Jan 26): 100% — applied 19/01 (as printed) (PA 1/2026)
+Spraying progress (FY2025/26, May 2025–Mar 2026):
+  - Circle spraying: 67% — 83.03 ha · Oct 2025 / Mar 2026 (PA 1/2026)
+  - Selective spraying: 128% — 106.04 ha · Jun 2025 / Nov 2025 / Mar 2026 (PA 1/2026)
+Manuring progress:
+  - Mix B (Apr 2026): Mix B 2,000 g/palm, no application date in the PA table (to Mar 2026) (PA 1/2026)
+Spraying & weeding:
+  - Weeding checklist May 2026: Circle good, inter-row fair (Agro 1/2026)
+  - Weeds A13 (May 2026): Giant Paspalum, unsprayed bamboo, missed woodies and sprayed woodies photographed; circles clean (PA 1/2026)
+Fertiliser programme (this year) FY2026/27:
+  - May: Mix B 2,000 g (Agro 1/2026)
+  - Jun: Kieserite 1,000 g (Agro 1/2026)
+  - Aug: Mix B 2,000 g (Agro 1/2026)
+  - Oct: Rock phosphate (BRP) 750 g (Agro 1/2026)
+  - Nov: Mix B 2,000 g (Agro 1/2026)
+  - Feb: Mix B 2,000 g (Agro 1/2026)
+  - Note: Mix B 9.45:0:24:3.7:0.48; Kieserite; BRP = Bayovar rock phosphate. Columns May 2026 to Apr 2027. Agro 1/2026 says the FY2026/27 programme is unchanged (Agro 1/2026)
+Fertiliser programme (previous year) FY2025/26:
+  - Jun: Mix B 2,000 g (Agro 2/2025)
+  - Jul: Kieserite 1,000 g (Agro 2/2025)
+  - Sep: Mix B 2,000 g (Agro 2/2025)
+  - Oct: Rock phosphate 750 g (Agro 2/2025)
+  - Jan: Mix B 2,000 g (Agro 2/2025)
+  - Apr: Mix B 2,000 g (Agro 2/2025)
+Yield:
+  - Low crop A13 (May 2026): Male flowers photographed (PA 1/2026)
+Harvesting:
+  - Loose fruit A13 (May 2026): Uncollected loose fruit photographed (PA 1/2026)
+Pruning:
+  - Routine pruning paid May 2025–Mar 2026: 15.12 ha of 41.56 ha (PA 1/2026)
+  - Pruning & sanitation checklist May 2026: Pruning good, sanitation good (Agro 1/2026)
+Nutrients:
+  - Leaf analysis Oct 2025: N 2.65 (N), P 0.168 (N), K 1.15 (H), Mg 0.28 (N), Ca 0.51 (N), B 14.1 (N). Key: ML marginal low, N normal, H high (Agro 2/2025)
+Field:
+  - Block details (Mar 2026): Field 12A, 41.56 ha, 3,419 palms, 82 SPH, IOI material, planted 2012 (PA 1/2026)
+  - Supply planting (FY2025/26, Agro May 2026): 5.83 ha of previously vacant land planted with 565 supply palms; block now 47.39 ha, 3,984 palms in the FY2026/27 programme (Agro 1/2026)
+
+BLOCK A14 (43.77 ha, planted 2012, Mature)
+Manuring progress (FY2025/26 programme, May 2025–Mar 2026 (rounds with an application date only)):
+  - Mix B (Jun 25): 100% — applied 15/07 (as printed) (PA 1/2026)
+  - Kieserite (Jul 25): 100% — applied 29/08 (as printed) (PA 1/2026)
+  - Mix B (Sep 25): 100% — applied 20/01 (as printed) (PA 1/2026)
+  - RP (Oct 25): 100% — applied 10/06 (as printed) (PA 1/2026)
+  - Mix B (Jan 26): 100% — applied 14/01 (as printed) (PA 1/2026)
+Spraying progress (FY2025/26, May 2025–Mar 2026):
+  - Circle spraying: 64% — 83.66 ha · Sep 2025 / Feb 2026 (PA 1/2026)
+  - Selective spraying: 150% — 131.28 ha · Jun 2025 / Oct 2025 / Mar 2026 (PA 1/2026)
+Manuring progress:
+  - Mix B (Apr 2026): Mix B 2,000 g/palm, no application date in the PA table (to Mar 2026) (PA 1/2026)
+Spraying & weeding:
+  - Weeding checklist May 2026: Circle good, inter-row fair (Agro 1/2026)
+Fertiliser programme (this year) FY2026/27:
+  - May: Mix B 2,000 g (Agro 1/2026)
+  - Jun: Kieserite 1,000 g (Agro 1/2026)
+  - Aug: Mix B 2,000 g (Agro 1/2026)
+  - Oct: Rock phosphate (BRP) 750 g (Agro 1/2026)
+  - Nov: Mix B 2,000 g (Agro 1/2026)
+  - Feb: Mix B 2,000 g (Agro 1/2026)
+  - Note: Mix B 9.45:0:24:3.7:0.48; Kieserite; BRP = Bayovar rock phosphate. Columns May 2026 to Apr 2027. Agro 1/2026 says the FY2026/27 programme is unchanged (Agro 1/2026)
+Fertiliser programme (previous year) FY2025/26:
+  - Jun: Mix B 2,000 g (Agro 2/2025)
+  - Jul: Kieserite 1,000 g (Agro 2/2025)
+  - Sep: Mix B 2,000 g (Agro 2/2025)
+  - Oct: Rock phosphate 750 g (Agro 2/2025)
+  - Jan: Mix B 2,000 g (Agro 2/2025)
+  - Apr: Mix B 2,000 g (Agro 2/2025)
+Pruning:
+  - Routine pruning paid May 2025–Mar 2026: 9.53 ha of 43.77 ha (PA 1/2026)
+  - Pruning & sanitation checklist May 2026: Pruning good, sanitation good (Agro 1/2026)
+Nutrients:
+  - Leaf analysis Oct 2025: N 2.65 (N), P 0.16 (N), K 1.11 (H), Mg 0.26 (N), Ca 0.45 (ML), B 17.4 (H). Key: ML marginal low, N normal, H high (Agro 2/2025)
+Field:
+  - Block details (Mar 2026): Field 12A, 43.77 ha, 3,237 palms, 74 SPH, IOI material, planted 2012 (PA 1/2026)
+  - Supply planting (FY2025/26, Agro May 2026): 0.79 ha of previously vacant land planted with 58 supply palms; block now 44.56 ha, 3,295 palms in the FY2026/27 programme (Agro 1/2026)
+
+BLOCK A15 (36.27 ha, planted 2012, Mature)
+Manuring progress (FY2025/26 programme, May 2025–Mar 2026 (rounds with an application date only)):
+  - Mix B (Jun 25): 100% — applied 08/07 (as printed) (PA 1/2026)
+  - Kieserite (Jul 25): 100% — applied 28/06 (as printed) (PA 1/2026)
+  - Mix B (Sep 25): 100% — applied 26/09 (as printed) (PA 1/2026)
+  - RP (Oct 25): 100% — applied 20/10 (as printed) (PA 1/2026)
+  - Mix B (Jan 26): 100% — applied 20/01 (as printed) (PA 1/2026)
+Spraying progress (FY2025/26, May 2025–Mar 2026):
+  - Circle spraying: 66% — 72.24 ha · Sep 2025 / Feb 2026 (PA 1/2026)
+  - Selective spraying: 100% — 72.54 ha · Jun 2025 / Feb 2026 (PA 1/2026)
+Manuring progress:
+  - Mix B (Apr 2026): Mix B 2,000 g/palm, no application date in the PA table (to Mar 2026) (PA 1/2026)
+Spraying & weeding:
+  - Weeding checklist May 2026: Circle good, inter-row fair (Agro 1/2026)
+Fertiliser programme (this year) FY2026/27:
+  - May: Mix B 2,000 g (Agro 1/2026)
+  - Jun: Kieserite 1,000 g (Agro 1/2026)
+  - Aug: Mix B 2,000 g (Agro 1/2026)
+  - Oct: Rock phosphate (BRP) 750 g (Agro 1/2026)
+  - Nov: Mix B 2,000 g (Agro 1/2026)
+  - Feb: Mix B 2,000 g (Agro 1/2026)
+  - Note: Mix B 9.45:0:24:3.7:0.48; Kieserite; BRP = Bayovar rock phosphate. Columns May 2026 to Apr 2027. Agro 1/2026 says the FY2026/27 programme is unchanged (Agro 1/2026)
+Fertiliser programme (previous year) FY2025/26:
+  - Jun: Mix B 2,000 g (Agro 2/2025)
+  - Jul: Kieserite 1,000 g (Agro 2/2025)
+  - Sep: Mix B 2,000 g (Agro 2/2025)
+  - Oct: Rock phosphate 750 g (Agro 2/2025)
+  - Jan: Mix B 2,000 g (Agro 2/2025)
+  - Apr: Mix B 2,000 g (Agro 2/2025)
+Pruning:
+  - Routine pruning paid May 2025–Mar 2026: 0.31 ha of 36.27 ha (PA 1/2026)
+  - Pruning & sanitation checklist May 2026: Pruning good, sanitation good (Agro 1/2026)
+Nutrients:
+  - Leaf analysis Oct 2025: N 2.69 (N), P 0.163 (N), K 1.17 (H), Mg 0.27 (N), Ca 0.47 (ML), B 14.2 (N). Key: ML marginal low, N normal, H high (Agro 2/2025)
+Field:
+  - Block details (Mar 2026): Field 12A, 36.27 ha, 3,081 palms, 85 SPH, IOI material, planted 2012 (PA 1/2026)
+
+BLOCK A16 (37.7 ha, planted 2012, Mature)
+Manuring progress (FY2025/26 programme, May 2025–Mar 2026 (rounds with an application date only)):
+  - Mix B (Jun 25): 100% — applied 05/07 (as printed) (PA 1/2026)
+  - Kieserite (Jul 25): 100% — applied 30/06 (as printed) (PA 1/2026)
+  - Mix B (Sep 25): 100% — applied 29/09 (as printed) (PA 1/2026)
+  - RP (Oct 25): 100% — applied 17/06 (as printed) (PA 1/2026)
+  - Mix B (Jan 26): 100% — applied 19/12 (as printed) (PA 1/2026)
+Spraying progress (FY2025/26, May 2025–Mar 2026):
+  - Circle spraying: 67% — 75.39 ha · May 2025 / Mar 2026 (PA 1/2026)
+  - Selective spraying: 50% — 37.67 ha · Aug 2025 (PA 1/2026)
+Manuring progress:
+  - Mix B (Apr 2026): Mix B 2,000 g/palm, no application date in the PA table (to Mar 2026) (PA 1/2026)
+Spraying & weeding:
+  - Weeding checklist May 2026: Circle good, inter-row fair (Agro 1/2026)
+Fertiliser programme (this year) FY2026/27:
+  - May: Mix B 2,000 g (Agro 1/2026)
+  - Jun: Kieserite 1,000 g (Agro 1/2026)
+  - Aug: Mix B 2,000 g (Agro 1/2026)
+  - Oct: Rock phosphate (BRP) 750 g (Agro 1/2026)
+  - Nov: Mix B 2,000 g (Agro 1/2026)
+  - Feb: Mix B 2,000 g (Agro 1/2026)
+  - Note: Mix B 9.45:0:24:3.7:0.48; Kieserite; BRP = Bayovar rock phosphate. Columns May 2026 to Apr 2027. Agro 1/2026 says the FY2026/27 programme is unchanged (Agro 1/2026)
+Fertiliser programme (previous year) FY2025/26:
+  - Jun: Mix B 2,000 g (Agro 2/2025)
+  - Jul: Kieserite 1,000 g (Agro 2/2025)
+  - Sep: Mix B 2,000 g (Agro 2/2025)
+  - Oct: Rock phosphate 750 g (Agro 2/2025)
+  - Jan: Mix B 2,000 g (Agro 2/2025)
+  - Apr: Mix B 2,000 g (Agro 2/2025)
+Pruning:
+  - Routine pruning paid May 2025–Mar 2026: 7.01 ha of 37.70 ha (PA 1/2026)
+  - Pruning & sanitation checklist May 2026: Pruning good, sanitation good (Agro 1/2026)
+Nutrients:
+  - Leaf analysis Oct 2025: N 2.69 (N), P 0.17 (H), K 1.14 (H), Mg 0.28 (N), Ca 0.5 (ML), B 15.9 (H). Key: ML marginal low, N normal, H high (Agro 2/2025)
+Field:
+  - Block details (Mar 2026): Field 12A, 37.70 ha, 3,727 palms, 99 SPH, IOI material, planted 2012 (PA 1/2026)
+
+BLOCK A17 (21.25 ha, planted 2012, Mature)
+Manuring progress (FY2025/26 programme, May 2025–Mar 2026 (rounds with an application date only)):
+  - Mix B (Jun 25): 100% — applied 02/07 (as printed) (PA 1/2026)
+  - Kieserite (Jul 25): 100% — applied 05/06 (as printed) (PA 1/2026)
+  - Mix B (Sep 25): 100% — applied 23/09 (as printed) (PA 1/2026)
+  - RP (Oct 25): 100% — applied 29/10 (as printed) (PA 1/2026)
+  - Mix B (Jan 26): 100% — applied 20/12 (as printed) (PA 1/2026)
+  - Mix B (Apr 26): 100% — applied 11/03 (as printed) (PA 1/2026)
+Spraying progress (FY2025/26, May 2025–Mar 2026):
+  - Circle spraying: 66% — 42.37 ha · Sep 2025 / Jan 2026 (PA 1/2026)
+  - Selective spraying: 94% — 40.10 ha · Jul 2025 / Feb 2026 (PA 1/2026)
+Spraying & weeding:
+  - Weeding checklist May 2026: Circle ticked good and fair, inter-row fair (Agro 1/2026)
+Fertiliser programme (this year) FY2026/27:
+  - May: Mix B 2,000 g (Agro 1/2026)
+  - Jun: Kieserite 1,000 g (Agro 1/2026)
+  - Aug: Mix B 2,000 g (Agro 1/2026)
+  - Oct: Rock phosphate (BRP) 750 g (Agro 1/2026)
+  - Nov: Mix B 2,000 g (Agro 1/2026)
+  - Feb: Mix B 2,000 g (Agro 1/2026)
+  - Note: Mix B 9.45:0:24:3.7:0.48; Kieserite; BRP = Bayovar rock phosphate. Columns May 2026 to Apr 2027. Agro 1/2026 says the FY2026/27 programme is unchanged (Agro 1/2026)
+Fertiliser programme (previous year) FY2025/26:
+  - Jun: Mix B 2,000 g (Agro 2/2025)
+  - Jul: Kieserite 1,000 g (Agro 2/2025)
+  - Sep: Mix B 2,000 g (Agro 2/2025)
+  - Oct: Rock phosphate 750 g (Agro 2/2025)
+  - Jan: Mix B 2,000 g (Agro 2/2025)
+  - Apr: Mix B 2,000 g (Agro 2/2025)
+Pruning:
+  - Routine pruning paid May 2025–Mar 2026: 0.00 ha of 21.25 ha (PA 1/2026)
+  - Pruning & sanitation checklist May 2026: Pruning good, sanitation good (Agro 1/2026)
+Nutrients:
+  - Leaf analysis Oct 2025: N 2.65 (N), P 0.16 (N), K 1.15 (H), Mg 0.27 (N), Ca 0.5 (ML), B 17.7 (H). Key: ML marginal low, N normal, H high (Agro 2/2025)
+Field:
+  - Block details (Mar 2026): Field 12A, 21.25 ha, 1,848 palms, 87 SPH, IOI material, planted 2012 (PA 1/2026)
+
+BLOCK A18 (36.64 ha, planted 2012, Mature)
+Manuring progress (FY2025/26 programme, May 2025–Mar 2026 (rounds with an application date only)):
+  - Mix B (Jun 25): 100% — applied 02/07 (as printed) (PA 1/2026)
+  - Kieserite (Jul 25): 100% — applied 05/06 (as printed) (PA 1/2026)
+  - Mix B (Sep 25): 100% — applied 25/09 (as printed) (PA 1/2026)
+  - RP (Oct 25): 100% — applied 29/10 (as printed) (PA 1/2026)
+  - Mix B (Jan 26): 100% — applied 22/12 (as printed) (PA 1/2026)
+Spraying progress (FY2025/26, May 2025–Mar 2026):
+  - Circle spraying: 67% — 73.24 ha · Sep 2025 / Mar 2026 (PA 1/2026)
+  - Selective spraying: 100% — 73.28 ha · Jun 2025 / Feb 2026 (PA 1/2026)
+Manuring progress:
+  - Mix B (Apr 2026): Mix B 2,000 g/palm, no application date in the PA table (to Mar 2026) (PA 1/2026)
+Spraying & weeding:
+  - Weeding checklist May 2026: Circle ticked good and fair, inter-row fair (Agro 1/2026)
+Fertiliser programme (this year) FY2026/27:
+  - May: Mix B 2,000 g (Agro 1/2026)
+  - Aug: Mix B 2,000 g (Agro 1/2026)
+  - Oct: Rock phosphate (BRP) 750 g (Agro 1/2026)
+  - Nov: Mix B 2,000 g (Agro 1/2026)
+  - Feb: Mix B 2,000 g (Agro 1/2026)
+  - Note: Mix B 9.45:0:24:3.7:0.48; Kieserite; BRP = Bayovar rock phosphate. Columns May 2026 to Apr 2027. Agro 1/2026 says the FY2026/27 programme is unchanged (Agro 1/2026)
+Fertiliser programme (previous year) FY2025/26:
+  - Jun: Mix B 2,000 g (Agro 2/2025)
+  - Jul: Kieserite 1,000 g (Agro 2/2025)
+  - Sep: Mix B 2,000 g (Agro 2/2025)
+  - Oct: Rock phosphate 750 g (Agro 2/2025)
+  - Jan: Mix B 2,000 g (Agro 2/2025)
+  - Apr: Mix B 2,000 g (Agro 2/2025)
+Pruning:
+  - Routine pruning paid May 2025–Mar 2026: 1.49 ha of 36.64 ha (PA 1/2026)
+  - Pruning & sanitation checklist May 2026: Pruning good, sanitation good (Agro 1/2026)
+Nutrients:
+  - Leaf analysis Oct 2025: N 2.6 (N), P 0.166 (N), K 1.07 (H), Mg 0.27 (N), Ca 0.49 (ML), B 17.7 (H). Key: ML marginal low, N normal, H high (Agro 2/2025)
+Field:
+  - Block details (Mar 2026): Field 12A, 36.64 ha, 3,694 palms, 101 SPH, IOI material, planted 2012 (PA 1/2026)
+
+BLOCK A19 (35.7 ha, planted 2012, Mature)
+Manuring progress (FY2025/26 programme, May 2025–Mar 2026 (rounds with an application date only)):
+  - Mix B (Jun 25): 100% — applied 25/09 (as printed) (PA 1/2026)
+  - Kieserite (Jul 25): 100% — applied 01/11 (as printed) (PA 1/2026)
+  - Mix B (Sep 25): 100% — applied 21/10 (as printed) (PA 1/2026)
+  - RP (Oct 25): 100% — applied 31/10 (as printed) (PA 1/2026)
+  - Mix B (Jan 26): 100% — applied 26/12 (as printed) (PA 1/2026)
+  - Mix B (Apr 26): 100% — applied 10/03 (as printed) (PA 1/2026)
+Spraying progress (FY2025/26, May 2025–Mar 2026):
+  - Circle spraying: 33% — 35.56 ha · Feb 2026 (PA 1/2026)
+  - Selective spraying: 150% — 107.04 ha · Jul 2025 / Mar 2026 (PA 1/2026)
+Spraying & weeding:
+  - Weeding checklist May 2026: Circle good, inter-row fair (Agro 1/2026)
+Fertiliser programme (this year) FY2026/27:
+  - May: Mix B 2,000 g (Agro 1/2026)
+  - Jun: Kieserite 1,000 g (Agro 1/2026)
+  - Aug: Mix B 2,000 g (Agro 1/2026)
+  - Oct: Rock phosphate (BRP) 750 g (Agro 1/2026)
+  - Nov: Mix B 2,000 g (Agro 1/2026)
+  - Feb: Mix B 2,000 g (Agro 1/2026)
+  - Note: Mix B 9.45:0:24:3.7:0.48; Kieserite; BRP = Bayovar rock phosphate. Columns May 2026 to Apr 2027. Agro 1/2026 says the FY2026/27 programme is unchanged (Agro 1/2026)
+Fertiliser programme (previous year) FY2025/26:
+  - Jun: Mix B 2,000 g (Agro 2/2025)
+  - Jul: Kieserite 1,000 g (Agro 2/2025)
+  - Sep: Mix B 2,000 g (Agro 2/2025)
+  - Oct: Rock phosphate 750 g (Agro 2/2025)
+  - Jan: Mix B 2,000 g (Agro 2/2025)
+  - Apr: Mix B 2,000 g (Agro 2/2025)
+Pruning:
+  - Routine pruning paid May 2025–Mar 2026: 20.37 ha of 35.70 ha (PA 1/2026)
+  - Pruning & sanitation checklist May 2026: Pruning good, sanitation good (Agro 1/2026)
+Nutrients:
+  - Leaf analysis Oct 2025: N 2.62 (N), P 0.164 (N), K 1.19 (H), Mg 0.26 (N), Ca 0.46 (ML), B 15.4 (H). Key: ML marginal low, N normal, H high (Agro 2/2025)
+Field:
+  - Block details (Mar 2026): Field 12A, 35.70 ha, 3,373 palms, 94 SPH, IOI material, planted 2012 (PA 1/2026)
+
+BLOCK A20 (41.35 ha, planted 2012, Mature)
+Manuring progress (FY2025/26 programme, May 2025–Mar 2026 (rounds with an application date only)):
+  - Mix B (Jun 25): 100% — applied 24/09 (as printed) (PA 1/2026)
+  - Kieserite (Jul 25): 100% — applied 04/11 (as printed) (PA 1/2026)
+  - Mix B (Sep 25): 100% — applied 06/11 (as printed) (PA 1/2026)
+  - RP (Oct 25): 100% — applied 30/10 (as printed) (PA 1/2026)
+  - Mix B (Jan 26): 100% — applied 09/03 (as printed) (PA 1/2026)
+Spraying progress (FY2025/26, May 2025–Mar 2026):
+  - Circle spraying: 33% — 41.28 ha · Feb 2026 (PA 1/2026)
+  - Selective spraying: 97% — 80.35 ha · Jul 2025 / Oct 2025 (PA 1/2026)
+Manuring progress:
+  - Mix B (Apr 2026): Mix B 2,000 g/palm, no application date in the PA table (to Mar 2026) (PA 1/2026)
+Spraying & weeding:
+  - Weeding checklist May 2026: Circle good, inter-row fair (Agro 1/2026)
+Fertiliser programme (this year) FY2026/27:
+  - May: Mix B 2,000 g (Agro 1/2026)
+  - Jun: Kieserite 1,000 g (Agro 1/2026)
+  - Aug: Mix B 2,000 g (Agro 1/2026)
+  - Oct: Rock phosphate (BRP) 750 g (Agro 1/2026)
+  - Nov: Mix B 2,000 g (Agro 1/2026)
+  - Feb: Mix B 2,000 g (Agro 1/2026)
+  - Note: Mix B 9.45:0:24:3.7:0.48; Kieserite; BRP = Bayovar rock phosphate. Columns May 2026 to Apr 2027. Agro 1/2026 says the FY2026/27 programme is unchanged (Agro 1/2026)
+Fertiliser programme (previous year) FY2025/26:
+  - Jun: Mix B 2,000 g (Agro 2/2025)
+  - Jul: Kieserite 1,000 g (Agro 2/2025)
+  - Sep: Mix B 2,000 g (Agro 2/2025)
+  - Oct: Rock phosphate 750 g (Agro 2/2025)
+  - Jan: Mix B 2,000 g (Agro 2/2025)
+  - Apr: Mix B 2,000 g (Agro 2/2025)
+Pruning:
+  - Routine pruning paid May 2025–Mar 2026: 19.86 ha of 41.35 ha (PA 1/2026)
+  - Pruning & sanitation checklist May 2026: Pruning good, sanitation good (Agro 1/2026)
+Nutrients:
+  - Leaf analysis Oct 2025: N 2.6 (N), P 0.16 (N), K 1.14 (H), Mg 0.27 (N), Ca 0.48 (ML), B 14.2 (N). Key: ML marginal low, N normal, H high (Agro 2/2025)
+Field:
+  - Block details (Mar 2026): Field 12A, 41.35 ha, 4,767 palms, 115 SPH, IOI material, planted 2012 (PA 1/2026)
+  - Supply palms A20 (May 2026): Supply palms in acceptable condition, improved since the Oct 2025 visit (Agro 1/2026)
+
+BLOCK B01 (29.52 ha, planted 2012, Mature)
+Manuring progress (FY2025/26 programme, May 2025–Mar 2026 (rounds with an application date only)):
+  - Mix B (May 25): 100% — applied 22/09 (as printed) (PA 1/2026)
+  - Kieserite (Jul 25): 100% — applied 06/11 (as printed) (PA 1/2026)
+  - Mix B (Aug 25): 100% — applied 16/12 (as printed) (PA 1/2026)
+  - RP (Oct 25): 100% — applied 29/12 (as printed) (PA 1/2026)
+  - Mix B (Nov 25): 100% — applied 21/01 (as printed) (PA 1/2026)
+Spraying progress (FY2025/26, May 2025–Mar 2026):
+  - Circle spraying: 33% — 29.52 ha · Jun 2025 (PA 1/2026)
+  - Selective spraying: 47% — 28.00 ha · Oct 2025 (PA 1/2026)
+Manuring progress:
+  - Mix B (Feb 2026): Mix B 2,000 g/palm, no application date in the PA table (to Mar 2026) (PA 1/2026)
+Spraying & weeding:
+  - Weeding checklist May 2026: Circle good, inter-row fair (Agro 1/2026)
+Fertiliser programme (this year) FY2026/27:
+  - Jun: Mix B 2,000 g (Agro 1/2026)
+  - Sep: Mix B 2,000 g (Agro 1/2026)
+  - Oct: Rock phosphate (BRP) 750 g (Agro 1/2026)
+  - Jan: Mix B 2,000 g (Agro 1/2026)
+  - Apr: Mix B 2,000 g (Agro 1/2026)
+  - Note: Mix B 9.45:0:24:3.7:0.48; Kieserite; BRP = Bayovar rock phosphate. Columns May 2026 to Apr 2027. Agro 1/2026 says the FY2026/27 programme is unchanged (Agro 1/2026)
+Fertiliser programme (previous year) FY2025/26:
+  - May: Mix B 2,000 g (Agro 2/2025)
+  - Jul: Kieserite 1,000 g (Agro 2/2025)
+  - Aug: Mix B 2,000 g (Agro 2/2025)
+  - Oct: Rock phosphate 750 g (Agro 2/2025)
+  - Nov: Mix B 2,000 g (Agro 2/2025)
+  - Feb: Mix B 2,000 g (Agro 2/2025)
+Pruning:
+  - Routine pruning paid May 2025–Mar 2026: 0.66 ha of 29.52 ha (PA 1/2026)
+  - Pruning & sanitation checklist May 2026: Pruning good, sanitation good (Agro 1/2026)
+Nutrients:
+  - Leaf analysis Oct 2025: N 2.59 (ML), P 0.166 (N), K 1.09 (H), Mg 0.27 (N), Ca 0.52 (N), B 17.2 (H). Key: ML marginal low, N normal, H high (Agro 2/2025)
+Field:
+  - Block details (Mar 2026): Field 12B, 29.52 ha, 2,988 palms, 101 SPH, IOI material, planted 2012 (PA 1/2026)
+
+BLOCK B02 (27.57 ha, planted 2012, Mature)
+Manuring progress (FY2025/26 programme, May 2025–Mar 2026 (rounds with an application date only)):
+  - Mix B (May 25): 100% — applied 03/09 (as printed) (PA 1/2026)
+  - Kieserite (Jul 25): 100% — applied 07/11 (as printed) (PA 1/2026)
+  - Mix B (Aug 25): 100% — applied 18/12 (as printed) (PA 1/2026)
+  - RP (Oct 25): 100% — applied 29/12 (as printed) (PA 1/2026)
+  - Mix B (Nov 25): 100% — applied 22/01 (as printed) (PA 1/2026)
+Spraying progress (FY2025/26, May 2025–Mar 2026):
+  - Circle spraying: 33% — 27.57 ha · Dec 2025 (PA 1/2026)
+  - Selective spraying: 50% — 27.57 ha · Jul 2025 (PA 1/2026)
+Manuring progress:
+  - Mix B (Feb 2026): Mix B 2,000 g/palm, no application date in the PA table (to Mar 2026) (PA 1/2026)
+Spraying & weeding:
+  - Weeding checklist May 2026: Circle good, inter-row fair (Agro 1/2026)
+Fertiliser programme (this year) FY2026/27:
+  - Jun: Mix B 2,000 g (Agro 1/2026)
+  - Sep: Mix B 2,000 g (Agro 1/2026)
+  - Oct: Rock phosphate (BRP) 750 g (Agro 1/2026)
+  - Jan: Mix B 2,000 g (Agro 1/2026)
+  - Apr: Mix B 2,000 g (Agro 1/2026)
+  - Note: Mix B 9.45:0:24:3.7:0.48; Kieserite; BRP = Bayovar rock phosphate. Columns May 2026 to Apr 2027. Agro 1/2026 says the FY2026/27 programme is unchanged (Agro 1/2026)
+Fertiliser programme (previous year) FY2025/26:
+  - May: Mix B 2,000 g (Agro 2/2025)
+  - Jul: Kieserite 1,000 g (Agro 2/2025)
+  - Aug: Mix B 2,000 g (Agro 2/2025)
+  - Oct: Rock phosphate 750 g (Agro 2/2025)
+  - Nov: Mix B 2,000 g (Agro 2/2025)
+  - Feb: Mix B 2,000 g (Agro 2/2025)
+Pruning:
+  - Routine pruning paid May 2025–Mar 2026: 0.02 ha of 27.57 ha (PA 1/2026)
+  - Pruning & sanitation checklist May 2026: Pruning good, sanitation good (Agro 1/2026)
+Nutrients:
+  - Leaf analysis Oct 2025: N 2.52 (ML), P 0.168 (N), K 1.07 (H), Mg 0.26 (N), Ca 0.51 (N), B 18.4 (H). Key: ML marginal low, N normal, H high (Agro 2/2025)
+Field:
+  - Block details (Mar 2026): Field 12B, 27.57 ha, 2,529 palms, 92 SPH, IOI material, planted 2012 (PA 1/2026)
+
+BLOCK B03 (33.11 ha, planted 2012, Mature)
+Manuring progress (FY2025/26 programme, May 2025–Mar 2026 (rounds with an application date only)):
+  - Mix B (May 25): 100% — applied 02/09 (as printed) (PA 1/2026)
+  - Kieserite (Jul 25): 100% — applied 09/10 (as printed) (PA 1/2026)
+  - Mix B (Aug 25): 100% — applied 18/12 (as printed) (PA 1/2026)
+  - RP (Oct 25): 100% — applied 27/12 (as printed) (PA 1/2026)
+  - Mix B (Nov 25): 100% — applied 23/01 (as printed) (PA 1/2026)
+Spraying progress (FY2025/26, May 2025–Mar 2026):
+  - Selective spraying: 50% — 33.11 ha · Jul 2025 (PA 1/2026)
+Manuring progress:
+  - Mix B (Feb 2026): Mix B 2,000 g/palm, no application date in the PA table (to Mar 2026) (PA 1/2026)
+Spraying & weeding:
+  - Circle spray FY2025/26 (May 2025–Mar 2026): No entry in the PA table for this block (PA 1/2026)
+  - Weeding checklist May 2026: Circle good, inter-row fair (Agro 1/2026)
+Fertiliser programme (this year) FY2026/27:
+  - Jun: Mix B 2,000 g (Agro 1/2026)
+  - Jul: Kieserite 1,000 g (Agro 1/2026)
+  - Sep: Mix B 2,000 g (Agro 1/2026)
+  - Oct: Rock phosphate (BRP) 750 g (Agro 1/2026)
+  - Jan: Mix B 2,000 g (Agro 1/2026)
+  - Apr: Mix B 2,000 g (Agro 1/2026)
+  - Note: Mix B 9.45:0:24:3.7:0.48; Kieserite; BRP = Bayovar rock phosphate. Columns May 2026 to Apr 2027. Agro 1/2026 says the FY2026/27 programme is unchanged (Agro 1/2026)
+Fertiliser programme (previous year) FY2025/26:
+  - May: Mix B 2,000 g (Agro 2/2025)
+  - Jul: Kieserite 1,000 g (Agro 2/2025)
+  - Aug: Mix B 2,000 g (Agro 2/2025)
+  - Oct: Rock phosphate 750 g (Agro 2/2025)
+  - Nov: Mix B 2,000 g (Agro 2/2025)
+  - Feb: Mix B 2,000 g (Agro 2/2025)
+Pruning:
+  - Routine pruning paid May 2025–Mar 2026: 0.68 ha of 33.11 ha (PA 1/2026)
+  - Pruning & sanitation checklist May 2026: Pruning good, sanitation good (Agro 1/2026)
+Nutrients:
+  - Leaf analysis Oct 2025: N 2.58 (ML), P 0.162 (N), K 1.12 (H), Mg 0.28 (N), Ca 0.49 (ML), B 14.2 (N). Key: ML marginal low, N normal, H high (Agro 2/2025)
+Field:
+  - Block details (Mar 2026): Field 12B, 33.11 ha, 3,275 palms, 99 SPH, IOI material, planted 2012 (PA 1/2026)
+
+BLOCK B04 (30.87 ha, planted 2012, Mature)
+Manuring progress (FY2025/26 programme, May 2025–Mar 2026 (rounds with an application date only)):
+  - Mix B (May 25): 100% — applied 29/08 (as printed) (PA 1/2026)
+  - Kieserite (Jul 25): 100% — applied 08/11 (as printed) (PA 1/2026)
+  - Mix B (Aug 25): 100% — applied 26/12 (as printed) (PA 1/2026)
+  - RP (Oct 25): 100% — applied 27/12 (as printed) (PA 1/2026)
+  - Mix B (Nov 25): 100% — applied 26/01 (as printed) (PA 1/2026)
+Spraying progress (FY2025/26, May 2025–Mar 2026):
+  - Circle spraying: 33% — 30.87 ha · Dec 2025 (PA 1/2026)
+  - Selective spraying: 97% — 59.87 ha · Jul 2025 / Oct 2025 (PA 1/2026)
+Manuring progress:
+  - Mix B (Feb 2026): Mix B 2,000 g/palm, no application date in the PA table (to Mar 2026) (PA 1/2026)
+Spraying & weeding:
+  - Weeding checklist May 2026: Circle good, inter-row fair (Agro 1/2026)
+Fertiliser programme (this year) FY2026/27:
+  - Jun: Mix B 2,000 g (Agro 1/2026)
+  - Jul: Kieserite 1,000 g (Agro 1/2026)
+  - Sep: Mix B 2,000 g (Agro 1/2026)
+  - Oct: Rock phosphate (BRP) 750 g (Agro 1/2026)
+  - Jan: Mix B 2,000 g (Agro 1/2026)
+  - Apr: Mix B 2,000 g (Agro 1/2026)
+  - Note: Mix B 9.45:0:24:3.7:0.48; Kieserite; BRP = Bayovar rock phosphate. Columns May 2026 to Apr 2027. Agro 1/2026 says the FY2026/27 programme is unchanged (Agro 1/2026)
+Fertiliser programme (previous year) FY2025/26:
+  - May: Mix B 2,000 g (Agro 2/2025)
+  - Jul: Kieserite 1,000 g (Agro 2/2025)
+  - Aug: Mix B 2,000 g (Agro 2/2025)
+  - Oct: Rock phosphate 750 g (Agro 2/2025)
+  - Nov: Mix B 2,000 g (Agro 2/2025)
+  - Feb: Mix B 2,000 g (Agro 2/2025)
+Pruning:
+  - Routine pruning paid May 2025–Mar 2026: No entry (dash) in the PA table (PA 1/2026)
+  - Pruning & sanitation checklist May 2026: Pruning good, sanitation good (Agro 1/2026)
+Nutrients:
+  - Leaf analysis Oct 2025: N 2.71 (H), P 0.159 (ML), K 1.15 (H), Mg 0.27 (N), Ca 0.43 (ML), B 17.1 (H). Key: ML marginal low, N normal, H high (Agro 2/2025)
+Field:
+  - Block details (Mar 2026): Field 12B, 30.87 ha, 2,769 palms, 90 SPH, IOI material, planted 2012 (PA 1/2026)
+
+BLOCK B05 (21.66 ha, planted 2012, Mature)
+Manuring progress (FY2025/26 programme, May 2025–Mar 2026 (rounds with an application date only)):
+  - Mix B (May 25): 100% — applied 28/08 (as printed) (PA 1/2026)
+  - Kieserite (Jul 25): 100% — applied 10/11 (as printed) (PA 1/2026)
+  - Mix B (Aug 25): 100% — applied 19/12 (as printed) (PA 1/2026)
+  - RP (Oct 25): 100% — applied 29/12 (as printed) (PA 1/2026)
+  - Mix B (Nov 25): 100% — applied 27/01 (as printed) (PA 1/2026)
+Spraying progress (FY2025/26, May 2025–Mar 2026):
+  - Selective spraying: 150% — 64.98 ha · Jul 2025 / Oct 2025 / Feb 2026 (PA 1/2026)
+Manuring progress:
+  - Mix B (Feb 2026): Mix B 2,000 g/palm, no application date in the PA table (to Mar 2026) (PA 1/2026)
+Spraying & weeding:
+  - Circle spray FY2025/26 (May 2025–Mar 2026): No entry in the PA table for this block (PA 1/2026)
+  - Weeding checklist May 2026: Circle good, inter-row fair (Agro 1/2026)
+  - Weeds B05 (May 2026): Incomplete weed eradication (missed application or poor technique, dense Clidemia hirta); poor access in neglected areas; circle maintenance satisfactory, completed toward end of FY (Agro 1/2026)
+Fertiliser programme (this year) FY2026/27:
+  - Jun: Mix B 2,000 g (Agro 1/2026)
+  - Sep: Mix B 2,000 g (Agro 1/2026)
+  - Oct: Rock phosphate (BRP) 750 g (Agro 1/2026)
+  - Jan: Mix B 2,000 g (Agro 1/2026)
+  - Apr: Mix B 2,000 g (Agro 1/2026)
+  - Note: Mix B 9.45:0:24:3.7:0.48; Kieserite; BRP = Bayovar rock phosphate. Columns May 2026 to Apr 2027. Agro 1/2026 says the FY2026/27 programme is unchanged (Agro 1/2026)
+Fertiliser programme (previous year) FY2025/26:
+  - May: Mix B 2,000 g (Agro 2/2025)
+  - Jul: Kieserite 1,000 g (Agro 2/2025)
+  - Aug: Mix B 2,000 g (Agro 2/2025)
+  - Oct: Rock phosphate 750 g (Agro 2/2025)
+  - Nov: Mix B 2,000 g (Agro 2/2025)
+  - Feb: Mix B 2,000 g (Agro 2/2025)
+Harvesting:
+  - Crop quality B05 (May 2026): Platforms: 90% ripe / 10% unripe; 100% ripe; 100% ripe; 98% ripe / 2% unripe; some unripe and long-stalk bunches (Agro 1/2026)
+Pruning:
+  - Routine pruning paid May 2025–Mar 2026: 2.63 ha of 21.66 ha (PA 1/2026)
+  - Pruning & sanitation checklist May 2026: Pruning good, sanitation good (Agro 1/2026)
+  - Under-pruning B05 (May 2026): Under-pruned palms photographed (Agro 1/2026)
+Nutrients:
+  - Leaf analysis Oct 2025: N 2.67 (N), P 0.166 (N), K 1.08 (H), Mg 0.28 (N), Ca 0.47 (ML), B 15 (H). Key: ML marginal low, N normal, H high (Agro 2/2025)
+Field:
+  - Block details (Mar 2026): Field 12B, 21.66 ha, 2,145 palms, 99 SPH, IOI material, planted 2012 (PA 1/2026)
+  - Road repair B05 (May 2026): Road repaired (Agro photos) (Agro 1/2026)
+
+BLOCK B06 (7.7 ha, planted 2012, Mature)
+Manuring progress (FY2025/26 programme, May 2025–Mar 2026 (rounds with an application date only)):
+  - Mix B (May 25): 100% — applied 04/08 (as printed) (PA 1/2026)
+  - Kieserite (Jul 25): 100% — applied 05/06 (as printed) (PA 1/2026)
+  - Mix B (Aug 25): 100% — applied 15/11 (as printed) (PA 1/2026)
+  - RP (Oct 25): 100% — applied 31/12 (as printed) (PA 1/2026)
+  - Mix B (Nov 25): 100% — applied 27/01 (as printed) (PA 1/2026)
+Spraying progress (FY2025/26, May 2025–Mar 2026):
+  - Circle spraying: 37% — 8.51 ha · Feb 2026 (PA 1/2026)
+  - Selective spraying: 96% — 14.77 ha · Jul 2025 / Oct 2025 (PA 1/2026)
+Manuring progress:
+  - Mix B (Feb 2026): Mix B 2,000 g/palm, no application date in the PA table (to Mar 2026) (PA 1/2026)
+Spraying & weeding:
+  - Weeding checklist May 2026: Circle good, inter-row fair (Agro 1/2026)
+Fertiliser programme (this year) FY2026/27:
+  - Jun: Mix B 2,000 g (Agro 1/2026)
+  - Jul: Kieserite 1,000 g (Agro 1/2026)
+  - Sep: Mix B 2,000 g (Agro 1/2026)
+  - Oct: Rock phosphate (BRP) 750 g (Agro 1/2026)
+  - Jan: Mix B 2,000 g (Agro 1/2026)
+  - Apr: Mix B 2,000 g (Agro 1/2026)
+  - Note: Mix B 9.45:0:24:3.7:0.48; Kieserite; BRP = Bayovar rock phosphate. Columns May 2026 to Apr 2027. Agro 1/2026 says the FY2026/27 programme is unchanged (Agro 1/2026)
+Fertiliser programme (previous year) FY2025/26:
+  - May: Mix B 2,000 g (Agro 2/2025)
+  - Jul: Kieserite 1,000 g (Agro 2/2025)
+  - Aug: Mix B 2,000 g (Agro 2/2025)
+  - Oct: Rock phosphate 750 g (Agro 2/2025)
+  - Nov: Mix B 2,000 g (Agro 2/2025)
+  - Feb: Mix B 2,000 g (Agro 2/2025)
+Pruning:
+  - Routine pruning paid May 2025–Mar 2026: No entry (dash) in the PA table (PA 1/2026)
+  - Pruning & sanitation checklist May 2026: Pruning good, sanitation good (Agro 1/2026)
+Nutrients:
+  - Leaf analysis Oct 2025: N 2.64 (N), P 0.17 (H), K 1.1 (H), Mg 0.29 (N), Ca 0.49 (ML), B 16.8 (H). Key: ML marginal low, N normal, H high (Agro 2/2025)
+Field:
+  - Block details (Mar 2026): Field 12B, 7.70 ha, 606 palms, 79 SPH, IOI material, planted 2012 (PA 1/2026)
+  - Supply planting (FY2025/26, Agro May 2026): 3.68 ha of previously vacant land planted with 229 supply palms; block now 11.38 ha, 835 palms in the FY2026/27 programme (Agro 1/2026)
+
+BLOCK B07 (44.91 ha, planted 2012, Mature)
+Manuring progress (FY2025/26 programme, May 2025–Mar 2026 (rounds with an application date only)):
+  - Mix B (May 25): 100% — applied 04/08 (as printed) (PA 1/2026)
+  - Kieserite (Jul 25): 100% — applied 05/06 (as printed) (PA 1/2026)
+  - Mix B (Aug 25): 100% — applied 15/11 (as printed) (PA 1/2026)
+  - RP (Oct 25): 100% — applied 31/12 (as printed) (PA 1/2026)
+  - Mix B (Nov 25): 100% — applied 31/01 (as printed) (PA 1/2026)
+Spraying progress (FY2025/26, May 2025–Mar 2026):
+  - Circle spraying: 33% — 44.91 ha · Feb 2026 (PA 1/2026)
+  - Selective spraying: 100% — 89.71 ha · Jul 2025 / Oct 2025 (PA 1/2026)
+Manuring progress:
+  - Mix B (Feb 2026): Mix B 2,000 g/palm, no application date in the PA table (to Mar 2026) (PA 1/2026)
+Spraying & weeding:
+  - Weeding checklist May 2026: Circle good, inter-row fair (Agro 1/2026)
+Fertiliser programme (this year) FY2026/27:
+  - Jun: Mix B 2,000 g (Agro 1/2026)
+  - Jul: Kieserite 1,000 g (Agro 1/2026)
+  - Sep: Mix B 2,000 g (Agro 1/2026)
+  - Oct: Rock phosphate (BRP) 750 g (Agro 1/2026)
+  - Jan: Mix B 2,000 g (Agro 1/2026)
+  - Apr: Mix B 2,000 g (Agro 1/2026)
+  - Note: Mix B 9.45:0:24:3.7:0.48; Kieserite; BRP = Bayovar rock phosphate. Columns May 2026 to Apr 2027. Agro 1/2026 says the FY2026/27 programme is unchanged (Agro 1/2026)
+Fertiliser programme (previous year) FY2025/26:
+  - May: Mix B 2,000 g (Agro 2/2025)
+  - Jul: Kieserite 1,000 g (Agro 2/2025)
+  - Aug: Mix B 2,000 g (Agro 2/2025)
+  - Oct: Rock phosphate 750 g (Agro 2/2025)
+  - Nov: Mix B 2,000 g (Agro 2/2025)
+  - Feb: Mix B 2,000 g (Agro 2/2025)
+Pruning:
+  - Routine pruning paid May 2025–Mar 2026: 2.51 ha of 44.91 ha (PA 1/2026)
+  - Pruning & sanitation checklist May 2026: Pruning good, sanitation good (Agro 1/2026)
+Nutrients:
+  - Leaf analysis Oct 2025: N 2.57 (ML), P 0.166 (N), K 1.09 (H), Mg 0.28 (N), Ca 0.54 (N), B 16.3 (H). Key: ML marginal low, N normal, H high (Agro 2/2025)
+Field:
+  - Block details (Mar 2026): Field 12B, 44.91 ha, 5,001 palms, 111 SPH, IOI material, planted 2012 (PA 1/2026)
+  - SPH misprint: PA fertiliser table prints SPH 11 for B07 (111 elsewhere) (PA 1/2026)
+
+BLOCK B08 (30.42 ha, planted 2012, Mature)
+Manuring progress (FY2025/26 programme, May 2025–Mar 2026 (rounds with an application date only)):
+  - Mix B (May 25): 100% — applied 17/07 (as printed) (PA 1/2026)
+  - Kieserite (Jul 25): 100% — applied 28/05 (as printed) (PA 1/2026)
+  - Mix B (Aug 25): 100% — applied 22/11 (as printed) (PA 1/2026)
+  - RP (Oct 25): 100% — applied 22/12 (as printed) (PA 1/2026)
+  - Mix B (Nov 25): 100% — applied 06/02 (as printed) (PA 1/2026)
+Spraying progress (FY2025/26, May 2025–Mar 2026):
+  - Circle spraying: 33% — 30.42 ha · Feb 2026 (PA 1/2026)
+  - Selective spraying: 85% — 51.60 ha · Jul 2025 / Oct 2025 (PA 1/2026)
+Manuring progress:
+  - Mix B (Feb 2026): Mix B 2,000 g/palm, no application date in the PA table (to Mar 2026) (PA 1/2026)
+Spraying & weeding:
+  - Weeding checklist May 2026: Circle good, inter-row fair (Agro 1/2026)
+Fertiliser programme (this year) FY2026/27:
+  - Jun: Mix B 2,000 g (Agro 1/2026)
+  - Jul: Kieserite 1,000 g (Agro 1/2026)
+  - Sep: Mix B 2,000 g (Agro 1/2026)
+  - Oct: Rock phosphate (BRP) 750 g (Agro 1/2026)
+  - Jan: Mix B 2,000 g (Agro 1/2026)
+  - Apr: Mix B 2,000 g (Agro 1/2026)
+  - Note: Mix B 9.45:0:24:3.7:0.48; Kieserite; BRP = Bayovar rock phosphate. Columns May 2026 to Apr 2027. Agro 1/2026 says the FY2026/27 programme is unchanged (Agro 1/2026)
+Fertiliser programme (previous year) FY2025/26:
+  - May: Mix B 2,000 g (Agro 2/2025)
+  - Jul: Kieserite 1,000 g (Agro 2/2025)
+  - Aug: Mix B 2,000 g (Agro 2/2025)
+  - Oct: Rock phosphate 750 g (Agro 2/2025)
+  - Nov: Mix B 2,000 g (Agro 2/2025)
+  - Feb: Mix B 2,000 g (Agro 2/2025)
+Pruning:
+  - Routine pruning paid May 2025–Mar 2026: 2.32 ha of 30.42 ha (PA 1/2026)
+  - Pruning & sanitation checklist May 2026: Pruning good, sanitation good (Agro 1/2026)
+Nutrients:
+  - Leaf analysis Oct 2025: N 2.63 (N), P 0.168 (N), K 1.14 (H), Mg 0.28 (N), Ca 0.5 (ML), B 18.3 (H). Key: ML marginal low, N normal, H high (Agro 2/2025)
+Field:
+  - Block details (Mar 2026): Field 12B, 30.42 ha, 3,284 palms, 108 SPH, IOI material, planted 2012 (PA 1/2026)
+
+BLOCK B09 (27.64 ha, planted 2012, Mature)
+Manuring progress (FY2025/26 programme, May 2025–Mar 2026 (rounds with an application date only)):
+  - Mix B (May 25): 100% — applied 19/07 (as printed) (PA 1/2026)
+  - Kieserite (Jul 25): 100% — applied 07/10 (as printed) (PA 1/2026)
+  - Mix B (Aug 25): 100% — applied 25/11 (as printed) (PA 1/2026)
+  - RP (Oct 25): 100% — applied 24/12 (as printed) (PA 1/2026)
+  - Mix B (Nov 25): 100% — applied 10/02 (as printed) (PA 1/2026)
+Spraying progress (FY2025/26, May 2025–Mar 2026):
+  - Circle spraying: 33% — 27.64 ha · Mar 2026 (PA 1/2026)
+  - Selective spraying: 50% — 27.64 ha · Sep 2025 (PA 1/2026)
+Manuring progress:
+  - Mix B (Feb 2026): Mix B 2,000 g/palm, no application date in the PA table (to Mar 2026) (PA 1/2026)
+Spraying & weeding:
+  - Weeding checklist May 2026: Circle good, inter-row fair (Agro 1/2026)
+Fertiliser programme (this year) FY2026/27:
+  - Jun: Mix B 2,000 g (Agro 1/2026)
+  - Jul: Kieserite 1,000 g (Agro 1/2026)
+  - Sep: Mix B 2,000 g (Agro 1/2026)
+  - Oct: Rock phosphate (BRP) 750 g (Agro 1/2026)
+  - Jan: Mix B 2,000 g (Agro 1/2026)
+  - Apr: Mix B 2,000 g (Agro 1/2026)
+  - Note: Mix B 9.45:0:24:3.7:0.48; Kieserite; BRP = Bayovar rock phosphate. Columns May 2026 to Apr 2027. Agro 1/2026 says the FY2026/27 programme is unchanged (Agro 1/2026)
+Fertiliser programme (previous year) FY2025/26:
+  - May: Mix B 2,000 g (Agro 2/2025)
+  - Jul: Kieserite 1,000 g (Agro 2/2025)
+  - Aug: Mix B 2,000 g (Agro 2/2025)
+  - Oct: Rock phosphate 750 g (Agro 2/2025)
+  - Nov: Mix B 2,000 g (Agro 2/2025)
+  - Feb: Mix B 2,000 g (Agro 2/2025)
+Pruning:
+  - Routine pruning paid May 2025–Mar 2026: 2.62 ha of 27.64 ha (PA 1/2026)
+  - Pruning & sanitation checklist May 2026: Pruning good, sanitation good (Agro 1/2026)
+Nutrients:
+  - Leaf analysis Oct 2025: N 2.66 (N), P 0.17 (H), K 1.15 (H), Mg 0.28 (N), Ca 0.45 (ML), B 18.1 (H). Key: ML marginal low, N normal, H high (Agro 2/2025)
+Field:
+  - Block details (Mar 2026): Field 12B, 27.64 ha, 2,848 palms, 103 SPH, IOI material, planted 2012 (PA 1/2026)
+
+BLOCK B10 (32.4 ha, planted 2012, Mature)
+Manuring progress (FY2025/26 programme, May 2025–Mar 2026 (rounds with an application date only)):
+  - Mix B (May 25): 100% — applied 21/07 (as printed) (PA 1/2026)
+  - Kieserite (Jul 25): 100% — applied 06/10 (as printed) (PA 1/2026)
+  - Mix B (Aug 25): 100% — applied 28/11 (as printed) (PA 1/2026)
+  - RP (Oct 25): 100% — applied 26/12 (as printed) (PA 1/2026)
+  - Mix B (Nov 25): 100% — applied 11/12 (as printed) (PA 1/2026)
+Spraying progress (FY2025/26, May 2025–Mar 2026):
+  - Circle spraying: 33% — 32.40 ha · Feb 2026 (PA 1/2026)
+  - Selective spraying: 96% — 62.37 ha · Aug 2025 / Oct 2025 (PA 1/2026)
+Manuring progress:
+  - Mix B (Feb 2026): Mix B 2,000 g/palm, no application date in the PA table (to Mar 2026) (PA 1/2026)
+Spraying & weeding:
+  - Weeding checklist May 2026: Circle good, inter-row fair (Agro 1/2026)
+  - Circles B10 (May 2026): Clean circles photographed (PA 1/2026)
+Fertiliser programme (this year) FY2026/27:
+  - Jun: Mix B 2,000 g (Agro 1/2026)
+  - Jul: Kieserite 1,000 g (Agro 1/2026)
+  - Sep: Mix B 2,000 g (Agro 1/2026)
+  - Oct: Rock phosphate (BRP) 750 g (Agro 1/2026)
+  - Jan: Mix B 2,000 g (Agro 1/2026)
+  - Apr: Mix B 2,000 g (Agro 1/2026)
+  - Note: Mix B 9.45:0:24:3.7:0.48; Kieserite; BRP = Bayovar rock phosphate. Columns May 2026 to Apr 2027. Agro 1/2026 says the FY2026/27 programme is unchanged (Agro 1/2026)
+Fertiliser programme (previous year) FY2025/26:
+  - May: Mix B 2,000 g (Agro 2/2025)
+  - Jul: Kieserite 1,000 g (Agro 2/2025)
+  - Aug: Mix B 2,000 g (Agro 2/2025)
+  - Oct: Rock phosphate 750 g (Agro 2/2025)
+  - Nov: Mix B 2,000 g (Agro 2/2025)
+  - Feb: Mix B 2,000 g (Agro 2/2025)
+Harvesting:
+  - Loose fruit B10 (May 2026): Uncollected loose fruit in field and at platforms photographed (PA 1/2026)
+Pruning:
+  - Routine pruning paid May 2025–Mar 2026: 4.57 ha of 32.40 ha (PA 1/2026)
+  - Pruning & sanitation checklist May 2026: Pruning good, sanitation good (Agro 1/2026)
+Nutrients:
+  - Leaf analysis Oct 2025: N 2.61 (N), P 0.167 (N), K 1.11 (H), Mg 0.27 (N), Ca 0.49 (ML), B 17.2 (H). Key: ML marginal low, N normal, H high (Agro 2/2025)
+Field:
+  - Block details (Mar 2026): Field 12B, 32.40 ha, 4,328 palms, 134 SPH, IOI material, planted 2012 (PA 1/2026)
+
+BLOCK B11 (19.7 ha, planted 2012, Mature)
+Manuring progress (FY2025/26 programme, May 2025–Mar 2026 (rounds with an application date only)):
+  - Mix B (May 25): 100% — applied 22/07 (as printed) (PA 1/2026)
+  - Kieserite (Jul 25): 100% — applied 29/05 (as printed) (PA 1/2026)
+  - Mix B (Aug 25): 100% — applied 21/11 (as printed) (PA 1/2026)
+  - RP (Oct 25): 100% — applied 20/12 (as printed) (PA 1/2026)
+  - Mix B (Nov 25): 100% — applied 14/02 (as printed) (PA 1/2026)
+Spraying progress (FY2025/26, May 2025–Mar 2026):
+  - Circle spraying: 33% — 19.70 ha · Oct 2025 (PA 1/2026)
+  - Selective spraying: 97% — 38.40 ha · May 2025 / Feb 2026 (PA 1/2026)
+Manuring progress:
+  - Mix B (Feb 2026): Mix B 2,000 g/palm, no application date in the PA table (to Mar 2026) (PA 1/2026)
+Spraying & weeding:
+  - Weeding checklist May 2026: Circle good, inter-row fair (Agro 1/2026)
+  - Circles B11 (May 2026): Clean circles photographed (PA 1/2026)
+Fertiliser programme (this year) FY2026/27:
+  - Jun: Mix B 2,000 g (Agro 1/2026)
+  - Sep: Mix B 2,000 g (Agro 1/2026)
+  - Oct: Rock phosphate (BRP) 750 g (Agro 1/2026)
+  - Jan: Mix B 2,000 g (Agro 1/2026)
+  - Apr: Mix B 2,000 g (Agro 1/2026)
+  - Note: Mix B 9.45:0:24:3.7:0.48; Kieserite; BRP = Bayovar rock phosphate. Columns May 2026 to Apr 2027. Agro 1/2026 says the FY2026/27 programme is unchanged (Agro 1/2026)
+Fertiliser programme (previous year) FY2025/26:
+  - May: Mix B 2,000 g (Agro 2/2025)
+  - Jul: Kieserite 1,000 g (Agro 2/2025)
+  - Aug: Mix B 2,000 g (Agro 2/2025)
+  - Oct: Rock phosphate 750 g (Agro 2/2025)
+  - Nov: Mix B 2,000 g (Agro 2/2025)
+  - Feb: Mix B 2,000 g (Agro 2/2025)
+Harvesting:
+  - Loose fruit B11 (May 2026): Uncollected loose fruit photographed (PA 1/2026)
+Pruning:
+  - Routine pruning paid May 2025–Mar 2026: 3.13 ha of 19.70 ha (PA 1/2026)
+  - Pruning & sanitation checklist May 2026: Pruning good, sanitation good (Agro 1/2026)
+Nutrients:
+  - Leaf analysis Oct 2025: N 2.64 (N), P 0.163 (N), K 1.07 (H), Mg 0.27 (N), Ca 0.48 (ML), B 15.7 (H). Key: ML marginal low, N normal, H high (Agro 2/2025)
+Field:
+  - Block details (Mar 2026): Field 12B, 19.70 ha, 2,590 palms, 131 SPH, IOI material, planted 2012 (PA 1/2026)
+
+BLOCK B12 (41.29 ha, planted 2012, Mature)
+Manuring progress (FY2025/26 programme, May 2025–Mar 2026 (rounds with an application date only)):
+  - Mix B (May 25): 100% — applied 26/07 (as printed) (PA 1/2026)
+  - Kieserite (Jul 25): 100% — applied 14/07 (as printed) (PA 1/2026)
+  - Mix B (Aug 25): 100% — applied 05/11 (as printed) (PA 1/2026)
+  - RP (Oct 25): 100% — applied 18/02 (as printed) (PA 1/2026)
+Spraying progress (FY2025/26, May 2025–Mar 2026):
+  - Circle spraying: 60% — 74.77 ha · May 2025 / Feb 2026 (PA 1/2026)
+  - Selective spraying: 50% — 41.29 ha · Aug 2025 (PA 1/2026)
+Manuring progress:
+  - Mix B (Nov 2025): Mix B 2,000 g/palm, no application date in the PA table (to Mar 2026) (PA 1/2026)
+  - Mix B (Feb 2026): Mix B 2,000 g/palm, no application date in the PA table (to Mar 2026) (PA 1/2026)
+Spraying & weeding:
+  - Weeding checklist May 2026: Circle good, inter-row fair (Agro 1/2026)
+Fertiliser programme (this year) FY2026/27:
+  - Jun: Mix B 2,000 g (Agro 1/2026)
+  - Jul: Kieserite 1,000 g (Agro 1/2026)
+  - Sep: Mix B 2,000 g (Agro 1/2026)
+  - Oct: Rock phosphate (BRP) 750 g (Agro 1/2026)
+  - Jan: Mix B 2,000 g (Agro 1/2026)
+  - Apr: Mix B 2,000 g (Agro 1/2026)
+  - Note: Mix B 9.45:0:24:3.7:0.48; Kieserite; BRP = Bayovar rock phosphate. Columns May 2026 to Apr 2027. Agro 1/2026 says the FY2026/27 programme is unchanged (Agro 1/2026)
+Fertiliser programme (previous year) FY2025/26:
+  - May: Mix B 2,000 g (Agro 2/2025)
+  - Jul: Kieserite 1,000 g (Agro 2/2025)
+  - Aug: Mix B 2,000 g (Agro 2/2025)
+  - Oct: Rock phosphate 750 g (Agro 2/2025)
+  - Nov: Mix B 2,000 g (Agro 2/2025)
+  - Feb: Mix B 2,000 g (Agro 2/2025)
+Pruning:
+  - Routine pruning paid May 2025–Mar 2026: 5.07 ha of 41.29 ha (PA 1/2026)
+  - Pruning & sanitation checklist May 2026: Pruning good, sanitation fair (Agro 1/2026)
+Nutrients:
+  - Leaf analysis Oct 2025: N 2.67 (N), P 0.162 (N), K 1.14 (H), Mg 0.26 (N), Ca 0.43 (ML), B 15.4 (H). Key: ML marginal low, N normal, H high (Agro 2/2025)
+Field:
+  - Block details (Mar 2026): Field 12B, 41.29 ha, 4,757 palms, 115 SPH, IOI material, planted 2012 (PA 1/2026)
+
+BLOCK B13 (36.93 ha, planted 2012, Mature)
+Manuring progress (FY2025/26 programme, May 2025–Mar 2026 (rounds with an application date only)):
+  - Mix B (May 25): 100% — applied 24/07 (as printed) (PA 1/2026)
+  - Kieserite (Jul 25): 100% — applied 25/09 (as printed) (PA 1/2026)
+  - Mix B (Aug 25): 100% — applied 03/11 (as printed) (PA 1/2026)
+  - RP (Oct 25): 100% — applied 16/06 (as printed) (PA 1/2026)
+  - Mix B (Nov 25): 100% — applied 24/02 (as printed) (PA 1/2026)
+Spraying progress (FY2025/26, May 2025–Mar 2026):
+  - Circle spraying: 66% — 72.71 ha · Jun 2025 / Mar 2026 (PA 1/2026)
+  - Selective spraying: 50% — 36.93 ha · Sep 2025 (PA 1/2026)
+Manuring progress:
+  - Mix B (Feb 2026): Mix B 2,000 g/palm, no application date in the PA table (to Mar 2026) (PA 1/2026)
+Spraying & weeding:
+  - Weeding checklist May 2026: Circle ticked good and fair, inter-row fair (Agro 1/2026)
+Fertiliser programme (this year) FY2026/27:
+  - Jun: Mix B 2,000 g (Agro 1/2026)
+  - Jul: Kieserite 1,000 g (Agro 1/2026)
+  - Sep: Mix B 2,000 g (Agro 1/2026)
+  - Oct: Rock phosphate (BRP) 750 g (Agro 1/2026)
+  - Jan: Mix B 2,000 g (Agro 1/2026)
+  - Apr: Mix B 2,000 g (Agro 1/2026)
+  - Note: Mix B 9.45:0:24:3.7:0.48; Kieserite; BRP = Bayovar rock phosphate. Columns May 2026 to Apr 2027. Agro 1/2026 says the FY2026/27 programme is unchanged (Agro 1/2026)
+Fertiliser programme (previous year) FY2025/26:
+  - May: Mix B 2,000 g (Agro 2/2025)
+  - Jul: Kieserite 1,000 g (Agro 2/2025)
+  - Aug: Mix B 2,000 g (Agro 2/2025)
+  - Oct: Rock phosphate 750 g (Agro 2/2025)
+  - Nov: Mix B 2,000 g (Agro 2/2025)
+  - Feb: Mix B 2,000 g (Agro 2/2025)
+Pruning:
+  - Routine pruning paid May 2025–Mar 2026: 4.11 ha of 36.93 ha (PA 1/2026)
+  - Pruning & sanitation checklist May 2026: Pruning good, sanitation good (Agro 1/2026)
+Nutrients:
+  - Leaf analysis Oct 2025: N 2.7 (H), P 0.158 (ML), K 1.1 (H), Mg 0.27 (N), Ca 0.42 (ML), B 15.1 (H). Key: ML marginal low, N normal, H high (Agro 2/2025)
+Field:
+  - Block details (Mar 2026): Field 12B, 36.93 ha, 3,883 palms, 105 SPH, IOI material, planted 2012 (PA 1/2026)
+  - Irish bridge B13 (FY2025/26): Irish bridge built (one of 2 units this FY at RM7,500 each) (PA 1/2026)
+
+BLOCK B14 (27.65 ha, planted 2012, Mature)
+Manuring progress (FY2025/26 programme, May 2025–Mar 2026 (rounds with an application date only)):
+  - Mix B (May 25): 100% — applied 15/07 (as printed) (PA 1/2026)
+  - Kieserite (Jul 25): 100% — applied 08/10 (as printed) (PA 1/2026)
+  - Mix B (Aug 25): 100% — applied 12/11 (as printed) (PA 1/2026)
+  - RP (Oct 25): 100% — applied 02/01 (as printed) (PA 1/2026)
+  - Mix B (Nov 25): 100% — applied 03/02 (as printed) (PA 1/2026)
+Spraying progress (FY2025/26, May 2025–Mar 2026):
+  - Circle spraying: 68% — 56.23 ha · Jun 2025 / Mar 2026 (PA 1/2026)
+  - Selective spraying: 94% — 52.22 ha · Aug 2025 / Oct 2025 (PA 1/2026)
+Manuring progress:
+  - Mix B (Feb 2026): Mix B 2,000 g/palm, no application date in the PA table (to Mar 2026) (PA 1/2026)
+Spraying & weeding:
+  - Weeding checklist May 2026: Circle good, inter-row fair (Agro 1/2026)
+Fertiliser programme (this year) FY2026/27:
+  - Jun: Mix B 2,000 g (Agro 1/2026)
+  - Sep: Mix B 2,000 g (Agro 1/2026)
+  - Oct: Rock phosphate (BRP) 750 g (Agro 1/2026)
+  - Jan: Mix B 2,000 g (Agro 1/2026)
+  - Apr: Mix B 2,000 g (Agro 1/2026)
+  - Note: Mix B 9.45:0:24:3.7:0.48; Kieserite; BRP = Bayovar rock phosphate. Columns May 2026 to Apr 2027. Agro 1/2026 says the FY2026/27 programme is unchanged (Agro 1/2026)
+Fertiliser programme (previous year) FY2025/26:
+  - May: Mix B 2,000 g (Agro 2/2025)
+  - Jul: Kieserite 1,000 g (Agro 2/2025)
+  - Aug: Mix B 2,000 g (Agro 2/2025)
+  - Oct: Rock phosphate 750 g (Agro 2/2025)
+  - Nov: Mix B 2,000 g (Agro 2/2025)
+  - Feb: Mix B 2,000 g (Agro 2/2025)
+Pruning:
+  - Routine pruning paid May 2025–Mar 2026: No entry (dash) in the PA table (PA 1/2026)
+  - Pruning & sanitation checklist May 2026: Pruning fair, sanitation fair (Agro 1/2026)
+Nutrients:
+  - Leaf analysis Oct 2025: N 2.65 (N), P 0.163 (N), K 1.06 (H), Mg 0.26 (N), Ca 0.52 (N), B 18 (H). Key: ML marginal low, N normal, H high (Agro 2/2025)
+Field:
+  - Block details (Mar 2026): Field 12B, 27.65 ha, 2,595 palms, 94 SPH, IOI material, planted 2012 (PA 1/2026)
+
+BLOCK B15 (42.03 ha, planted 2012, Mature)
+Manuring progress (FY2025/26 programme, May 2025–Mar 2026 (rounds with an application date only)):
+  - Mix B (May 25): 100% — applied 08/08 (as printed) (PA 1/2026)
+  - Kieserite (Jul 25): 100% — applied 01/10 (as printed) (PA 1/2026)
+  - Mix B (Aug 25): 100% — applied 11/11 (as printed) (PA 1/2026)
+  - RP (Oct 25): 100% — applied 30/12 (as printed) (PA 1/2026)
+  - Mix B (Nov 25): 100% — applied 24/02 (as printed) (PA 1/2026)
+Spraying progress (FY2025/26, May 2025–Mar 2026):
+  - Circle spraying: 67% — 84.06 ha · Jun 2025 / Mar 2026 (PA 1/2026)
+  - Selective spraying: 50% — 42.02 ha · Aug 2025 (PA 1/2026)
+Manuring progress:
+  - Mix B (Feb 2026): Mix B 2,000 g/palm, no application date in the PA table (to Mar 2026) (PA 1/2026)
+Spraying & weeding:
+  - Weeding checklist May 2026: Circle good, inter-row fair (Agro 1/2026)
+Fertiliser programme (this year) FY2026/27:
+  - Jun: Mix B 2,000 g (Agro 1/2026)
+  - Sep: Mix B 2,000 g (Agro 1/2026)
+  - Oct: Rock phosphate (BRP) 750 g (Agro 1/2026)
+  - Jan: Mix B 2,000 g (Agro 1/2026)
+  - Apr: Mix B 2,000 g (Agro 1/2026)
+  - Note: Mix B 9.45:0:24:3.7:0.48; Kieserite; BRP = Bayovar rock phosphate. Columns May 2026 to Apr 2027. Agro 1/2026 says the FY2026/27 programme is unchanged (Agro 1/2026)
+Fertiliser programme (previous year) FY2025/26:
+  - May: Mix B 2,000 g (Agro 2/2025)
+  - Jul: Kieserite 1,000 g (Agro 2/2025)
+  - Aug: Mix B 2,000 g (Agro 2/2025)
+  - Oct: Rock phosphate 750 g (Agro 2/2025)
+  - Nov: Mix B 2,000 g (Agro 2/2025)
+  - Feb: Mix B 2,000 g (Agro 2/2025)
+Pruning:
+  - Routine pruning paid May 2025–Mar 2026: 13.27 ha of 42.03 ha (PA 1/2026)
+  - Pruning & sanitation checklist May 2026: Pruning fair, sanitation good (Agro 1/2026)
+Nutrients:
+  - Leaf analysis Oct 2025: N 2.72 (ML as printed), P 0.162 (N), K 1.06 (H), Mg 0.27 (N), Ca 0.52 (N), B 18 (H). Key: ML marginal low, N normal, H high (Agro 2/2025)
+Field:
+  - Block details (Mar 2026): Field 12B, 42.03 ha, 4,219 palms, 100 SPH, IOI material, planted 2012 (PA 1/2026)
+
+BLOCK B16 (23.36 ha, planted 2012, Mature)
+Manuring progress (FY2025/26 programme, May 2025–Mar 2026 (rounds with an application date only)):
+  - Mix B (May 25): 100% — applied 09/08 (as printed) (PA 1/2026)
+  - Kieserite (Jul 25): 100% — applied 03/10 (as printed) (PA 1/2026)
+  - Mix B (Aug 25): 100% — applied 12/12 (as printed) (PA 1/2026)
+  - RP (Oct 25): 100% — applied 09/06 (as printed) (PA 1/2026)
+  - Mix B (Nov 25): 100% — applied 31/03 (as printed) (PA 1/2026)
+Spraying progress (FY2025/26, May 2025–Mar 2026):
+  - Circle spraying: 33% — 23.36 ha · printed Feb'25 (PA 1/2026)
+  - Selective spraying: 50% — 23.36 ha · Jul 2025 (PA 1/2026)
+Manuring progress:
+  - Mix B (Feb 2026): Mix B 2,000 g/palm, no application date in the PA table (to Mar 2026) (PA 1/2026)
+Spraying & weeding:
+  - Weeding checklist May 2026: Circle good, inter-row fair (Agro 1/2026)
+Fertiliser programme (this year) FY2026/27:
+  - Jun: Mix B 2,000 g (Agro 1/2026)
+  - Jul: Kieserite 1,000 g (Agro 1/2026)
+  - Sep: Mix B 2,000 g (Agro 1/2026)
+  - Oct: Rock phosphate (BRP) 750 g (Agro 1/2026)
+  - Jan: Mix B 2,000 g (Agro 1/2026)
+  - Apr: Mix B 2,000 g (Agro 1/2026)
+  - Note: Mix B 9.45:0:24:3.7:0.48; Kieserite; BRP = Bayovar rock phosphate. Columns May 2026 to Apr 2027. Agro 1/2026 says the FY2026/27 programme is unchanged (Agro 1/2026)
+Fertiliser programme (previous year) FY2025/26:
+  - May: Mix B 2,000 g (Agro 2/2025)
+  - Jul: Kieserite 1,000 g (Agro 2/2025)
+  - Aug: Mix B 2,000 g (Agro 2/2025)
+  - Oct: Rock phosphate 750 g (Agro 2/2025)
+  - Nov: Mix B 2,000 g (Agro 2/2025)
+  - Feb: Mix B 2,000 g (Agro 2/2025)
+Pruning:
+  - Routine pruning paid May 2025–Mar 2026: No entry (dash) in the PA table (PA 1/2026)
+  - Pruning & sanitation checklist May 2026: Pruning good, sanitation good (Agro 1/2026)
+Nutrients:
+  - Leaf analysis Oct 2025: N 2.66 (N), P 0.167 (N), K 1.12 (H), Mg 0.27 (N), Ca 0.46 (ML), B 18.5 (H). Key: ML marginal low, N normal, H high (Agro 2/2025)
+Field:
+  - Block details (Mar 2026): Field 12B, 23.36 ha, 2,256 palms, 97 SPH, IOI material, planted 2012 (PA 1/2026)
+
+BLOCK B17 (15.47 ha, planted 2012, Mature)
+Manuring progress (FY2025/26 programme, May 2025–Mar 2026 (rounds with an application date only)):
+  - Mix B (May 25): 100% — applied 11/08 (as printed) (PA 1/2026)
+  - Kieserite (Jul 25): 100% — applied 02/10 (as printed) (PA 1/2026)
+  - Mix B (Aug 25): 100% — applied 29/11 (as printed) (PA 1/2026)
+  - RP (Oct 25): 100% — applied 10/06 (as printed) (PA 1/2026)
+  - Mix B (Nov 25): 100% — applied 18/03 (as printed) (PA 1/2026)
+Spraying progress (FY2025/26, May 2025–Mar 2026):
+  - Selective spraying: 100% — 30.94 ha · Jun 2025 / Feb 2026 (PA 1/2026)
+Manuring progress:
+  - Mix B (Feb 2026): Mix B 2,000 g/palm, no application date in the PA table (to Mar 2026) (PA 1/2026)
+Spraying & weeding:
+  - Circle spray FY2025/26 (May 2025–Mar 2026): No entry in the PA table for this block (PA 1/2026)
+  - Weeding checklist May 2026: Circle good, inter-row fair (Agro 1/2026)
+Fertiliser programme (this year) FY2026/27:
+  - Jun: Mix B 2,000 g (Agro 1/2026)
+  - Jul: Kieserite 1,000 g (Agro 1/2026)
+  - Sep: Mix B 2,000 g (Agro 1/2026)
+  - Oct: Rock phosphate (BRP) 750 g (Agro 1/2026)
+  - Jan: Mix B 2,000 g (Agro 1/2026)
+  - Apr: Mix B 2,000 g (Agro 1/2026)
+  - Note: Mix B 9.45:0:24:3.7:0.48; Kieserite; BRP = Bayovar rock phosphate. Columns May 2026 to Apr 2027. Agro 1/2026 says the FY2026/27 programme is unchanged (Agro 1/2026)
+Fertiliser programme (previous year) FY2025/26:
+  - May: Mix B 2,000 g (Agro 2/2025)
+  - Jul: Kieserite 1,000 g (Agro 2/2025)
+  - Aug: Mix B 2,000 g (Agro 2/2025)
+  - Oct: Rock phosphate 750 g (Agro 2/2025)
+  - Nov: Mix B 2,000 g (Agro 2/2025)
+  - Feb: Mix B 2,000 g (Agro 2/2025)
+Pruning:
+  - Routine pruning paid May 2025–Mar 2026: No entry (dash) in the PA table (PA 1/2026)
+  - Pruning & sanitation checklist May 2026: Pruning good, sanitation good (Agro 1/2026)
+Nutrients:
+  - Leaf analysis Oct 2025: N 2.72 (H), P 0.158 (ML), K 1.1 (H), Mg 0.27 (N), Ca 0.5 (ML), B 16 (H). Key: ML marginal low, N normal, H high (Agro 2/2025)
+Field:
+  - Block details (Mar 2026): Field 12B, 15.47 ha, 1,654 palms, 107 SPH, IOI material, planted 2012 (PA 1/2026)
+
+BLOCK B18 (31.26 ha, planted 2012, Mature)
+Manuring progress (FY2025/26 programme, May 2025–Mar 2026 (rounds with an application date only)):
+  - Mix B (May 25): 100% — applied 13/08 (as printed) (PA 1/2026)
+  - Kieserite (Jul 25): 100% — applied 18/09 (as printed) (PA 1/2026)
+  - Mix B (Aug 25): 100% — applied 13/12 (as printed) (PA 1/2026)
+  - RP (Oct 25): 100% — applied 04/06 (as printed) (PA 1/2026)
+  - Mix B (Nov 25): 100% — applied 31/03 (as printed) (PA 1/2026)
+Spraying progress (FY2025/26, May 2025–Mar 2026):
+  - Circle spraying: 31% — 29.30 ha · Mar 2026 (PA 1/2026)
+  - Selective spraying: 99% — 61.86 ha · Jun 2025 / Feb 2026 (PA 1/2026)
+Manuring progress:
+  - Mix B (Feb 2026): Mix B 2,000 g/palm, no application date in the PA table (to Mar 2026) (PA 1/2026)
+Spraying & weeding:
+  - Weeding checklist May 2026: Circle good, inter-row fair (Agro 1/2026)
+Fertiliser programme (this year) FY2026/27:
+  - Jun: Mix B 2,000 g (Agro 1/2026)
+  - Jul: Kieserite 1,000 g (Agro 1/2026)
+  - Sep: Mix B 2,000 g (Agro 1/2026)
+  - Oct: Rock phosphate (BRP) 750 g (Agro 1/2026)
+  - Jan: Mix B 2,000 g (Agro 1/2026)
+  - Apr: Mix B 2,000 g (Agro 1/2026)
+  - Note: Mix B 9.45:0:24:3.7:0.48; Kieserite; BRP = Bayovar rock phosphate. Columns May 2026 to Apr 2027. Agro 1/2026 says the FY2026/27 programme is unchanged (Agro 1/2026)
+Fertiliser programme (previous year) FY2025/26:
+  - May: Mix B 2,000 g (Agro 2/2025)
+  - Jul: Kieserite 1,000 g (Agro 2/2025)
+  - Aug: Mix B 2,000 g (Agro 2/2025)
+  - Oct: Rock phosphate 750 g (Agro 2/2025)
+  - Nov: Mix B 2,000 g (Agro 2/2025)
+  - Feb: Mix B 2,000 g (Agro 2/2025)
+Pruning:
+  - Routine pruning paid May 2025–Mar 2026: No entry (dash) in the PA table (PA 1/2026)
+  - Pruning & sanitation checklist May 2026: Pruning good, sanitation good (Agro 1/2026)
+Nutrients:
+  - Leaf analysis Oct 2025: N 2.68 (N), P 0.168 (N), K 1.16 (H), Mg 0.26 (N), Ca 0.46 (ML), B 18.3 (H). Key: ML marginal low, N normal, H high (Agro 2/2025)
+Field:
+  - Block details (Mar 2026): Field 12B, 31.26 ha, 3,489 palms, 112 SPH, IOI material, planted 2012 (PA 1/2026)
+
+BLOCK B19 (32.12 ha, planted 2012, Mature)
+Manuring progress (FY2025/26 programme, May 2025–Mar 2026 (rounds with an application date only)):
+  - Mix B (May 25): 100% — applied 17/09 (as printed) (PA 1/2026)
+  - Kieserite (Jul 25): 100% — applied 19/09 (as printed) (PA 1/2026)
+  - Mix B (Aug 25): 100% — applied 11/12 (as printed) (PA 1/2026)
+  - RP (Oct 25): 100% — applied 12/06 (as printed) (PA 1/2026)
+  - Mix B (Nov 25): 100% — applied 26/02 (as printed) (PA 1/2026)
+Spraying progress (FY2025/26, May 2025–Mar 2026):
+  - Circle spraying: 25% — 24.06 ha · Oct 2025 (PA 1/2026)
+  - Selective spraying: 50% — 32.12 ha · Jun 2025 (PA 1/2026)
+Manuring progress:
+  - Mix B (Feb 2026): Mix B 2,000 g/palm, no application date in the PA table (to Mar 2026) (PA 1/2026)
+Spraying & weeding:
+  - Weeding checklist May 2026: Circle ticked good and fair, inter-row fair (Agro 1/2026)
+  - Weeds B19 (May 2026): Woody weeds in inaccessible areas, to be treated after road maintenance; circle maintenance satisfactory, completed toward end of FY (Agro 1/2026)
+Fertiliser programme (this year) FY2026/27:
+  - Jun: Mix B 2,000 g (Agro 1/2026)
+  - Sep: Mix B 2,000 g (Agro 1/2026)
+  - Oct: Rock phosphate (BRP) 750 g (Agro 1/2026)
+  - Jan: Mix B 2,000 g (Agro 1/2026)
+  - Apr: Mix B 2,000 g (Agro 1/2026)
+  - Note: Mix B 9.45:0:24:3.7:0.48; Kieserite; BRP = Bayovar rock phosphate. Columns May 2026 to Apr 2027. Agro 1/2026 says the FY2026/27 programme is unchanged (Agro 1/2026)
+Fertiliser programme (previous year) FY2025/26:
+  - May: Mix B 2,000 g (Agro 2/2025)
+  - Jul: Kieserite 1,000 g (Agro 2/2025)
+  - Aug: Mix B 2,000 g (Agro 2/2025)
+  - Oct: Rock phosphate 750 g (Agro 2/2025)
+  - Nov: Mix B 2,000 g (Agro 2/2025)
+  - Feb: Mix B 2,000 g (Agro 2/2025)
+Pruning:
+  - Routine pruning paid May 2025–Mar 2026: No entry (dash) in the PA table (PA 1/2026)
+  - Pruning & sanitation checklist May 2026: Pruning good, sanitation good (Agro 1/2026)
+  - Under-pruning B19 (May 2026): Canopy maintenance delayed by poor access; some palms neglected and under-pruned until roads were repaired (Agro 1/2026)
+Nutrients:
+  - Leaf analysis Oct 2025: N 2.62 (N), P 0.164 (N), K 1.06 (H), Mg 0.27 (N), Ca 0.53 (N), B 18.1 (H). Key: ML marginal low, N normal, H high (Agro 2/2025)
+  - Palm vigour B19 (May 2026): Palms recovering after rehabilitation: greener, better canopy and vigour (Agro 1/2026)
+Field:
+  - Block details (Mar 2026): Field 12B, 32.12 ha, 3,469 palms, 108 SPH, IOI material, planted 2012 (PA 1/2026)
+  - Roads B19 (May 2026): Poor road conditions photographed (Agro 1/2026)
+
+BLOCK B20 (32.63 ha, planted 2012, Mature)
+Manuring progress (FY2025/26 programme, May 2025–Mar 2026 (rounds with an application date only)):
+  - Mix B (May 25): 100% — applied 13/09 (as printed) (PA 1/2026)
+  - Kieserite (Jul 25): 100% — applied 27/09 (as printed) (PA 1/2026)
+  - Mix B (Aug 25): 100% — applied 30/10 (as printed) (PA 1/2026)
+  - RP (Oct 25): 100% — applied 13/06 (as printed) (PA 1/2026)
+  - Mix B (Nov 25): 100% — applied 19/01 (as printed) (PA 1/2026)
+Spraying progress (FY2025/26, May 2025–Mar 2026):
+  - Circle spraying: 67% — 65.26 ha · Nov 2025 / Mar 2026 (PA 1/2026)
+  - Selective spraying: 57% — 37.43 ha · Jul 2025 (PA 1/2026)
+Manuring progress:
+  - Mix B (Feb 2026): Mix B 2,000 g/palm, no application date in the PA table (to Mar 2026) (PA 1/2026)
+Spraying & weeding:
+  - Weeding checklist May 2026: Circle ticked good and fair, inter-row fair (Agro 1/2026)
+  - Sprayer B20 (May 2026): New knapsack power sprayer (2 units bought) photographed; circles clean (PA 1/2026)
+Fertiliser programme (this year) FY2026/27:
+  - May: Mix B 8,000 g (printed with *, sub-soil application) (Agro 1/2026)
+  - Jul: Kieserite 1,000 g (Agro 1/2026)
+  - Note: earlier draft: Agro 2/2025 Appendix 2 also gave B20 BRP 750 g in Oct 2026; Agro 1/2026 has none (Agro 2/2025)
+  - Note: Area 41.55 ha, 85 SPH, 3,522 palms in the FY2026/27 programme (after supply planting) (Agro 1/2026)
+  - Note: Mix B 9.45:0:24:3.7:0.48; Kieserite; BRP = Bayovar rock phosphate. Columns May 2026 to Apr 2027. Agro 1/2026 says the FY2026/27 programme is unchanged (Agro 1/2026)
+Fertiliser programme (previous year) FY2025/26:
+  - May: Mix B 2,000 g (Agro 2/2025)
+  - Jul: Kieserite 1,000 g (Agro 2/2025)
+  - Aug: Mix B 2,000 g (Agro 2/2025)
+  - Oct: Rock phosphate 750 g (Agro 2/2025)
+  - Nov: Mix B 2,000 g (Agro 2/2025)
+  - Feb: Mix B 2,000 g (Agro 2/2025)
+Pruning:
+  - Routine pruning paid May 2025–Mar 2026: 8.10 ha of 32.63 ha (PA 1/2026)
+  - Pruning & sanitation checklist May 2026: Pruning good, sanitation good (Agro 1/2026)
+Nutrients:
+  - Leaf analysis Oct 2025: N 2.61 (N), P 0.168 (N), K 1.17 (H), Mg 0.27 (N), Ca 0.51 (N), B 18.3 (H). Key: ML marginal low, N normal, H high (Agro 2/2025)
+  - Palm vigour B20 (May 2026): Palms recovering after rehabilitation: greener, better canopy and vigour (Agro 1/2026)
+Field:
+  - Block details (Mar 2026): Field 12B, 32.63 ha, 3,038 palms, 93 SPH, IOI material, planted 2012 (PA 1/2026)
+  - Supply planting (FY2025/26, Agro May 2026): 8.92 ha of previously vacant land planted with 484 supply palms; block now 41.55 ha, 3,522 palms in the FY2026/27 programme (Agro 1/2026)
+  - Supply palms B20 (May 2026): Supply palms photographed (PA 1/2026)

@@ -459,7 +459,120 @@
      "src": "Agro 1/2026",
      "text": "Overripe bunches 15% in P05B, 10% in P05M; fronds placed in trenches (P05B, P05L); silty subsoil P05C."
     }
-   ]
+   ],
+   "detail": {
+    "spraying": [
+     {
+      "k": "Weeding rounds FY2025/26 (May 2025–Apr 2026) (Agro)",
+      "v": "Interrow rounds 1–3 all 100%; circle rounds 1 and 2 100%, round 3 blank (as printed; differs from the PA circle figures)",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "pests": [
+     {
+      "k": "Ganoderma census Apr 2026",
+      "v": "4,995 infected palms (8.20% of 60,913 standing) and 10,115 dead palms (18%); 21.27% of 71,028 palms planted if dead palms are counted as Ganoderma; 55,918 healthy; 127 SPH",
+      "src": "PA 1/2026"
+     },
+     {
+      "k": "Barn owl occupancy May–Jun 2025",
+      "v": "64 boxes, 37% occupied (census May–Jun 2025); no box cleaning in FY2025/26, planned May 2026",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "yield": [
+     {
+      "k": "FFB yield FY2020/21–FY2025/26 (2021–2026)",
+      "v": "t/ha by FY: 24.26, 16.70, 23.55, 14.50, 20.78, 19.34",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "FFB yield FY2025/26 (May 2025–Apr 2026)",
+      "v": "19.34 t/ha vs 20.78 t/ha in FY2024/25; lowest field",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "FFB yield Jan–Apr 2026",
+      "v": "3.59 t/ha vs 5.53 t/ha in Jan–Apr 2025 (-35%); estate 4.58 vs 5.88 t/ha (-22%)",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "FFB yield May–Nov 2025",
+      "v": "14.02 t/ha vs 14.07 t/ha in May–Nov 2024 (0%)",
+      "src": "Agro 2/2025 visit"
+     }
+    ],
+    "harvesting": [
+     {
+      "k": "Harvester output Oct 2025",
+      "v": "3.09 t per man-day at RM31.00/t, earning RM89.94 a day",
+      "src": "PA 1/2026"
+     },
+     {
+      "k": "Harvesting rounds FY2025/26 (May 2025–Apr 2026)",
+      "v": "3.00 rounds in Apr 2026; 24.00 rounds for the year (budget 24); interval 13-15 days",
+      "src": "PA 1/2026"
+     },
+     {
+      "k": "Harvesting interval by month FY2025/26 (May 2025–Apr 2026)",
+      "v": "Days, May to Apr: 10-14 · 10 · 11-13 · 20-26 · 15-20 · 10-13 · 19.22 (as printed) · 10-13 · 10-12 · 12-15 · 12-14 · 8-12. Long intervals Aug–Sep 2025 from peak crop; Nov–Dec 2025 from rain and floods in P07",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "pruning": [
+     {
+      "k": "Progressive pruning FY2025/26 (May 2025–Apr 2026)",
+      "v": "Rounds 1–4 each 100% of 479.92 ha (programme 1,919.7 ha); Agro: 1st and 2nd half both 100%, four rounds achieved",
+      "src": "PA 1/2026 · Agro 1/2026"
+     }
+    ],
+    "field": [
+     {
+      "k": "Palm base mounding FY2025/26 (May 2025–Apr 2026)",
+      "v": "52,035 palms on 479.92 ha (100% of field 2005) at RM7.20 per palm, RM374,652 (PA). Agro Table 13: 52,014 of 60,913 palms (85%)",
+      "src": "PA 1/2026 · Agro 1/2026"
+     },
+     {
+      "k": "Palm census Jul 2024",
+      "v": "60,913 palms; stand 131 previously, 126 now (last census Jul 2024; new census requested)",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Area Apr 2026",
+      "v": "483.03 ha, 126 SPH (PA area statement); all mature, no replanting in the next two financial years",
+      "src": "PA 1/2026"
+     }
+    ],
+    "progress": {
+     "manuring": [
+      {
+       "k": "Compost",
+       "pct": 264,
+       "note": "12,746.86 of 4,826.50 t · 26.39 t/ha",
+       "src": "PA 1/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "May 2025–Apr 2026 (FY2025/26; no FY2026/27 progress printed yet)",
+     "spraying": [
+      {
+       "k": "Circle & path spraying",
+       "pct": 100,
+       "note": "3.00 of 3 rounds · 1,439.76 of 1,439.76 ha",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Selective spraying",
+       "pct": 100,
+       "note": "3.00 of 3 rounds · 1,439.76 of 1,439.76 ha",
+       "src": "PA 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "May 2025–Apr 2026 (FY2025/26; no FY2026/27 progress printed yet)"
+    }
+   }
   },
   {
    "id": "P2006",
@@ -488,7 +601,137 @@
      "src": "Agro 1/2026",
      "text": "Rat damage 32–61% in Feb census (P06P 61%); zinc-plate trial on 293 palms in P06P; improper slant-cut trenches P06F, P06P."
     }
-   ]
+   ],
+   "detail": {
+    "spraying": [
+     {
+      "k": "Weeding rounds FY2025/26 (May 2025–Apr 2026) (Agro)",
+      "v": "Interrow rounds 1–3 all 100%; circle rounds 1 and 2 100%, round 3 blank (as printed; differs from the PA circle figures)",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Selective spraying delayed",
+      "v": "Field 2006 at only 1.93 rounds (64%); estate delayed it deliberately based on interrow condition, but broadleaf weeds are regenerating, especially in field 2006, and need interrow spraying",
+      "src": "PA 1/2026"
+     },
+     {
+      "k": "Circle spraying 2006",
+      "v": "Only 1.50 rounds (33%); PA notes some circle spraying was intentionally omitted where circles were clean",
+      "src": "PA 1/2026"
+     }
+    ],
+    "pests": [
+     {
+      "k": "Ganoderma census Apr 2026",
+      "v": "5,915 infected palms (7.01% of 84,365 standing) and 6,541 dead palms (8%); 13.70% of 90,906 palms planted if dead palms are counted as Ganoderma; 78,450 healthy; 137 SPH",
+      "src": "PA 1/2026"
+     },
+     {
+      "k": "Barn owl occupancy May–Jun 2025",
+      "v": "50 boxes, 46% occupied (census May–Jun 2025); no box cleaning in FY2025/26, planned May 2026",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "yield": [
+     {
+      "k": "FFB yield FY2020/21–FY2025/26 (2021–2026)",
+      "v": "t/ha by FY: 25.90, 19.71, 25.62, 18.19, 23.40, 25.69",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "FFB yield FY2025/26 (May 2025–Apr 2026)",
+      "v": "25.69 t/ha vs 23.40 t/ha in FY2024/25; best field",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "FFB yield Jan–Apr 2026",
+      "v": "5.11 t/ha vs 6.17 t/ha in Jan–Apr 2025 (-17%); estate 4.58 vs 5.88 t/ha (-22%)",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "FFB yield May–Nov 2025",
+      "v": "18.54 t/ha vs 15.99 t/ha in May–Nov 2024 (16%)",
+      "src": "Agro 2/2025 visit"
+     }
+    ],
+    "harvesting": [
+     {
+      "k": "Harvester output Oct 2025",
+      "v": "3.38 t per man-day at RM32.00/t, earning RM95.21 a day",
+      "src": "PA 1/2026"
+     },
+     {
+      "k": "Harvesting rounds FY2025/26 (May 2025–Apr 2026)",
+      "v": "2.70 rounds in Apr 2026; 23.70 rounds for the year (budget 24); interval 14-16 days",
+      "src": "PA 1/2026"
+     },
+     {
+      "k": "Harvesting interval by month FY2025/26 (May 2025–Apr 2026)",
+      "v": "Days, May to Apr: 10-13 · 10-11 · 10-12 · 18-23 · 18-23 · 10-13 · 17-21 · 17-21 · 9-11 · 12-15 · 9-12 · 9-11. Long intervals Aug–Sep 2025 from peak crop; Nov–Dec 2025 from rain and floods in P07",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "pruning": [
+     {
+      "k": "Progressive pruning FY2025/26 (May 2025–Apr 2026)",
+      "v": "Rounds 1–4 each 100% of 614.23 ha (programme 2,456.9 ha); Agro: 1st and 2nd half both 100%, four rounds achieved",
+      "src": "PA 1/2026 · Agro 1/2026"
+     }
+    ],
+    "field": [
+     {
+      "k": "Palm base mounding FY2025/26 (May 2025–Apr 2026)",
+      "v": "12,508 palms on 118.97 ha at RM7.20 per palm, RM90,057; PA text says 90% of field 2006. Agro Table 13 prints 54,843 of 84,365 palms (65%) — the two reports differ",
+      "src": "PA 1/2026 · Agro 1/2026"
+     },
+     {
+      "k": "Palm census Jul 2024",
+      "v": "84,466 palms; stand 144 previously, 137 now (last census Jul 2024; new census requested)",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Area Apr 2026",
+      "v": "614.23 ha, 137 SPH (PA area statement); all mature, no replanting in the next two financial years",
+      "src": "PA 1/2026"
+     }
+    ],
+    "other": [
+     {
+      "k": "Compost placement (Jun 2026 visit)",
+      "v": "Compost placed between two palms in the frond-stacking row in 2006H (photo)",
+      "src": "PA 1/2026"
+     }
+    ],
+    "progress": {
+     "manuring": [
+      {
+       "k": "Compost",
+       "pct": 134,
+       "note": "8,245.76 of 6,143.60 t · 13.42 t/ha",
+       "src": "PA 1/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "May 2025–Apr 2026 (FY2025/26; no FY2026/27 progress printed yet)",
+     "spraying": [
+      {
+       "k": "Circle & path spraying",
+       "pct": 33,
+       "note": "1.50 of 3 rounds · 921.35 of 1,842.69 ha",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Selective spraying",
+       "pct": 64,
+       "note": "1.93 of 3 rounds · 1,183.81 of 1,842.69 ha",
+       "src": "PA 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "May 2025–Apr 2026 (FY2025/26; no FY2026/27 progress printed yet)"
+    }
+   }
   },
   {
    "id": "P2007",
@@ -517,7 +760,137 @@
      "src": "PA 1/2026",
      "text": "Ganoderma 4,754 palms (8.36%) plus 5,986 dead; 17.08% vs palms planted."
     }
-   ]
+   ],
+   "detail": {
+    "manuring": [
+     {
+      "k": "Manuring delayed by floods FY2025/26 (May 2025–Apr 2026)",
+      "v": "Fertiliser application in flood-prone low-lying P07A, B, C, D, E, F, G and K delayed by flooding Nov 2025–Feb 2026; estate expected to finish by end Jun 2026",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Sub-soil application",
+      "v": "Sub-soil fertiliser application practised in flood-prone areas, mainly P07 plantings (131.52 ha); EMDEK spreader elsewhere",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "spraying": [
+     {
+      "k": "Weeding rounds FY2025/26 (May 2025–Apr 2026) (Agro)",
+      "v": "Interrow rounds 1–3 all 100%; circle rounds 1 and 2 100%, round 3 blank (as printed; differs from the PA circle figures)",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Circle spraying due (Jun 2026 visit)",
+      "v": "Areas due for circle spraying seen in field 2007, delayed",
+      "src": "PA 1/2026"
+     }
+    ],
+    "pests": [
+     {
+      "k": "Ganoderma census Apr 2026",
+      "v": "4,754 infected palms (8.36% of 56,885 standing) and 5,986 dead palms (11%); 17.08% of 62,871 palms planted if dead palms are counted as Ganoderma; 52,131 healthy; 134 SPH",
+      "src": "PA 1/2026"
+     },
+     {
+      "k": "Barn owl occupancy May–Jun 2025",
+      "v": "23 boxes, 41% occupied (census May–Jun 2025); no box cleaning in FY2025/26, planned May 2026",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "yield": [
+     {
+      "k": "FFB yield FY2020/21–FY2025/26 (2021–2026)",
+      "v": "t/ha by FY: 24.34, 20.10, 23.96, 15.82, 22.45, 22.06",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "FFB yield FY2025/26 (May 2025–Apr 2026)",
+      "v": "22.06 t/ha vs 22.45 t/ha in FY2024/25",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "FFB yield Jan–Apr 2026",
+      "v": "4.96 t/ha vs 5.56 t/ha in Jan–Apr 2025 (-11%); estate 4.58 vs 5.88 t/ha (-22%)",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "FFB yield May–Nov 2025",
+      "v": "15.05 t/ha vs 15.57 t/ha in May–Nov 2024 (-3%)",
+      "src": "Agro 2/2025 visit"
+     }
+    ],
+    "harvesting": [
+     {
+      "k": "Harvester output Oct 2025",
+      "v": "3.06 t per man-day at RM32.00/t, earning RM91.36 a day",
+      "src": "PA 1/2026"
+     },
+     {
+      "k": "Harvesting rounds FY2025/26 (May 2025–Apr 2026)",
+      "v": "2.90 rounds in Apr 2026; 24.00 rounds for the year (budget 24); interval 13-15 days",
+      "src": "PA 1/2026"
+     },
+     {
+      "k": "Harvesting interval by month FY2025/26 (May 2025–Apr 2026)",
+      "v": "Days, May to Apr: 10-11 · 13-15 · 15-16 · 13-15 · 19-22 · 10-12 · 16-20 · 20-26 · 11-13 · 12-14 · 11-13 · 8-10. Long intervals Aug–Sep 2025 from peak crop; Nov–Dec 2025 from rain and floods in P07",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "pruning": [
+     {
+      "k": "Progressive pruning FY2025/26 (May 2025–Apr 2026)",
+      "v": "Rounds 1–4 each 100% of 424.81 ha (programme 1,699.2 ha); Agro: 1st and 2nd half both 100%, four rounds achieved",
+      "src": "PA 1/2026 · Agro 1/2026"
+     }
+    ],
+    "field": [
+     {
+      "k": "Palm base mounding FY2025/26 (May 2025–Apr 2026)",
+      "v": "Not yet mounded; recommended for the next financial year (FY2026/27)",
+      "src": "PA 1/2026 · Agro 1/2026"
+     },
+     {
+      "k": "Palm census Jul 2024",
+      "v": "61,972 palms; stand 142 previously, 146 now (last census Jul 2024; new census requested)",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Area Apr 2026",
+      "v": "424.81 ha, 146 SPH (PA area statement); all mature, no replanting in the next two financial years",
+      "src": "PA 1/2026"
+     }
+    ],
+    "progress": {
+     "manuring": [
+      {
+       "k": "Compost",
+       "pct": 75,
+       "note": "2,834.42 of 3,787.48 t · 9.38 t/ha",
+       "src": "PA 1/2026",
+       "calc": false
+      }
+     ],
+     "manuringPeriod": "May 2025–Apr 2026 (FY2025/26; no FY2026/27 progress printed yet)",
+     "spraying": [
+      {
+       "k": "Circle & path spraying",
+       "pct": 39,
+       "note": "1.16 of 3 rounds · 492.39 of 1,274.43 ha",
+       "src": "PA 1/2026",
+       "calc": false
+      },
+      {
+       "k": "Selective spraying",
+       "pct": 100,
+       "note": "3.00 of 3 rounds · 1,274.43 of 1,274.43 ha",
+       "src": "PA 1/2026",
+       "calc": false
+      }
+     ],
+     "sprayingPeriod": "May 2025–Apr 2026 (FY2025/26; no FY2026/27 progress printed yet)"
+    }
+   }
   },
   {
    "id": "P05A",
@@ -538,7 +911,72 @@
      "src": "Agro 1/2026",
      "text": "Rat damage census Q1 2026: 40% (Jan)."
     }
-   ]
+   ],
+   "detail": {
+    "manuring": [
+     {
+      "k": "Compost FY2025/26 (May 2025–Apr 2026)",
+      "v": "755.08 t on 35.54 ha, 21 t/ha, 100% of area (as of Nov 2025)",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "pests": [
+     {
+      "k": "Rat damage census Jan 2026",
+      "v": "40% damage (32.54 ha as printed); above the 10% threshold. Baiting started Apr 2026",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "yield": [
+     {
+      "k": "FFB yield May–Nov 2025",
+      "v": "12.31 t/ha vs 15.53 t/ha in May–Nov 2024 (-21%); no sub-block yields in the May 2026 report",
+      "src": "Agro 2/2025 visit"
+     }
+    ],
+    "nutrients": [
+     {
+      "k": "Leaf analysis Jun 2025",
+      "v": "N 2.69%, P 0.165%, K 0.96%, Mg 0.33%, Ca 0.56%, B 17.63 ppm (samples received 21 Jun 2025, results 12 Jul 2025)",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "fertNow": {
+     "year": "FY2026/27",
+     "rows": [
+      {
+       "k": "May",
+       "v": "Mix A 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Aug",
+       "v": "Mix A 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Oct",
+       "v": "Mix A 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Feb",
+       "v": "Mix A 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Total",
+       "v": "8,000 g/palm per year (Mix A 8,000 g)",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Note",
+       "v": "4,247 palms, 119 SPH, 35.54 ha; 33.98 t of fertiliser for the year. Compost 10 t/ha in May 2026",
+       "src": "Agro 1/2026"
+      }
+     ]
+    }
+   }
   },
   {
    "id": "P05B",
@@ -563,7 +1001,98 @@
      "src": "Agro 1/2026",
      "text": "Overripe 15% at visit; fronds in trenches and improper slant-cut trenches."
     }
-   ]
+   ],
+   "detail": {
+    "manuring": [
+     {
+      "k": "Compost FY2025/26 (May 2025–Apr 2026)",
+      "v": "729.34 t on 37.99 ha, 19 t/ha, 100% of area (as of Nov 2025)",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "spraying": [
+     {
+      "k": "Ground cover (May 2026 visit)",
+      "v": "Interrow predominantly soft grasses but sparse, mixed with undesirable weeds (photo)",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "pests": [
+     {
+      "k": "Rat damage census Jan 2026",
+      "v": "55% damage; above the 10% threshold. Baiting started Apr 2026",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "yield": [
+     {
+      "k": "FFB yield May–Nov 2025",
+      "v": "12.63 t/ha vs 13.96 t/ha in May–Nov 2024 (-10%); no sub-block yields in the May 2026 report",
+      "src": "Agro 2/2025 visit"
+     }
+    ],
+    "harvesting": [
+     {
+      "k": "Ripeness check (May 2026 visit)",
+      "v": "15% overripe among freshly harvested bunches (photos); 8–15% across checked blocks is still high, keep a 15-day interval",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "nutrients": [
+     {
+      "k": "Leaf analysis Jun 2025",
+      "v": "N 2.54%, P 0.164%, K 1.04%, Mg 0.33%, Ca 0.58%, B 17.56 ppm (samples received 21 Jun 2025, results 12 Jul 2025)",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "field": [
+     {
+      "k": "Fronds in trenches (May 2026 visit)",
+      "v": "Fronds placed in the slant-cut trenches (photos); this does not create an organic-matter fertiliser zone and may let fertiliser wash into the trenches",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Slant-cut trenches (May 2026 visit)",
+      "v": "Improper slant-cut mounding trenches toward the harvesting path (photos); severe root damage and possibly over 30% fertiliser loss under EMDEK; stop slant-cut trenching",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "fertNow": {
+     "year": "FY2026/27",
+     "rows": [
+      {
+       "k": "May",
+       "v": "Mix A 2,200 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Aug",
+       "v": "Mix A 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Oct",
+       "v": "Mix A 2,200 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Feb",
+       "v": "Mix A 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Total",
+       "v": "8,400 g/palm per year (Mix A 8,400 g)",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Note",
+       "v": "4,397 palms, 116 SPH, 37.99 ha; 36.93 t of fertiliser for the year. Compost 10 t/ha in May 2026",
+       "src": "Agro 1/2026"
+      }
+     ]
+    }
+   }
   },
   {
    "id": "P05C",
@@ -588,7 +1117,86 @@
      "src": "Agro 1/2026",
      "text": "Subsoil with high silt content."
     }
-   ]
+   ],
+   "detail": {
+    "manuring": [
+     {
+      "k": "Compost FY2025/26 (May 2025–Apr 2026)",
+      "v": "828.14 t on 41.44 ha, 20 t/ha, 100% of area (as of Nov 2025)",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "pests": [
+     {
+      "k": "Rat damage census Jan 2026",
+      "v": "27% damage; above the 10% threshold. Baiting started Apr 2026",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "yield": [
+     {
+      "k": "FFB yield May–Nov 2025",
+      "v": "11.55 t/ha vs 13.03 t/ha in May–Nov 2024 (-11%); no sub-block yields in the May 2026 report",
+      "src": "Agro 2/2025 visit"
+     }
+    ],
+    "harvesting": [
+     {
+      "k": "Loose fruit (May 2026 visit)",
+      "v": "Acceptable loose fruit collection with less trash (photo)",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "nutrients": [
+     {
+      "k": "Leaf analysis Jun 2025",
+      "v": "N 2.52%, P 0.166%, K 0.96%, Mg 0.30%, Ca 0.60%, B 18.63 ppm (samples received 21 Jun 2025, results 12 Jul 2025)",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "field": [
+     {
+      "k": "Silty subsoil (May 2026 visit)",
+      "v": "Subsoil with high silt content (photos): poor drainage and aeration, waterlogging; improve with organic matter through proper frond stacking",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "fertNow": {
+     "year": "FY2026/27",
+     "rows": [
+      {
+       "k": "May",
+       "v": "Mix A 2,200 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Aug",
+       "v": "Mix A 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Oct",
+       "v": "Mix A 2,200 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Feb",
+       "v": "Mix A 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Total",
+       "v": "8,400 g/palm per year (Mix A 8,400 g)",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Note",
+       "v": "5,191 palms, 125 SPH, 41.44 ha; 43.60 t of fertiliser for the year. Compost 10 t/ha in May 2026",
+       "src": "Agro 1/2026"
+      }
+     ]
+    }
+   }
   },
   {
    "id": "P05D",
@@ -609,7 +1217,91 @@
      "src": "Agro 1/2026",
      "text": "Leftover bunches; vacant points overgrown; sparse soft grass."
     }
-   ]
+   ],
+   "detail": {
+    "manuring": [
+     {
+      "k": "Compost FY2025/26 (May 2025–Apr 2026)",
+      "v": "917.92 t on 42.55 ha, 22 t/ha, 100% of area (as of Nov 2025)",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "spraying": [
+     {
+      "k": "Vacant points (May 2026 visit)",
+      "v": "Vacant points overgrown with weeds (photos); potential hotspots for undesirable weed spread",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Ground cover (May 2026 visit)",
+      "v": "Interrow predominantly soft grasses but sparse, mixed with undesirable weeds (photo)",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "pests": [
+     {
+      "k": "Rat damage census Jan–Mar 2026",
+      "v": "Not yet censused by Mar 2026 (Q1 census covered 850.35 of 1,522.07 ha, 55.86%)",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "yield": [
+     {
+      "k": "FFB yield May–Nov 2025",
+      "v": "12.39 t/ha vs 11.95 t/ha in May–Nov 2024 (4%); no sub-block yields in the May 2026 report",
+      "src": "Agro 2/2025 visit"
+     }
+    ],
+    "harvesting": [
+     {
+      "k": "Leftover bunches (May 2026 visit)",
+      "v": "Leftover uncollected old bunches seen (photo), believed to be excess overripe bunches left by harvesters",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "nutrients": [
+     {
+      "k": "Leaf analysis Jun 2025",
+      "v": "N 2.67%, P 0.160%, K 1.00%, Mg 0.34%, Ca 0.55%, B 14.71 ppm (samples received 21 Jun 2025, results 12 Jul 2025)",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "fertNow": {
+     "year": "FY2026/27",
+     "rows": [
+      {
+       "k": "May",
+       "v": "Mix A 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Aug",
+       "v": "Mix A 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Oct",
+       "v": "Mix A 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Feb",
+       "v": "Mix A 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Total",
+       "v": "8,000 g/palm per year (Mix A 8,000 g)",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Note",
+       "v": "5,178 palms, 122 SPH, 42.55 ha; 41.42 t of fertiliser for the year. Compost 10 t/ha in May 2026",
+       "src": "Agro 1/2026"
+      }
+     ]
+    }
+   }
   },
   {
    "id": "P05E",
@@ -630,7 +1322,96 @@
      "src": "Agro 1/2026",
      "text": "Sparse soft grasses mixed with weeds."
     }
-   ]
+   ],
+   "detail": {
+    "manuring": [
+     {
+      "k": "Compost FY2025/26 (May 2025–Apr 2026)",
+      "v": "606.82 t on 31.61 ha, 19 t/ha, 100% of area (as of Nov 2025)",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "spraying": [
+     {
+      "k": "Ground cover (May 2026 visit)",
+      "v": "Interrow predominantly soft grasses but sparse, mixed with undesirable weeds (photo)",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Palm circle (Jun 2026 visit)",
+      "v": "Palm circle free of weeds thanks to palm base soil mounding (photo)",
+      "src": "PA 1/2026"
+     }
+    ],
+    "pests": [
+     {
+      "k": "Rat damage census Jan–Mar 2026",
+      "v": "Not yet censused by Mar 2026 (Q1 census covered 850.35 of 1,522.07 ha, 55.86%)",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "yield": [
+     {
+      "k": "FFB yield May–Nov 2025",
+      "v": "16.83 t/ha vs 16.54 t/ha in May–Nov 2024 (2%); no sub-block yields in the May 2026 report",
+      "src": "Agro 2/2025 visit"
+     }
+    ],
+    "nutrients": [
+     {
+      "k": "Leaf analysis Jun 2025",
+      "v": "N 2.51%, P 0.159%, K 0.98%, Mg 0.35%, Ca 0.56%, B 21.41 ppm (samples received 21 Jun 2025, results 12 Jul 2025)",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "field": [
+     {
+      "k": "Mounding quality (Jun 2026 visit)",
+      "v": "Satisfactory size and quality of palm base soil mounding (photo)",
+      "src": "PA 1/2026"
+     }
+    ],
+    "fertNow": {
+     "year": "FY2026/27",
+     "rows": [
+      {
+       "k": "May",
+       "v": "Mix A 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Aug",
+       "v": "Mix A 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Oct",
+       "v": "Mix A 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Jan",
+       "v": "RP 1,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Feb",
+       "v": "Mix A 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Total",
+       "v": "9,000 g/palm per year (Mix A 8,000 g + RP 1,000 g)",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Note",
+       "v": "4,039 palms, 128 SPH, 31.61 ha; 36.35 t of fertiliser for the year. Compost 10 t/ha in May 2026",
+       "src": "Agro 1/2026"
+      }
+     ]
+    }
+   }
   },
   {
    "id": "P05F",
@@ -651,7 +1432,77 @@
      "src": "Agro 1/2026",
      "text": "Rat damage census Q1 2026: 35% (Jan)."
     }
-   ]
+   ],
+   "detail": {
+    "manuring": [
+     {
+      "k": "Compost FY2025/26 (May 2025–Apr 2026)",
+      "v": "912.16 t on 36.42 ha, 25 t/ha, 100% of area (as of Nov 2025)",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "pests": [
+     {
+      "k": "Rat damage census Jan 2026",
+      "v": "35% damage; above the 10% threshold. Baiting started Apr 2026",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "yield": [
+     {
+      "k": "FFB yield May–Nov 2025",
+      "v": "13.27 t/ha vs 14.07 t/ha in May–Nov 2024 (-6%); no sub-block yields in the May 2026 report",
+      "src": "Agro 2/2025 visit"
+     }
+    ],
+    "nutrients": [
+     {
+      "k": "Leaf analysis Jun 2025",
+      "v": "N 2.52%, P 0.152%, K 0.98%, Mg 0.34%, Ca 0.52%, B 15.02 ppm (samples received 21 Jun 2025, results 12 Jul 2025)",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "fertNow": {
+     "year": "FY2026/27",
+     "rows": [
+      {
+       "k": "May",
+       "v": "Mix A 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Aug",
+       "v": "Mix A 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Oct",
+       "v": "Mix A 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Jan",
+       "v": "RP 1,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Feb",
+       "v": "Mix A 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Total",
+       "v": "9,000 g/palm per year (Mix A 8,000 g + RP 1,000 g)",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Note",
+       "v": "4,624 palms, 127 SPH, 36.42 ha; 41.62 t of fertiliser for the year. Compost 10 t/ha in Jun 2026",
+       "src": "Agro 1/2026"
+      }
+     ]
+    }
+   }
   },
   {
    "id": "P05G",
@@ -672,7 +1523,77 @@
      "src": "Agro 1/2026",
      "text": "Rat damage census Q1 2026: 34% (Jan)."
     }
-   ]
+   ],
+   "detail": {
+    "manuring": [
+     {
+      "k": "Compost FY2025/26 (May 2025–Apr 2026)",
+      "v": "974.52 t on 42.07 ha, 23 t/ha, 100% of area (as of Nov 2025)",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "pests": [
+     {
+      "k": "Rat damage census Jan 2026",
+      "v": "34% damage; above the 10% threshold. Baiting started Apr 2026",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "yield": [
+     {
+      "k": "FFB yield May–Nov 2025",
+      "v": "15.96 t/ha vs 14.58 t/ha in May–Nov 2024 (9%); no sub-block yields in the May 2026 report",
+      "src": "Agro 2/2025 visit"
+     }
+    ],
+    "nutrients": [
+     {
+      "k": "Leaf analysis Jun 2025",
+      "v": "N 2.53%, P 0.150%, K 0.96%, Mg 0.31%, Ca 0.52%, B 17.71 ppm (samples received 21 Jun 2025, results 12 Jul 2025)",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "fertNow": {
+     "year": "FY2026/27",
+     "rows": [
+      {
+       "k": "May",
+       "v": "Mix A 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Aug",
+       "v": "Mix A 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Oct",
+       "v": "Mix A 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Jan",
+       "v": "RP 1,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Feb",
+       "v": "Mix A 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Total",
+       "v": "9,000 g/palm per year (Mix A 8,000 g + RP 1,000 g)",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Note",
+       "v": "5,680 palms, 135 SPH, 42.07 ha; 51.12 t of fertiliser for the year. Compost 10 t/ha in Jun 2026",
+       "src": "Agro 1/2026"
+      }
+     ]
+    }
+   }
   },
   {
    "id": "P05H",
@@ -689,7 +1610,77 @@
      "src": "Agro 1/2026",
      "text": "Leaf N 2.46%, K 0.96% (samples Jun 2025); compost 25 t/ha to Nov 2025."
     }
-   ]
+   ],
+   "detail": {
+    "manuring": [
+     {
+      "k": "Compost FY2025/26 (May 2025–Apr 2026)",
+      "v": "923.74 t on 37.37 ha, 25 t/ha, 100% of area (as of Nov 2025)",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "pests": [
+     {
+      "k": "Rat damage census Jan–Mar 2026",
+      "v": "Not yet censused by Mar 2026 (Q1 census covered 850.35 of 1,522.07 ha, 55.86%)",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "yield": [
+     {
+      "k": "FFB yield May–Nov 2025",
+      "v": "17.15 t/ha vs 13.99 t/ha in May–Nov 2024 (23%); no sub-block yields in the May 2026 report",
+      "src": "Agro 2/2025 visit"
+     }
+    ],
+    "nutrients": [
+     {
+      "k": "Leaf analysis Jun 2025",
+      "v": "N 2.46%, P 0.151%, K 0.96%, Mg 0.34%, Ca 0.55%, B 18.25 ppm (samples received 21 Jun 2025, results 12 Jul 2025)",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "fertNow": {
+     "year": "FY2026/27",
+     "rows": [
+      {
+       "k": "May",
+       "v": "Mix A 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Aug",
+       "v": "Mix A 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Oct",
+       "v": "Mix A 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Jan",
+       "v": "RP 1,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Feb",
+       "v": "Mix A 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Total",
+       "v": "9,000 g/palm per year (Mix A 8,000 g + RP 1,000 g)",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Note",
+       "v": "5,223 palms, 140 SPH, 37.37 ha; 47.01 t of fertiliser for the year. Compost 10 t/ha in Jun 2026",
+       "src": "Agro 1/2026"
+      }
+     ]
+    }
+   }
   },
   {
    "id": "P05I",
@@ -710,7 +1701,79 @@
      "src": "Agro 1/2026",
      "text": "Rat damage census Q1 2026: 26% (Jan)."
     }
-   ]
+   ],
+   "detail": {
+    "manuring": [
+     {
+      "k": "Compost FY2025/26 (May 2025–Apr 2026)",
+      "v": "587.42 t on 25.71 ha, 23 t/ha, 100% of area (as of Nov 2025)",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "spraying": [
+     {
+      "k": "Palm circle (Jun 2026 visit)",
+      "v": "Weed-free palm circle (photo)",
+      "src": "PA 1/2026"
+     }
+    ],
+    "pests": [
+     {
+      "k": "Rat damage census Jan 2026",
+      "v": "26% damage; above the 10% threshold. Baiting started Apr 2026",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "yield": [
+     {
+      "k": "FFB yield May–Nov 2025",
+      "v": "14.85 t/ha vs 14.38 t/ha in May–Nov 2024 (3%); no sub-block yields in the May 2026 report",
+      "src": "Agro 2/2025 visit"
+     }
+    ],
+    "nutrients": [
+     {
+      "k": "Leaf analysis Jun 2025",
+      "v": "N 2.62%, P 0.166%, K 1.04%, Mg 0.32%, Ca 0.55%, B 22.41 ppm (samples received 21 Jun 2025, results 12 Jul 2025)",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "fertNow": {
+     "year": "FY2026/27",
+     "rows": [
+      {
+       "k": "May",
+       "v": "Mix A 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Aug",
+       "v": "Mix A 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Oct",
+       "v": "Mix A 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Feb",
+       "v": "Mix A 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Total",
+       "v": "8,000 g/palm per year (Mix A 8,000 g)",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Note",
+       "v": "3,282 palms, 128 SPH, 25.71 ha; 26.26 t of fertiliser for the year. Compost 10 t/ha in Jun 2026",
+       "src": "Agro 1/2026"
+      }
+     ]
+    }
+   }
   },
   {
    "id": "P05J",
@@ -731,7 +1794,94 @@
      "src": "Agro 1/2026",
      "text": "Vacant points overgrown with weeds."
     }
-   ]
+   ],
+   "detail": {
+    "manuring": [
+     {
+      "k": "Compost FY2025/26 (May 2025–Apr 2026)",
+      "v": "1,008.92 t on 36.81 ha, 27 t/ha, 100% of area (as of Nov 2025)",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "spraying": [
+     {
+      "k": "Vacant points (May 2026 visit)",
+      "v": "Vacant points overgrown with weeds (photos); potential hotspots for undesirable weed spread",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Palm circle (Jun 2026 visit)",
+      "v": "Weed-free palm circle (photo)",
+      "src": "PA 1/2026"
+     },
+     {
+      "k": "Interrow (Jun 2026 visit)",
+      "v": "Satisfactory soft grass establishment (photo)",
+      "src": "PA 1/2026"
+     },
+     {
+      "k": "Woody weed spraying (Jun 2026 visit)",
+      "v": "Satisfactory spraying of woody weeds with triclopyr (photos)",
+      "src": "PA 1/2026"
+     }
+    ],
+    "pests": [
+     {
+      "k": "Rat damage census Jan–Mar 2026",
+      "v": "Not yet censused by Mar 2026 (Q1 census covered 850.35 of 1,522.07 ha, 55.86%)",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "yield": [
+     {
+      "k": "FFB yield May–Nov 2025",
+      "v": "11.69 t/ha vs 13.23 t/ha in May–Nov 2024 (-12%); no sub-block yields in the May 2026 report",
+      "src": "Agro 2/2025 visit"
+     }
+    ],
+    "nutrients": [
+     {
+      "k": "Leaf analysis Jun 2025",
+      "v": "N 2.65%, P 0.165%, K 1.06%, Mg 0.30%, Ca 0.54%, B 23.57 ppm (samples received 21 Jun 2025, results 12 Jul 2025)",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "fertNow": {
+     "year": "FY2026/27",
+     "rows": [
+      {
+       "k": "May",
+       "v": "Mix A 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Aug",
+       "v": "Mix A 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Oct",
+       "v": "Mix A 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Feb",
+       "v": "Mix A 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Total",
+       "v": "8,000 g/palm per year (Mix A 8,000 g)",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Note",
+       "v": "4,624 palms, 126 SPH, 36.81 ha; 36.99 t of fertiliser for the year. Compost 10 t/ha in Jun 2026",
+       "src": "Agro 1/2026"
+      }
+     ]
+    }
+   }
   },
   {
    "id": "P05K",
@@ -752,7 +1902,79 @@
      "src": "Agro 1/2026",
      "text": "Sparse soft grasses mixed with weeds."
     }
-   ]
+   ],
+   "detail": {
+    "manuring": [
+     {
+      "k": "Compost FY2025/26 (May 2025–Apr 2026)",
+      "v": "908.92 t on 36.44 ha, 25 t/ha, 100% of area (as of Nov 2025)",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "spraying": [
+     {
+      "k": "Ground cover (May 2026 visit)",
+      "v": "Interrow predominantly soft grasses but sparse, mixed with undesirable weeds (photo)",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "pests": [
+     {
+      "k": "Rat damage census Jan–Mar 2026",
+      "v": "Not yet censused by Mar 2026 (Q1 census covered 850.35 of 1,522.07 ha, 55.86%)",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "yield": [
+     {
+      "k": "FFB yield May–Nov 2025",
+      "v": "13.24 t/ha vs 13.47 t/ha in May–Nov 2024 (-2%); no sub-block yields in the May 2026 report",
+      "src": "Agro 2/2025 visit"
+     }
+    ],
+    "nutrients": [
+     {
+      "k": "Leaf analysis Jun 2025",
+      "v": "N 2.48%, P 0.165%, K 1.04%, Mg 0.31%, Ca 0.54%, B 16.71 ppm (samples received 21 Jun 2025, results 12 Jul 2025)",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "fertNow": {
+     "year": "FY2026/27",
+     "rows": [
+      {
+       "k": "May",
+       "v": "Mix A 2,200 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Aug",
+       "v": "Mix A 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Oct",
+       "v": "Mix A 2,200 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Feb",
+       "v": "Mix A 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Total",
+       "v": "8,400 g/palm per year (Mix A 8,400 g)",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Note",
+       "v": "4,470 palms, 123 SPH, 36.44 ha; 37.55 t of fertiliser for the year. Compost 10 t/ha in Jun 2026",
+       "src": "Agro 1/2026"
+      }
+     ]
+    }
+   }
   },
   {
    "id": "P05L",
@@ -777,7 +1999,89 @@
      "src": "Agro 1/2026",
      "text": "Fronds in trenches; compost in waterlogged trench; slant-cut trenches."
     }
-   ]
+   ],
+   "detail": {
+    "manuring": [
+     {
+      "k": "Compost FY2025/26 (May 2025–Apr 2026)",
+      "v": "992.08 t on 42.07 ha, 24 t/ha, 100% of area (as of Nov 2025)",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Compost in trenches (May 2026 visit)",
+      "v": "Compost placed in or over waterlogged trenches (photo): anaerobic breakdown risk; partial covering of trenches with compost not needed",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "pests": [
+     {
+      "k": "Rat damage census Jan 2026",
+      "v": "33% damage; above the 10% threshold. Baiting started Apr 2026",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "yield": [
+     {
+      "k": "FFB yield May–Nov 2025",
+      "v": "15.00 t/ha vs 13.77 t/ha in May–Nov 2024 (9%); no sub-block yields in the May 2026 report",
+      "src": "Agro 2/2025 visit"
+     }
+    ],
+    "nutrients": [
+     {
+      "k": "Leaf analysis Jun 2025",
+      "v": "N 2.56%, P 0.168%, K 1.02%, Mg 0.34%, Ca 0.57%, B 21.79 ppm (samples received 21 Jun 2025, results 12 Jul 2025)",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "field": [
+     {
+      "k": "Fronds in trenches (May 2026 visit)",
+      "v": "Fronds placed in the slant-cut trenches (photos); this does not create an organic-matter fertiliser zone and may let fertiliser wash into the trenches",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Slant-cut trenches (May 2026 visit)",
+      "v": "Improper slant-cut mounding trenches toward the harvesting path (photos); severe root damage and possibly over 30% fertiliser loss under EMDEK; stop slant-cut trenching",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "fertNow": {
+     "year": "FY2026/27",
+     "rows": [
+      {
+       "k": "May",
+       "v": "Mix A 2,200 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Aug",
+       "v": "Mix A 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Oct",
+       "v": "Mix A 2,200 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Feb",
+       "v": "Mix A 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Total",
+       "v": "8,400 g/palm per year (Mix A 8,400 g)",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Note",
+       "v": "4,963 palms, 118 SPH, 42.07 ha; 41.69 t of fertiliser for the year. Compost 10 t/ha in Jul 2026",
+       "src": "Agro 1/2026"
+      }
+     ]
+    }
+   }
   },
   {
    "id": "P05M",
@@ -802,7 +2106,115 @@
      "src": "Agro 1/2026",
      "text": "Overripe 10% at visit; Nephrolepis dominant; old bagworm defoliation."
     }
-   ]
+   ],
+   "detail": {
+    "manuring": [
+     {
+      "k": "Compost FY2025/26 (May 2025–Apr 2026)",
+      "v": "916.22 t on 37.01 ha, 25 t/ha, 100% of area (as of Nov 2025)",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "spraying": [
+     {
+      "k": "Ground cover (May 2026 visit)",
+      "v": "Interrow predominantly soft fern Nephrolepis (photo): beneficial cover; avoid over-spraying, control only where it encroaches circles or harvesting",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Palm circle (Jun 2026 visit)",
+      "v": "Palm circle free of weeds thanks to palm base soil mounding (photo)",
+      "src": "PA 1/2026"
+     },
+     {
+      "k": "Interrow (Jun 2026 visit)",
+      "v": "Satisfactory Nephrolepis established; harvester path grass cut with a roto-slasher (photos)",
+      "src": "PA 1/2026"
+     }
+    ],
+    "pests": [
+     {
+      "k": "Rat damage census Jan 2026",
+      "v": "30% damage; above the 10% threshold. Baiting started Apr 2026",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Bagworm (May 2026 visit)",
+      "v": "Old bagworm defoliation on older fronds; new fronds show minimal damage, population under control (photos)",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "yield": [
+     {
+      "k": "FFB yield May–Nov 2025",
+      "v": "14.84 t/ha vs 15.30 t/ha in May–Nov 2024 (-3%); no sub-block yields in the May 2026 report",
+      "src": "Agro 2/2025 visit"
+     }
+    ],
+    "harvesting": [
+     {
+      "k": "Ripeness check (May 2026 visit)",
+      "v": "10% overripe among freshly harvested bunches (photos); 8–15% across checked blocks is still high, keep a 15-day interval",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "pruning": [
+     {
+      "k": "Pruning standard (May 2026 visit)",
+      "v": "Satisfactory pruning condition (photo); estate pruning up to date with only minor dry hanging fronds",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "nutrients": [
+     {
+      "k": "Leaf analysis Jun 2025",
+      "v": "N 2.57%, P 0.170%, K 1.00%, Mg 0.34%, Ca 0.53%, B 19.48 ppm (samples received 21 Jun 2025, results 12 Jul 2025)",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "field": [
+     {
+      "k": "Road (Jun 2026 visit)",
+      "v": "Satisfactory road condition (photo)",
+      "src": "PA 1/2026"
+     }
+    ],
+    "fertNow": {
+     "year": "FY2026/27",
+     "rows": [
+      {
+       "k": "May",
+       "v": "Mix A 2,200 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Aug",
+       "v": "Mix A 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Oct",
+       "v": "Mix A 2,200 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Feb",
+       "v": "Mix A 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Total",
+       "v": "8,400 g/palm per year (Mix A 8,400 g)",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Note",
+       "v": "4,995 palms, 135 SPH, 37.01 ha; 41.96 t of fertiliser for the year. Compost 10 t/ha in Jul 2026",
+       "src": "Agro 1/2026"
+      }
+     ]
+    }
+   }
   },
   {
    "id": "P06A",
@@ -823,7 +2235,79 @@
      "src": "Agro 1/2026",
      "text": "Rat damage census Q1 2026: 44% (Feb)."
     }
-   ]
+   ],
+   "detail": {
+    "manuring": [
+     {
+      "k": "Compost FY2025/26 (May 2025–Apr 2026)",
+      "v": "538.10 t on 53.81 ha, 10 t/ha, 100% of area (as of Nov 2025)",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "pests": [
+     {
+      "k": "Rat damage census Feb 2026",
+      "v": "44% damage; above the 10% threshold. Baiting started Apr 2026",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "yield": [
+     {
+      "k": "FFB yield May–Nov 2025",
+      "v": "18.04 t/ha vs 17.51 t/ha in May–Nov 2024 (3%); no sub-block yields in the May 2026 report",
+      "src": "Agro 2/2025 visit"
+     }
+    ],
+    "pruning": [
+     {
+      "k": "Pruning standard (May 2026 visit)",
+      "v": "Satisfactory pruning condition (photo); estate pruning up to date with only minor dry hanging fronds",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "nutrients": [
+     {
+      "k": "Leaf analysis Jun 2025",
+      "v": "N 2.54%, P 0.165%, K 0.96%, Mg 0.31%, Ca 0.59%, B 16.02 ppm (samples received 21 Jun 2025, results 12 Jul 2025)",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "fertNow": {
+     "year": "FY2026/27",
+     "rows": [
+      {
+       "k": "Jun",
+       "v": "Mix A 2,200 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Sep",
+       "v": "Mix A 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Feb",
+       "v": "Mix A 2,200 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Apr",
+       "v": "Mix A 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Total",
+       "v": "8,400 g/palm per year (Mix A 8,400 g)",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Note",
+       "v": "7,501 palms, 140 SPH, 53.81 ha; 63.01 t of fertiliser for the year. Compost 10 t/ha in Jul 2026",
+       "src": "Agro 1/2026"
+      }
+     ]
+    }
+   }
   },
   {
    "id": "P06B",
@@ -844,7 +2328,77 @@
      "src": "Agro 1/2026",
      "text": "Rat damage census Q1 2026: 42% (Feb)."
     }
-   ]
+   ],
+   "detail": {
+    "manuring": [
+     {
+      "k": "Compost FY2025/26 (May 2025–Apr 2026)",
+      "v": "651.60 t on 65.16 ha, 10 t/ha, 100% of area (as of Nov 2025)",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "pests": [
+     {
+      "k": "Rat damage census Feb 2026",
+      "v": "42% damage; above the 10% threshold. Baiting started Apr 2026",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "yield": [
+     {
+      "k": "FFB yield May–Nov 2025",
+      "v": "19.85 t/ha vs 16.54 t/ha in May–Nov 2024 (20%); no sub-block yields in the May 2026 report",
+      "src": "Agro 2/2025 visit"
+     }
+    ],
+    "nutrients": [
+     {
+      "k": "Leaf analysis Jun 2025",
+      "v": "N 2.52%, P 0.160%, K 0.88%, Mg 0.30%, Ca 0.67%, B 21.02 ppm (samples received 21 Jun 2025, results 12 Jul 2025)",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "fertNow": {
+     "year": "FY2026/27",
+     "rows": [
+      {
+       "k": "Jun",
+       "v": "Mix A 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Sep",
+       "v": "Mix A 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Jan",
+       "v": "RP 1,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Feb",
+       "v": "Mix A 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Apr",
+       "v": "Mix A 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Total",
+       "v": "9,000 g/palm per year (Mix A 8,000 g + RP 1,000 g)",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Note",
+       "v": "9,575 palms, 147 SPH, 65.16 ha; 86.18 t of fertiliser for the year. Compost 10 t/ha in Jul 2026",
+       "src": "Agro 1/2026"
+      }
+     ]
+    }
+   }
   },
   {
    "id": "P06C",
@@ -865,7 +2419,77 @@
      "src": "Agro 1/2026",
      "text": "Rat damage census Q1 2026: 51% (Feb)."
     }
-   ]
+   ],
+   "detail": {
+    "manuring": [
+     {
+      "k": "Compost FY2025/26 (May 2025–Apr 2026)",
+      "v": "311.10 t on 31.11 ha, 10 t/ha, 100% of area (as of Nov 2025)",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "pests": [
+     {
+      "k": "Rat damage census Feb 2026",
+      "v": "51% damage; above the 10% threshold. Baiting started Apr 2026",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "yield": [
+     {
+      "k": "FFB yield May–Nov 2025",
+      "v": "14.33 t/ha vs 15.06 t/ha in May–Nov 2024 (-5%); no sub-block yields in the May 2026 report",
+      "src": "Agro 2/2025 visit"
+     }
+    ],
+    "nutrients": [
+     {
+      "k": "Leaf analysis Jun 2025",
+      "v": "N 2.46%, P 0.158%, K 0.92%, Mg 0.34%, Ca 0.58%, B 24.18 ppm (samples received 21 Jun 2025, results 12 Jul 2025)",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "fertNow": {
+     "year": "FY2026/27",
+     "rows": [
+      {
+       "k": "Jun",
+       "v": "Mix A 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Sep",
+       "v": "Mix A 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Jan",
+       "v": "RP 1,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Feb",
+       "v": "Mix A 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Apr",
+       "v": "Mix A 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Total",
+       "v": "9,000 g/palm per year (Mix A 8,000 g + RP 1,000 g)",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Note",
+       "v": "3,468 palms, 111 SPH, 31.11 ha; 31.21 t of fertiliser for the year. Compost 10 t/ha in Jul 2026",
+       "src": "Agro 1/2026"
+      }
+     ]
+    }
+   }
   },
   {
    "id": "P06D",
@@ -882,7 +2506,77 @@
      "src": "Agro 1/2026",
      "text": "Leaf N 2.59%, K 0.90% (samples Jun 2025); compost 10 t/ha to Nov 2025."
     }
-   ]
+   ],
+   "detail": {
+    "manuring": [
+     {
+      "k": "Compost FY2025/26 (May 2025–Apr 2026)",
+      "v": "290.60 t on 29.06 ha, 10 t/ha, 100% of area (as of Nov 2025)",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "pests": [
+     {
+      "k": "Rat damage census Jan–Mar 2026",
+      "v": "Not yet censused by Mar 2026 (Q1 census covered 850.35 of 1,522.07 ha, 55.86%)",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "yield": [
+     {
+      "k": "FFB yield May–Nov 2025",
+      "v": "22.13 t/ha vs 18.45 t/ha in May–Nov 2024 (20%); no sub-block yields in the May 2026 report",
+      "src": "Agro 2/2025 visit"
+     }
+    ],
+    "nutrients": [
+     {
+      "k": "Leaf analysis Jun 2025",
+      "v": "N 2.59%, P 0.152%, K 0.90%, Mg 0.34%, Ca 0.52%, B 18.56 ppm (samples received 21 Jun 2025, results 12 Jul 2025)",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "fertNow": {
+     "year": "FY2026/27",
+     "rows": [
+      {
+       "k": "Jun",
+       "v": "Mix A 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Sep",
+       "v": "Mix A 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Jan",
+       "v": "RP 1,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Feb",
+       "v": "Mix A 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Apr",
+       "v": "Mix A 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Total",
+       "v": "9,000 g/palm per year (Mix A 8,000 g + RP 1,000 g)",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Note",
+       "v": "3,883 palms, 134 SPH, 29.06 ha; 34.95 t of fertiliser for the year. Compost 10 t/ha in Aug 2026",
+       "src": "Agro 1/2026"
+      }
+     ]
+    }
+   }
   },
   {
    "id": "P06E",
@@ -903,7 +2597,96 @@
      "src": "Agro 1/2026",
      "text": "Ganoderma palms; sparse soft grasses."
     }
-   ]
+   ],
+   "detail": {
+    "manuring": [
+     {
+      "k": "Compost FY2025/26 (May 2025–Apr 2026)",
+      "v": "527.30 t on 52.73 ha, 10 t/ha, 100% of area (as of Nov 2025)",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "spraying": [
+     {
+      "k": "Ground cover (May 2026 visit)",
+      "v": "Interrow predominantly soft grasses but sparse, mixed with undesirable weeds (photo)",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "pests": [
+     {
+      "k": "Ganoderma palms (May 2026 visit)",
+      "v": "Ganoderma-infected palms photographed: mild to moderately severe, poor vigour, small canopies, frond snapping, multiple unopened spears",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Rat damage census Jan–Mar 2026",
+      "v": "Not yet censused by Mar 2026 (Q1 census covered 850.35 of 1,522.07 ha, 55.86%)",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "yield": [
+     {
+      "k": "FFB yield May–Nov 2025",
+      "v": "18.41 t/ha vs 14.79 t/ha in May–Nov 2024 (24%); no sub-block yields in the May 2026 report",
+      "src": "Agro 2/2025 visit"
+     }
+    ],
+    "nutrients": [
+     {
+      "k": "Leaf analysis Jun 2025",
+      "v": "N 2.77%, P 0.155%, K 0.90%, Mg 0.35%, Ca 0.57%, B 17.33 ppm (samples received 21 Jun 2025, results 12 Jul 2025)",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "field": [
+     {
+      "k": "Palm vigour (May 2026 visit)",
+      "v": "Palms on silty subsoil photographed: poorer vigour, pale green to yellowish foliage",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "fertNow": {
+     "year": "FY2026/27",
+     "rows": [
+      {
+       "k": "Jun",
+       "v": "Mix A 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Sep",
+       "v": "Mix A 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Jan",
+       "v": "RP 1,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Feb",
+       "v": "Mix A 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Apr",
+       "v": "Mix A 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Total",
+       "v": "9,000 g/palm per year (Mix A 8,000 g + RP 1,000 g)",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Note",
+       "v": "6,617 palms, 125 SPH, 52.73 ha; 59.55 t of fertiliser for the year. Compost 10 t/ha in Aug 2026",
+       "src": "Agro 1/2026"
+      }
+     ]
+    }
+   }
   },
   {
    "id": "P06F",
@@ -924,7 +2707,103 @@
      "src": "Agro 1/2026",
      "text": "Improper slant-cut trenches; vacant points overgrown; sparse soft grass."
     }
-   ]
+   ],
+   "detail": {
+    "manuring": [
+     {
+      "k": "Compost FY2025/26 (May 2025–Apr 2026)",
+      "v": "333.30 t on 33.33 ha, 10 t/ha, 100% of area (as of Nov 2025)",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "spraying": [
+     {
+      "k": "Vacant points (May 2026 visit)",
+      "v": "Vacant points overgrown with weeds (photos); potential hotspots for undesirable weed spread",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Ground cover (May 2026 visit)",
+      "v": "Interrow predominantly soft grasses but sparse, mixed with undesirable weeds (photo)",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "pests": [
+     {
+      "k": "Rat damage census Jan–Mar 2026",
+      "v": "Not yet censused by Mar 2026 (Q1 census covered 850.35 of 1,522.07 ha, 55.86%)",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "yield": [
+     {
+      "k": "FFB yield May–Nov 2025",
+      "v": "19.29 t/ha vs 16.39 t/ha in May–Nov 2024 (18%); no sub-block yields in the May 2026 report",
+      "src": "Agro 2/2025 visit"
+     }
+    ],
+    "pruning": [
+     {
+      "k": "Pruning standard (May 2026 visit)",
+      "v": "Satisfactory pruning condition (photo); estate pruning up to date with only minor dry hanging fronds",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "nutrients": [
+     {
+      "k": "Leaf analysis Jun 2025",
+      "v": "N 2.59%, P 0.152%, K 0.92%, Mg 0.33%, Ca 0.57%, B 16.63 ppm (samples received 21 Jun 2025, results 12 Jul 2025)",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "field": [
+     {
+      "k": "Slant-cut trenches (May 2026 visit)",
+      "v": "Improper slant-cut mounding trenches toward the harvesting path (photos); severe root damage and possibly over 30% fertiliser loss under EMDEK; stop slant-cut trenching",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "fertNow": {
+     "year": "FY2026/27",
+     "rows": [
+      {
+       "k": "Jun",
+       "v": "Mix A 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Sep",
+       "v": "Mix A 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Jan",
+       "v": "RP 1,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Feb",
+       "v": "Mix A 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Apr",
+       "v": "Mix A 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Total",
+       "v": "9,000 g/palm per year (Mix A 8,000 g + RP 1,000 g)",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Note",
+       "v": "3,846 palms, 136 SPH, 28.33 ha as printed in the programme (blocking table 33.33 ha); 34.61 t of fertiliser for the year. Compost 10 t/ha in Aug 2026",
+       "src": "Agro 1/2026"
+      }
+     ]
+    }
+   }
   },
   {
    "id": "P06G",
@@ -945,7 +2824,91 @@
      "src": "Agro 1/2026",
      "text": "Rat damage census Q1 2026: 41% (Feb)."
     }
-   ]
+   ],
+   "detail": {
+    "manuring": [
+     {
+      "k": "Compost FY2025/26 (May 2025–Apr 2026)",
+      "v": "287.50 t on 28.75 ha, 10 t/ha, 100% of area (as of Nov 2025)",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "pests": [
+     {
+      "k": "Rat damage census Feb 2026",
+      "v": "41% damage; above the 10% threshold. Baiting started Apr 2026",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "yield": [
+     {
+      "k": "FFB yield May–Nov 2025",
+      "v": "15.92 t/ha vs 18.90 t/ha in May–Nov 2024 (-16%); no sub-block yields in the May 2026 report",
+      "src": "Agro 2/2025 visit"
+     }
+    ],
+    "pruning": [
+     {
+      "k": "Pruning standard (May 2026 visit)",
+      "v": "Satisfactory pruning condition (photo); estate pruning up to date with only minor dry hanging fronds",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "nutrients": [
+     {
+      "k": "Leaf analysis Jun 2025",
+      "v": "N 2.45%, P 0.155%, K 1.04%, Mg 0.32%, Ca 0.57%, B 16.48 ppm (samples received 21 Jun 2025, results 12 Jul 2025)",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "field": [
+     {
+      "k": "Road (Jun 2026 visit)",
+      "v": "Satisfactory road condition (photo)",
+      "src": "PA 1/2026"
+     }
+    ],
+    "fertNow": {
+     "year": "FY2026/27",
+     "rows": [
+      {
+       "k": "Jun",
+       "v": "Mix A 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Sep",
+       "v": "Mix A 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Jan",
+       "v": "RP 1,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Feb",
+       "v": "Mix A 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Apr",
+       "v": "Mix A 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Total",
+       "v": "9,000 g/palm per year (Mix A 8,000 g + RP 1,000 g)",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Note",
+       "v": "4,514 palms, 134 SPH, 33.75 ha as printed in the programme (blocking table 28.75 ha); 40.63 t of fertiliser for the year. Compost 10 t/ha in Aug 2026",
+       "src": "Agro 1/2026"
+      }
+     ]
+    }
+   }
   },
   {
    "id": "P06H",
@@ -966,7 +2929,94 @@
      "src": "Agro 1/2026",
      "text": "Rat damage census Q1 2026: 44% (Feb)."
     }
-   ]
+   ],
+   "detail": {
+    "manuring": [
+     {
+      "k": "Compost FY2025/26 (May 2025–Apr 2026)",
+      "v": "323.92 t on 32.88 ha, 10 t/ha, 100% of area (as of Nov 2025)",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Compost placement (Jun 2026 visit)",
+      "v": "Compost placed between two palms in the frond-stacking row (photos); 140 kg between 2 palms, 2 rounds a year (estate practice)",
+      "src": "PA 1/2026"
+     }
+    ],
+    "pests": [
+     {
+      "k": "Rat damage census Feb 2026",
+      "v": "44% damage; above the 10% threshold. Baiting started Apr 2026",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "yield": [
+     {
+      "k": "FFB yield May–Nov 2025",
+      "v": "14.64 t/ha vs 17.59 t/ha in May–Nov 2024 (-17%); no sub-block yields in the May 2026 report",
+      "src": "Agro 2/2025 visit"
+     }
+    ],
+    "pruning": [
+     {
+      "k": "Pruning and frond stacking (Jun 2026 visit)",
+      "v": "Satisfactory pruned-palm appearance; cut frond stacking began to be realigned slanting between two palms (photos)",
+      "src": "PA 1/2026"
+     },
+     {
+      "k": "Pruning standard (May 2026 visit)",
+      "v": "Satisfactory pruning condition (photo); estate pruning up to date with only minor dry hanging fronds",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "nutrients": [
+     {
+      "k": "Leaf analysis Jun 2025",
+      "v": "N 2.40%, P 0.158%, K 1.08%, Mg 0.31%, Ca 0.54%, B 14.55 ppm (samples received 21 Jun 2025, results 12 Jul 2025)",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "fertNow": {
+     "year": "FY2026/27",
+     "rows": [
+      {
+       "k": "Jun",
+       "v": "Mix A 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Sep",
+       "v": "Mix A 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Jan",
+       "v": "RP 1,500 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Feb",
+       "v": "Mix A 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Apr",
+       "v": "Mix A 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Total",
+       "v": "9,500 g/palm per year (Mix A 8,000 g + RP 1,500 g)",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Note",
+       "v": "4,730 palms, 144 SPH, 32.88 ha; 44.94 t of fertiliser for the year. Compost 10 t/ha in Aug 2026",
+       "src": "Agro 1/2026"
+      }
+     ]
+    }
+   }
   },
   {
    "id": "P06I",
@@ -991,7 +3041,101 @@
      "src": "Agro 1/2026",
      "text": "Sparse soft grasses mixed with weeds."
     }
-   ]
+   ],
+   "detail": {
+    "manuring": [
+     {
+      "k": "Compost FY2025/26 (May 2025–Apr 2026)",
+      "v": "315.50 t on 31.55 ha, 10 t/ha, 100% of area (as of Nov 2025)",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "spraying": [
+     {
+      "k": "Ground cover (May 2026 visit)",
+      "v": "Interrow predominantly soft grasses but sparse, mixed with undesirable weeds (photo)",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Interrow (Jun 2026 visit)",
+      "v": "Satisfactory soft grass establishment (photo)",
+      "src": "PA 1/2026"
+     }
+    ],
+    "pests": [
+     {
+      "k": "Rat damage census Feb 2026",
+      "v": "41% damage; above the 10% threshold. Baiting started Apr 2026",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "yield": [
+     {
+      "k": "FFB yield May–Nov 2025",
+      "v": "21.10 t/ha vs 16.02 t/ha in May–Nov 2024 (32%); no sub-block yields in the May 2026 report",
+      "src": "Agro 2/2025 visit"
+     }
+    ],
+    "pruning": [
+     {
+      "k": "Pruning and frond stacking (Jun 2026 visit)",
+      "v": "Satisfactory pruned-palm appearance; cut frond stacking began to be realigned slanting between two palms (photos)",
+      "src": "PA 1/2026"
+     },
+     {
+      "k": "Pruning standard (May 2026 visit)",
+      "v": "Satisfactory pruning condition (photo); estate pruning up to date with only minor dry hanging fronds",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "nutrients": [
+     {
+      "k": "Leaf analysis Jun 2025",
+      "v": "N 2.57%, P 0.160%, K 1.00%, Mg 0.33%, Ca 0.57%, B 19.72 ppm (samples received 21 Jun 2025, results 12 Jul 2025)",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "fertNow": {
+     "year": "FY2026/27",
+     "rows": [
+      {
+       "k": "Jun",
+       "v": "Mix A 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Sep",
+       "v": "Mix A 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Jan",
+       "v": "RP 1,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Feb",
+       "v": "Mix A 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Apr",
+       "v": "Mix A 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Total",
+       "v": "9,000 g/palm per year (Mix A 8,000 g + RP 1,000 g)",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Note",
+       "v": "4,377 palms, 139 SPH, 31.55 ha; 39.39 t of fertiliser for the year. Compost 10 t/ha in Aug 2026",
+       "src": "Agro 1/2026"
+      }
+     ]
+    }
+   }
   },
   {
    "id": "P06J",
@@ -1012,7 +3156,84 @@
      "src": "Agro 1/2026",
      "text": "Rat damage census Q1 2026: 32% (Feb)."
     }
-   ]
+   ],
+   "detail": {
+    "manuring": [
+     {
+      "k": "Compost FY2025/26 (May 2025–Apr 2026)",
+      "v": "288.00 t on 33.18 ha, 9 t/ha, 100% of area (as of Nov 2025)",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "pests": [
+     {
+      "k": "Rat damage census Feb 2026",
+      "v": "32% damage; above the 10% threshold. Baiting started Apr 2026",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "yield": [
+     {
+      "k": "FFB yield May–Nov 2025",
+      "v": "17.16 t/ha vs 14.65 t/ha in May–Nov 2024 (17%); no sub-block yields in the May 2026 report",
+      "src": "Agro 2/2025 visit"
+     }
+    ],
+    "nutrients": [
+     {
+      "k": "Leaf analysis Jun 2025",
+      "v": "N 2.56%, P 0.160%, K 0.94%, Mg 0.35%, Ca 0.62%, B 18.71 ppm (samples received 21 Jun 2025, results 12 Jul 2025)",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "field": [
+     {
+      "k": "Mounding quality (Jun 2026 visit)",
+      "v": "Satisfactory size and quality of palm base soil mounding (photo)",
+      "src": "PA 1/2026"
+     }
+    ],
+    "fertNow": {
+     "year": "FY2026/27",
+     "rows": [
+      {
+       "k": "Jun",
+       "v": "Mix A 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Sep",
+       "v": "Mix A 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Jan",
+       "v": "RP 1,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Feb",
+       "v": "Mix A 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Apr",
+       "v": "Mix A 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Total",
+       "v": "9,000 g/palm per year (Mix A 8,000 g + RP 1,000 g)",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Note",
+       "v": "4,484 palms, 135 SPH, 33.18 ha; 40.36 t of fertiliser for the year. Compost 10 t/ha in Sep 2026",
+       "src": "Agro 1/2026"
+      }
+     ]
+    }
+   }
   },
   {
    "id": "P06K",
@@ -1033,7 +3254,77 @@
      "src": "Agro 1/2026",
      "text": "Rat damage census Q1 2026: 33% (Feb)."
     }
-   ]
+   ],
+   "detail": {
+    "manuring": [
+     {
+      "k": "Compost FY2025/26 (May 2025–Apr 2026)",
+      "v": "410.66 t on 40.37 ha, 10 t/ha, 100% of area (as of Nov 2025)",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "pests": [
+     {
+      "k": "Rat damage census Feb 2026",
+      "v": "33% damage; above the 10% threshold. Baiting started Apr 2026",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "yield": [
+     {
+      "k": "FFB yield May–Nov 2025",
+      "v": "18.46 t/ha vs 13.35 t/ha in May–Nov 2024 (38%); no sub-block yields in the May 2026 report",
+      "src": "Agro 2/2025 visit"
+     }
+    ],
+    "nutrients": [
+     {
+      "k": "Leaf analysis Jun 2025",
+      "v": "N 2.56%, P 0.160%, K 0.86%, Mg 0.38%, Ca 0.63%, B 20.10 ppm (samples received 21 Jun 2025, results 12 Jul 2025)",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "fertNow": {
+     "year": "FY2026/27",
+     "rows": [
+      {
+       "k": "Jun",
+       "v": "Mix A 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Sep",
+       "v": "Mix A 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Jan",
+       "v": "RP 1,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Feb",
+       "v": "Mix A 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Apr",
+       "v": "Mix A 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Total",
+       "v": "9,000 g/palm per year (Mix A 8,000 g + RP 1,000 g)",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Note",
+       "v": "5,132 palms, 139 SPH, 36.92 ha as printed in the programme (blocking table 40.37 ha); 46.19 t of fertiliser for the year. Compost 10 t/ha in Sep 2026",
+       "src": "Agro 1/2026"
+      }
+     ]
+    }
+   }
   },
   {
    "id": "P06L",
@@ -1050,7 +3341,77 @@
      "src": "Agro 1/2026",
      "text": "Leaf N 2.55%, K 0.90% (samples Jun 2025); compost 10 t/ha to Nov 2025."
     }
-   ]
+   ],
+   "detail": {
+    "manuring": [
+     {
+      "k": "Compost FY2025/26 (May 2025–Apr 2026)",
+      "v": "486.28 t on 46.95 ha, 10 t/ha, 100% of area (as of Nov 2025)",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "pests": [
+     {
+      "k": "Rat damage census Jan–Mar 2026",
+      "v": "Not yet censused by Mar 2026 (Q1 census covered 850.35 of 1,522.07 ha, 55.86%)",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "yield": [
+     {
+      "k": "FFB yield May–Nov 2025",
+      "v": "14.58 t/ha vs 12.32 t/ha in May–Nov 2024 (18%); no sub-block yields in the May 2026 report",
+      "src": "Agro 2/2025 visit"
+     }
+    ],
+    "nutrients": [
+     {
+      "k": "Leaf analysis Jun 2025",
+      "v": "N 2.55%, P 0.160%, K 0.90%, Mg 0.35%, Ca 0.64%, B 18.33 ppm (samples received 21 Jun 2025, results 12 Jul 2025)",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "fertNow": {
+     "year": "FY2026/27",
+     "rows": [
+      {
+       "k": "Jun",
+       "v": "Mix A 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Sep",
+       "v": "Mix A 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Jan",
+       "v": "RP 1,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Feb",
+       "v": "Mix A 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Apr",
+       "v": "Mix A 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Total",
+       "v": "9,000 g/palm per year (Mix A 8,000 g + RP 1,000 g)",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Note",
+       "v": "7,075 palms, 140 SPH, 50.40 ha as printed in the programme (blocking table 46.95 ha); 63.68 t of fertiliser for the year. Compost 10 t/ha in Sep 2026",
+       "src": "Agro 1/2026"
+      }
+     ]
+    }
+   }
   },
   {
    "id": "P06M",
@@ -1071,7 +3432,94 @@
      "src": "Agro 1/2026",
      "text": "Silty subsoil; Ganoderma palms."
     }
-   ]
+   ],
+   "detail": {
+    "manuring": [
+     {
+      "k": "Compost FY2025/26 (May 2025–Apr 2026)",
+      "v": "400.28 t on 38.76 ha, 10 t/ha, 100% of area (as of Nov 2025)",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "pests": [
+     {
+      "k": "Ganoderma palms (May 2026 visit)",
+      "v": "Ganoderma-infected palms photographed: mild to moderately severe, poor vigour, small canopies, frond snapping, multiple unopened spears",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Rat damage census Jan–Mar 2026",
+      "v": "Not yet censused by Mar 2026 (Q1 census covered 850.35 of 1,522.07 ha, 55.86%)",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "yield": [
+     {
+      "k": "FFB yield May–Nov 2025",
+      "v": "20.02 t/ha vs 13.61 t/ha in May–Nov 2024 (47%); no sub-block yields in the May 2026 report",
+      "src": "Agro 2/2025 visit"
+     }
+    ],
+    "nutrients": [
+     {
+      "k": "Leaf analysis Jun 2025",
+      "v": "N 2.49%, P 0.158%, K 0.90%, Mg 0.34%, Ca 0.61%, B 20.10 ppm (samples received 21 Jun 2025, results 12 Jul 2025)",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "field": [
+     {
+      "k": "Silty subsoil (May 2026 visit)",
+      "v": "Subsoil with high silt content (photos): poor drainage and aeration, waterlogging; improve with organic matter through proper frond stacking",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Palm vigour (May 2026 visit)",
+      "v": "Palms on silty subsoil photographed: poorer vigour, pale green to yellowish foliage",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "fertNow": {
+     "year": "FY2026/27",
+     "rows": [
+      {
+       "k": "Jun",
+       "v": "Mix A 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Sep",
+       "v": "Mix A 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Jan",
+       "v": "RP 1,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Feb",
+       "v": "Mix A 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Apr",
+       "v": "Mix A 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Total",
+       "v": "9,000 g/palm per year (Mix A 8,000 g + RP 1,000 g)",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Note",
+       "v": "5,478 palms, 141 SPH, 38.76 ha; 49.30 t of fertiliser for the year. Compost 10 t/ha in Sep 2026",
+       "src": "Agro 1/2026"
+      }
+     ]
+    }
+   }
   },
   {
    "id": "P06N",
@@ -1096,7 +3544,84 @@
      "src": "Agro 1/2026",
      "text": "Sparse soft grasses mixed with weeds."
     }
-   ]
+   ],
+   "detail": {
+    "manuring": [
+     {
+      "k": "Compost FY2025/26 (May 2025–Apr 2026)",
+      "v": "341.58 t on 33.91 ha, 10 t/ha, 100% of area (as of Nov 2025)",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "spraying": [
+     {
+      "k": "Ground cover (May 2026 visit)",
+      "v": "Interrow predominantly soft grasses but sparse, mixed with undesirable weeds (photo)",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "pests": [
+     {
+      "k": "Rat damage census Feb 2026",
+      "v": "39% damage; above the 10% threshold. Baiting started Apr 2026",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "yield": [
+     {
+      "k": "FFB yield May–Nov 2025",
+      "v": "22.86 t/ha vs 16.34 t/ha in May–Nov 2024 (40%); no sub-block yields in the May 2026 report",
+      "src": "Agro 2/2025 visit"
+     }
+    ],
+    "nutrients": [
+     {
+      "k": "Leaf analysis Jun 2025",
+      "v": "N 2.49%, P 0.154%, K 0.88%, Mg 0.39%, Ca 0.59%, B 18.02 ppm (samples received 21 Jun 2025, results 12 Jul 2025)",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "fertNow": {
+     "year": "FY2026/27",
+     "rows": [
+      {
+       "k": "Jun",
+       "v": "Mix A 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Sep",
+       "v": "Mix A 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Jan",
+       "v": "RP 1,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Feb",
+       "v": "Mix A 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Apr",
+       "v": "Mix A 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Total",
+       "v": "9,000 g/palm per year (Mix A 8,000 g + RP 1,000 g)",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Note",
+       "v": "4,949 palms, 146 SPH, 33.91 ha; 44.54 t of fertiliser for the year. Compost 10 t/ha in Sep 2026",
+       "src": "Agro 1/2026"
+      }
+     ]
+    }
+   }
   },
   {
    "id": "P06O",
@@ -1121,7 +3646,84 @@
      "src": "Agro 1/2026",
      "text": "Sparse soft grasses mixed with weeds."
     }
-   ]
+   ],
+   "detail": {
+    "manuring": [
+     {
+      "k": "Compost FY2025/26 (May 2025–Apr 2026)",
+      "v": "348.12 t on 32.71 ha, 11 t/ha, 100% of area (as of Nov 2025)",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "spraying": [
+     {
+      "k": "Ground cover (May 2026 visit)",
+      "v": "Interrow predominantly soft grasses but sparse, mixed with undesirable weeds (photo)",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "pests": [
+     {
+      "k": "Rat damage census Feb 2026",
+      "v": "42% damage; above the 10% threshold. Baiting started Apr 2026",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "yield": [
+     {
+      "k": "FFB yield May–Nov 2025",
+      "v": "20.28 t/ha vs 16.65 t/ha in May–Nov 2024 (22%); no sub-block yields in the May 2026 report",
+      "src": "Agro 2/2025 visit"
+     }
+    ],
+    "nutrients": [
+     {
+      "k": "Leaf analysis Jun 2025",
+      "v": "N 2.45%, P 0.149%, K 0.86%, Mg 0.36%, Ca 0.59%, B 18.02 ppm (samples received 21 Jun 2025, results 12 Jul 2025)",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "fertNow": {
+     "year": "FY2026/27",
+     "rows": [
+      {
+       "k": "Jun",
+       "v": "Mix A 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Sep",
+       "v": "Mix A 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Jan",
+       "v": "RP 1,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Feb",
+       "v": "Mix A 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Apr",
+       "v": "Mix A 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Total",
+       "v": "9,000 g/palm per year (Mix A 8,000 g + RP 1,000 g)",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Note",
+       "v": "4,393 palms, 134 SPH, 32.71 ha; 39.54 t of fertiliser for the year. Compost 10 t/ha in Sep 2026",
+       "src": "Agro 1/2026"
+      }
+     ]
+    }
+   }
   },
   {
    "id": "P06P",
@@ -1146,7 +3748,113 @@
      "src": "Agro 1/2026",
      "text": "Rat damage 61% (highest); zinc-plate trial on 293 palms; Ganoderma; slant-cut trenches."
     }
-   ]
+   ],
+   "detail": {
+    "manuring": [
+     {
+      "k": "Compost FY2025/26 (May 2025–Apr 2026)",
+      "v": "310.70 t on 29.97 ha, 10 t/ha, 100% of area (as of Nov 2025)",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "spraying": [
+     {
+      "k": "Ground cover (May 2026 visit)",
+      "v": "Interrow predominantly soft grasses but sparse, mixed with undesirable weeds (photo)",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "pests": [
+     {
+      "k": "Ganoderma palms (May 2026 visit)",
+      "v": "Ganoderma-infected palms photographed: mild to moderately severe, poor vigour, small canopies, frond snapping, multiple unopened spears",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Rat damage census Feb 2026",
+      "v": "61% damage (highest in the census); above the 10% threshold. Baiting started Apr 2026",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Zinc plate trial (May 2026 visit)",
+      "v": "Zinc plates wrapped round the trunks of 293 palms to stop rats climbing (photos); commended",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "yield": [
+     {
+      "k": "FFB yield May–Nov 2025",
+      "v": "21.00 t/ha vs 20.57 t/ha in May–Nov 2024 (2%); no sub-block yields in the May 2026 report",
+      "src": "Agro 2/2025 visit"
+     }
+    ],
+    "pruning": [
+     {
+      "k": "Pruning standard (May 2026 visit)",
+      "v": "Satisfactory pruning condition (photo); estate pruning up to date with only minor dry hanging fronds",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "nutrients": [
+     {
+      "k": "Leaf analysis Jun 2025",
+      "v": "N 2.40%, P 0.156%, K 0.82%, Mg 0.36%, Ca 0.60%, B 21.79 ppm (samples received 21 Jun 2025, results 12 Jul 2025)",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "field": [
+     {
+      "k": "Slant-cut trenches (May 2026 visit)",
+      "v": "Improper slant-cut mounding trenches toward the harvesting path (photos); severe root damage and possibly over 30% fertiliser loss under EMDEK; stop slant-cut trenching",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Palm vigour (May 2026 visit)",
+      "v": "Palms on silty subsoil photographed: poorer vigour, pale green to yellowish foliage",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "fertNow": {
+     "year": "FY2026/27",
+     "rows": [
+      {
+       "k": "Jun",
+       "v": "Mix A 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Sep",
+       "v": "Mix A 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Jan",
+       "v": "RP 1,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Feb",
+       "v": "Mix A 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Apr",
+       "v": "Mix A 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Total",
+       "v": "9,000 g/palm per year (Mix A 8,000 g + RP 1,000 g)",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Note",
+       "v": "4,334 palms, 145 SPH, 29.97 ha; 39.01 t of fertiliser for the year. Compost 10 t/ha in Oct 2026",
+       "src": "Agro 1/2026"
+      }
+     ]
+    }
+   }
   },
   {
    "id": "P07A",
@@ -1171,7 +3879,92 @@
      "src": "Agro 1/2026",
      "text": "Manuring delayed by Nov 2025–Feb 2026 flooding."
     }
-   ]
+   ],
+   "detail": {
+    "manuring": [
+     {
+      "k": "Compost FY2025/26 (May 2025–Apr 2026)",
+      "v": "263.56 t on 26.54 ha (section 1 area), 10 t/ha, 100% of area (as of Nov 2025)",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Manuring delayed by floods FY2025/26 (May 2025–Apr 2026)",
+      "v": "Fertiliser application delayed by flooding Nov 2025–Feb 2026; estate to complete the FY2025/26 programme by end Jun 2026 (PA: completed by the Jun 2026 visit, estate-wide)",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "pests": [
+     {
+      "k": "Rat damage census Mar 2026",
+      "v": "19% damage (section 1, 26.54 ha); above the 10% threshold. Baiting started Apr 2026",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "yield": [
+     {
+      "k": "FFB yield May–Nov 2025",
+      "v": "14.22 t/ha vs 14.89 t/ha in May–Nov 2024 (-4%); no sub-block yields in the May 2026 report",
+      "src": "Agro 2/2025 visit"
+     }
+    ],
+    "nutrients": [
+     {
+      "k": "Leaf analysis Jun 2025",
+      "v": "N 2.53%, P 0.159%, K 0.80%, Mg 0.37%, Ca 0.61%, B 20.41 ppm (samples received 21 Jun 2025, results 12 Jul 2025)",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "fertNow": {
+     "year": "FY2026/27",
+     "rows": [
+      {
+       "k": "Jun (Sect.1)",
+       "v": "Mix B 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Sep (Sect.1)",
+       "v": "Mix A 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Jan (Sect.1)",
+       "v": "RP 1,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Feb (Sect.1)",
+       "v": "Mix B 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Apr (Sect.1)",
+       "v": "Mix A 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Jul (Sect.2)",
+       "v": "Mix B 8,000 g/palm, sub-soil",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Jan (Sect.2)",
+       "v": "RP 1,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Total",
+       "v": "Section 1: 9,000 g/palm per year; section 2: 9,000 g/palm per year",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Note",
+       "v": "Section 1: 25.33 ha, 3,742 palms, 148 SPH, 33.68 t; compost 10 t/ha in Oct 2026. Section 2 (flood-prone): 20.13 ha, 2,979 palms, 148 SPH, 26.81 t; no compost; Mix B buried in 3–4 pockets, 1,500–2,000 g per pocket",
+       "src": "Agro 1/2026"
+      }
+     ]
+    }
+   }
   },
   {
    "id": "P07B",
@@ -1196,7 +3989,92 @@
      "src": "Agro 1/2026",
      "text": "Manuring delayed by flooding."
     }
-   ]
+   ],
+   "detail": {
+    "manuring": [
+     {
+      "k": "Compost FY2025/26 (May 2025–Apr 2026)",
+      "v": "333.14 t on 30.29 ha (section 1 area), 11 t/ha, 100% of area (as of Nov 2025)",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Manuring delayed by floods FY2025/26 (May 2025–Apr 2026)",
+      "v": "Fertiliser application delayed by flooding Nov 2025–Feb 2026; estate to complete the FY2025/26 programme by end Jun 2026 (PA: completed by the Jun 2026 visit, estate-wide)",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "pests": [
+     {
+      "k": "Rat damage census Mar 2026",
+      "v": "26% damage (section 1, 30.29 ha); above the 10% threshold. Baiting started Apr 2026",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "yield": [
+     {
+      "k": "FFB yield May–Nov 2025",
+      "v": "13.91 t/ha vs 16.28 t/ha in May–Nov 2024 (-15%); no sub-block yields in the May 2026 report",
+      "src": "Agro 2/2025 visit"
+     }
+    ],
+    "nutrients": [
+     {
+      "k": "Leaf analysis Jun 2025",
+      "v": "N 2.60%, P 0.160%, K 0.90%, Mg 0.35%, Ca 0.57%, B 19.10 ppm (samples received 21 Jun 2025, results 12 Jul 2025)",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "fertNow": {
+     "year": "FY2026/27",
+     "rows": [
+      {
+       "k": "Jun (Sect.1)",
+       "v": "Mix B 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Sep (Sect.1)",
+       "v": "Mix A 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Jan (Sect.1)",
+       "v": "RP 1,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Feb (Sect.1)",
+       "v": "Mix B 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Apr (Sect.1)",
+       "v": "Mix A 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Jul (Sect.2)",
+       "v": "Mix B 8,000 g/palm, sub-soil",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Jan (Sect.2)",
+       "v": "RP 1,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Total",
+       "v": "Section 1: 9,000 g/palm per year; section 2: 9,000 g/palm per year",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Note",
+       "v": "Section 1: 29.34 ha, 4,239 palms, 145 SPH, 38.15 t; compost 10 t/ha in Oct 2026. Section 2 (flood-prone): 15.78 ha, 2,288 palms, 145 SPH, 20.59 t; no compost; Mix B buried in 3–4 pockets, 1,500–2,000 g per pocket",
+       "src": "Agro 1/2026"
+      }
+     ]
+    }
+   }
   },
   {
    "id": "P07C",
@@ -1221,7 +4099,87 @@
      "src": "Agro 1/2026",
      "text": "Manuring delayed by flooding."
     }
-   ]
+   ],
+   "detail": {
+    "manuring": [
+     {
+      "k": "Compost FY2025/26 (May 2025–Apr 2026)",
+      "v": "161.40 t on 16.33 ha (section 1 area), 10 t/ha, 100% of area (as of Nov 2025)",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Manuring delayed by floods FY2025/26 (May 2025–Apr 2026)",
+      "v": "Fertiliser application delayed by flooding Nov 2025–Feb 2026; estate to complete the FY2025/26 programme by end Jun 2026 (PA: completed by the Jun 2026 visit, estate-wide)",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "pests": [
+     {
+      "k": "Rat damage census Mar 2026",
+      "v": "38% damage (section 1, 16.33 ha); above the 10% threshold. Baiting started Apr 2026",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "yield": [
+     {
+      "k": "FFB yield May–Nov 2025",
+      "v": "11.97 t/ha vs 14.23 t/ha in May–Nov 2024 (-16%); no sub-block yields in the May 2026 report",
+      "src": "Agro 2/2025 visit"
+     }
+    ],
+    "nutrients": [
+     {
+      "k": "Leaf analysis Jun 2025",
+      "v": "N 2.54%, P 0.164%, K 0.92%, Mg 0.32%, Ca 0.53%, B 19.63 ppm (samples received 21 Jun 2025, results 12 Jul 2025)",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "fertNow": {
+     "year": "FY2026/27",
+     "rows": [
+      {
+       "k": "Jun (Sect.1)",
+       "v": "Mix B 2,200 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Jul (Sect.1)",
+       "v": "Kieserite 0 g/palm (listed at 0.00)",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Sep (Sect.1)",
+       "v": "Mix A 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Feb (Sect.1)",
+       "v": "Mix B 2,200 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Apr (Sect.1)",
+       "v": "Mix A 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Jul (Sect.2)",
+       "v": "Mix B 8,000 g/palm, sub-soil",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Total",
+       "v": "Section 1: 8,400 g/palm per year; section 2: 8,000 g/palm per year",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Note",
+       "v": "Section 1: 19.23 ha, 2,597 palms, 135 SPH, 21.81 t; compost 10 t/ha in Oct 2026. Section 2 (flood-prone): 22.71 ha, 3,066 palms, 135 SPH, 24.53 t; no compost; Mix B buried in 3–4 pockets, 1,500–2,000 g per pocket",
+       "src": "Agro 1/2026"
+      }
+     ]
+    }
+   }
   },
   {
    "id": "P07D",
@@ -1246,7 +4204,106 @@
      "src": "Agro 1/2026",
      "text": "Nephrolepis dominant; manuring delayed by Nov 2025–Feb 2026 flooding."
     }
-   ]
+   ],
+   "detail": {
+    "manuring": [
+     {
+      "k": "Compost FY2025/26 (May 2025–Apr 2026)",
+      "v": "349.94 t on 38.70 ha (section 1 area), 9 t/ha, 100% of area (as of Nov 2025)",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Manuring delayed by floods FY2025/26 (May 2025–Apr 2026)",
+      "v": "Fertiliser application delayed by flooding Nov 2025–Feb 2026; estate to complete the FY2025/26 programme by end Jun 2026 (PA: completed by the Jun 2026 visit, estate-wide)",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "spraying": [
+     {
+      "k": "Ground cover (May 2026 visit)",
+      "v": "Interrow predominantly soft fern Nephrolepis (photo): beneficial cover; avoid over-spraying, control only where it encroaches circles or harvesting",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "pests": [
+     {
+      "k": "Rat damage census Mar 2026",
+      "v": "32% damage (section 1, 38.7 ha); above the 10% threshold. Baiting started Apr 2026",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "yield": [
+     {
+      "k": "FFB yield May–Nov 2025",
+      "v": "18.80 t/ha vs 16.43 t/ha in May–Nov 2024 (14%); no sub-block yields in the May 2026 report",
+      "src": "Agro 2/2025 visit"
+     }
+    ],
+    "pruning": [
+     {
+      "k": "Pruning standard (May 2026 visit)",
+      "v": "Satisfactory pruning condition (photo); estate pruning up to date with only minor dry hanging fronds",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "nutrients": [
+     {
+      "k": "Leaf analysis Jun 2025",
+      "v": "N 2.46%, P 0.160%, K 0.98%, Mg 0.31%, Ca 0.61%, B 22.11 ppm (samples received 21 Jun 2025, results 12 Jul 2025)",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "fertNow": {
+     "year": "FY2026/27",
+     "rows": [
+      {
+       "k": "Jun (Sect.1)",
+       "v": "Mix B 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Sep (Sect.1)",
+       "v": "Mix A 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Jan (Sect.1)",
+       "v": "RP 1,500 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Feb (Sect.1)",
+       "v": "Mix B 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Apr (Sect.1)",
+       "v": "Mix A 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Jul (Sect.2)",
+       "v": "Mix B 8,000 g/palm, sub-soil",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Jan (Sect.2)",
+       "v": "RP 1,500 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Total",
+       "v": "Section 1: 9,500 g/palm per year; section 2: 9,500 g/palm per year",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Note",
+       "v": "Section 1: 32.98 ha, 4,897 palms, 148 SPH, 46.52 t; compost 10 t/ha in Oct 2026. Section 2 (flood-prone): 7.38 ha, 1,092 palms, 148 SPH, 10.37 t; no compost; Mix B buried in 3–4 pockets, 1,500–2,000 g per pocket",
+       "src": "Agro 1/2026"
+      }
+     ]
+    }
+   }
   },
   {
    "id": "P07E",
@@ -1271,7 +4328,101 @@
      "src": "Agro 1/2026",
      "text": "Nephrolepis dominant; vacant points overgrown; manuring delayed by flooding."
     }
-   ]
+   ],
+   "detail": {
+    "manuring": [
+     {
+      "k": "Compost FY2025/26 (May 2025–Apr 2026)",
+      "v": "300.24 t on 29.78 ha (section 1 area), 10 t/ha, 100% of area (as of Nov 2025)",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Manuring delayed by floods FY2025/26 (May 2025–Apr 2026)",
+      "v": "Fertiliser application delayed by flooding Nov 2025–Feb 2026; estate to complete the FY2025/26 programme by end Jun 2026 (PA: completed by the Jun 2026 visit, estate-wide)",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "spraying": [
+     {
+      "k": "Vacant points (May 2026 visit)",
+      "v": "Vacant points overgrown with weeds (photos); potential hotspots for undesirable weed spread",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Ground cover (May 2026 visit)",
+      "v": "Interrow predominantly soft fern Nephrolepis (photo): beneficial cover; avoid over-spraying, control only where it encroaches circles or harvesting",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "pests": [
+     {
+      "k": "Rat damage census Mar 2026",
+      "v": "35% damage (section 1, 29.72 ha); above the 10% threshold. Baiting started Apr 2026",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "yield": [
+     {
+      "k": "FFB yield May–Nov 2025",
+      "v": "12.77 t/ha vs 16.77 t/ha in May–Nov 2024 (-24%); no sub-block yields in the May 2026 report",
+      "src": "Agro 2/2025 visit"
+     }
+    ],
+    "pruning": [
+     {
+      "k": "Pruning standard (May 2026 visit)",
+      "v": "Satisfactory pruning condition (photo); estate pruning up to date with only minor dry hanging fronds",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "nutrients": [
+     {
+      "k": "Leaf analysis Jun 2025",
+      "v": "N 2.58%, P 0.164%, K 0.96%, Mg 0.29%, Ca 0.65%, B 17.43 ppm (samples received 21 Jun 2025, results 12 Jul 2025)",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "fertNow": {
+     "year": "FY2026/27",
+     "rows": [
+      {
+       "k": "Jun (Sect.1)",
+       "v": "Mix B 2,200 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Sep (Sect.1)",
+       "v": "Mix A 2,200 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Feb (Sect.1)",
+       "v": "Mix B 2,200 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Apr (Sect.1)",
+       "v": "Mix A 2,200 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Jul (Sect.2)",
+       "v": "Mix B 8,000 g/palm, sub-soil",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Total",
+       "v": "Section 1: 8,800 g/palm per year; section 2: 8,000 g/palm per year",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Note",
+       "v": "Section 1: 29.29 ha, 4,230 palms, 145 SPH, 37.22 t; compost 10 t/ha in Oct 2026. Section 2 (flood-prone): 7.06 ha, 1,024 palms, 145 SPH, 8.19 t; no compost; Mix B buried in 3–4 pockets, 1,500–2,000 g per pocket",
+       "src": "Agro 1/2026"
+      }
+     ]
+    }
+   }
   },
   {
    "id": "P07F",
@@ -1292,7 +4443,96 @@
      "src": "Agro 1/2026",
      "text": "Nephrolepis dominant; manuring delayed by flooding."
     }
-   ]
+   ],
+   "detail": {
+    "manuring": [
+     {
+      "k": "Compost FY2025/26 (May 2025–Apr 2026)",
+      "v": "258.32 t on 25.66 ha (section 1 area), 10 t/ha, 100% of area (as of Nov 2025)",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Manuring delayed by floods FY2025/26 (May 2025–Apr 2026)",
+      "v": "Fertiliser application delayed by flooding Nov 2025–Feb 2026; estate to complete the FY2025/26 programme by end Jun 2026 (PA: completed by the Jun 2026 visit, estate-wide)",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "spraying": [
+     {
+      "k": "Ground cover (May 2026 visit)",
+      "v": "Interrow predominantly soft fern Nephrolepis (photo): beneficial cover; avoid over-spraying, control only where it encroaches circles or harvesting",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "pests": [
+     {
+      "k": "Rat damage census Jan–Mar 2026",
+      "v": "Not yet censused by Mar 2026 (Q1 census covered 850.35 of 1,522.07 ha, 55.86%)",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "yield": [
+     {
+      "k": "FFB yield May–Nov 2025",
+      "v": "13.59 t/ha vs 14.44 t/ha in May–Nov 2024 (-6%); no sub-block yields in the May 2026 report",
+      "src": "Agro 2/2025 visit"
+     }
+    ],
+    "pruning": [
+     {
+      "k": "Pruning standard (May 2026 visit)",
+      "v": "Satisfactory pruning condition (photo); estate pruning up to date with only minor dry hanging fronds",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "nutrients": [
+     {
+      "k": "Leaf analysis Jun 2025",
+      "v": "N 2.49%, P 0.164%, K 0.96%, Mg 0.29%, Ca 0.64%, B 15.63 ppm (samples received 21 Jun 2025, results 12 Jul 2025)",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "fertNow": {
+     "year": "FY2026/27",
+     "rows": [
+      {
+       "k": "Jun (Sect.1)",
+       "v": "Mix B 2,200 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Sep (Sect.1)",
+       "v": "Mix A 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Feb (Sect.1)",
+       "v": "Mix B 2,200 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Apr (Sect.1)",
+       "v": "Mix A 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Jul (Sect.2)",
+       "v": "Mix B 8,000 g/palm, sub-soil",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Total",
+       "v": "Section 1: 8,400 g/palm per year; section 2: 8,000 g/palm per year",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Note",
+       "v": "Section 1: 24.62 ha, 3,579 palms, 146 SPH, 30.06 t; compost 10 t/ha in Nov 2026. Section 2 (flood-prone): 17.24 ha, 2,517 palms, 146 SPH, 20.14 t; no compost; Mix B buried in 3–4 pockets, 1,500–2,000 g per pocket",
+       "src": "Agro 1/2026"
+      }
+     ]
+    }
+   }
   },
   {
    "id": "P07G",
@@ -1313,7 +4553,106 @@
      "src": "Agro 1/2026",
      "text": "Overripe 8% at visit; Table 5 compost shows no tonnage; manuring delayed by flooding."
     }
-   ]
+   ],
+   "detail": {
+    "manuring": [
+     {
+      "k": "Compost FY2025/26 (May 2025–Apr 2026)",
+      "v": "No tonnage printed; 8.79 ha (section 1 area) listed as 100% done at 0 t/ha (as of Nov 2025)",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Manuring delayed by floods FY2025/26 (May 2025–Apr 2026)",
+      "v": "Fertiliser application delayed by flooding Nov 2025–Feb 2026; estate to complete the FY2025/26 programme by end Jun 2026 (PA: completed by the Jun 2026 visit, estate-wide)",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "pests": [
+     {
+      "k": "Rat damage census Jan–Mar 2026",
+      "v": "Not yet censused by Mar 2026 (Q1 census covered 850.35 of 1,522.07 ha, 55.86%)",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "yield": [
+     {
+      "k": "FFB yield May–Nov 2025",
+      "v": "13.15 t/ha vs 14.67 t/ha in May–Nov 2024 (-10%); no sub-block yields in the May 2026 report",
+      "src": "Agro 2/2025 visit"
+     }
+    ],
+    "harvesting": [
+     {
+      "k": "Ripeness check (May 2026 visit)",
+      "v": "8% overripe among freshly harvested bunches (photos); 8–15% across checked blocks is still high, keep a 15-day interval",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "pruning": [
+     {
+      "k": "Pruning standard (May 2026 visit)",
+      "v": "Satisfactory pruning condition (photo); estate pruning up to date with only minor dry hanging fronds",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "nutrients": [
+     {
+      "k": "Leaf analysis Jun 2025",
+      "v": "N 2.51%, P 0.159%, K 0.94%, Mg 0.32%, Ca 0.62%, B 15.55 ppm (samples received 21 Jun 2025, results 12 Jul 2025)",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "fertNow": {
+     "year": "FY2026/27",
+     "rows": [
+      {
+       "k": "Jun (Sect.1)",
+       "v": "Mix B 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Sep (Sect.1)",
+       "v": "Mix A 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Jan (Sect.1)",
+       "v": "RP 1,500 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Feb (Sect.1)",
+       "v": "Mix B 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Apr (Sect.1)",
+       "v": "Mix A 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Jul (Sect.2)",
+       "v": "Mix B 8,000 g/palm, sub-soil",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Jan (Sect.2)",
+       "v": "RP 1,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Total",
+       "v": "Section 1: 9,500 g/palm per year; section 2: 9,000 g/palm per year",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Note",
+       "v": "Section 1: 8.45 ha, 1,239 palms, 148 SPH, 11.77 t; compost 10 t/ha in Nov 2026. Section 2 (flood-prone): 22.55 ha, 3,337 palms, 148 SPH, 30.03 t; no compost; Mix B buried in 3–4 pockets, 1,500–2,000 g per pocket",
+       "src": "Agro 1/2026"
+      }
+     ]
+    }
+   }
   },
   {
    "id": "P07H",
@@ -1334,7 +4673,98 @@
      "src": "Agro 1/2026",
      "text": "Overripe 12% at visit; Nephrolepis dominant."
     }
-   ]
+   ],
+   "detail": {
+    "manuring": [
+     {
+      "k": "Compost FY2025/26 (May 2025–Apr 2026)",
+      "v": "257.96 t on 24.42 ha (section 1 area), 11 t/ha, 100% of area (as of Nov 2025)",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "spraying": [
+     {
+      "k": "Ground cover (May 2026 visit)",
+      "v": "Interrow predominantly soft fern Nephrolepis (photo): beneficial cover; avoid over-spraying, control only where it encroaches circles or harvesting",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "pests": [
+     {
+      "k": "Rat damage census Jan–Mar 2026",
+      "v": "Not yet censused by Mar 2026 (Q1 census covered 850.35 of 1,522.07 ha, 55.86%)",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "yield": [
+     {
+      "k": "FFB yield May–Nov 2025",
+      "v": "20.87 t/ha vs 17.44 t/ha in May–Nov 2024 (20%); no sub-block yields in the May 2026 report",
+      "src": "Agro 2/2025 visit"
+     }
+    ],
+    "harvesting": [
+     {
+      "k": "Ripeness check (May 2026 visit)",
+      "v": "12% overripe among freshly harvested bunches (photos); 8–15% across checked blocks is still high, keep a 15-day interval",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "pruning": [
+     {
+      "k": "Pruning standard (May 2026 visit)",
+      "v": "Satisfactory pruning condition (photo); estate pruning up to date with only minor dry hanging fronds",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "nutrients": [
+     {
+      "k": "Leaf analysis Jun 2025",
+      "v": "N 2.68%, P 0.161%, K 1.00%, Mg 0.34%, Ca 0.60%, B 18.79 ppm (samples received 21 Jun 2025, results 12 Jul 2025)",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "fertNow": {
+     "year": "FY2026/27",
+     "rows": [
+      {
+       "k": "Jun (Sect.1)",
+       "v": "Mix B 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Sep (Sect.1)",
+       "v": "Mix A 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Feb (Sect.1)",
+       "v": "Mix B 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Apr (Sect.1)",
+       "v": "Mix A 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Jul (Sect.2)",
+       "v": "Mix B 8,000 g/palm, sub-soil",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Total",
+       "v": "Section 1: 8,000 g/palm per year; section 2: 8,000 g/palm per year",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Note",
+       "v": "Section 1: 14.35 ha, 2,027 palms, 141 SPH, 16.22 t; compost 10 t/ha in Nov 2026. Section 2 (flood-prone): 2.94 ha, 415 palms, 141 SPH, 3.32 t; no compost; Mix B buried in 3–4 pockets, 1,500–2,000 g per pocket",
+       "src": "Agro 1/2026"
+      }
+     ]
+    }
+   }
   },
   {
    "id": "P07I",
@@ -1355,7 +4785,125 @@
      "src": "Agro 1/2026",
      "text": "Overripe 10% at visit; Ganoderma; undesirable ferns mixed with Nephrolepis."
     }
-   ]
+   ],
+   "detail": {
+    "manuring": [
+     {
+      "k": "Compost FY2025/26 (May 2025–Apr 2026)",
+      "v": "250.08 t on 25.15 ha (section 1 area), 10 t/ha, 100% of area (as of Nov 2025)",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "spraying": [
+     {
+      "k": "Ground cover (May 2026 visit)",
+      "v": "Interrow predominantly soft fern Nephrolepis (photo): beneficial cover; avoid over-spraying, control only where it encroaches circles or harvesting",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Undesirable ferns (May 2026 visit)",
+      "v": "Interrow mixed with Stenochlaena palustris and Dicranopteris linearis (photos); selective spray 150 ml Garlon + 25 g Ally per 10 L via mist blower with one-sided nozzle cover, rotated with 200 ml Plantek, 3 rounds a year",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "pests": [
+     {
+      "k": "Ganoderma palms (May 2026 visit)",
+      "v": "Ganoderma-infected palms photographed: mild to moderately severe, poor vigour, small canopies, frond snapping, multiple unopened spears",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Rat damage census Jan–Mar 2026",
+      "v": "Not yet censused by Mar 2026 (Q1 census covered 850.35 of 1,522.07 ha, 55.86%)",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "yield": [
+     {
+      "k": "FFB yield May–Nov 2025",
+      "v": "16.53 t/ha vs 16.91 t/ha in May–Nov 2024 (-2%); no sub-block yields in the May 2026 report",
+      "src": "Agro 2/2025 visit"
+     }
+    ],
+    "harvesting": [
+     {
+      "k": "Ripeness check (May 2026 visit)",
+      "v": "10% overripe among freshly harvested bunches (photos); 8–15% across checked blocks is still high, keep a 15-day interval",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "pruning": [
+     {
+      "k": "Pruning standard (May 2026 visit)",
+      "v": "Satisfactory pruning condition (photo); estate pruning up to date with only minor dry hanging fronds",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "nutrients": [
+     {
+      "k": "Leaf analysis Jun 2025",
+      "v": "N 2.45%, P 0.158%, K 1.06%, Mg 0.35%, Ca 0.59%, B 17.71 ppm (samples received 21 Jun 2025, results 12 Jul 2025)",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "field": [
+     {
+      "k": "Palm vigour (May 2026 visit)",
+      "v": "Palms on silty subsoil photographed: poorer vigour, pale green to yellowish foliage",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "fertNow": {
+     "year": "FY2026/27",
+     "rows": [
+      {
+       "k": "Jun (Sect.1)",
+       "v": "Mix B 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Sep (Sect.1)",
+       "v": "Mix A 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Jan (Sect.1)",
+       "v": "RP 1,500 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Feb (Sect.1)",
+       "v": "Mix B 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Apr (Sect.1)",
+       "v": "Mix A 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Jul (Sect.2)",
+       "v": "Mix B 8,000 g/palm, sub-soil",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Jan (Sect.2)",
+       "v": "RP 1,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Total",
+       "v": "Section 1: 9,500 g/palm per year; section 2: 9,000 g/palm per year",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Note",
+       "v": "Section 1: 33.67 ha, 5,014 palms, 149 SPH, 47.63 t; compost 10 t/ha in Nov 2026. Section 2 (flood-prone): 5.37 ha, 800 palms, 149 SPH, 7.20 t; no compost; Mix B buried in 3–4 pockets, 1,500–2,000 g per pocket",
+       "src": "Agro 1/2026"
+      }
+     ]
+    }
+   }
   },
   {
    "id": "P07J",
@@ -1376,7 +4924,113 @@
      "src": "Agro 1/2026",
      "text": "Leftover bunches; sub-soil fertiliser holes placed beside drains."
     }
-   ]
+   ],
+   "detail": {
+    "manuring": [
+     {
+      "k": "Compost FY2025/26 (May 2025–Apr 2026)",
+      "v": "291.56 t on 32.10 ha (section 1 area), 9 t/ha, 100% of area (as of Nov 2025)",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Sub-soil holes (May 2026 visit)",
+      "v": "Sub-soil fertiliser holes placed beside the drain (photos); place them diagonally opposite the drain, in the palm feeding zone",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "spraying": [
+     {
+      "k": "Ground cover (May 2026 visit)",
+      "v": "Interrow predominantly soft fern Nephrolepis (photo): beneficial cover; avoid over-spraying, control only where it encroaches circles or harvesting",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "pests": [
+     {
+      "k": "Rat damage census Jan–Mar 2026",
+      "v": "Not yet censused by Mar 2026 (Q1 census covered 850.35 of 1,522.07 ha, 55.86%)",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "yield": [
+     {
+      "k": "FFB yield May–Nov 2025",
+      "v": "18.01 t/ha vs 15.97 t/ha in May–Nov 2024 (13%); no sub-block yields in the May 2026 report",
+      "src": "Agro 2/2025 visit"
+     }
+    ],
+    "harvesting": [
+     {
+      "k": "Leftover bunches (May 2026 visit)",
+      "v": "Leftover uncollected old bunches seen (photo), believed to be excess overripe bunches left by harvesters",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "pruning": [
+     {
+      "k": "Pruning standard (May 2026 visit)",
+      "v": "Satisfactory pruning condition (photo); estate pruning up to date with only minor dry hanging fronds",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "nutrients": [
+     {
+      "k": "Leaf analysis Jun 2025",
+      "v": "N 2.46%, P 0.156%, K 0.98%, Mg 0.35%, Ca 0.55%, B 16.79 ppm (samples received 21 Jun 2025, results 12 Jul 2025)",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "fertNow": {
+     "year": "FY2026/27",
+     "rows": [
+      {
+       "k": "Jun (Sect.1)",
+       "v": "Mix B 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Sep (Sect.1)",
+       "v": "Mix A 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Jan (Sect.1)",
+       "v": "RP 1,500 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Feb (Sect.1)",
+       "v": "Mix B 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Apr (Sect.1)",
+       "v": "Mix A 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Jul (Sect.2)",
+       "v": "Mix B 8,000 g/palm, sub-soil",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Jan (Sect.2)",
+       "v": "RP 1,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Total",
+       "v": "Section 1: 9,500 g/palm per year; section 2: 9,000 g/palm per year",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Note",
+       "v": "Section 1: 31.95 ha, 4,717 palms, 148 SPH, 44.81 t; compost 10 t/ha in Nov 2026. Section 2 (flood-prone): 2.37 ha, 351 palms, 148 SPH, 3.16 t; no compost; Mix B buried in 3–4 pockets, 1,500–2,000 g per pocket",
+       "src": "Agro 1/2026"
+      }
+     ]
+    }
+   }
   },
   {
    "id": "P07K",
@@ -1397,7 +5051,96 @@
      "src": "Agro 1/2026",
      "text": "Runt palms not removed; Nephrolepis dominant; manuring delayed by flooding."
     }
-   ]
+   ],
+   "detail": {
+    "manuring": [
+     {
+      "k": "Compost FY2025/26 (May 2025–Apr 2026)",
+      "v": "397.84 t on 44.55 ha (section 1 area), 9 t/ha, 100% of area (as of Nov 2025)",
+      "src": "Agro 1/2026"
+     },
+     {
+      "k": "Manuring delayed by floods FY2025/26 (May 2025–Apr 2026)",
+      "v": "Fertiliser application delayed by flooding Nov 2025–Feb 2026; estate to complete the FY2025/26 programme by end Jun 2026 (PA: completed by the Jun 2026 visit, estate-wide)",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "spraying": [
+     {
+      "k": "Ground cover (May 2026 visit)",
+      "v": "Interrow predominantly soft fern Nephrolepis (photo): beneficial cover; avoid over-spraying, control only where it encroaches circles or harvesting",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "pests": [
+     {
+      "k": "Rat damage census Jan–Mar 2026",
+      "v": "Not yet censused by Mar 2026 (Q1 census covered 850.35 of 1,522.07 ha, 55.86%)",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "yield": [
+     {
+      "k": "FFB yield May–Nov 2025",
+      "v": "15.35 t/ha vs 14.38 t/ha in May–Nov 2024 (7%); no sub-block yields in the May 2026 report",
+      "src": "Agro 2/2025 visit"
+     }
+    ],
+    "nutrients": [
+     {
+      "k": "Leaf analysis Jun 2025",
+      "v": "N 2.67%, P 0.168%, K 1.02%, Mg 0.35%, Ca 0.58%, B 20.56 ppm (samples received 21 Jun 2025, results 12 Jul 2025)",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "field": [
+     {
+      "k": "Runt palms (May 2026 visit)",
+      "v": "Runt palms seen (photos); none thinned in FY2025/26. Kill by injecting about 50 ml glyphosate into two diagonal holes near the trunk base",
+      "src": "Agro 1/2026"
+     }
+    ],
+    "fertNow": {
+     "year": "FY2026/27",
+     "rows": [
+      {
+       "k": "Jun (Sect.1)",
+       "v": "Mix B 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Sep (Sect.1)",
+       "v": "Mix A 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Feb (Sect.1)",
+       "v": "Mix B 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Apr (Sect.1)",
+       "v": "Mix A 2,000 g/palm",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Jul (Sect.2)",
+       "v": "Mix B 8,000 g/palm, sub-soil",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Total",
+       "v": "Section 1: 8,000 g/palm per year; section 2: 8,000 g/palm per year",
+       "src": "Agro 1/2026"
+      },
+      {
+       "k": "Note",
+       "v": "Section 1: 44.07 ha, 6,624 palms, 150 SPH, 52.99 t; compost 10 t/ha in Nov 2026. Section 2 (flood-prone): 8.00 ha, 1,198 palms, 150 SPH, 9.58 t; no compost; Mix B buried in 3–4 pockets, 1,500–2,000 g per pocket",
+       "src": "Agro 1/2026"
+      }
+     ]
+    }
+   }
   }
  ],
  "blockPeriod": "May 2025–Apr 2026 (FY2025/26)",
@@ -1719,5 +5462,211 @@
   "monthly": {},
   "combinedWith": null,
   "notes": "Only the PA prints tonnage (Table 20, FY2025/26 and last year). The 'last year' column is actual, not budget (budget FY2025/26 is 30,453 t; last-year 22.30 t/ha matches Agro Table 11 FY2024/25). Agronomy Report 1/2026 gives t/ha only: Table 11 FY2020/21–FY2025/26 by block, and Table 12 calendar Jan–Apr 2025 vs 2026 (5.88 vs 4.58 t/ha, -22%), no tonnes. No monthly tonnage and no FY2026/27 to-date tonnage in either report."
- }
+ },
+ "blockEstateWide": {
+  "manuring": [
+   {
+    "k": "Programme FY2025/26 (May 2025–Apr 2026) (PA)",
+    "v": "2,156.50 t programmed; 1,905.70 t delivered and applied by Apr 2026 (88%), slightly delayed mainly by late delivery; the programme was completed by the Jun 2026 visit",
+    "src": "PA 1/2026"
+   },
+   {
+    "k": "Mix B May 2025",
+    "v": "124.40 of 124.40 t applied (100%)",
+    "src": "PA 1/2026"
+   },
+   {
+    "k": "Mix B Jun 2025",
+    "v": "274.43 of 274.43 t applied (100%)",
+    "src": "PA 1/2026"
+   },
+   {
+    "k": "Mix B Jul 2025",
+    "v": "157.90 of 157.90 t applied (100%)",
+    "src": "PA 1/2026"
+   },
+   {
+    "k": "Kieserite Jul 2025",
+    "v": "161.49 of 161.49 t applied (100%)",
+    "src": "PA 1/2026"
+   },
+   {
+    "k": "Mix B Aug 2025",
+    "v": "121.83 of 121.83 t applied (100%)",
+    "src": "PA 1/2026"
+   },
+   {
+    "k": "Mix B Sep 2025",
+    "v": "103.78 of 103.78 t applied (100%)",
+    "src": "PA 1/2026"
+   },
+   {
+    "k": "Mix B Oct 2025",
+    "v": "121.83 of 121.83 t applied (100%)",
+    "src": "PA 1/2026"
+   },
+   {
+    "k": "RP Jan 2026",
+    "v": "72.38 of 144.75 t applied (50%)",
+    "src": "PA 1/2026"
+   },
+   {
+    "k": "Mix B Feb 2026",
+    "v": "537.43 of 537.43 t applied (100%)",
+    "src": "PA 1/2026"
+   },
+   {
+    "k": "RP Mar 2026",
+    "v": "72.38 of 154.14 t applied (50%)",
+    "src": "PA 1/2026"
+   },
+   {
+    "k": "Mix B Apr 2026",
+    "v": "157.85 of 254.52 t applied (62% in the table; PA concluding remarks say 52%)",
+    "src": "PA 1/2026"
+   },
+   {
+    "k": "Programme FY2025/26 (May 2025–Apr 2026) (Agro, May 2026)",
+    "v": "Mix B 1,546.77 of 1,696.18 t applied (91%); kieserite 13.55 of 13.55 t (100%); RP 142.43 of 313.44 t (table prints 91%; 156.72 t delivered); total 1,702.75 of 2,023.17 t (91%). Mix B and RP still to catch up at the May 2026 visit",
+    "src": "Agro 1/2026"
+   },
+   {
+    "k": "Methods and labour",
+    "v": "EMDEK spreader on 1,390.55 ha (91.4%) where above 100 palms/ha; semi-mechanised elsewhere; sub-soil in flood-hit areas (131.52 ha, mainly P07). 10 workers shared with Bukit Senorang: semi-mechanised 30 bags/day at RM2.50 = RM75; sub-soil 10 bags/day at RM9.00 = RM90 (target 20 bags); spreader 180 bags per 3 man-days, driver RM0.50/bag = RM90/day, helpers RM0.40/bag = RM72/day",
+    "src": "PA 1/2026 · Agro 1/2026"
+   },
+   {
+    "k": "Manuring cost FY2025/26 (May 2025–Apr 2026)",
+    "v": "RM1,523.15/ha, 5% below the RM1,598.27/ha budget, mainly because the programme ran behind",
+    "src": "PA 1/2026"
+   },
+   {
+    "k": "Compost FY2025/26 (May 2025–Apr 2026)",
+    "v": "23,827.04 t on 1,399.51 ha (17.03 t/ha) vs 14,757.58 t programme (10.54 t/ha): 161%; 140 kg between 2 palms on the frond row, 2 rounds a year. Cost RM649.90/ha vs RM434.59/ha. Agro Table 5 (to Nov 2025): 20,089.86 t on 1,399.57 ha, 14 t/ha",
+    "src": "PA 1/2026 · Agro 1/2026"
+   },
+   {
+    "k": "EFB from May 2026",
+    "v": "Compost to be replaced by EFB from May 2026 at a planned 20 t/ha (acceptable). Compost no longer uses microbial inoculants; compare C/N ratio and decomposition of compost and EFB before paying for composting",
+    "src": "Agro 1/2026"
+   },
+   {
+    "k": "Frond stacking and trenches",
+    "v": "Fronds not stacked as recommended; slant-cut trenches with fronds inside do not create the intended organic-matter fertiliser zone. Stop slant-cut trenching; for future mounding dig straight trenches in the interrow parallel to the harvesting path",
+    "src": "Agro 1/2026"
+   },
+   {
+    "k": "FY2026/27 programme",
+    "v": "FY2026/27 programme in Agro Appendix 1a–i; no manuring for blocks due for replanting in 2027. Mix A: 45% SOA, 40% MOP, 15% kieserite, no borate; Mix B: 45% SOA, 40% MOP, 14% kieserite, 1% borate. The appendix still carries old notes 'EFB compost scheduled May'24–Nov'24'",
+    "src": "Agro 1/2026"
+   }
+  ],
+  "spraying": [
+   {
+    "k": "Circle and path spraying FY2025/26 (May 2025–Apr 2026)",
+    "v": "2,853.50 of 4,566.21 ha (1.87 of 3.0 rounds, 62%), delayed; circles generally weed-free and acceptable, helped by mounding. Battery knapsack, low-volume nozzle, pure glyphosate; 5.0 ha/day at RM15/ha = RM75/day. Cost RM85.36/ha vs RM108.04/ha",
+    "src": "PA 1/2026"
+   },
+   {
+    "k": "Selective spraying FY2025/26 (May 2025–Apr 2026)",
+    "v": "3,898.00 of 4,566.21 ha (2.56 rounds, 85%); delay in field 2006. Mist blower with Garlon 250 for woody weeds (Clidemia, lantana, wild brinjal, bitter gourd), rotated with pure Ally for Hedyotis and Ageratum. Cost RM90.25/ha (budget RM117.25)",
+    "src": "PA 1/2026"
+   },
+   {
+    "k": "Weeding cost FY2025/26 (May 2025–Apr 2026)",
+    "v": "RM171.55/ha (Table 6 RM175.61) vs RM225.29/ha, 24% below because some rounds were delayed or skipped. Weeding contracted out to 13 workers who also spray Bukit Senorang",
+    "src": "PA 1/2026"
+   },
+   {
+    "k": "Ground vegetation (May 2026 visit)",
+    "v": "Improved: soft grasses and Nephrolepis about 50% each. Undesirable species: wild bitter gourd, Clidemia hirta, Asystasia, Tetracera indica, Stenochlaena palustris, Dicranopteris linearis. Most vacant points overgrown. Fewer incomplete kills than in Dec 2025",
+    "src": "Agro 1/2026"
+   }
+  ],
+  "pests": [
+   {
+    "k": "Ganoderma census Apr 2026",
+    "v": "15,664 infected palms (7.75% of 202,163 standing) plus 22,642 dead; 17.04% if dead palms counted as Ganoderma; considered high. Mounding recommended for the remaining palms",
+    "src": "PA 1/2026"
+   },
+   {
+    "k": "Rat damage census Jan–Mar 2026",
+    "v": "Q1 census covered only 850.35 of 1,522.07 ha (55.86%); at this pace the full census takes up to 6 months. Baiting began Apr 2026; finish the census first, group all blocks over 10%, bait in one direction",
+    "src": "Agro 1/2026"
+   },
+   {
+    "k": "Rat control FY2025/26 (May 2025–Apr 2026) (PA)",
+    "v": "No serious rat attack and no treatment; no serious fresh damage seen in Jun 2026. Census every 3 months, bait above 10%. Cost RM1.23/ha vs RM74.69/ha",
+    "src": "PA 1/2026"
+   },
+   {
+    "k": "Barn owls May–Jun 2025",
+    "v": "137 boxes, 41% occupied (low); no cleaning in FY2025/26, planned May 2026",
+    "src": "Agro 1/2026"
+   },
+   {
+    "k": "Bagworm FY2025/26 (May 2025–Apr 2026)",
+    "v": "No new outbreak; old damage only. Cost RM24.97/ha vs RM27.81/ha (treatment in the early months). Stay vigilant; neighbouring estates had severe attacks",
+    "src": "PA 1/2026 · Agro 1/2026"
+   }
+  ],
+  "harvesting": [
+   {
+    "k": "Harvesting FY2025/26 (May 2025–Apr 2026)",
+    "v": "Contracted out (Purple Lavender, 55 harvesters on 1,391.30 ha); 62 harvesters, 1 per 25 ha (optimum 1:22, 69 harvesters); 13 pruners can help at peak. Interval 13–16 days; rounds 23.70–24.00 vs budget 24. Keep the interval under 15 days",
+    "src": "PA 1/2026"
+   },
+   {
+    "k": "Harvesting cost FY2025/26 (May 2025–Apr 2026)",
+    "v": "RM84.45/t FFB vs RM87.41/t budget; contract system the main contributor",
+    "src": "PA 1/2026"
+   },
+   {
+    "k": "Crop recovery (May 2026 visit)",
+    "v": "Overripe bunches down since Dec 2025 but still 8–15%; loose fruit, overnight and leftover bunches improved; loose fruit quality better. Train harvesters to strip loose fruit from overripe bunches",
+    "src": "Agro 1/2026"
+   }
+  ],
+  "yield": [
+   {
+    "k": "Estate FFB FY2025/26 (May 2025–Apr 2026)",
+    "v": "34,259.92 t, 22.51 t/ha vs budget 30,453 t / 20.01 t/ha (+13%); FY2024/25 33,942.99 t, 22.30 t/ha. OER 19.42%, KER 3.35%",
+    "src": "PA 1/2026"
+   },
+   {
+    "k": "Estate FFB Jan–Apr 2026",
+    "v": "4.58 t/ha vs 5.88 t/ha in Jan–Apr 2025 (-22%)",
+    "src": "Agro 1/2026"
+   }
+  ],
+  "field": [
+   {
+    "k": "Palm census Jul 2024",
+    "v": "207,351 palms, 136 SPH (previous 142); new census requested. 72% of palms aged 20–25",
+    "src": "Agro 1/2026"
+   },
+   {
+    "k": "De-silting FY2025/26 (May 2025–Apr 2026)",
+    "v": "None in FY2024/25 or FY2025/26; annual de-silting advised for low-lying flood-prone and silty areas, especially along the Serting River",
+    "src": "PA 1/2026 · Agro 1/2026"
+   },
+   {
+    "k": "Mounding FY2025/26 (May 2025–Apr 2026)",
+    "v": "64,543 palms on 598.89 ha at RM7.20 = RM464,709 (RM450/ha, unbudgeted). Agro: 106,857 palms mounded (52.8%), mostly with improper slant-cut trenches despite briefings",
+    "src": "PA 1/2026 · Agro 1/2026"
+   },
+   {
+    "k": "Silty subsoil",
+    "v": "Substantial areas have silty subsoil: poor drainage, aeration and vigour (pale green to yellowish palms); compost or EFB would help but slant trenches leave less interrow space",
+    "src": "Agro 1/2026"
+   },
+   {
+    "k": "Roads FY2025/26 (May 2025–Apr 2026)",
+    "v": "No lateriting; backhoe maintenance RM82,850 (RM54.43/ha); grading RM1,352; culverts RM2,701. Prioritise motor-grader grading",
+    "src": "PA 1/2026"
+   }
+  ]
+ },
+ "blockGaps": "No FY2025/26 per-palm programme: the previous Agronomy report (1/2026, visit for 2/2025, Dec 2025) already gives the FY2026/27 programme, identical to the May 2026 report, so fertPrev is omitted everywhere. No sub-block manuring progress (only estate tonnage by month) and no FY2026/27 progress yet. Spraying, pruning, Ganoderma, harvesting rounds and FY yields only by field (2005/2006/2007), not by sub-block. Sub-block yields only for May–Nov 2025 (previous Agro). Rat census Q1 2026 missing for 16 sub-blocks (P05D, E, H, J, K; P06D, E, F, L, M; P07F–K). Leaf samples are Jun 2025. PA and Agro differ on 2006 mounding (12,508 vs 54,843 palms), circle spraying (PA 1.50–1.16 rounds vs Agro 2 rounds at 100%), Apr 2026 Mix B (62% vs 52%) and kieserite programme (161.49 t vs 13.55 t); both kept as printed.",
+ "blockMap": "Dashboard has both field-level ids (P2005, P2006, P2007) and sub-block ids (P05A–P05M, P06A–P06P, P07A–P07K). Report field rows (PA tables by field 2005/2006/2007, Agro P2005/P05 etc.) go to P2005/P2006/P2007; report sub-blocks (2005A, P05A, 'P05/A', BLOCK A under 2005) go to P05A etc. 2007 sub-blocks are split in the programme into Sect.1 (normal) and Sect.2 (flood-prone, sub-soil); compost and Q1 rat census list 2007 sub-blocks as section 1 ('2007A (1)'). fertNow is only on sub-blocks (the programme is by sub-block). Field-level PA facts are not copied into sub-blocks."
 }
