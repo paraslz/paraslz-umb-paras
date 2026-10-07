@@ -83,6 +83,8 @@ sit in the Agronomy report of the visit before (e.g. 2025 programme in Agro 1/20
 bar = {"k": "Mix B · round 1 (Feb)", "pct": 100, "note": "103.3 t · 380 ha", "src": "PA 2/2026", "calc": false}
 Latest year only; pct as printed, or done ÷ programme with calc true; rows fully shown by bars are removed from detail.manuring/spraying.
 
+`blocks[].yhist` = {"years": {"2026": 24.23, ...}, "src": "Agro 1/2026 Appendix 2"} — block t/ha by FULL year as printed (UMB: keys are FY end years, 2026 = FY2025/26); only when ≥2 years. Shown first on the Blocks tab.
+
 ## UMB financial years (May–Apr) — this site only
 UMB estates report by financial year May–Apr. site.json / assets/site.js set fyStart = 5 and cur = 2026 (the reporting year the group summary sums, FY2025/26,
 named by the year it ends in; move to 2027 once most estates' reports run into FY2026/27). Charts then label years "FY2025/26" and months run May → Apr.

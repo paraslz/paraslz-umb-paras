@@ -591,6 +591,19 @@
      ],
      "sprayingPeriod": "FY2025/26 (May 2025–Apr 2026), latest period reported; no FY2026/27 progress in the reports"
     }
+   },
+   "yhist": {
+    "years": {
+     "2019": 9.89,
+     "2020": 14.14,
+     "2021": 11.96,
+     "2022": 8.0,
+     "2023": 9.69,
+     "2024": 13.94,
+     "2025": 15.33,
+     "2026": 19.03
+    },
+    "src": "Agro 1/2026 Table 13 (by year of planting); Agro 2/2025 prints estate chart only"
    }
   },
   {
@@ -1101,6 +1114,19 @@
      ],
      "sprayingPeriod": "FY2025/26 (May 2025–Apr 2026), latest period reported; no FY2026/27 progress in the reports"
     }
+   },
+   "yhist": {
+    "years": {
+     "2019": 5.06,
+     "2020": 9.8,
+     "2021": 9.68,
+     "2022": 7.66,
+     "2023": 7.39,
+     "2024": 15.11,
+     "2025": 14.95,
+     "2026": 18.88
+    },
+    "src": "Agro 1/2026 Table 13 (by year of planting); Agro 2/2025 prints estate chart only"
    }
   },
   {
@@ -1363,6 +1389,19 @@
      ],
      "sprayingPeriod": "FY2025/26 (May 2025–Apr 2026), latest period reported; no FY2026/27 progress in the reports"
     }
+   },
+   "yhist": {
+    "years": {
+     "2019": 1.53,
+     "2020": 3.89,
+     "2021": 2.47,
+     "2022": 2.93,
+     "2023": 2.82,
+     "2024": 5.82,
+     "2025": 8.43,
+     "2026": 12.65
+    },
+    "src": "Agro 1/2026 Table 13 (by year of planting); Agro 2/2025 prints estate chart only"
    }
   },
   {
@@ -1531,6 +1570,19 @@
      ],
      "sprayingPeriod": "FY2025/26 (May 2025–Apr 2026), latest period reported; no FY2026/27 progress in the reports"
     }
+   },
+   "yhist": {
+    "years": {
+     "2019": 0.71,
+     "2020": 3.55,
+     "2021": 8.22,
+     "2022": 5.67,
+     "2023": 11.89,
+     "2024": 9.99,
+     "2025": 10.45,
+     "2026": 17.93
+    },
+    "src": "Agro 1/2026 Table 13 (by year of planting); Agro 2/2025 prints estate chart only"
    }
   },
   {
@@ -1773,6 +1825,18 @@
      ],
      "sprayingPeriod": "FY2025/26 (May 2025–Apr 2026), latest period reported; no FY2026/27 progress in the reports"
     }
+   },
+   "yhist": {
+    "years": {
+     "2020": 0.66,
+     "2021": 3.34,
+     "2022": 3.87,
+     "2023": 4.48,
+     "2024": 7.78,
+     "2025": 7.12,
+     "2026": 13.44
+    },
+    "src": "Agro 1/2026 Table 13 (by year of planting); Agro 2/2025 prints estate chart only"
    }
   },
   {
@@ -2052,6 +2116,17 @@
      ],
      "sprayingPeriod": "FY2025/26 (May 2025–Apr 2026), latest period reported; no FY2026/27 progress in the reports"
     }
+   },
+   "yhist": {
+    "years": {
+     "2021": 0.14,
+     "2022": 0.71,
+     "2023": 0.59,
+     "2024": 2.76,
+     "2025": 3.84,
+     "2026": 10.97
+    },
+    "src": "Agro 1/2026 Table 13 (by year of planting); Agro 2/2025 prints estate chart only"
    }
   },
   {
@@ -2249,6 +2324,16 @@
      ],
      "sprayingPeriod": "FY2025/26 (May 2025–Apr 2026), latest period reported; no FY2026/27 progress in the reports"
     }
+   },
+   "yhist": {
+    "years": {
+     "2022": 0.18,
+     "2023": 0.38,
+     "2024": 1.0,
+     "2025": 5.22,
+     "2026": 9.6
+    },
+    "src": "Agro 1/2026 Table 13 (by year of planting); Agro 2/2025 prints estate chart only"
    }
   },
   {
@@ -2463,6 +2548,13 @@
      ],
      "sprayingPeriod": "FY2025/26 (May 2025–Apr 2026), latest period reported; no FY2026/27 progress in the reports"
     }
+   },
+   "yhist": {
+    "years": {
+     "2025": 5.55,
+     "2026": 12.43
+    },
+    "src": "Agro 1/2026 Table 13 (by year of planting); Agro 2/2025 prints estate chart only"
    }
   },
   {
