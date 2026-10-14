@@ -38,7 +38,7 @@ function production(){
  if(best){const notes=E.filter(e=>!best.c.has(e.slug)).map(e=>{const k=e.ffb?Object.keys(e.ffb.cum26).map(Number):[];const mx=k.length?Math.max(...k):0;
    const h=F.find(x=>x.ffb.with===e.slug);const hx=h?Math.max(...Object.keys(h.ffb.cum26).map(Number)):0;const M=mx||hx;
    return {n:nm(e),why:!M?`no ${YLAB(CUR)} tonnage in the reports`:M<best.m?`reports only to ${MON[M-1]}`:`only a ${MON[0]}–${MON[M-1]} total, no monthly split`}});
-  const part=F.filter(e=>!best.c.has(e.slug)&&Object.keys(e.ffb.cum26).length).map(e=>{const m=Math.max(...Object.keys(e.ffb.cum26).map(Number));return {e,m,t:e.ffb.cum26[m]}});
+  const part=(PS.partial?F:[]).filter(e=>!best.c.has(e.slug)&&Object.keys(e.ffb.cum26).length).map(e=>{const m=Math.max(...Object.keys(e.ffb.cum26).map(Number));return {e,m,t:e.ffb.cum26[m]}});
   cur={label:`${YLAB(CUR)} ${MON[0]}–${MON[best.m-1]}${part.length?"*":""}`,t:best.inc.reduce((s,e)=>s+e.ffb.cum26[best.m],0)+part.reduce((s,x)=>s+x.t,0),n:best.c.size+part.length,m:best.m,part,miss:notes.filter(x=>!part.some(p=>nm(p.e)===x.n))}}
  const t=(()=>{const g=getComputedStyle(document.documentElement),v=n=>g.getPropertyValue(n).trim();Chart.defaults.color=v("--muted");Chart.defaults.font.family="Archivo, system-ui, sans-serif";Chart.defaults.font.size=13;Chart.defaults.maintainAspectRatio=false;return{accent:v("--accent"),fruit:v("--fruit"),ax:{grid:{color:v("--grid")},border:{color:v("--line")}}}})();
  const B=yr.map(r=>({l:[YT(r.y),`${r.n} estates`],t:r.t,c:t.accent}));if(cur)B.push({l:[cur.label,`${cur.n} estates`],t:cur.t,c:t.fruit});

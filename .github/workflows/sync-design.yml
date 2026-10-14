@@ -1,0 +1,44 @@
+# Hourly design sync from the PARAS master design (paraslz/paras-estates, the Prosper dashboards).
+# Copies only the shared design files; this site's own data and settings are never touched:
+#   kept: site.json, assets/site.js, data/, kb/, offline/, e/, LOCAL.md, README.md, .github/
+# Then rebuilds index, report packs and offline copies, and pushes (Netlify redeploys on push).
+name: Sync design from master
+on:
+  schedule:
+    - cron: "23 * * * *"     # every hour
+  workflow_dispatch: {}      # "Run workflow" button for an immediate sync
+permissions:
+  contents: write
+concurrency:
+  group: sync-design
+  cancel-in-progress: false
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Fetch master design
+        run: git clone --depth 1 https://github.com/paraslz/paras-estates /tmp/master
+      - name: Copy shared files
+        run: |
+          set -e
+          M=/tmp/master
+          for f in index.html estate.html group.html netlify.toml STANDARD.md assets/style.css; do cp "$M/$f" "$f"; done
+          for f in "$M"/assets/*.js; do b=$(basename "$f"); [ "$b" = "site.js" ] || cp "$f" "assets/$b"; done
+          mkdir -p assets/vendor tools
+          cp -r "$M"/assets/vendor/. assets/vendor/
+          cp -r "$M"/tools/. tools/
+      - name: Rebuild index, report packs and offline copies
+        run: |
+          python3 tools/build_index.py
+          python3 tools/build_kb.py
+          python3 tools/build_offline.py
+      - name: Commit and push if anything changed
+        run: |
+          git config user.name "paras-design-sync"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then echo "Already up to date"; exit 0; fi
+          git commit -m "Sync design from master (paraslz/paras-estates@$(git -C /tmp/master rev-parse --short HEAD))"
+          for i in 1 2 3; do git pull --rebase -X theirs origin "${GITHUB_REF_NAME}" && git push && exit 0; sleep 5; done
+          exit 1
