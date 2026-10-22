@@ -146,8 +146,7 @@ Harvesting:
   - Harvesting interval May 2026: 9-11 days (Agro 1/2026)
   - Harvester productivity FY2025/26 (to Mar 2026): 2011 planting: 2.09 t/man-day at RM50/t, average earning RM104.50/day (basic wage RM68.35) (PA 1/2026)
 Pruning:
-  - Pruning record FY2025/26 (to Apr 2026): 37.14 of 203.3 ha (18%); estate says payment records not updated, so field completion is higher (Agro 1/2026)
-  - Routine pruning paid May 2025–Mar 2026: 26.21 of 203.30 ha (PA block table subtotal) (PA 1/2026)
+  - Pruning FY2025/26 (to Apr 2026): 37.14 of 203.3 ha (18%); estate says payment records not updated, so field completion is higher | 26.21 of 203.30 ha (PA block table subtotal) (Agro 1/2026 · PA 1/2026)
 Field:
   - Area and palms: PA (Mar 2026): 203.30 ha, 23,206 palms, 114 SPH. Agro (May 2026): 205.85 ha, 23,509 palms, 114 SPH after supply planting (Agro 1/2026)
   - Palm thinning (Oct 2025–Apr 2026): 224 palms removed; 587 removed since planting (Agro 1/2026)
@@ -180,8 +179,7 @@ Harvesting:
   - Harvesting interval May 2026: 9-11 days (Agro 1/2026)
   - Harvester productivity FY2025/26 (to Mar 2026): PA lists two 2012 rows without saying which is 12A or 12B: 1.84 t/man-day (RM92.00/day) and 1.42 t/man-day (RM71.00/day), at RM50/t, basic wage RM68.35; productivity of 2012 plantings still not desirable (PA 1/2026)
 Pruning:
-  - Pruning record FY2025/26 (to Apr 2026): 116.66 of 488.66 ha (24%); estate says payment records not updated, so field completion is higher (Agro 1/2026)
-  - Routine pruning paid May 2025–Mar 2026: 103.13 of 488.66 ha (PA block table subtotal) (PA 1/2026)
+  - Pruning FY2025/26 (to Apr 2026): 116.66 of 488.66 ha (24%); estate says payment records not updated, so field completion is higher | 103.13 of 488.66 ha (PA block table subtotal) (Agro 1/2026 · PA 1/2026)
 Field:
   - Area and palms: PA (Mar 2026): 488.66 ha, 46,733 palms, 96 SPH. Agro (May 2026): 495.28 ha, 47,356 palms, 96 SPH after supply planting (Agro 1/2026)
   - Palm thinning (Oct 2025–Apr 2026): 117 palms removed; 1,038 removed since planting (Agro 1/2026)
@@ -217,8 +215,7 @@ Harvesting:
   - Harvester productivity FY2025/26 (to Mar 2026): PA lists two 2012 rows without saying which is 12A or 12B: 1.84 t/man-day (RM92.00/day) and 1.42 t/man-day (RM71.00/day), at RM50/t, basic wage RM68.35; productivity of 2012 plantings still not desirable (PA 1/2026)
   - Interval note FY2025/26: Longest intervals early in FY2025/26 (up to 16–40 days); improved to 11–16 days by Apr–May 2026 (Agro 1/2026)
 Pruning:
-  - Pruning record FY2025/26 (to Apr 2026): 60.44 of 588.24 ha (10%); estate says payment records not updated, so field completion is higher (Agro 1/2026)
-  - Routine pruning paid May 2025–Mar 2026: 49.68 of 588.24 ha (PA block table subtotal) (PA 1/2026)
+  - Pruning FY2025/26 (to Apr 2026): 60.44 of 588.24 ha (10%); estate says payment records not updated, so field completion is higher | 49.68 of 588.24 ha (PA block table subtotal) (Agro 1/2026 · PA 1/2026)
 Field:
   - Area and palms: PA (Mar 2026): 588.24 ha, 61,723 palms, 105 SPH. Agro (May 2026): 600.84 ha, 62,436 palms, 104 SPH after supply planting (Agro 1/2026)
   - Palm thinning (Oct 2025–Apr 2026): 10 palms removed; 620 removed since planting (Agro 1/2026)

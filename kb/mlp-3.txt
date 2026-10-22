@@ -157,8 +157,7 @@ Harvesting:
   - Loose fruit A09 (May 2026): Uncollected loose fruit minimal and under control in A09 (also B24, B25, A05, A15); scattered loose fruit still seen at some platforms estate-wide (Agro 1/2026)
   - Harvesting gangs (Apr 2026): A03, A09: gang 1 (A01–A09, 19 harvesters, 3 mini crawlers); A16: gang 2 (A10–A20, 23 harvesters, wheelbarrows) (PA 1/2026)
 Pruning:
-  - Pruning FY2025/26 (to Apr 2026): 96.75 of 96.75 ha paid (100.00%); progressive pruning during harvesting, paid once a year (PA 1/2026)
-  - Pruning record FY2025/26 (to Apr 2026): 11,761 of 12,275 palms (96%): first half 7,455, second half 4,306 (Agro 1/2026)
+  - Pruning FY2025/26 (to Apr 2026): 96.75 of 96.75 ha paid (100.00%); progressive pruning during harvesting, paid once a year | 11,761 of 12,275 palms (96%): first half 7,455, second half 4,306 (PA 1/2026 · Agro 1/2026)
   - Pruning & sanitation checklist May 2026: Pruning good and sanitation good in all sub-blocks (Agro 1/2026)
 Nutrients:
   - Leaf analysis Oct 2025: A03: N 2.68 (N), P 0.182 (H), K 1.18 (H), Mg 0.22 (L), Ca 0.52 (N), B 15.6 (H); A09: N 2.63 (N), P 0.173 (H), K 1.18 (H), Mg 0.23 (L), Ca 0.52 (N), B 17.2 (H); A16: N 2.73 (H), P 0.184 (H), K 1.24 (H), Mg 0.24 (ML), Ca 0.51 (N), B 16.3 (H). Key: L low, ML marginal low, N normal, H high (Agro 2/2025)
@@ -212,8 +211,7 @@ Harvesting:
   - Loose fruit A05, A15 (May 2026): Uncollected loose fruit minimal and under control in A05 and A15 (Agro 1/2026)
   - Harvesting gangs (Apr 2026): A01, A05: gang 1 (A01–A09, 19 harvesters, 3 mini crawlers); A12, A15: gang 2 (A10–A20, 23 harvesters, wheelbarrows) (PA 1/2026)
 Pruning:
-  - Pruning FY2025/26 (to Apr 2026): 179.08 of 181.84 ha paid (98.48%); progressive pruning during harvesting, paid once a year (PA 1/2026)
-  - Pruning record FY2025/26 (to Apr 2026): 21,490 of 22,192 palms (97%): first half 21,490, second half 0 (Agro 1/2026)
+  - Pruning FY2025/26 (to Apr 2026): 179.08 of 181.84 ha paid (98.48%); progressive pruning during harvesting, paid once a year | 21,490 of 22,192 palms (97%): first half 21,490, second half 0 (PA 1/2026 · Agro 1/2026)
   - Pruning & sanitation checklist May 2026: Pruning good and sanitation good in all sub-blocks (Agro 1/2026)
   - Pruning photos (May 2026): Satisfactory pruned palms in 2008A15; satisfactory cut-frond stacking in 2008A5 (PA 1/2026)
 Nutrients:
@@ -259,8 +257,7 @@ Harvesting:
   - Harvesting interval May 2026: 8-10 days (recommended 7–10 days) (Agro 1/2026)
   - Harvesting gangs (Apr 2026): A02, A06: gang 1 (A01–A09, 19 harvesters, 3 mini crawlers); A10, A17: gang 2 (A10–A20, 23 harvesters, wheelbarrows) (PA 1/2026)
 Pruning:
-  - Pruning FY2025/26 (to Apr 2026): 164.26 of 164.26 ha paid (100.00%); progressive pruning during harvesting, paid once a year (PA 1/2026)
-  - Pruning record FY2025/26 (to Apr 2026): 22,249 of 21,038 palms (106%): first half 10,239, second half 12,010 (Agro 1/2026)
+  - Pruning FY2025/26 (to Apr 2026): 164.26 of 164.26 ha paid (100.00%); progressive pruning during harvesting, paid once a year | 22,249 of 21,038 palms (106%): first half 10,239, second half 12,010 (PA 1/2026 · Agro 1/2026)
   - Pruning & sanitation checklist May 2026: Pruning good and sanitation good in all sub-blocks (Agro 1/2026)
   - Pruning record note: Record shows 22,249 palms done against 21,038 (106%) (Agro 1/2026)
 Nutrients:
@@ -306,8 +303,7 @@ Harvesting:
   - Loose fruit B25 (May 2026): Uncollected loose fruit minimal and under control in B25 (Agro 1/2026)
   - Harvesting gangs (Apr 2026): B25, B27: gang 3 (B21–B33, 30 harvesters, wheelbarrows) (PA 1/2026)
 Pruning:
-  - Pruning FY2025/26 (to Apr 2026): 56.84 of 58.13 ha paid (97.78%); progressive pruning during harvesting, paid once a year (PA 1/2026)
-  - Pruning record FY2025/26 (to Apr 2026): 4,821 of 7,830 palms (62%): first half 0, second half 4,821 (Agro 1/2026)
+  - Pruning FY2025/26 (to Apr 2026): 56.84 of 58.13 ha paid (97.78%); progressive pruning during harvesting, paid once a year | 4,821 of 7,830 palms (62%): first half 0, second half 4,821 (PA 1/2026 · Agro 1/2026)
   - Pruning & sanitation checklist May 2026: Pruning good and sanitation good in all sub-blocks (Agro 1/2026)
 Nutrients:
   - Leaf analysis Oct 2025: B25: N 2.73 (N), P 0.183 (H), K 1.21 (H), Mg 0.23 (L), Ca 0.49 (ML), B 16.9 (H); B27: N 2.85 (N), P 0.186 (H), K 1.23 (H), Mg 0.2 (L), Ca 0.51 (N), B 14.4 (N). Key: L low, ML marginal low, N normal, H high (Agro 2/2025)
@@ -357,8 +353,7 @@ Harvesting:
   - Harvesting interval May 2026: 7-10 days (recommended 7–10 days) (Agro 1/2026)
   - Harvesting gangs (Apr 2026): A08: gang 1 (A01–A09, 19 harvesters, 3 mini crawlers); A11, A14: gang 2 (A10–A20, 23 harvesters, wheelbarrows) (PA 1/2026)
 Pruning:
-  - Pruning FY2025/26 (to Apr 2026): 92.37 of 110.33 ha paid (83.72%); progressive pruning during harvesting, paid once a year (PA 1/2026)
-  - Pruning record FY2025/26 (to Apr 2026): 11,084 of 12,603 palms (88%): first half 4,030, second half 7,054 (Agro 1/2026)
+  - Pruning FY2025/26 (to Apr 2026): 92.37 of 110.33 ha paid (83.72%); progressive pruning during harvesting, paid once a year | 11,084 of 12,603 palms (88%): first half 4,030, second half 7,054 (PA 1/2026 · Agro 1/2026)
   - Pruning & sanitation checklist May 2026: Pruning good and sanitation good in all sub-blocks; A08 pruning also ticked fair (Agro 1/2026)
 Nutrients:
   - Leaf analysis Oct 2025: A08: N 2.84 (H), P 0.182 (H), K 1.21 (H), Mg 0.23 (L), Ca 0.49 (ML), B 17.4 (H); A11: N 2.57 (ML), P 0.178 (H), K 1.14 (H), Mg 0.24 (ML), Ca 0.48 (ML), B 16.2 (H); A14: N 2.61 (N), P 0.183 (H), K 1.23 (H), Mg 0.22 (L), Ca 0.48 (ML), B 15.2 (H). Key: L low, ML marginal low, N normal, H high (Agro 2/2025)
@@ -411,8 +406,7 @@ Harvesting:
   - Loose fruit B24 (May 2026): Uncollected loose fruit minimal and under control in B24 (Agro 1/2026)
   - Harvesting gangs (Apr 2026): B22, B24, B26, B29, B30, B33: gang 3 (B21–B33, 30 harvesters, wheelbarrows) (PA 1/2026)
 Pruning:
-  - Pruning FY2025/26 (to Apr 2026): 231.20 of 240.95 ha paid (95.95%); progressive pruning during harvesting, paid once a year (PA 1/2026)
-  - Pruning record FY2025/26 (to Apr 2026): 26,154 of 30,085 palms (87%): first half 4,644, second half 21,510 (Agro 1/2026)
+  - Pruning FY2025/26 (to Apr 2026): 231.20 of 240.95 ha paid (95.95%); progressive pruning during harvesting, paid once a year | 26,154 of 30,085 palms (87%): first half 4,644, second half 21,510 (PA 1/2026 · Agro 1/2026)
   - Pruning & sanitation checklist May 2026: Pruning good and sanitation good in all sub-blocks; B30 sanitation also ticked fair (Agro 1/2026)
 Nutrients:
   - Leaf analysis Oct 2025: B22: N 2.63 (N), P 0.181 (H), K 1.15 (H), Mg 0.21 (L), Ca 0.5 (N), B 17 (H); B24: N 2.68 (N), P 0.179 (H), K 1.11 (H), Mg 0.2 (L), Ca 0.53 (N), B 14.5 (N); B26: N 2.66 (N), P 0.18 (H), K 1.13 (H), Mg 0.2 (L), Ca 0.54 (N), B 16.7 (H); B29: N 2.69 (N), P 0.187 (H), K 1.26 (H), Mg 0.2 (L), Ca 0.47 (ML), B 16.2 (H); B30: N 2.69 (N), P 0.183 (H), K 1.17 (H), Mg 0.22 (L), Ca 0.52 (ML), B 15.4 (H); B33: N 2.61 (N), P 0.19 (H), K 1.22 (H), Mg 0.23 (ML), Ca 0.47 (N), B 17.3 (H). Key: L low, ML marginal low, N normal, H high (Agro 2/2025)
@@ -459,8 +453,7 @@ Harvesting:
   - Harvesting interval May 2026: 7-10 days (recommended 7–10 days) (Agro 1/2026)
   - Harvesting gangs (Apr 2026): A04, A07: gang 1 (A01–A09, 19 harvesters, 3 mini crawlers); A13, A18, A19, A20, A44: gang 2 (A10–A20, 23 harvesters, wheelbarrows) (PA 1/2026)
 Pruning:
-  - Pruning FY2025/26 (to Apr 2026): 244.23 of 281.40 ha paid (86.79%); progressive pruning during harvesting, paid once a year (PA 1/2026)
-  - Pruning record FY2025/26 (to Apr 2026): 29,308 of 32,126 palms (91%): first half 6,735, second half 22,573 (Agro 1/2026)
+  - Pruning FY2025/26 (to Apr 2026): 244.23 of 281.40 ha paid (86.79%); progressive pruning during harvesting, paid once a year | 29,308 of 32,126 palms (91%): first half 6,735, second half 22,573 (PA 1/2026 · Agro 1/2026)
   - Pruning & sanitation checklist May 2026: Pruning good and sanitation good in all sub-blocks (Agro 1/2026)
   - Pruning photo (May 2026): Satisfactory pruned palm appearance in 2011A13 (PA 1/2026)
 Nutrients:
@@ -511,8 +504,7 @@ Harvesting:
   - Interval note May 2026: 11B still slightly longer intervals than other fields (8–15 days) and should be monitored (Agro 1/2026)
   - Harvesting gangs (Apr 2026): B21, B23, B28, B31, B32: gang 3 (B21–B33, 30 harvesters, wheelbarrows) (PA 1/2026)
 Pruning:
-  - Pruning FY2025/26 (to Apr 2026): 174.17 of 206.64 ha paid (84.29%); progressive pruning during harvesting, paid once a year (PA 1/2026)
-  - Pruning record FY2025/26 (to Apr 2026): 18,200 of 22,845 palms (80%): first half 5,900, second half 12,300 (Agro 1/2026)
+  - Pruning FY2025/26 (to Apr 2026): 174.17 of 206.64 ha paid (84.29%); progressive pruning during harvesting, paid once a year | 18,200 of 22,845 palms (80%): first half 5,900, second half 12,300 (PA 1/2026 · Agro 1/2026)
   - Pruning & sanitation checklist May 2026: Pruning good and sanitation good in all sub-blocks; B31 sanitation also ticked fair (Agro 1/2026)
 Nutrients:
   - Leaf analysis Oct 2025: B21: N 2.76 (H), P 0.163 (H), K 1.18 (H), Mg 0.26 (N), Ca 0.44 (N), B 18.1 (H); B23: N 2.62 (N), P 0.166 (H), K 1.08 (H), Mg 0.25 (ML), Ca 0.48 (N), B 16.4 (H); B28: N 2.64 (N), P 0.172 (H), K 1.2 (H), Mg 0.22 (L), Ca 0.43 (N), B 15.7 (H); B31: N 2.58 (ML), P 0.16 (N), K 1.12 (H), Mg 0.23 (L), Ca 0.43 (N), B 17.1 (H); B32: N 2.82 (H), P 0.173 (H), K 1.2 (H), Mg 0.22 (L), Ca 0.43 (N), B 16.5 (H). Key: L low, ML marginal low, N normal, H high (Agro 2/2025)
@@ -561,8 +553,7 @@ Harvesting:
   - Interval note May 2026: 13C has the longest intervals (10–17 days) and should be monitored (Agro 1/2026)
   - Harvesting gangs (Apr 2026): C34, C35, C36, C37, C38, C39, C40, C41, C42: gang 4 (C34–C42 (printed C22), 22 harvesters, wheelbarrows) (PA 1/2026)
 Pruning:
-  - Pruning FY2025/26 (to Apr 2026): 382.63 of 415.40 ha paid (92.11%); progressive pruning during harvesting, paid once a year (PA 1/2026)
-  - Pruning record FY2025/26 (to Apr 2026): 46,115 of 49,916 palms (92%): first half 26,435, second half 19,680 (Agro 1/2026)
+  - Pruning FY2025/26 (to Apr 2026): 382.63 of 415.40 ha paid (92.11%); progressive pruning during harvesting, paid once a year | 46,115 of 49,916 palms (92%): first half 26,435, second half 19,680 (PA 1/2026 · Agro 1/2026)
   - Pruning & sanitation checklist May 2026: Pruning good and sanitation good in all sub-blocks; C40 and C41 pruning also ticked fair (Agro 1/2026)
   - Frond stacking photo (May 2026): Satisfactory cut-frond stacking in 2013C35 (PA 1/2026)
 Nutrients:

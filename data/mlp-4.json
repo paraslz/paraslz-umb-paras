@@ -483,31 +483,126 @@
      {
       "k": "Spraying FY2025/26 (May 2025–Mar 2026)",
       "v": "Circle spray 415.13 ha done (3 rounds budgeted); selective 236.43 ha done (2 rounds budgeted) (PA block-table subtotals; per sub-block detail under each block)",
-      "src": "PA 1/2026"
+      "src": "PA 1/2026",
+      "tbl": {
+       "cols": [
+        "Spray",
+        "Area done",
+        "Rounds budgeted"
+       ],
+       "rows": [
+        [
+         "Circle",
+         "415.13 ha",
+         "3"
+        ],
+        [
+         "Selective",
+         "236.43 ha",
+         "2"
+        ]
+       ]
+      },
+      "note": "PA block-table subtotals; per sub-block detail under each block. May 2025–Mar 2026."
      }
     ],
     "yield": [
      {
       "k": "Yield FY2025/26 (May 2025–Apr 2026)",
       "v": "22.2 t/ha vs 15.58 t/ha in FY2024/25 (May 2024–Apr 2025), 30% as printed; estate 17.42 vs 15.46 t/ha (+11%)",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "stats": [
+       {
+        "l": "Block yield",
+        "v": "22.2 t/ha",
+        "d": "FY2025/26 · 15.58 in FY2024/25 (30% as printed)"
+       },
+       {
+        "l": "Estate",
+        "v": "17.42 t/ha",
+        "d": "FY2025/26 · 15.46 in FY2024/25 (+11%)"
+       }
+      ]
      },
      {
       "k": "Bunch weight Mar 2026",
       "v": "2011 planting: 18.8 kg (Mar 2025) to 18.3 kg (Mar 2026)",
-      "src": "PA 1/2026"
+      "src": "PA 1/2026",
+      "stats": [
+       {
+        "l": "Avg bunch weight",
+        "v": "18.3 kg",
+        "d": "Mar 2026 · 18.8 kg Mar 2025"
+       }
+      ],
+      "note": "2011 planting"
      }
     ],
     "harvesting": [
      {
       "k": "Harvesting rounds FY2025/26 (to Apr 2026)",
       "v": "28.1 rounds, 117% of the minimum 24",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "stats": [
+       {
+        "l": "Rounds",
+        "v": "28.1",
+        "d": "117% of minimum 24"
+       }
+      ],
+      "note": "FY2025/26 to Apr 2026."
      },
      {
       "k": "Harvesting interval May 2025–Apr 2026",
       "v": "Days by month May 2025 to Apr 2026: 25-30, 20-24, 11-18, 12-19, 14-18, 10-19, 13-25, 12-26, 17-23, 10-17, 10-12, 9-11",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "tbl": {
+       "cols": [
+        "Month",
+        "Days",
+        "Month",
+        "Days"
+       ],
+       "rows": [
+        [
+         "May 2025",
+         "25-30",
+         "Nov 2025",
+         "13-25"
+        ],
+        [
+         "Jun 2025",
+         "20-24",
+         "Dec 2025",
+         "12-26"
+        ],
+        [
+         "Jul 2025",
+         "11-18",
+         "Jan 2026",
+         "17-23"
+        ],
+        [
+         "Aug 2025",
+         "12-19",
+         "Feb 2026",
+         "10-17"
+        ],
+        [
+         "Sep 2025",
+         "14-18",
+         "Mar 2026",
+         "10-12"
+        ],
+        [
+         "Oct 2025",
+         "10-19",
+         "Apr 2026",
+         "9-11"
+        ]
+       ]
+      },
+      "note": "Days between harvests, by month."
      },
      {
       "k": "Harvesting interval May 2026",
@@ -517,31 +612,91 @@
      {
       "k": "Harvester productivity FY2025/26 (to Mar 2026)",
       "v": "2011 planting: 2.09 t/man-day at RM50/t, average earning RM104.50/day (basic wage RM68.35)",
-      "src": "PA 1/2026"
+      "src": "PA 1/2026",
+      "stats": [
+       {
+        "l": "Harvest rate",
+        "v": "RM50/t"
+       },
+       {
+        "l": "Output",
+        "v": "2.09 t/man-day"
+       },
+       {
+        "l": "Earning",
+        "v": "RM104.50/day",
+        "d": "basic RM68.35/day"
+       }
+      ],
+      "note": "2011 planting. FY2025/26 to Mar 2026."
      }
     ],
     "pruning": [
      {
-      "k": "Pruning record FY2025/26 (to Apr 2026)",
-      "v": "37.14 of 203.3 ha (18%); estate says payment records not updated, so field completion is higher",
-      "src": "Agro 1/2026"
-     },
-     {
-      "k": "Routine pruning paid May 2025–Mar 2026",
-      "v": "26.21 of 203.30 ha (PA block table subtotal)",
-      "src": "PA 1/2026"
+      "k": "Pruning FY2025/26 (to Apr 2026)",
+      "v": "37.14 of 203.3 ha (18%); estate says payment records not updated, so field completion is higher | 26.21 of 203.30 ha (PA block table subtotal)",
+      "src": "Agro 1/2026 · PA 1/2026",
+      "stats": [
+       {
+        "l": "Pruning record",
+        "v": "18%",
+        "d": "37.14 of 203.3 ha (Agro, to Apr 2026)"
+       },
+       {
+        "l": "Paid to Mar 2026",
+        "v": "26.21 ha",
+        "d": "of 203.30 ha (PA subtotal)"
+       }
+      ],
+      "pts": [
+       "Estate says payment records not updated, so field completion is higher"
+      ]
      }
     ],
     "field": [
      {
       "k": "Area and palms",
       "v": "PA (Mar 2026): 203.30 ha, 23,206 palms, 114 SPH. Agro (May 2026): 205.85 ha, 23,509 palms, 114 SPH after supply planting",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "tbl": {
+       "cols": [
+        "Source",
+        "ha",
+        "Palms",
+        "SPH"
+       ],
+       "rows": [
+        [
+         "PA Mar 2026",
+         "203.30",
+         "23,206",
+         "114"
+        ],
+        [
+         "Agro May 2026",
+         "205.85",
+         "23,509",
+         "114"
+        ]
+       ]
+      },
+      "note": "After supply planting"
      },
      {
       "k": "Palm thinning (Oct 2025–Apr 2026)",
       "v": "224 palms removed; 587 removed since planting",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "stats": [
+       {
+        "l": "Removed",
+        "v": "224",
+        "d": "Oct 2025–Apr 2026"
+       },
+       {
+        "l": "Since planting",
+        "v": "587"
+       }
+      ]
      },
      {
       "k": "Sub-blocks",
@@ -680,31 +835,126 @@
      {
       "k": "Spraying FY2025/26 (May 2025–Mar 2026)",
       "v": "Circle spray 861.86 ha done (3 rounds budgeted); selective 1,033.57 ha done (2 rounds budgeted) (PA block-table subtotals; per sub-block detail under each block)",
-      "src": "PA 1/2026"
+      "src": "PA 1/2026",
+      "tbl": {
+       "cols": [
+        "Spray",
+        "Area done",
+        "Rounds budgeted"
+       ],
+       "rows": [
+        [
+         "Circle",
+         "861.86 ha",
+         "3"
+        ],
+        [
+         "Selective",
+         "1,033.57 ha",
+         "2"
+        ]
+       ]
+      },
+      "note": "PA block-table subtotals; per sub-block detail under each block. May 2025–Mar 2026."
      }
     ],
     "yield": [
      {
       "k": "Yield FY2025/26 (May 2025–Apr 2026)",
       "v": "19.74 t/ha vs 15.76 t/ha in FY2024/25 (May 2024–Apr 2025), 20% as printed; estate 17.42 vs 15.46 t/ha (+11%)",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "stats": [
+       {
+        "l": "Block yield",
+        "v": "19.74 t/ha",
+        "d": "FY2025/26 · 15.76 in FY2024/25 (20% as printed)"
+       },
+       {
+        "l": "Estate",
+        "v": "17.42 t/ha",
+        "d": "FY2025/26 · 15.46 in FY2024/25 (+11%)"
+       }
+      ]
      },
      {
       "k": "Bunch weight Mar 2026",
       "v": "2012 plantings: 18.8 kg (Mar 2025) to 18.3 kg (Mar 2026)",
-      "src": "PA 1/2026"
+      "src": "PA 1/2026",
+      "stats": [
+       {
+        "l": "Avg bunch weight",
+        "v": "18.3 kg",
+        "d": "Mar 2026 · 18.8 kg Mar 2025"
+       }
+      ],
+      "note": "2012 planting"
      }
     ],
     "harvesting": [
      {
       "k": "Harvesting rounds FY2025/26 (to Apr 2026)",
       "v": "25.5 rounds, 106% of the minimum 24",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "stats": [
+       {
+        "l": "Rounds",
+        "v": "25.5",
+        "d": "106% of minimum 24"
+       }
+      ],
+      "note": "FY2025/26 to Apr 2026."
      },
      {
       "k": "Harvesting interval May 2025–Apr 2026",
       "v": "Days by month May 2025 to Apr 2026: 15-31, 18-29, 11-16, 14-20, 11-18, 10-19, 18-24, 22-25, 14-24, 11-15, 11-14, 10-12",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "tbl": {
+       "cols": [
+        "Month",
+        "Days",
+        "Month",
+        "Days"
+       ],
+       "rows": [
+        [
+         "May 2025",
+         "15-31",
+         "Nov 2025",
+         "18-24"
+        ],
+        [
+         "Jun 2025",
+         "18-29",
+         "Dec 2025",
+         "22-25"
+        ],
+        [
+         "Jul 2025",
+         "11-16",
+         "Jan 2026",
+         "14-24"
+        ],
+        [
+         "Aug 2025",
+         "14-20",
+         "Feb 2026",
+         "11-15"
+        ],
+        [
+         "Sep 2025",
+         "11-18",
+         "Mar 2026",
+         "11-14"
+        ],
+        [
+         "Oct 2025",
+         "10-19",
+         "Apr 2026",
+         "10-12"
+        ]
+       ]
+      },
+      "note": "Days between harvests, by month."
      },
      {
       "k": "Harvesting interval May 2026",
@@ -714,31 +964,98 @@
      {
       "k": "Harvester productivity FY2025/26 (to Mar 2026)",
       "v": "PA lists two 2012 rows without saying which is 12A or 12B: 1.84 t/man-day (RM92.00/day) and 1.42 t/man-day (RM71.00/day), at RM50/t, basic wage RM68.35; productivity of 2012 plantings still not desirable",
-      "src": "PA 1/2026"
+      "src": "PA 1/2026",
+      "tbl": {
+       "cols": [
+        "2012 row",
+        "Output",
+        "Earning"
+       ],
+       "rows": [
+        [
+         "Row 1",
+         "1.84 t/man-day",
+         "RM92.00/day"
+        ],
+        [
+         "Row 2",
+         "1.42 t/man-day",
+         "RM71.00/day"
+        ]
+       ]
+      },
+      "note": "RM50/t, basic wage RM68.35. PA does not say which row is 12A or 12B.",
+      "pts": [
+       "Productivity of 2012 plantings still not desirable"
+      ]
      }
     ],
     "pruning": [
      {
-      "k": "Pruning record FY2025/26 (to Apr 2026)",
-      "v": "116.66 of 488.66 ha (24%); estate says payment records not updated, so field completion is higher",
-      "src": "Agro 1/2026"
-     },
-     {
-      "k": "Routine pruning paid May 2025–Mar 2026",
-      "v": "103.13 of 488.66 ha (PA block table subtotal)",
-      "src": "PA 1/2026"
+      "k": "Pruning FY2025/26 (to Apr 2026)",
+      "v": "116.66 of 488.66 ha (24%); estate says payment records not updated, so field completion is higher | 103.13 of 488.66 ha (PA block table subtotal)",
+      "src": "Agro 1/2026 · PA 1/2026",
+      "stats": [
+       {
+        "l": "Pruning record",
+        "v": "24%",
+        "d": "116.66 of 488.66 ha (Agro, to Apr 2026)"
+       },
+       {
+        "l": "Paid to Mar 2026",
+        "v": "103.13 ha",
+        "d": "of 488.66 ha (PA subtotal)"
+       }
+      ],
+      "pts": [
+       "Estate says payment records not updated, so field completion is higher"
+      ]
      }
     ],
     "field": [
      {
       "k": "Area and palms",
       "v": "PA (Mar 2026): 488.66 ha, 46,733 palms, 96 SPH. Agro (May 2026): 495.28 ha, 47,356 palms, 96 SPH after supply planting",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "tbl": {
+       "cols": [
+        "Source",
+        "ha",
+        "Palms",
+        "SPH"
+       ],
+       "rows": [
+        [
+         "PA Mar 2026",
+         "488.66",
+         "46,733",
+         "96"
+        ],
+        [
+         "Agro May 2026",
+         "495.28",
+         "47,356",
+         "96"
+        ]
+       ]
+      },
+      "note": "After supply planting"
      },
      {
       "k": "Palm thinning (Oct 2025–Apr 2026)",
       "v": "117 palms removed; 1,038 removed since planting",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "stats": [
+       {
+        "l": "Removed",
+        "v": "117",
+        "d": "Oct 2025–Apr 2026"
+       },
+       {
+        "l": "Since planting",
+        "v": "1,038"
+       }
+      ]
      },
      {
       "k": "Sub-blocks",
@@ -867,36 +1184,135 @@
      {
       "k": "Spraying FY2025/26 (May 2025–Mar 2026)",
       "v": "Circle spray 681.29 ha done (3 rounds budgeted); selective 856.19 ha done (2 rounds budgeted) (PA block-table subtotals; per sub-block detail under each block)",
-      "src": "PA 1/2026"
+      "src": "PA 1/2026",
+      "tbl": {
+       "cols": [
+        "Spray",
+        "Area done",
+        "Rounds budgeted"
+       ],
+       "rows": [
+        [
+         "Circle",
+         "681.29 ha",
+         "3"
+        ],
+        [
+         "Selective",
+         "856.19 ha",
+         "2"
+        ]
+       ]
+      },
+      "note": "PA block-table subtotals; per sub-block detail under each block. May 2025–Mar 2026."
      }
     ],
     "yield": [
      {
       "k": "Yield FY2025/26 (May 2025–Apr 2026)",
       "v": "14.68 t/ha vs 15.08 t/ha in FY2024/25 (May 2024–Apr 2025), -3% as printed; estate 17.42 vs 15.46 t/ha (+11%)",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "stats": [
+       {
+        "l": "Block yield",
+        "v": "14.68 t/ha",
+        "d": "FY2025/26 · 15.08 in FY2024/25 (-3% as printed)"
+       },
+       {
+        "l": "Estate",
+        "v": "17.42 t/ha",
+        "d": "FY2025/26 · 15.46 in FY2024/25 (+11%)"
+       }
+      ]
      },
      {
       "k": "Bunch weight Mar 2026",
       "v": "2012 plantings: 18.8 kg (Mar 2025) to 18.3 kg (Mar 2026)",
-      "src": "PA 1/2026"
+      "src": "PA 1/2026",
+      "stats": [
+       {
+        "l": "Avg bunch weight",
+        "v": "18.3 kg",
+        "d": "Mar 2026 · 18.8 kg Mar 2025"
+       }
+      ],
+      "note": "2012 planting"
      },
      {
       "k": "Why P12B fell FY2025/26",
       "v": "Only 20 harvesting rounds against a minimum 24 (16% short, lowest field), linked to earlier access problems; improving after road repairs",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "pts": [
+       "Only 20 harvesting rounds against a minimum 24 (16% short, lowest field)",
+       "Linked to earlier access problems; improving after road repairs"
+      ]
      }
     ],
     "harvesting": [
      {
       "k": "Harvesting rounds FY2025/26 (to Apr 2026)",
       "v": "20.1 rounds, 84% of the minimum 24",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "stats": [
+       {
+        "l": "Rounds",
+        "v": "20.1",
+        "d": "84% of minimum 24"
+       }
+      ],
+      "note": "FY2025/26 to Apr 2026."
      },
      {
       "k": "Harvesting interval May 2025–Apr 2026",
       "v": "Days by month May 2025 to Apr 2026: 19-28, 16-40, 10-30, 17-35, 21-32, 11-30, 13-24, 18-21, 20-23, 13-23, 12-15, 12-17",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "tbl": {
+       "cols": [
+        "Month",
+        "Days",
+        "Month",
+        "Days"
+       ],
+       "rows": [
+        [
+         "May 2025",
+         "19-28",
+         "Nov 2025",
+         "13-24"
+        ],
+        [
+         "Jun 2025",
+         "16-40",
+         "Dec 2025",
+         "18-21"
+        ],
+        [
+         "Jul 2025",
+         "10-30",
+         "Jan 2026",
+         "20-23"
+        ],
+        [
+         "Aug 2025",
+         "17-35",
+         "Feb 2026",
+         "13-23"
+        ],
+        [
+         "Sep 2025",
+         "21-32",
+         "Mar 2026",
+         "12-15"
+        ],
+        [
+         "Oct 2025",
+         "11-30",
+         "Apr 2026",
+         "12-17"
+        ]
+       ]
+      },
+      "note": "Days between harvests, by month."
      },
      {
       "k": "Harvesting interval May 2026",
@@ -906,7 +1322,30 @@
      {
       "k": "Harvester productivity FY2025/26 (to Mar 2026)",
       "v": "PA lists two 2012 rows without saying which is 12A or 12B: 1.84 t/man-day (RM92.00/day) and 1.42 t/man-day (RM71.00/day), at RM50/t, basic wage RM68.35; productivity of 2012 plantings still not desirable",
-      "src": "PA 1/2026"
+      "src": "PA 1/2026",
+      "tbl": {
+       "cols": [
+        "2012 row",
+        "Output",
+        "Earning"
+       ],
+       "rows": [
+        [
+         "Row 1",
+         "1.84 t/man-day",
+         "RM92.00/day"
+        ],
+        [
+         "Row 2",
+         "1.42 t/man-day",
+         "RM71.00/day"
+        ]
+       ]
+      },
+      "note": "RM50/t, basic wage RM68.35. PA does not say which row is 12A or 12B.",
+      "pts": [
+       "Productivity of 2012 plantings still not desirable"
+      ]
      },
      {
       "k": "Interval note FY2025/26",
@@ -916,26 +1355,70 @@
     ],
     "pruning": [
      {
-      "k": "Pruning record FY2025/26 (to Apr 2026)",
-      "v": "60.44 of 588.24 ha (10%); estate says payment records not updated, so field completion is higher",
-      "src": "Agro 1/2026"
-     },
-     {
-      "k": "Routine pruning paid May 2025–Mar 2026",
-      "v": "49.68 of 588.24 ha (PA block table subtotal)",
-      "src": "PA 1/2026"
+      "k": "Pruning FY2025/26 (to Apr 2026)",
+      "v": "60.44 of 588.24 ha (10%); estate says payment records not updated, so field completion is higher | 49.68 of 588.24 ha (PA block table subtotal)",
+      "src": "Agro 1/2026 · PA 1/2026",
+      "stats": [
+       {
+        "l": "Pruning record",
+        "v": "10%",
+        "d": "60.44 of 588.24 ha (Agro, to Apr 2026)"
+       },
+       {
+        "l": "Paid to Mar 2026",
+        "v": "49.68 ha",
+        "d": "of 588.24 ha (PA subtotal)"
+       }
+      ],
+      "pts": [
+       "Estate says payment records not updated, so field completion is higher"
+      ]
      }
     ],
     "field": [
      {
       "k": "Area and palms",
       "v": "PA (Mar 2026): 588.24 ha, 61,723 palms, 105 SPH. Agro (May 2026): 600.84 ha, 62,436 palms, 104 SPH after supply planting",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "tbl": {
+       "cols": [
+        "Source",
+        "ha",
+        "Palms",
+        "SPH"
+       ],
+       "rows": [
+        [
+         "PA Mar 2026",
+         "588.24",
+         "61,723",
+         "105"
+        ],
+        [
+         "Agro May 2026",
+         "600.84",
+         "62,436",
+         "104"
+        ]
+       ]
+      },
+      "note": "After supply planting"
      },
      {
       "k": "Palm thinning (Oct 2025–Apr 2026)",
       "v": "10 palms removed; 620 removed since planting",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "stats": [
+       {
+        "l": "Removed",
+        "v": "10",
+        "d": "Oct 2025–Apr 2026"
+       },
+       {
+        "l": "Since planting",
+        "v": "620"
+       }
+      ]
      },
      {
       "k": "Sub-blocks",
@@ -1076,14 +1559,44 @@
      {
       "k": "Leaf analysis Oct 2025",
       "v": "N 2.73 (H), P 0.168 (N), K 1.14 (H), Mg 0.29 (H), Ca 0.45 (ML), B 14.7 (N). Key: ML marginal low, N normal, H high",
-      "src": "Agro 2/2025"
+      "src": "Agro 2/2025",
+      "tbl": {
+       "cols": [
+        "Sample",
+        "N · P · K",
+        "Mg · Ca · B"
+       ],
+       "rows": [
+        [
+         "Oct 2025",
+         "2.73 H · 0.168 N · 1.14 H",
+         "0.29 H · 0.45 ML · 14.7 N"
+        ]
+       ]
+      },
+      "note": "Key: ML marginal low, N normal, H high"
      }
     ],
     "field": [
      {
       "k": "Block details (Mar 2026)",
       "v": "Field 11A, 31.18 ha, 3,858 palms, 124 SPH, IOI material, planted 2011",
-      "src": "PA 1/2026"
+      "src": "PA 1/2026",
+      "stats": [
+       {
+        "l": "Area",
+        "v": "31.18 ha"
+       },
+       {
+        "l": "Palms",
+        "v": "3,858"
+       },
+       {
+        "l": "Stand (SPH)",
+        "v": "124"
+       }
+      ],
+      "note": "Field 11A · IOI material · planted 2011. Mar 2026."
      }
     ],
     "fertNow": {
@@ -1273,14 +1786,44 @@
      {
       "k": "Leaf analysis Oct 2025",
       "v": "N 2.68 (N), P 0.167 (N), K 1.17 (H), Mg 0.26 (N), Ca 0.49 (ML), B 14.5 (N). Key: ML marginal low, N normal, H high",
-      "src": "Agro 2/2025"
+      "src": "Agro 2/2025",
+      "tbl": {
+       "cols": [
+        "Sample",
+        "N · P · K",
+        "Mg · Ca · B"
+       ],
+       "rows": [
+        [
+         "Oct 2025",
+         "2.68 N · 0.167 N · 1.17 H",
+         "0.26 N · 0.49 ML · 14.5 N"
+        ]
+       ]
+      },
+      "note": "Key: ML marginal low, N normal, H high"
      }
     ],
     "field": [
      {
       "k": "Block details (Mar 2026)",
       "v": "Field 11A, 36.82 ha, 4,481 palms, 122 SPH, IOI material, planted 2011",
-      "src": "PA 1/2026"
+      "src": "PA 1/2026",
+      "stats": [
+       {
+        "l": "Area",
+        "v": "36.82 ha"
+       },
+       {
+        "l": "Palms",
+        "v": "4,481"
+       },
+       {
+        "l": "Stand (SPH)",
+        "v": "122"
+       }
+      ],
+      "note": "Field 11A · IOI material · planted 2011. Mar 2026."
      }
     ],
     "fertNow": {
@@ -1457,12 +2000,22 @@
      {
       "k": "Mix B sub-surface (May 2025)",
       "v": "8,000 g/palm programmed May 2025; application dates printed 14/08, 15/08, 16/08, 18/08, 19/08, 20/08 (dd/mm); PA 6.4.4 says sub-surface work in A03 was completed in May 2025",
-      "src": "PA 1/2026"
+      "src": "PA 1/2026",
+      "pts": [
+       "8,000 g/palm programmed May 2025",
+       "Application dates printed 14/08, 15/08, 16/08, 18/08, 19/08, 20/08 (dd/mm)",
+       "PA 6.4.4 says sub-surface work in A03 was completed in May 2025"
+      ]
      },
      {
       "k": "Sub-surface productivity (FY2025/26)",
       "v": "0.2 ha/man-day at 4 bags/man-day (25 palms), very low; RM1.80/palm, earning RM45/day vs basic wage RM65.38; target 1 ha/man-day at 20 bags (FEHB method: bags along harvester path, 4-worker gangs)",
-      "src": "PA 1/2026"
+      "src": "PA 1/2026",
+      "pts": [
+       "0.2 ha/man-day at 4 bags/man-day (25 palms), very low",
+       "RM1.80/palm, earning RM45/day vs basic wage RM65.38",
+       "Target 1 ha/man-day at 20 bags (FEHB method: bags along harvester path, 4-worker gangs)"
+      ]
      }
     ],
     "spraying": [
@@ -1512,14 +2065,44 @@
      {
       "k": "Leaf analysis Oct 2025",
       "v": "N 2.72 (H), P 0.17 (H), K 1.1 (H), Mg 0.27 (N), Ca 0.49 (ML), B 14.4 (N). Key: ML marginal low, N normal, H high",
-      "src": "Agro 2/2025"
+      "src": "Agro 2/2025",
+      "tbl": {
+       "cols": [
+        "Sample",
+        "N · P · K",
+        "Mg · Ca · B"
+       ],
+       "rows": [
+        [
+         "Oct 2025",
+         "2.72 H · 0.17 H · 1.1 H",
+         "0.27 N · 0.49 ML · 14.4 N"
+        ]
+       ]
+      },
+      "note": "Key: ML marginal low, N normal, H high"
      }
     ],
     "field": [
      {
       "k": "Block details (Mar 2026)",
       "v": "Field 11A, 21.96 ha, 2,761 palms, 126 SPH, IOI material, planted 2011",
-      "src": "PA 1/2026"
+      "src": "PA 1/2026",
+      "stats": [
+       {
+        "l": "Area",
+        "v": "21.96 ha"
+       },
+       {
+        "l": "Palms",
+        "v": "2,761"
+       },
+       {
+        "l": "Stand (SPH)",
+        "v": "126"
+       }
+      ],
+      "note": "Field 11A · IOI material · planted 2011. Mar 2026."
      }
     ],
     "fertNow": {
@@ -1650,19 +2233,61 @@
      {
       "k": "Leaf analysis Oct 2025",
       "v": "N 2.7 (H), P 0.17 (H), K 1.08 (H), Mg 0.28 (N), Ca 0.47 (ML), B 13.8 (N). Key: ML marginal low, N normal, H high",
-      "src": "Agro 2/2025"
+      "src": "Agro 2/2025",
+      "tbl": {
+       "cols": [
+        "Sample",
+        "N · P · K",
+        "Mg · Ca · B"
+       ],
+       "rows": [
+        [
+         "Oct 2025",
+         "2.7 H · 0.17 H · 1.08 H",
+         "0.28 N · 0.47 ML · 13.8 N"
+        ]
+       ]
+      },
+      "note": "Key: ML marginal low, N normal, H high"
      }
     ],
     "field": [
      {
       "k": "Block details (Mar 2026)",
       "v": "Field 11A, 41.14 ha, 4,904 palms, 119 SPH, IOI material, planted 2011",
-      "src": "PA 1/2026"
+      "src": "PA 1/2026",
+      "stats": [
+       {
+        "l": "Area",
+        "v": "41.14 ha"
+       },
+       {
+        "l": "Palms",
+        "v": "4,904"
+       },
+       {
+        "l": "Stand (SPH)",
+        "v": "119"
+       }
+      ],
+      "note": "Field 11A · IOI material · planted 2011. Mar 2026."
      },
      {
       "k": "Supply planting (FY2025/26, Agro May 2026)",
       "v": "2.55 ha of previously vacant land planted with 303 supply palms; block now 43.69 ha, 5,207 palms in the FY2026/27 programme",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "stats": [
+       {
+        "l": "Supply planted",
+        "v": "2.55 ha",
+        "d": "303 supply palms"
+       },
+       {
+        "l": "Block now",
+        "v": "43.69 ha",
+        "d": "5,207 palms in FY2026/27 programme"
+       }
+      ]
      },
      {
       "k": "Supplying A04 (May 2026)",
@@ -1876,14 +2501,44 @@
      {
       "k": "Leaf analysis Oct 2025",
       "v": "N 2.77 (H), P 0.158 (ML), K 1.06 (H), Mg 0.26 (N), Ca 0.44 (ML), B 17.5 (H). Key: ML marginal low, N normal, H high",
-      "src": "Agro 2/2025"
+      "src": "Agro 2/2025",
+      "tbl": {
+       "cols": [
+        "Sample",
+        "N · P · K",
+        "Mg · Ca · B"
+       ],
+       "rows": [
+        [
+         "Oct 2025",
+         "2.77 H · 0.158 ML · 1.06 H",
+         "0.26 N · 0.44 ML · 17.5 H"
+        ]
+       ]
+      },
+      "note": "Key: ML marginal low, N normal, H high"
      }
     ],
     "field": [
      {
       "k": "Block details (Mar 2026)",
       "v": "Field 11A, 37.11 ha, 3,770 palms, 102 SPH, IOI material, planted 2011",
-      "src": "PA 1/2026"
+      "src": "PA 1/2026",
+      "stats": [
+       {
+        "l": "Area",
+        "v": "37.11 ha"
+       },
+       {
+        "l": "Palms",
+        "v": "3,770"
+       },
+       {
+        "l": "Stand (SPH)",
+        "v": "102"
+       }
+      ],
+      "note": "Field 11A · IOI material · planted 2011. Mar 2026."
      },
      {
       "k": "Road repair A05 (May 2026)",
@@ -2071,14 +2726,44 @@
      {
       "k": "Leaf analysis Oct 2025",
       "v": "N 2.76 (H), P 0.159 (ML), K 1.15 (H), Mg 0.26 (N), Ca 0.49 (ML), B 13.9 (N). Key: ML marginal low, N normal, H high",
-      "src": "Agro 2/2025"
+      "src": "Agro 2/2025",
+      "tbl": {
+       "cols": [
+        "Sample",
+        "N · P · K",
+        "Mg · Ca · B"
+       ],
+       "rows": [
+        [
+         "Oct 2025",
+         "2.76 H · 0.159 ML · 1.15 H",
+         "0.26 N · 0.49 ML · 13.9 N"
+        ]
+       ]
+      },
+      "note": "Key: ML marginal low, N normal, H high"
      }
     ],
     "field": [
      {
       "k": "Block details (Mar 2026)",
       "v": "Field 11A, 35.09 ha, 3,432 palms, 98 SPH, IOI material, planted 2011",
-      "src": "PA 1/2026"
+      "src": "PA 1/2026",
+      "stats": [
+       {
+        "l": "Area",
+        "v": "35.09 ha"
+       },
+       {
+        "l": "Palms",
+        "v": "3,432"
+       },
+       {
+        "l": "Stand (SPH)",
+        "v": "98"
+       }
+      ],
+      "note": "Field 11A · IOI material · planted 2011. Mar 2026."
      }
     ],
     "fertNow": {
@@ -2266,14 +2951,44 @@
      {
       "k": "Leaf analysis Oct 2025",
       "v": "N 2.64 (N), P 0.166 (N), K 1.06 (H), Mg 0.27 (N), Ca 0.55 (ML), B 14.7 (N). Key: ML marginal low, N normal, H high",
-      "src": "Agro 2/2025"
+      "src": "Agro 2/2025",
+      "tbl": {
+       "cols": [
+        "Sample",
+        "N · P · K",
+        "Mg · Ca · B"
+       ],
+       "rows": [
+        [
+         "Oct 2025",
+         "2.64 N · 0.166 N · 1.06 H",
+         "0.27 N · 0.55 ML · 14.7 N"
+        ]
+       ]
+      },
+      "note": "Key: ML marginal low, N normal, H high"
      }
     ],
     "field": [
      {
       "k": "Block details (Mar 2026)",
       "v": "Field 12A, 24.60 ha, 2,795 palms, 114 SPH, IOI material, planted 2012",
-      "src": "PA 1/2026"
+      "src": "PA 1/2026",
+      "stats": [
+       {
+        "l": "Area",
+        "v": "24.60 ha"
+       },
+       {
+        "l": "Palms",
+        "v": "2,795"
+       },
+       {
+        "l": "Stand (SPH)",
+        "v": "114"
+       }
+      ],
+      "note": "Field 12A · IOI material · planted 2012. Mar 2026."
      }
     ],
     "fertNow": {
@@ -2472,14 +3187,44 @@
      {
       "k": "Leaf analysis Oct 2025",
       "v": "N 2.64 (N), P 0.167 (N), K 1.1 (H), Mg 0.27 (N), Ca 0.48 (ML), B 14.4 (N). Key: ML marginal low, N normal, H high",
-      "src": "Agro 2/2025"
+      "src": "Agro 2/2025",
+      "tbl": {
+       "cols": [
+        "Sample",
+        "N · P · K",
+        "Mg · Ca · B"
+       ],
+       "rows": [
+        [
+         "Oct 2025",
+         "2.64 N · 0.167 N · 1.1 H",
+         "0.27 N · 0.48 ML · 14.4 N"
+        ]
+       ]
+      },
+      "note": "Key: ML marginal low, N normal, H high"
      }
     ],
     "field": [
      {
       "k": "Block details (Mar 2026)",
       "v": "Field 12A, 32.45 ha, 3,850 palms, 119 SPH, IOI material, planted 2012",
-      "src": "PA 1/2026"
+      "src": "PA 1/2026",
+      "stats": [
+       {
+        "l": "Area",
+        "v": "32.45 ha"
+       },
+       {
+        "l": "Palms",
+        "v": "3,850"
+       },
+       {
+        "l": "Stand (SPH)",
+        "v": "119"
+       }
+      ],
+      "note": "Field 12A · IOI material · planted 2012. Mar 2026."
      },
      {
       "k": "Bridge A08 (May 2026)",
@@ -2681,14 +3426,44 @@
      {
       "k": "Leaf analysis Oct 2025",
       "v": "N 2.69 (N), P 0.169 (N), K 1.07 (H), Mg 0.3 (H), Ca 0.48 (ML), B 17.6 (H). Key: ML marginal low, N normal, H high",
-      "src": "Agro 2/2025"
+      "src": "Agro 2/2025",
+      "tbl": {
+       "cols": [
+        "Sample",
+        "N · P · K",
+        "Mg · Ca · B"
+       ],
+       "rows": [
+        [
+         "Oct 2025",
+         "2.69 N · 0.169 N · 1.07 H",
+         "0.3 H · 0.48 ML · 17.6 H"
+        ]
+       ]
+      },
+      "note": "Key: ML marginal low, N normal, H high"
      }
     ],
     "field": [
      {
       "k": "Block details (Mar 2026)",
       "v": "Field 12A, 35.90 ha, 3,805 palms, 106 SPH, IOI material, planted 2012",
-      "src": "PA 1/2026"
+      "src": "PA 1/2026",
+      "stats": [
+       {
+        "l": "Area",
+        "v": "35.90 ha"
+       },
+       {
+        "l": "Palms",
+        "v": "3,805"
+       },
+       {
+        "l": "Stand (SPH)",
+        "v": "106"
+       }
+      ],
+      "note": "Field 12A · IOI material · planted 2012. Mar 2026."
      },
      {
       "k": "Road A09 (May 2026)",
@@ -2887,14 +3662,44 @@
      {
       "k": "Leaf analysis Oct 2025",
       "v": "N 2.66 (N), P 0.17 (H), K 1.07 (H), Mg 0.28 (N), Ca 0.53 (ML), B 17.4 (H). Key: ML marginal low, N normal, H high",
-      "src": "Agro 2/2025"
+      "src": "Agro 2/2025",
+      "tbl": {
+       "cols": [
+        "Sample",
+        "N · P · K",
+        "Mg · Ca · B"
+       ],
+       "rows": [
+        [
+         "Oct 2025",
+         "2.66 N · 0.17 H · 1.07 H",
+         "0.28 N · 0.53 ML · 17.4 H"
+        ]
+       ]
+      },
+      "note": "Key: ML marginal low, N normal, H high"
      }
     ],
     "field": [
      {
       "k": "Block details (Mar 2026)",
       "v": "Field 12A, 35.06 ha, 3,243 palms, 92 SPH, IOI material, planted 2012",
-      "src": "PA 1/2026"
+      "src": "PA 1/2026",
+      "stats": [
+       {
+        "l": "Area",
+        "v": "35.06 ha"
+       },
+       {
+        "l": "Palms",
+        "v": "3,243"
+       },
+       {
+        "l": "Stand (SPH)",
+        "v": "92"
+       }
+      ],
+      "note": "Field 12A · IOI material · planted 2012. Mar 2026."
      }
     ],
     "fertNow": {
@@ -3081,14 +3886,44 @@
      {
       "k": "Leaf analysis Oct 2025",
       "v": "N 2.67 (N), P 0.169 (N), K 1.08 (H), Mg 0.28 (N), Ca 0.44 (ML), B 17.7 (H). Key: ML marginal low, N normal, H high",
-      "src": "Agro 2/2025"
+      "src": "Agro 2/2025",
+      "tbl": {
+       "cols": [
+        "Sample",
+        "N · P · K",
+        "Mg · Ca · B"
+       ],
+       "rows": [
+        [
+         "Oct 2025",
+         "2.67 N · 0.169 N · 1.08 H",
+         "0.28 N · 0.44 ML · 17.7 H"
+        ]
+       ]
+      },
+      "note": "Key: ML marginal low, N normal, H high"
      }
     ],
     "field": [
      {
       "k": "Block details (Mar 2026)",
       "v": "Field 12A, 30.20 ha, 2,601 palms, 86 SPH, IOI material, planted 2012",
-      "src": "PA 1/2026"
+      "src": "PA 1/2026",
+      "stats": [
+       {
+        "l": "Area",
+        "v": "30.20 ha"
+       },
+       {
+        "l": "Palms",
+        "v": "2,601"
+       },
+       {
+        "l": "Stand (SPH)",
+        "v": "86"
+       }
+      ],
+      "note": "Field 12A · IOI material · planted 2012. Mar 2026."
      }
     ],
     "fertNow": {
@@ -3275,14 +4110,44 @@
      {
       "k": "Leaf analysis Oct 2025",
       "v": "N 2.59 (ML), P 0.161 (N), K 1.13 (H), Mg 0.26 (N), Ca 0.49 (ML), B 14.2 (N). Key: ML marginal low, N normal, H high",
-      "src": "Agro 2/2025"
+      "src": "Agro 2/2025",
+      "tbl": {
+       "cols": [
+        "Sample",
+        "N · P · K",
+        "Mg · Ca · B"
+       ],
+       "rows": [
+        [
+         "Oct 2025",
+         "2.59 ML · 0.161 N · 1.13 H",
+         "0.26 N · 0.49 ML · 14.2 N"
+        ]
+       ]
+      },
+      "note": "Key: ML marginal low, N normal, H high"
      }
     ],
     "field": [
      {
       "k": "Block details (Mar 2026)",
       "v": "Field 12A, 36.21 ha, 3,293 palms, 91 SPH, IOI material, planted 2012",
-      "src": "PA 1/2026"
+      "src": "PA 1/2026",
+      "stats": [
+       {
+        "l": "Area",
+        "v": "36.21 ha"
+       },
+       {
+        "l": "Palms",
+        "v": "3,293"
+       },
+       {
+        "l": "Stand (SPH)",
+        "v": "91"
+       }
+      ],
+      "note": "Field 12A · IOI material · planted 2012. Mar 2026."
      }
     ],
     "fertNow": {
@@ -3501,19 +4366,61 @@
      {
       "k": "Leaf analysis Oct 2025",
       "v": "N 2.65 (N), P 0.168 (N), K 1.15 (H), Mg 0.28 (N), Ca 0.51 (N), B 14.1 (N). Key: ML marginal low, N normal, H high",
-      "src": "Agro 2/2025"
+      "src": "Agro 2/2025",
+      "tbl": {
+       "cols": [
+        "Sample",
+        "N · P · K",
+        "Mg · Ca · B"
+       ],
+       "rows": [
+        [
+         "Oct 2025",
+         "2.65 N · 0.168 N · 1.15 H",
+         "0.28 N · 0.51 N · 14.1 N"
+        ]
+       ]
+      },
+      "note": "Key: ML marginal low, N normal, H high"
      }
     ],
     "field": [
      {
       "k": "Block details (Mar 2026)",
       "v": "Field 12A, 41.56 ha, 3,419 palms, 82 SPH, IOI material, planted 2012",
-      "src": "PA 1/2026"
+      "src": "PA 1/2026",
+      "stats": [
+       {
+        "l": "Area",
+        "v": "41.56 ha"
+       },
+       {
+        "l": "Palms",
+        "v": "3,419"
+       },
+       {
+        "l": "Stand (SPH)",
+        "v": "82"
+       }
+      ],
+      "note": "Field 12A · IOI material · planted 2012. Mar 2026."
      },
      {
       "k": "Supply planting (FY2025/26, Agro May 2026)",
       "v": "5.83 ha of previously vacant land planted with 565 supply palms; block now 47.39 ha, 3,984 palms in the FY2026/27 programme",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "stats": [
+       {
+        "l": "Supply planted",
+        "v": "5.83 ha",
+        "d": "565 supply palms"
+       },
+       {
+        "l": "Block now",
+        "v": "47.39 ha",
+        "d": "3,984 palms in FY2026/27 programme"
+       }
+      ]
      }
     ],
     "fertNow": {
@@ -3713,19 +4620,61 @@
      {
       "k": "Leaf analysis Oct 2025",
       "v": "N 2.65 (N), P 0.16 (N), K 1.11 (H), Mg 0.26 (N), Ca 0.45 (ML), B 17.4 (H). Key: ML marginal low, N normal, H high",
-      "src": "Agro 2/2025"
+      "src": "Agro 2/2025",
+      "tbl": {
+       "cols": [
+        "Sample",
+        "N · P · K",
+        "Mg · Ca · B"
+       ],
+       "rows": [
+        [
+         "Oct 2025",
+         "2.65 N · 0.16 N · 1.11 H",
+         "0.26 N · 0.45 ML · 17.4 H"
+        ]
+       ]
+      },
+      "note": "Key: ML marginal low, N normal, H high"
      }
     ],
     "field": [
      {
       "k": "Block details (Mar 2026)",
       "v": "Field 12A, 43.77 ha, 3,237 palms, 74 SPH, IOI material, planted 2012",
-      "src": "PA 1/2026"
+      "src": "PA 1/2026",
+      "stats": [
+       {
+        "l": "Area",
+        "v": "43.77 ha"
+       },
+       {
+        "l": "Palms",
+        "v": "3,237"
+       },
+       {
+        "l": "Stand (SPH)",
+        "v": "74"
+       }
+      ],
+      "note": "Field 12A · IOI material · planted 2012. Mar 2026."
      },
      {
       "k": "Supply planting (FY2025/26, Agro May 2026)",
       "v": "0.79 ha of previously vacant land planted with 58 supply palms; block now 44.56 ha, 3,295 palms in the FY2026/27 programme",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "stats": [
+       {
+        "l": "Supply planted",
+        "v": "0.79 ha",
+        "d": "58 supply palms"
+       },
+       {
+        "l": "Block now",
+        "v": "44.56 ha",
+        "d": "3,295 palms in FY2026/27 programme"
+       }
+      ]
      }
     ],
     "fertNow": {
@@ -3917,14 +4866,44 @@
      {
       "k": "Leaf analysis Oct 2025",
       "v": "N 2.69 (N), P 0.163 (N), K 1.17 (H), Mg 0.27 (N), Ca 0.47 (ML), B 14.2 (N). Key: ML marginal low, N normal, H high",
-      "src": "Agro 2/2025"
+      "src": "Agro 2/2025",
+      "tbl": {
+       "cols": [
+        "Sample",
+        "N · P · K",
+        "Mg · Ca · B"
+       ],
+       "rows": [
+        [
+         "Oct 2025",
+         "2.69 N · 0.163 N · 1.17 H",
+         "0.27 N · 0.47 ML · 14.2 N"
+        ]
+       ]
+      },
+      "note": "Key: ML marginal low, N normal, H high"
      }
     ],
     "field": [
      {
       "k": "Block details (Mar 2026)",
       "v": "Field 12A, 36.27 ha, 3,081 palms, 85 SPH, IOI material, planted 2012",
-      "src": "PA 1/2026"
+      "src": "PA 1/2026",
+      "stats": [
+       {
+        "l": "Area",
+        "v": "36.27 ha"
+       },
+       {
+        "l": "Palms",
+        "v": "3,081"
+       },
+       {
+        "l": "Stand (SPH)",
+        "v": "85"
+       }
+      ],
+      "note": "Field 12A · IOI material · planted 2012. Mar 2026."
      }
     ],
     "fertNow": {
@@ -4116,14 +5095,44 @@
      {
       "k": "Leaf analysis Oct 2025",
       "v": "N 2.69 (N), P 0.17 (H), K 1.14 (H), Mg 0.28 (N), Ca 0.5 (ML), B 15.9 (H). Key: ML marginal low, N normal, H high",
-      "src": "Agro 2/2025"
+      "src": "Agro 2/2025",
+      "tbl": {
+       "cols": [
+        "Sample",
+        "N · P · K",
+        "Mg · Ca · B"
+       ],
+       "rows": [
+        [
+         "Oct 2025",
+         "2.69 N · 0.17 H · 1.14 H",
+         "0.28 N · 0.5 ML · 15.9 H"
+        ]
+       ]
+      },
+      "note": "Key: ML marginal low, N normal, H high"
      }
     ],
     "field": [
      {
       "k": "Block details (Mar 2026)",
       "v": "Field 12A, 37.70 ha, 3,727 palms, 99 SPH, IOI material, planted 2012",
-      "src": "PA 1/2026"
+      "src": "PA 1/2026",
+      "stats": [
+       {
+        "l": "Area",
+        "v": "37.70 ha"
+       },
+       {
+        "l": "Palms",
+        "v": "3,727"
+       },
+       {
+        "l": "Stand (SPH)",
+        "v": "99"
+       }
+      ],
+      "note": "Field 12A · IOI material · planted 2012. Mar 2026."
      }
     ],
     "fertNow": {
@@ -4304,14 +5313,44 @@
      {
       "k": "Leaf analysis Oct 2025",
       "v": "N 2.65 (N), P 0.16 (N), K 1.15 (H), Mg 0.27 (N), Ca 0.5 (ML), B 17.7 (H). Key: ML marginal low, N normal, H high",
-      "src": "Agro 2/2025"
+      "src": "Agro 2/2025",
+      "tbl": {
+       "cols": [
+        "Sample",
+        "N · P · K",
+        "Mg · Ca · B"
+       ],
+       "rows": [
+        [
+         "Oct 2025",
+         "2.65 N · 0.16 N · 1.15 H",
+         "0.27 N · 0.5 ML · 17.7 H"
+        ]
+       ]
+      },
+      "note": "Key: ML marginal low, N normal, H high"
      }
     ],
     "field": [
      {
       "k": "Block details (Mar 2026)",
       "v": "Field 12A, 21.25 ha, 1,848 palms, 87 SPH, IOI material, planted 2012",
-      "src": "PA 1/2026"
+      "src": "PA 1/2026",
+      "stats": [
+       {
+        "l": "Area",
+        "v": "21.25 ha"
+       },
+       {
+        "l": "Palms",
+        "v": "1,848"
+       },
+       {
+        "l": "Stand (SPH)",
+        "v": "87"
+       }
+      ],
+      "note": "Field 12A · IOI material · planted 2012. Mar 2026."
      }
     ],
     "fertNow": {
@@ -4510,14 +5549,44 @@
      {
       "k": "Leaf analysis Oct 2025",
       "v": "N 2.6 (N), P 0.166 (N), K 1.07 (H), Mg 0.27 (N), Ca 0.49 (ML), B 17.7 (H). Key: ML marginal low, N normal, H high",
-      "src": "Agro 2/2025"
+      "src": "Agro 2/2025",
+      "tbl": {
+       "cols": [
+        "Sample",
+        "N · P · K",
+        "Mg · Ca · B"
+       ],
+       "rows": [
+        [
+         "Oct 2025",
+         "2.6 N · 0.166 N · 1.07 H",
+         "0.27 N · 0.49 ML · 17.7 H"
+        ]
+       ]
+      },
+      "note": "Key: ML marginal low, N normal, H high"
      }
     ],
     "field": [
      {
       "k": "Block details (Mar 2026)",
       "v": "Field 12A, 36.64 ha, 3,694 palms, 101 SPH, IOI material, planted 2012",
-      "src": "PA 1/2026"
+      "src": "PA 1/2026",
+      "stats": [
+       {
+        "l": "Area",
+        "v": "36.64 ha"
+       },
+       {
+        "l": "Palms",
+        "v": "3,694"
+       },
+       {
+        "l": "Stand (SPH)",
+        "v": "101"
+       }
+      ],
+      "note": "Field 12A · IOI material · planted 2012. Mar 2026."
      }
     ],
     "fertNow": {
@@ -4693,14 +5762,44 @@
      {
       "k": "Leaf analysis Oct 2025",
       "v": "N 2.62 (N), P 0.164 (N), K 1.19 (H), Mg 0.26 (N), Ca 0.46 (ML), B 15.4 (H). Key: ML marginal low, N normal, H high",
-      "src": "Agro 2/2025"
+      "src": "Agro 2/2025",
+      "tbl": {
+       "cols": [
+        "Sample",
+        "N · P · K",
+        "Mg · Ca · B"
+       ],
+       "rows": [
+        [
+         "Oct 2025",
+         "2.62 N · 0.164 N · 1.19 H",
+         "0.26 N · 0.46 ML · 15.4 H"
+        ]
+       ]
+      },
+      "note": "Key: ML marginal low, N normal, H high"
      }
     ],
     "field": [
      {
       "k": "Block details (Mar 2026)",
       "v": "Field 12A, 35.70 ha, 3,373 palms, 94 SPH, IOI material, planted 2012",
-      "src": "PA 1/2026"
+      "src": "PA 1/2026",
+      "stats": [
+       {
+        "l": "Area",
+        "v": "35.70 ha"
+       },
+       {
+        "l": "Palms",
+        "v": "3,373"
+       },
+       {
+        "l": "Stand (SPH)",
+        "v": "94"
+       }
+      ],
+      "note": "Field 12A · IOI material · planted 2012. Mar 2026."
      }
     ],
     "fertNow": {
@@ -4903,14 +6002,44 @@
      {
       "k": "Leaf analysis Oct 2025",
       "v": "N 2.6 (N), P 0.16 (N), K 1.14 (H), Mg 0.27 (N), Ca 0.48 (ML), B 14.2 (N). Key: ML marginal low, N normal, H high",
-      "src": "Agro 2/2025"
+      "src": "Agro 2/2025",
+      "tbl": {
+       "cols": [
+        "Sample",
+        "N · P · K",
+        "Mg · Ca · B"
+       ],
+       "rows": [
+        [
+         "Oct 2025",
+         "2.6 N · 0.16 N · 1.14 H",
+         "0.27 N · 0.48 ML · 14.2 N"
+        ]
+       ]
+      },
+      "note": "Key: ML marginal low, N normal, H high"
      }
     ],
     "field": [
      {
       "k": "Block details (Mar 2026)",
       "v": "Field 12A, 41.35 ha, 4,767 palms, 115 SPH, IOI material, planted 2012",
-      "src": "PA 1/2026"
+      "src": "PA 1/2026",
+      "stats": [
+       {
+        "l": "Area",
+        "v": "41.35 ha"
+       },
+       {
+        "l": "Palms",
+        "v": "4,767"
+       },
+       {
+        "l": "Stand (SPH)",
+        "v": "115"
+       }
+      ],
+      "note": "Field 12A · IOI material · planted 2012. Mar 2026."
      },
      {
       "k": "Supply palms A20 (May 2026)",
@@ -5107,14 +6236,44 @@
      {
       "k": "Leaf analysis Oct 2025",
       "v": "N 2.59 (ML), P 0.166 (N), K 1.09 (H), Mg 0.27 (N), Ca 0.52 (N), B 17.2 (H). Key: ML marginal low, N normal, H high",
-      "src": "Agro 2/2025"
+      "src": "Agro 2/2025",
+      "tbl": {
+       "cols": [
+        "Sample",
+        "N · P · K",
+        "Mg · Ca · B"
+       ],
+       "rows": [
+        [
+         "Oct 2025",
+         "2.59 ML · 0.166 N · 1.09 H",
+         "0.27 N · 0.52 N · 17.2 H"
+        ]
+       ]
+      },
+      "note": "Key: ML marginal low, N normal, H high"
      }
     ],
     "field": [
      {
       "k": "Block details (Mar 2026)",
       "v": "Field 12B, 29.52 ha, 2,988 palms, 101 SPH, IOI material, planted 2012",
-      "src": "PA 1/2026"
+      "src": "PA 1/2026",
+      "stats": [
+       {
+        "l": "Area",
+        "v": "29.52 ha"
+       },
+       {
+        "l": "Palms",
+        "v": "2,988"
+       },
+       {
+        "l": "Stand (SPH)",
+        "v": "101"
+       }
+      ],
+      "note": "Field 12B · IOI material · planted 2012. Mar 2026."
      }
     ],
     "fertNow": {
@@ -5301,14 +6460,44 @@
      {
       "k": "Leaf analysis Oct 2025",
       "v": "N 2.52 (ML), P 0.168 (N), K 1.07 (H), Mg 0.26 (N), Ca 0.51 (N), B 18.4 (H). Key: ML marginal low, N normal, H high",
-      "src": "Agro 2/2025"
+      "src": "Agro 2/2025",
+      "tbl": {
+       "cols": [
+        "Sample",
+        "N · P · K",
+        "Mg · Ca · B"
+       ],
+       "rows": [
+        [
+         "Oct 2025",
+         "2.52 ML · 0.168 N · 1.07 H",
+         "0.26 N · 0.51 N · 18.4 H"
+        ]
+       ]
+      },
+      "note": "Key: ML marginal low, N normal, H high"
      }
     ],
     "field": [
      {
       "k": "Block details (Mar 2026)",
       "v": "Field 12B, 27.57 ha, 2,529 palms, 92 SPH, IOI material, planted 2012",
-      "src": "PA 1/2026"
+      "src": "PA 1/2026",
+      "stats": [
+       {
+        "l": "Area",
+        "v": "27.57 ha"
+       },
+       {
+        "l": "Palms",
+        "v": "2,529"
+       },
+       {
+        "l": "Stand (SPH)",
+        "v": "92"
+       }
+      ],
+      "note": "Field 12B · IOI material · planted 2012. Mar 2026."
      }
     ],
     "fertNow": {
@@ -5500,14 +6689,44 @@
      {
       "k": "Leaf analysis Oct 2025",
       "v": "N 2.58 (ML), P 0.162 (N), K 1.12 (H), Mg 0.28 (N), Ca 0.49 (ML), B 14.2 (N). Key: ML marginal low, N normal, H high",
-      "src": "Agro 2/2025"
+      "src": "Agro 2/2025",
+      "tbl": {
+       "cols": [
+        "Sample",
+        "N · P · K",
+        "Mg · Ca · B"
+       ],
+       "rows": [
+        [
+         "Oct 2025",
+         "2.58 ML · 0.162 N · 1.12 H",
+         "0.28 N · 0.49 ML · 14.2 N"
+        ]
+       ]
+      },
+      "note": "Key: ML marginal low, N normal, H high"
      }
     ],
     "field": [
      {
       "k": "Block details (Mar 2026)",
       "v": "Field 12B, 33.11 ha, 3,275 palms, 99 SPH, IOI material, planted 2012",
-      "src": "PA 1/2026"
+      "src": "PA 1/2026",
+      "stats": [
+       {
+        "l": "Area",
+        "v": "33.11 ha"
+       },
+       {
+        "l": "Palms",
+        "v": "3,275"
+       },
+       {
+        "l": "Stand (SPH)",
+        "v": "99"
+       }
+      ],
+      "note": "Field 12B · IOI material · planted 2012. Mar 2026."
      }
     ],
     "fertNow": {
@@ -5692,14 +6911,44 @@
      {
       "k": "Leaf analysis Oct 2025",
       "v": "N 2.71 (H), P 0.159 (ML), K 1.15 (H), Mg 0.27 (N), Ca 0.43 (ML), B 17.1 (H). Key: ML marginal low, N normal, H high",
-      "src": "Agro 2/2025"
+      "src": "Agro 2/2025",
+      "tbl": {
+       "cols": [
+        "Sample",
+        "N · P · K",
+        "Mg · Ca · B"
+       ],
+       "rows": [
+        [
+         "Oct 2025",
+         "2.71 H · 0.159 ML · 1.15 H",
+         "0.27 N · 0.43 ML · 17.1 H"
+        ]
+       ]
+      },
+      "note": "Key: ML marginal low, N normal, H high"
      }
     ],
     "field": [
      {
       "k": "Block details (Mar 2026)",
       "v": "Field 12B, 30.87 ha, 2,769 palms, 90 SPH, IOI material, planted 2012",
-      "src": "PA 1/2026"
+      "src": "PA 1/2026",
+      "stats": [
+       {
+        "l": "Area",
+        "v": "30.87 ha"
+       },
+       {
+        "l": "Palms",
+        "v": "2,769"
+       },
+       {
+        "l": "Stand (SPH)",
+        "v": "90"
+       }
+      ],
+      "note": "Field 12B · IOI material · planted 2012. Mar 2026."
      }
     ],
     "fertNow": {
@@ -5890,7 +7139,12 @@
      {
       "k": "Weeds B05 (May 2026)",
       "v": "Incomplete weed eradication (missed application or poor technique, dense Clidemia hirta); poor access in neglected areas; circle maintenance satisfactory, completed toward end of FY",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "pts": [
+       "Incomplete weed eradication (missed application or poor technique, dense Clidemia hirta)",
+       "Poor access in neglected areas",
+       "Circle maintenance satisfactory, completed toward end of FY"
+      ]
      }
     ],
     "harvesting": [
@@ -5921,14 +7175,44 @@
      {
       "k": "Leaf analysis Oct 2025",
       "v": "N 2.67 (N), P 0.166 (N), K 1.08 (H), Mg 0.28 (N), Ca 0.47 (ML), B 15 (H). Key: ML marginal low, N normal, H high",
-      "src": "Agro 2/2025"
+      "src": "Agro 2/2025",
+      "tbl": {
+       "cols": [
+        "Sample",
+        "N · P · K",
+        "Mg · Ca · B"
+       ],
+       "rows": [
+        [
+         "Oct 2025",
+         "2.67 N · 0.166 N · 1.08 H",
+         "0.28 N · 0.47 ML · 15 H"
+        ]
+       ]
+      },
+      "note": "Key: ML marginal low, N normal, H high"
      }
     ],
     "field": [
      {
       "k": "Block details (Mar 2026)",
       "v": "Field 12B, 21.66 ha, 2,145 palms, 99 SPH, IOI material, planted 2012",
-      "src": "PA 1/2026"
+      "src": "PA 1/2026",
+      "stats": [
+       {
+        "l": "Area",
+        "v": "21.66 ha"
+       },
+       {
+        "l": "Palms",
+        "v": "2,145"
+       },
+       {
+        "l": "Stand (SPH)",
+        "v": "99"
+       }
+      ],
+      "note": "Field 12B · IOI material · planted 2012. Mar 2026."
      },
      {
       "k": "Road repair B05 (May 2026)",
@@ -6117,19 +7401,61 @@
      {
       "k": "Leaf analysis Oct 2025",
       "v": "N 2.64 (N), P 0.17 (H), K 1.1 (H), Mg 0.29 (N), Ca 0.49 (ML), B 16.8 (H). Key: ML marginal low, N normal, H high",
-      "src": "Agro 2/2025"
+      "src": "Agro 2/2025",
+      "tbl": {
+       "cols": [
+        "Sample",
+        "N · P · K",
+        "Mg · Ca · B"
+       ],
+       "rows": [
+        [
+         "Oct 2025",
+         "2.64 N · 0.17 H · 1.1 H",
+         "0.29 N · 0.49 ML · 16.8 H"
+        ]
+       ]
+      },
+      "note": "Key: ML marginal low, N normal, H high"
      }
     ],
     "field": [
      {
       "k": "Block details (Mar 2026)",
       "v": "Field 12B, 7.70 ha, 606 palms, 79 SPH, IOI material, planted 2012",
-      "src": "PA 1/2026"
+      "src": "PA 1/2026",
+      "stats": [
+       {
+        "l": "Area",
+        "v": "7.70 ha"
+       },
+       {
+        "l": "Palms",
+        "v": "606"
+       },
+       {
+        "l": "Stand (SPH)",
+        "v": "79"
+       }
+      ],
+      "note": "Field 12B · IOI material · planted 2012. Mar 2026."
      },
      {
       "k": "Supply planting (FY2025/26, Agro May 2026)",
       "v": "3.68 ha of previously vacant land planted with 229 supply palms; block now 11.38 ha, 835 palms in the FY2026/27 programme",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "stats": [
+       {
+        "l": "Supply planted",
+        "v": "3.68 ha",
+        "d": "229 supply palms"
+       },
+       {
+        "l": "Block now",
+        "v": "11.38 ha",
+        "d": "835 palms in FY2026/27 programme"
+       }
+      ]
      }
     ],
     "fertNow": {
@@ -6325,14 +7651,44 @@
      {
       "k": "Leaf analysis Oct 2025",
       "v": "N 2.57 (ML), P 0.166 (N), K 1.09 (H), Mg 0.28 (N), Ca 0.54 (N), B 16.3 (H). Key: ML marginal low, N normal, H high",
-      "src": "Agro 2/2025"
+      "src": "Agro 2/2025",
+      "tbl": {
+       "cols": [
+        "Sample",
+        "N · P · K",
+        "Mg · Ca · B"
+       ],
+       "rows": [
+        [
+         "Oct 2025",
+         "2.57 ML · 0.166 N · 1.09 H",
+         "0.28 N · 0.54 N · 16.3 H"
+        ]
+       ]
+      },
+      "note": "Key: ML marginal low, N normal, H high"
      }
     ],
     "field": [
      {
       "k": "Block details (Mar 2026)",
       "v": "Field 12B, 44.91 ha, 5,001 palms, 111 SPH, IOI material, planted 2012",
-      "src": "PA 1/2026"
+      "src": "PA 1/2026",
+      "stats": [
+       {
+        "l": "Area",
+        "v": "44.91 ha"
+       },
+       {
+        "l": "Palms",
+        "v": "5,001"
+       },
+       {
+        "l": "Stand (SPH)",
+        "v": "111"
+       }
+      ],
+      "note": "Field 12B · IOI material · planted 2012. Mar 2026."
      },
      {
       "k": "SPH misprint",
@@ -6529,14 +7885,44 @@
      {
       "k": "Leaf analysis Oct 2025",
       "v": "N 2.63 (N), P 0.168 (N), K 1.14 (H), Mg 0.28 (N), Ca 0.5 (ML), B 18.3 (H). Key: ML marginal low, N normal, H high",
-      "src": "Agro 2/2025"
+      "src": "Agro 2/2025",
+      "tbl": {
+       "cols": [
+        "Sample",
+        "N · P · K",
+        "Mg · Ca · B"
+       ],
+       "rows": [
+        [
+         "Oct 2025",
+         "2.63 N · 0.168 N · 1.14 H",
+         "0.28 N · 0.5 ML · 18.3 H"
+        ]
+       ]
+      },
+      "note": "Key: ML marginal low, N normal, H high"
      }
     ],
     "field": [
      {
       "k": "Block details (Mar 2026)",
       "v": "Field 12B, 30.42 ha, 3,284 palms, 108 SPH, IOI material, planted 2012",
-      "src": "PA 1/2026"
+      "src": "PA 1/2026",
+      "stats": [
+       {
+        "l": "Area",
+        "v": "30.42 ha"
+       },
+       {
+        "l": "Palms",
+        "v": "3,284"
+       },
+       {
+        "l": "Stand (SPH)",
+        "v": "108"
+       }
+      ],
+      "note": "Field 12B · IOI material · planted 2012. Mar 2026."
      }
     ],
     "fertNow": {
@@ -6728,14 +8114,44 @@
      {
       "k": "Leaf analysis Oct 2025",
       "v": "N 2.66 (N), P 0.17 (H), K 1.15 (H), Mg 0.28 (N), Ca 0.45 (ML), B 18.1 (H). Key: ML marginal low, N normal, H high",
-      "src": "Agro 2/2025"
+      "src": "Agro 2/2025",
+      "tbl": {
+       "cols": [
+        "Sample",
+        "N · P · K",
+        "Mg · Ca · B"
+       ],
+       "rows": [
+        [
+         "Oct 2025",
+         "2.66 N · 0.17 H · 1.15 H",
+         "0.28 N · 0.45 ML · 18.1 H"
+        ]
+       ]
+      },
+      "note": "Key: ML marginal low, N normal, H high"
      }
     ],
     "field": [
      {
       "k": "Block details (Mar 2026)",
       "v": "Field 12B, 27.64 ha, 2,848 palms, 103 SPH, IOI material, planted 2012",
-      "src": "PA 1/2026"
+      "src": "PA 1/2026",
+      "stats": [
+       {
+        "l": "Area",
+        "v": "27.64 ha"
+       },
+       {
+        "l": "Palms",
+        "v": "2,848"
+       },
+       {
+        "l": "Stand (SPH)",
+        "v": "103"
+       }
+      ],
+      "note": "Field 12B · IOI material · planted 2012. Mar 2026."
      }
     ],
     "fertNow": {
@@ -6943,14 +8359,44 @@
      {
       "k": "Leaf analysis Oct 2025",
       "v": "N 2.61 (N), P 0.167 (N), K 1.11 (H), Mg 0.27 (N), Ca 0.49 (ML), B 17.2 (H). Key: ML marginal low, N normal, H high",
-      "src": "Agro 2/2025"
+      "src": "Agro 2/2025",
+      "tbl": {
+       "cols": [
+        "Sample",
+        "N · P · K",
+        "Mg · Ca · B"
+       ],
+       "rows": [
+        [
+         "Oct 2025",
+         "2.61 N · 0.167 N · 1.11 H",
+         "0.27 N · 0.49 ML · 17.2 H"
+        ]
+       ]
+      },
+      "note": "Key: ML marginal low, N normal, H high"
      }
     ],
     "field": [
      {
       "k": "Block details (Mar 2026)",
       "v": "Field 12B, 32.40 ha, 4,328 palms, 134 SPH, IOI material, planted 2012",
-      "src": "PA 1/2026"
+      "src": "PA 1/2026",
+      "stats": [
+       {
+        "l": "Area",
+        "v": "32.40 ha"
+       },
+       {
+        "l": "Palms",
+        "v": "4,328"
+       },
+       {
+        "l": "Stand (SPH)",
+        "v": "134"
+       }
+      ],
+      "note": "Field 12B · IOI material · planted 2012. Mar 2026."
      }
     ],
     "fertNow": {
@@ -7158,14 +8604,44 @@
      {
       "k": "Leaf analysis Oct 2025",
       "v": "N 2.64 (N), P 0.163 (N), K 1.07 (H), Mg 0.27 (N), Ca 0.48 (ML), B 15.7 (H). Key: ML marginal low, N normal, H high",
-      "src": "Agro 2/2025"
+      "src": "Agro 2/2025",
+      "tbl": {
+       "cols": [
+        "Sample",
+        "N · P · K",
+        "Mg · Ca · B"
+       ],
+       "rows": [
+        [
+         "Oct 2025",
+         "2.64 N · 0.163 N · 1.07 H",
+         "0.27 N · 0.48 ML · 15.7 H"
+        ]
+       ]
+      },
+      "note": "Key: ML marginal low, N normal, H high"
      }
     ],
     "field": [
      {
       "k": "Block details (Mar 2026)",
       "v": "Field 12B, 19.70 ha, 2,590 palms, 131 SPH, IOI material, planted 2012",
-      "src": "PA 1/2026"
+      "src": "PA 1/2026",
+      "stats": [
+       {
+        "l": "Area",
+        "v": "19.70 ha"
+       },
+       {
+        "l": "Palms",
+        "v": "2,590"
+       },
+       {
+        "l": "Stand (SPH)",
+        "v": "131"
+       }
+      ],
+      "note": "Field 12B · IOI material · planted 2012. Mar 2026."
      }
     ],
     "fertNow": {
@@ -7361,14 +8837,44 @@
      {
       "k": "Leaf analysis Oct 2025",
       "v": "N 2.67 (N), P 0.162 (N), K 1.14 (H), Mg 0.26 (N), Ca 0.43 (ML), B 15.4 (H). Key: ML marginal low, N normal, H high",
-      "src": "Agro 2/2025"
+      "src": "Agro 2/2025",
+      "tbl": {
+       "cols": [
+        "Sample",
+        "N · P · K",
+        "Mg · Ca · B"
+       ],
+       "rows": [
+        [
+         "Oct 2025",
+         "2.67 N · 0.162 N · 1.14 H",
+         "0.26 N · 0.43 ML · 15.4 H"
+        ]
+       ]
+      },
+      "note": "Key: ML marginal low, N normal, H high"
      }
     ],
     "field": [
      {
       "k": "Block details (Mar 2026)",
       "v": "Field 12B, 41.29 ha, 4,757 palms, 115 SPH, IOI material, planted 2012",
-      "src": "PA 1/2026"
+      "src": "PA 1/2026",
+      "stats": [
+       {
+        "l": "Area",
+        "v": "41.29 ha"
+       },
+       {
+        "l": "Palms",
+        "v": "4,757"
+       },
+       {
+        "l": "Stand (SPH)",
+        "v": "115"
+       }
+      ],
+      "note": "Field 12B · IOI material · planted 2012. Mar 2026."
      }
     ],
     "fertNow": {
@@ -7557,14 +9063,44 @@
      {
       "k": "Leaf analysis Oct 2025",
       "v": "N 2.7 (H), P 0.158 (ML), K 1.1 (H), Mg 0.27 (N), Ca 0.42 (ML), B 15.1 (H). Key: ML marginal low, N normal, H high",
-      "src": "Agro 2/2025"
+      "src": "Agro 2/2025",
+      "tbl": {
+       "cols": [
+        "Sample",
+        "N · P · K",
+        "Mg · Ca · B"
+       ],
+       "rows": [
+        [
+         "Oct 2025",
+         "2.7 H · 0.158 ML · 1.1 H",
+         "0.27 N · 0.42 ML · 15.1 H"
+        ]
+       ]
+      },
+      "note": "Key: ML marginal low, N normal, H high"
      }
     ],
     "field": [
      {
       "k": "Block details (Mar 2026)",
       "v": "Field 12B, 36.93 ha, 3,883 palms, 105 SPH, IOI material, planted 2012",
-      "src": "PA 1/2026"
+      "src": "PA 1/2026",
+      "stats": [
+       {
+        "l": "Area",
+        "v": "36.93 ha"
+       },
+       {
+        "l": "Palms",
+        "v": "3,883"
+       },
+       {
+        "l": "Stand (SPH)",
+        "v": "105"
+       }
+      ],
+      "note": "Field 12B · IOI material · planted 2012. Mar 2026."
      },
      {
       "k": "Irish bridge B13 (FY2025/26)",
@@ -7761,14 +9297,44 @@
      {
       "k": "Leaf analysis Oct 2025",
       "v": "N 2.65 (N), P 0.163 (N), K 1.06 (H), Mg 0.26 (N), Ca 0.52 (N), B 18 (H). Key: ML marginal low, N normal, H high",
-      "src": "Agro 2/2025"
+      "src": "Agro 2/2025",
+      "tbl": {
+       "cols": [
+        "Sample",
+        "N · P · K",
+        "Mg · Ca · B"
+       ],
+       "rows": [
+        [
+         "Oct 2025",
+         "2.65 N · 0.163 N · 1.06 H",
+         "0.26 N · 0.52 N · 18 H"
+        ]
+       ]
+      },
+      "note": "Key: ML marginal low, N normal, H high"
      }
     ],
     "field": [
      {
       "k": "Block details (Mar 2026)",
       "v": "Field 12B, 27.65 ha, 2,595 palms, 94 SPH, IOI material, planted 2012",
-      "src": "PA 1/2026"
+      "src": "PA 1/2026",
+      "stats": [
+       {
+        "l": "Area",
+        "v": "27.65 ha"
+       },
+       {
+        "l": "Palms",
+        "v": "2,595"
+       },
+       {
+        "l": "Stand (SPH)",
+        "v": "94"
+       }
+      ],
+      "note": "Field 12B · IOI material · planted 2012. Mar 2026."
      }
     ],
     "fertNow": {
@@ -7955,14 +9521,33 @@
      {
       "k": "Leaf analysis Oct 2025",
       "v": "N 2.72 (ML as printed), P 0.162 (N), K 1.06 (H), Mg 0.27 (N), Ca 0.52 (N), B 18 (H). Key: ML marginal low, N normal, H high",
-      "src": "Agro 2/2025"
+      "src": "Agro 2/2025",
+      "pts": [
+       "N 2.72 (ML as printed), P 0.162 (N), K 1.06 (H), Mg 0.27 (N), Ca 0.52 (N), B 18 (H)",
+       "Key: ML marginal low, N normal, H high"
+      ]
      }
     ],
     "field": [
      {
       "k": "Block details (Mar 2026)",
       "v": "Field 12B, 42.03 ha, 4,219 palms, 100 SPH, IOI material, planted 2012",
-      "src": "PA 1/2026"
+      "src": "PA 1/2026",
+      "stats": [
+       {
+        "l": "Area",
+        "v": "42.03 ha"
+       },
+       {
+        "l": "Palms",
+        "v": "4,219"
+       },
+       {
+        "l": "Stand (SPH)",
+        "v": "100"
+       }
+      ],
+      "note": "Field 12B · IOI material · planted 2012. Mar 2026."
      }
     ],
     "fertNow": {
@@ -8149,14 +9734,44 @@
      {
       "k": "Leaf analysis Oct 2025",
       "v": "N 2.66 (N), P 0.167 (N), K 1.12 (H), Mg 0.27 (N), Ca 0.46 (ML), B 18.5 (H). Key: ML marginal low, N normal, H high",
-      "src": "Agro 2/2025"
+      "src": "Agro 2/2025",
+      "tbl": {
+       "cols": [
+        "Sample",
+        "N · P · K",
+        "Mg · Ca · B"
+       ],
+       "rows": [
+        [
+         "Oct 2025",
+         "2.66 N · 0.167 N · 1.12 H",
+         "0.27 N · 0.46 ML · 18.5 H"
+        ]
+       ]
+      },
+      "note": "Key: ML marginal low, N normal, H high"
      }
     ],
     "field": [
      {
       "k": "Block details (Mar 2026)",
       "v": "Field 12B, 23.36 ha, 2,256 palms, 97 SPH, IOI material, planted 2012",
-      "src": "PA 1/2026"
+      "src": "PA 1/2026",
+      "stats": [
+       {
+        "l": "Area",
+        "v": "23.36 ha"
+       },
+       {
+        "l": "Palms",
+        "v": "2,256"
+       },
+       {
+        "l": "Stand (SPH)",
+        "v": "97"
+       }
+      ],
+      "note": "Field 12B · IOI material · planted 2012. Mar 2026."
      }
     ],
     "fertNow": {
@@ -8353,14 +9968,44 @@
      {
       "k": "Leaf analysis Oct 2025",
       "v": "N 2.72 (H), P 0.158 (ML), K 1.1 (H), Mg 0.27 (N), Ca 0.5 (ML), B 16 (H). Key: ML marginal low, N normal, H high",
-      "src": "Agro 2/2025"
+      "src": "Agro 2/2025",
+      "tbl": {
+       "cols": [
+        "Sample",
+        "N · P · K",
+        "Mg · Ca · B"
+       ],
+       "rows": [
+        [
+         "Oct 2025",
+         "2.72 H · 0.158 ML · 1.1 H",
+         "0.27 N · 0.5 ML · 16 H"
+        ]
+       ]
+      },
+      "note": "Key: ML marginal low, N normal, H high"
      }
     ],
     "field": [
      {
       "k": "Block details (Mar 2026)",
       "v": "Field 12B, 15.47 ha, 1,654 palms, 107 SPH, IOI material, planted 2012",
-      "src": "PA 1/2026"
+      "src": "PA 1/2026",
+      "stats": [
+       {
+        "l": "Area",
+        "v": "15.47 ha"
+       },
+       {
+        "l": "Palms",
+        "v": "1,654"
+       },
+       {
+        "l": "Stand (SPH)",
+        "v": "107"
+       }
+      ],
+      "note": "Field 12B · IOI material · planted 2012. Mar 2026."
      }
     ],
     "fertNow": {
@@ -8545,14 +10190,44 @@
      {
       "k": "Leaf analysis Oct 2025",
       "v": "N 2.68 (N), P 0.168 (N), K 1.16 (H), Mg 0.26 (N), Ca 0.46 (ML), B 18.3 (H). Key: ML marginal low, N normal, H high",
-      "src": "Agro 2/2025"
+      "src": "Agro 2/2025",
+      "tbl": {
+       "cols": [
+        "Sample",
+        "N · P · K",
+        "Mg · Ca · B"
+       ],
+       "rows": [
+        [
+         "Oct 2025",
+         "2.68 N · 0.168 N · 1.16 H",
+         "0.26 N · 0.46 ML · 18.3 H"
+        ]
+       ]
+      },
+      "note": "Key: ML marginal low, N normal, H high"
      }
     ],
     "field": [
      {
       "k": "Block details (Mar 2026)",
       "v": "Field 12B, 31.26 ha, 3,489 palms, 112 SPH, IOI material, planted 2012",
-      "src": "PA 1/2026"
+      "src": "PA 1/2026",
+      "stats": [
+       {
+        "l": "Area",
+        "v": "31.26 ha"
+       },
+       {
+        "l": "Palms",
+        "v": "3,489"
+       },
+       {
+        "l": "Stand (SPH)",
+        "v": "112"
+       }
+      ],
+      "note": "Field 12B · IOI material · planted 2012. Mar 2026."
      }
     ],
     "fertNow": {
@@ -8734,7 +10409,11 @@
      {
       "k": "Weeds B19 (May 2026)",
       "v": "Woody weeds in inaccessible areas, to be treated after road maintenance; circle maintenance satisfactory, completed toward end of FY",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "pts": [
+       "Woody weeds in inaccessible areas, to be treated after road maintenance",
+       "Circle maintenance satisfactory, completed toward end of FY"
+      ]
      }
     ],
     "pruning": [
@@ -8758,7 +10437,22 @@
      {
       "k": "Leaf analysis Oct 2025",
       "v": "N 2.62 (N), P 0.164 (N), K 1.06 (H), Mg 0.27 (N), Ca 0.53 (N), B 18.1 (H). Key: ML marginal low, N normal, H high",
-      "src": "Agro 2/2025"
+      "src": "Agro 2/2025",
+      "tbl": {
+       "cols": [
+        "Sample",
+        "N · P · K",
+        "Mg · Ca · B"
+       ],
+       "rows": [
+        [
+         "Oct 2025",
+         "2.62 N · 0.164 N · 1.06 H",
+         "0.27 N · 0.53 N · 18.1 H"
+        ]
+       ]
+      },
+      "note": "Key: ML marginal low, N normal, H high"
      },
      {
       "k": "Palm vigour B19 (May 2026)",
@@ -8770,7 +10464,22 @@
      {
       "k": "Block details (Mar 2026)",
       "v": "Field 12B, 32.12 ha, 3,469 palms, 108 SPH, IOI material, planted 2012",
-      "src": "PA 1/2026"
+      "src": "PA 1/2026",
+      "stats": [
+       {
+        "l": "Area",
+        "v": "32.12 ha"
+       },
+       {
+        "l": "Palms",
+        "v": "3,469"
+       },
+       {
+        "l": "Stand (SPH)",
+        "v": "108"
+       }
+      ],
+      "note": "Field 12B · IOI material · planted 2012. Mar 2026."
      },
      {
       "k": "Roads B19 (May 2026)",
@@ -8975,7 +10684,22 @@
      {
       "k": "Leaf analysis Oct 2025",
       "v": "N 2.61 (N), P 0.168 (N), K 1.17 (H), Mg 0.27 (N), Ca 0.51 (N), B 18.3 (H). Key: ML marginal low, N normal, H high",
-      "src": "Agro 2/2025"
+      "src": "Agro 2/2025",
+      "tbl": {
+       "cols": [
+        "Sample",
+        "N · P · K",
+        "Mg · Ca · B"
+       ],
+       "rows": [
+        [
+         "Oct 2025",
+         "2.61 N · 0.168 N · 1.17 H",
+         "0.27 N · 0.51 N · 18.3 H"
+        ]
+       ]
+      },
+      "note": "Key: ML marginal low, N normal, H high"
      },
      {
       "k": "Palm vigour B20 (May 2026)",
@@ -8987,12 +10711,39 @@
      {
       "k": "Block details (Mar 2026)",
       "v": "Field 12B, 32.63 ha, 3,038 palms, 93 SPH, IOI material, planted 2012",
-      "src": "PA 1/2026"
+      "src": "PA 1/2026",
+      "stats": [
+       {
+        "l": "Area",
+        "v": "32.63 ha"
+       },
+       {
+        "l": "Palms",
+        "v": "3,038"
+       },
+       {
+        "l": "Stand (SPH)",
+        "v": "93"
+       }
+      ],
+      "note": "Field 12B · IOI material · planted 2012. Mar 2026."
      },
      {
       "k": "Supply planting (FY2025/26, Agro May 2026)",
       "v": "8.92 ha of previously vacant land planted with 484 supply palms; block now 41.55 ha, 3,522 palms in the FY2026/27 programme",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "stats": [
+       {
+        "l": "Supply planted",
+        "v": "8.92 ha",
+        "d": "484 supply palms"
+       },
+       {
+        "l": "Block now",
+        "v": "41.55 ha",
+        "d": "3,522 palms in FY2026/27 programme"
+       }
+      ]
      },
      {
       "k": "Supply palms B20 (May 2026)",
@@ -9439,22 +11190,131 @@
    {
     "k": "Manuring FY2025/26 (to Mar 2026)",
     "v": "210 of 235 budgeted block-rounds applied. Broadcasting 15 bags/man-day (3.7 ha), RM26.50/ha, earning RM98.32/day. Labour 14 manuring workers on checkroll; PA says 7 short",
-    "src": "PA 1/2026"
+    "src": "PA 1/2026",
+    "stats": [
+     {
+      "l": "Block-rounds applied",
+      "v": "210",
+      "d": "of 235 budgeted"
+     },
+     {
+      "l": "Broadcast",
+      "v": "15 bags/man-day",
+      "d": "3.7 ha"
+     },
+     {
+      "l": "Rate",
+      "v": "RM26.50/ha"
+     },
+     {
+      "l": "Earning",
+      "v": "RM98.32/day"
+     }
+    ],
+    "pts": [
+     "14 manuring workers on checkroll; PA says 7 short"
+    ],
+    "note": "FY2025/26 to Mar 2026."
    },
    {
     "k": "Manuring FY2025/26 full year (Agro May 2026)",
     "v": "Mix B 1,053.4 of 1,053.41 t (100%); Kieserite 128.95 of 128.93 t (100%); BRP 96.85 of 98.76 t (98%); completed in May 2026, some carried into FY2026/27. Delays from delivery, access, logistics and too few machines to carry fertiliser",
-    "src": "Agro 1/2026"
+    "src": "Agro 1/2026",
+    "tbl": {
+     "cols": [
+      "Fertiliser",
+      "Applied t",
+      "Programme t",
+      "%"
+     ],
+     "rows": [
+      [
+       "Mix B",
+       "1,053.4",
+       "1,053.41",
+       "100%"
+      ],
+      [
+       "Kieserite",
+       "128.95",
+       "128.93",
+       "100%"
+      ],
+      [
+       "BRP",
+       "96.85",
+       "98.76",
+       "98%"
+      ]
+     ]
+    },
+    "pts": [
+     "Completed in May 2026, some carried into FY2026/27",
+     "Delays from delivery, access, logistics and too few machines to carry fertiliser"
+    ],
+    "note": "FY2025/26 full year (Agro, May 2026)."
    },
    {
     "k": "Manuring FY2026/27 to Jun 2026",
     "v": "Mix B 7.8 of 159.74 t (5%), mainly sub-soil; Kieserite 0 of 41.89 t (0%). No delivery problem; behind because the FY2025/26 programme had to be finished first",
-    "src": "Agro 1/2026"
+    "src": "Agro 1/2026",
+    "tbl": {
+     "cols": [
+      "Fertiliser",
+      "Applied t",
+      "Programme t",
+      "%"
+     ],
+     "rows": [
+      [
+       "Mix B",
+       "7.8",
+       "159.74",
+       "5%"
+      ],
+      [
+       "Kieserite",
+       "0",
+       "41.89",
+       "0%"
+      ]
+     ]
+    },
+    "pts": [
+     "Mix B mainly sub-soil",
+     "No delivery problem; behind because the FY2025/26 programme had to be finished first"
+    ],
+    "note": "FY2026/27 to Jun 2026."
    },
    {
     "k": "Manuring cost FY2025/26 (to Mar 2026)",
     "v": "Labour RM182,374 (RM142/ha); material RM1,170,091 (RM914/ha, 19% under budget); transport RM37,183 (RM29/ha)",
-    "src": "PA 1/2026"
+    "src": "PA 1/2026",
+    "tbl": {
+     "cols": [
+      "Cost",
+      "RM",
+      "RM/ha"
+     ],
+     "rows": [
+      [
+       "Labour",
+       "182,374",
+       "142"
+      ],
+      [
+       "Material (19% under budget)",
+       "1,170,091",
+       "914"
+      ],
+      [
+       "Transport",
+       "37,183",
+       "29"
+      ]
+     ]
+    },
+    "note": "FY2025/26 to Mar 2026."
    },
    {
     "k": "Fertiliser store May 2026",
@@ -9466,34 +11326,158 @@
    {
     "k": "Circle spray FY2025/26 (to Mar 2026)",
     "v": "1,958 ha of 3,840 ha budgeted (51%, 1.5 rounds), short of sprayers. Inter Pump, 1.3 ha/man-day (not acceptable), RM28/ha, earning RM36.40/day vs basic RM65.38; PA advises 4 ha/man-day at RM18/ha. Glyphosate 2.74 L/ha and Ally 0.07 kg/ha recorded (inconsistent; stop Ally in circles). Circles generally clean",
-    "src": "PA 1/2026"
+    "src": "PA 1/2026",
+    "stats": [
+     {
+      "l": "Circle done",
+      "v": "1,958 ha",
+      "d": "of 3,840 ha (51%) · 1.5 rounds"
+     },
+     {
+      "l": "Inter Pump",
+      "v": "1.3 ha/man-day",
+      "d": "RM28/ha · RM36.40/day vs basic RM65.38"
+     }
+    ],
+    "pts": [
+     "Short of sprayers; output not acceptable (PA advises 4 ha/man-day at RM18/ha)",
+     "Glyphosate 2.74 L/ha and Ally 0.07 kg/ha recorded (inconsistent; stop Ally in circles)",
+     "Circles generally clean"
+    ],
+    "note": "FY2025/26 to Mar 2026."
    },
    {
     "k": "Selective spray FY2025/26 (to Mar 2026)",
     "v": "2,126 ha of 2,560 ha budgeted (83%, 1.7 rounds). Mist blower 3.7 ha/man-day, RM26/ha, earning RM96.20/day; Garlon 1.28 L/ha recorded (too high). Clidemia reduced but unsprayed and poorly killed woodies need corrective spraying; dense Giant Paspalum, bamboo, VOPs, Asystasia and woodies remain. Use Garlon or Ally only (no glyphosate mix); sodium chlorate 3 kg per bamboo cluster",
-    "src": "PA 1/2026"
+    "src": "PA 1/2026",
+    "stats": [
+     {
+      "l": "Selective done",
+      "v": "2,126 ha",
+      "d": "of 2,560 ha (83%) · 1.7 rounds"
+     },
+     {
+      "l": "Mist blower",
+      "v": "3.7 ha/man-day",
+      "d": "RM26/ha · RM96.20/day"
+     }
+    ],
+    "pts": [
+     "Garlon 1.28 L/ha recorded (too high)",
+     "Clidemia reduced; unsprayed and poorly killed woodies need corrective spraying",
+     "Dense Giant Paspalum, bamboo, VOPs, Asystasia and woodies remain",
+     "Use Garlon or Ally only (no glyphosate mix); sodium chlorate 3 kg per bamboo cluster"
+    ],
+    "note": "FY2025/26 to Mar 2026."
    },
    {
     "k": "Weeding FY2025/26 full year (to Apr 2026)",
     "v": "Selective 2,555.12 of 2,560.40 ha (100%); circle 1,985.85 of 3,840.60 ha (52%); poisoning woodies 906.64 of 1,280.20 ha (71%). Short of workers, irregular rain, poor roads",
-    "src": "Agro 1/2026"
+    "src": "Agro 1/2026",
+    "tbl": {
+     "cols": [
+      "Work",
+      "Area done",
+      "%"
+     ],
+     "rows": [
+      [
+       "Selective",
+       "2,555.12 of 2,560.40 ha",
+       "100%"
+      ],
+      [
+       "Circle",
+       "1,985.85 of 3,840.60 ha",
+       "52%"
+      ],
+      [
+       "Poisoning woodies",
+       "906.64 of 1,280.20 ha",
+       "71%"
+      ]
+     ]
+    },
+    "pts": [
+     "Short of workers, irregular rain, poor roads"
+    ],
+    "note": "FY2025/26 full year to Apr 2026."
    },
    {
     "k": "Weed status May 2026",
     "v": "Circles acceptable in most areas; inter-row still suboptimal with Clidemia hirta, Asystasia, giant grasses and broadleaf weeds (some areas last treated Dec 2025–Jan 2026); soft grasses and Nephrolepis kept only in some areas",
-    "src": "Agro 1/2026"
+    "src": "Agro 1/2026",
+    "pts": [
+     "Circles acceptable in most areas",
+     "Inter-row still suboptimal: Clidemia hirta, Asystasia, giant grasses and broadleaf weeds (some areas last treated Dec 2025–Jan 2026)",
+     "Soft grasses and Nephrolepis kept only in some areas"
+    ],
+    "note": "May 2026."
    },
    {
     "k": "Weeding cost FY2025/26 (to Mar 2026)",
     "v": "Selective RM134,595 (RM105/ha); circle RM125,238 (RM98/ha, 35% over budget); blanket RM28,852; poisoning RM35,742 (63% over); slashing RM9,771",
-    "src": "PA 1/2026"
+    "src": "PA 1/2026",
+    "tbl": {
+     "cols": [
+      "Work",
+      "RM",
+      "RM/ha",
+      "Remark"
+     ],
+     "rows": [
+      [
+       "Selective",
+       "134,595",
+       "105",
+       "–"
+      ],
+      [
+       "Circle",
+       "125,238",
+       "98",
+       "35% over budget"
+      ],
+      [
+       "Blanket",
+       "28,852",
+       "–",
+       "–"
+      ],
+      [
+       "Poisoning",
+       "35,742",
+       "–",
+       "63% over"
+      ],
+      [
+       "Slashing",
+       "9,771",
+       "–",
+       "–"
+      ]
+     ]
+    },
+    "note": "FY2025/26 to Mar 2026."
    }
   ],
   "pests": [
    {
     "k": "Pests and diseases May 2026",
     "v": "No pest or disease issues (PA); under control, no outbreaks, keep regular rat census (Agro). P&D cost RM6,021 to Mar 2026",
-    "src": "Agro 1/2026"
+    "src": "Agro 1/2026",
+    "stats": [
+     {
+      "l": "P&D cost",
+      "v": "RM6,021",
+      "d": "to Mar 2026"
+     }
+    ],
+    "pts": [
+     "No pest or disease issues (PA)",
+     "Under control, no outbreaks; keep regular rat census (Agro)"
+    ],
+    "note": "May 2026."
    }
   ]
  },

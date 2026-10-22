@@ -105,11 +105,8 @@ FY2025/26 (May–Apr): 22,647.49 t (PA Report 2/2026 Table 23, actual to date (M
 
 BLOCK DETAIL (everything the latest reports say per block)
 ESTATE-WIDE FIELD NOTES
-[manuring] Mix B FY2025/26 (to Apr 2026): Mix B: 993 t programme, 993 t delivered, 993 t applied, 100% complete (FY2025/26, May 2025–Apr 2026; Agro Table 5). (Agro 1/2026)
-[manuring] RP FY2025/26 (to Apr 2026): Rock phosphate: 227.2 t programme, delivered and applied, 100% (FY2025/26; Agro Table 5). Agro 2/2025 had flagged a slight RP delay as of Oct 2025 (660.40 of 696.95 t, 95%, in its Table 5). (Agro 1/2026)
-[manuring] ZA FY2025/26 (to Apr 2026): ZA (ammonium sulphate): 113.25 t programme, delivered and applied, 100% (FY2025/26; Agro Table 5). (Agro 1/2026)
-[manuring] Compound FY2025/26 (to Apr 2026): Compound 14:13:9:2.5: 4.05 t programme, delivered and applied, 100% (FY2025/26; Agro Table 5). (Agro 1/2026)
 [manuring] Programme total FY2025/26 (to Apr 2026): Total FY2025/26 programme 1,412.38 t, all applied, 100% (Agro Table 5). PA Table 12 gives 1,406.73 t required, delivered and applied, 100% as of Apr 2026; the two totals differ slightly. (Agro 1/2026)
+[manuring] Fertiliser by type FY2025/26 (to Apr 2026): Mix B: 993 t programme, 993 t delivered, 993 t applied, 100% complete (FY2025/26, May 2025–Apr 2026; Agro Table 5). | Rock phosphate: 227.2 t programme, delivered and applied, 100% (FY2025/26; Agro Table 5). Agro 2/2025 had flagged a slight RP delay as of Oct 2025 (660.40 of 696.95 t, 95%, in its Table 5). | ZA (ammonium sulphate): 113.25 t programme, delivered and applied, 100% (FY2025/26; Agro Table 5). | Compound 14:13:9:2.5: 4.05 t programme, delivered and applied, 100% (FY2025/26; Agro Table 5). (Agro 1/2026)
 [manuring] Monthly schedule FY2025/26 (to Apr 2026): PA Table 12 (estate, t applied = required, all 100%): Mix B May 2025 46.1, Jun 2025 241.95, Aug 2025 40.05; RP Jul 2025 225.6; ZA Sep 2025 113.25; first half 704.78 t. Second half: Mix B 313.4 (printed Nov 2024), 38.1 (printed Feb 2025), 313.4 (printed Mar 2025); second half 701.95 t. (PA 2/2026)
 [manuring] Manuring Aug 2026 visit: No manuring during the 18–19 Aug 2026 visit: prolonged dry spell and manuring workers redeployed to loose-fruit collection (PA 6.2.4). 36 manuring workers as of Jul 2026, 1 per 80 ha (PA 6.2.3). (PA 2/2026)
 [manuring] Method & productivity: Surface broadcast, fertiliser carried by wheelbarrow; 20 x 50-kg bags per man-day at RM1.81 (IDR 8,000) per bag, RM36.20/day; could reach 25 bags/day (PA 6.2.5–6.2.6). (PA 2/2026)
@@ -120,9 +117,9 @@ ESTATE-WIDE FIELD NOTES
 [spraying] Circle & path spray FY2025/26 (to Apr 2026): Estate: 1,904.92 ha done of 2 budgeted rounds (1,917.56 ha), 99%, RM17.52 (IDR 77,251)/ha/round, May 2025–Apr 2026 (PA Table 10). (PA 2/2026)
 [spraying] Selective spray FY2025/26 (to Apr 2026): Estate: 3,415.13 ha of 3,832.12 ha programme (4 rounds), 3.56 rounds, 89.04%, May 2025–Apr 2026 (PA Table 11, 6.1.2.1–6.1.2.2). (PA 2/2026)
 [spraying] Sprayers & productivity Aug 2026: 38 sprayers in Apr 2026, 30 in Jul 2026 (1 per 97 ha). Glyphosate with low-volume CKS nozzle (Inter Pump); 3.0 ha/man-day at RM12.47 (IDR 55,000)/ha, RM37.41/day; target 5.0 ha/man-day (PA 6.1.1.1–6.1.1.5). (PA 2/2026)
-[spraying] Glyphosate overspray Aug 2026: Palm circles generally clean but some areas bare from glyphosate overspray, worse after the dry spell; tighten supervision and train sprayers. Glyphosate only on the 2.0 m circle and on lalang, Pennisetum and giant Paspalum; paths 1.20 m wide only where dense grass obstructs work (PA 6.1.1.6–6.1.1.7, 13.6). (PA 2/2026)
-[spraying] Ground condition Aug 2026: About 20% bare (dry spell and glyphosate overspray); 40% soft-grass dominant (spot-spray broadleaves with Ally 20DF and/or triclopyr by mist blower); 20% soft grass mixed with noxious weeds along drains and low spots (Ally/triclopyr, then paraquat + Ally on Stenochlaena and sedges by CKS); 20% Stenochlaena, sedges and broadleaves in ex-rehabilitation areas and drain edges, especially Div 3 and 4 (paraquat + Ally 20DF or triclopyr every 3 months) (PA 6.1.2.4). (PA 2/2026)
 [spraying] Weeding cost FY2025/26 (to Apr 2026): Selective weeding RM85.71/ha, 9% above the RM78.28 budget (Stenochlaena and woody growth on drain edges); circle and path RM37.08/ha, 19% below the RM45.68 budget; total weeding RM122.79/ha vs RM123.96 budget, May 2025–Apr 2026 (PA 6.1.1.9, 6.1.2.5–6.1.2.7). (PA 2/2026)
+[spraying] Ground condition Aug 2026: About 20% bare (dry spell and glyphosate overspray); 40% soft-grass dominant (spot-spray broadleaves with Ally 20DF and/or triclopyr by mist blower); 20% soft grass mixed with noxious weeds along drains and low spots (Ally/triclopyr, then paraquat + Ally on Stenochlaena and sedges by CKS); 20% Stenochlaena, sedges and broadleaves in ex-rehabilitation areas and drain edges, especially Div 3 and 4 (paraquat + Ally 20DF or triclopyr every 3 months) (PA 6.1.2.4). (PA 2/2026)
+[spraying] Glyphosate overspray Aug 2026: Palm circles generally clean but some areas bare from glyphosate overspray, worse after the dry spell; tighten supervision and train sprayers. Glyphosate only on the 2.0 m circle and on lalang, Pennisetum and giant Paspalum; paths 1.20 m wide only where dense grass obstructs work (PA 6.1.1.6–6.1.1.7, 13.6). (PA 2/2026)
 [spraying] Weed control May 2026: Further improvement since Nov 2025; Stenochlaena palustris and Dicranopteris linearis patches much reduced; bracken density down; Nephrolepis still limited and should be actively encouraged. As weed pressure is lower, use mist blowers with one-sided nozzle cover or baffle for selective inter-row spraying (Agro 4.4.2–4.4.12). (Agro 1/2026)
 [spraying] Flood-prone land: About 258.76 ha (26.86% of 963.26 ha) is low-lying and flood-prone, favouring aggressive ferns (Agro 4.4.7, Appendix 4). (Agro 1/2026)
 [pests] Rat census Nov 2025: Div 1 total 321.36 ha: 46,526 palms sampled, old damage 2.68%, fresh 5.52%; estate total 341.67 ha: old 3.56%, fresh 5.21% (Agro Table 10). Rows not on the dashboard: DH22-12A2 (11 Nov) old 2.90% fresh 3.93%; DH21-12A2 (12 Nov) 1.30% / 3.51%; DK15-12A2 (13 Nov) 10.82% / 6.91%; DL17-12A2 (14 Nov) 0.18% / 16.84%. (Agro 1/2026)
@@ -137,8 +134,8 @@ ESTATE-WIDE FIELD NOTES
 [harvesting] Harvest cost FY2025/26 (to Apr 2026): Harvesting and collection RM57.53 (IDR 253,664)/t FFB, 5% below the RM60.84 budget, May 2025–Apr 2026 (PA 7.15). (PA 2/2026)
 [yield] Yield by planting year FY2025/26 (to Apr 2026): FFB t/ha FY2025/26 (May 2025–Apr 2026) vs FY2024/25: P2008 (128.82 ha) 26.10 vs 30.63 (-15%); P2012 (775.06 ha) 23.42 vs 29.00 (-19%); P2013 (45.16 ha) 22.30 vs 24.54 (-9%); P2020 (6.76 ha) 18.71 vs 19.60 (-5%); estate 23.69 vs 28.96 (-18%) (Agro Table 12). (Agro 1/2026)
 [yield] Bunch weight & number FY2025/26 (to Apr 2026): FY2025/26: 15.30 kg/bunch, 10.86 bunches/palm vs FY2024/25 13.07 kg and 15.59 bunches; decline driven by fewer bunches (Agro 5.7). (Agro 1/2026)
-[yield] Estate yield history: FFB t/ha by FY: 2018/19 13.52; 2019/20 15.75; 2020/21 17.38; 2021/22 14.74; 2022/23 15.15; 2023/24 24.28; 2024/25 28.96; 2025/26 23.69 (Agro Table 11 chart). (Agro 1/2026)
 [yield] Crop FY2025/26 (to Apr 2026): 22,647.49 t FFB, 23.69 t/ha in May 2025–Apr 2026, 16% below the 26,997.89 t (28.25 t/ha) budget and 18% below FY2024/25 (27,712.07 t, 28.99 t/ha) (PA Table 23). (PA 2/2026)
+[yield] Estate yield history: FFB t/ha by FY: 2018/19 13.52; 2019/20 15.75; 2020/21 17.38; 2021/22 14.74; 2022/23 15.15; 2023/24 24.28; 2024/25 28.96; 2025/26 23.69 (Agro Table 11 chart). (Agro 1/2026)
 [nutrients] Leaf analysis 2025: Leaf samples BLDE 88–187 (lab 25L.9502–9601, Citra Borneo Indah, 2025) printed by sample code only, not by block (Agro Appendix 2a–g; the pages also carry HRNE and BANE samples of other estates). BLDE range: N 2.13–2.85%, P 0.095–0.167%, K 0.96–1.79%, Mg 0.13–0.53%, B 7.6–31.7 ppm. (Agro 1/2026)
 [nutrients] Leaf status May 2026: N normal to moderately low; K satisfactory; P the main limiting nutrient (most samples moderately low to low); Mg normal to high. Low P and marginal N are addressed in the FY2026/27 programme (Agro 4.3.1). Palm vigour much improved since Nov 2025 (Agro 4.3.2). (Agro 1/2026)
 [nutrients] Soil analysis Oct 2025: 16 samples (circle and frond-stack, 0–30 and 31–60 cm), tested 10 Oct 2025: average pH 3.91, organic C 9.74%, N 0.35%, P-Bray II 48.9 ppm, CEC 24.60, K 0.57, Ca 0.89, Mg 0.77 me/100g, base saturation 12.20%, C/N 28.35 (Agro Appendix 3). (Agro 1/2026)
@@ -169,7 +166,7 @@ Spraying progress (May 2025–Apr 2026 (FY2025/26; no FY2026/27 progress in the 
 Manuring progress:
   - Straight-fertiliser trial FY2025/26 (to Apr 2026): Trial block for straight fertilisers (with DL23-12A1) (Agro 3.2). Special-block rounds for the 2 trial blocks combined, all 100% applied by Apr 2026 (Agro Table 5; months from PA Table 12): ZA rd 1 7.80 t (May 2025), MOP rd 1 7.80 t (Jun 2025), RP rd 1 7.80 t (Jul 2025), Kieserite rd 1 5.85 t (Aug 2025), HGFB 0.78 t (Sep 2025), urea 7.80 t (Oct 2025), MOP rd 2 7.80 t (Nov 2025), RP rd 2 7.80 t (Dec 2025), Kieserite rd 2 5.85 t (Jan 2026), ZA rd 2 7.80 t (printed Feb 2025), MOP rd 3 7.80 t (printed Mar 2025). (Agro 1/2026)
 Spraying & weeding:
-  - Weeding rounds FY2025/26 (to Apr 2026) (Agro Table 9): Weeding status achieved in FY2025/26 (May 2025–Apr 2026): interrow rd 1 100%, interrow rd 2 100%, interrow rd 3 100%, circle rd 1 100%, circle rd 2 100%; no entry for circle rd 3 (Agro Table 9). (Agro 1/2026)
+  - Weeding rounds FY2025/26: Weeding status achieved in FY2025/26 (May 2025–Apr 2026): interrow rd 1 100%, interrow rd 2 100%, interrow rd 3 100%, circle rd 1 100%, circle rd 2 100%; no entry for circle rd 3 (Agro Table 9). (Agro 1/2026)
   - Ground cover May 2026: Slightly bare, with some soft grasses (Agro 4.4.4, May 2026 visit). (Agro 1/2026)
   - Nephrolepis May 2026: Nephrolepis soft fern growing in the interrow (Agro Photo 76). (Agro 1/2026)
 Fertiliser programme (this year) FY2026/27:
@@ -197,7 +194,7 @@ Spraying progress (May 2025–Apr 2026 (FY2025/26; no FY2026/27 progress in the 
   - Circle & path spray: 100% — 2 of 2 rds · 48 ha · RM20.47/ha/rd (PA 2/2026)
   - Selective spray: 100% — 4 of 4 rds · 96 ha · RM21.69/ha/rd (PA 2/2026)
 Spraying & weeding:
-  - Weeding rounds FY2025/26 (to Apr 2026) (Agro Table 9): Weeding status achieved in FY2025/26 (May 2025–Apr 2026): interrow rd 1 100%, interrow rd 2 100%, interrow rd 3 100%, circle rd 1 100%, circle rd 2 100%; no entry for circle rd 3 (Agro Table 9). (Agro 1/2026)
+  - Weeding rounds FY2025/26: Weeding status achieved in FY2025/26 (May 2025–Apr 2026): interrow rd 1 100%, interrow rd 2 100%, interrow rd 3 100%, circle rd 1 100%, circle rd 2 100%; no entry for circle rd 3 (Agro Table 9). (Agro 1/2026)
 Fertiliser programme (this year) FY2026/27:
   - May 2026: Mix B 2,500 g/palm (P2008 programme, Agro 1/2026 Appendix 1a; surface broadcast; Mix B = 45% SOA, 40% MOP, 14% kieserite, 1% borate; RP 28–30% P2O5) (Agro 1/2026)
   - Aug 2026: Mix B 2,200 g/palm (P2008) (Agro 1/2026)
@@ -221,7 +218,7 @@ Spraying progress (May 2025–Apr 2026 (FY2025/26; no FY2026/27 progress in the 
   - Circle & path spray: 100% — 2 of 2 rds · 62.96 ha · RM18.13/ha/rd (PA 2/2026)
   - Selective spray: 100% — 4 of 4 rds · 125.92 ha · RM16.44/ha/rd (PA 2/2026)
 Spraying & weeding:
-  - Weeding rounds FY2025/26 (to Apr 2026) (Agro Table 9): Weeding status achieved in FY2025/26 (May 2025–Apr 2026): interrow rd 1 100%, interrow rd 2 100%, interrow rd 3 100%, circle rd 1 100%, circle rd 2 100%; no entry for circle rd 3 (Agro Table 9). (Agro 1/2026)
+  - Weeding rounds FY2025/26: Weeding status achieved in FY2025/26 (May 2025–Apr 2026): interrow rd 1 100%, interrow rd 2 100%, interrow rd 3 100%, circle rd 1 100%, circle rd 2 100%; no entry for circle rd 3 (Agro Table 9). (Agro 1/2026)
   - Ground cover May 2026: Slightly bare, with some soft grasses (Agro 4.4.4, May 2026 visit). (Agro 1/2026)
 Fertiliser programme (this year) FY2026/27:
   - May 2026: Mix B 2,500 g/palm (P2008 programme, Agro 1/2026 Appendix 1a; surface broadcast; Mix B = 45% SOA, 40% MOP, 14% kieserite, 1% borate; RP 28–30% P2O5) (Agro 1/2026)
@@ -246,7 +243,7 @@ Spraying progress (May 2025–Apr 2026 (FY2025/26; no FY2026/27 progress in the 
   - Circle & path spray: 100% — 2 of 2 rds · 13.52 ha · RM15.72/ha/rd (PA 2/2026)
   - Selective spray: 100% — 4 of 4 rds · 27.04 ha · RM16.17/ha/rd (PA 2/2026)
 Spraying & weeding:
-  - Weeding rounds FY2025/26 (to Apr 2026) (Agro Table 9): Weeding status achieved in FY2025/26 (May 2025–Apr 2026): interrow rd 1 100%, interrow rd 2 100%, interrow rd 3 100%, circle rd 1 100%, circle rd 2 100%; no entry for circle rd 3 (Agro Table 9). (Agro 1/2026)
+  - Weeding rounds FY2025/26: Weeding status achieved in FY2025/26 (May 2025–Apr 2026): interrow rd 1 100%, interrow rd 2 100%, interrow rd 3 100%, circle rd 1 100%, circle rd 2 100%; no entry for circle rd 3 (Agro Table 9). (Agro 1/2026)
 Fertiliser programme (this year) FY2026/27:
   - May 2026: Mix B 2,000 g/palm (P2020 programme, Agro 1/2026 Appendix 1a; surface broadcast; Mix B = 45% SOA, 40% MOP, 14% kieserite, 1% borate; RP 28–30% P2O5) (Agro 1/2026)
   - Aug 2026: Mix B 2,000 g/palm (P2020) (Agro 1/2026)
@@ -267,7 +264,7 @@ Spraying progress (May 2025–Apr 2026 (FY2025/26; no FY2026/27 progress in the 
   - Circle & path spray: 100% — 2 of 2 rds · 49.5 ha · RM15.67/ha/rd (PA 2/2026)
   - Selective spray: 100% — 4 of 4 rds · 99.2 ha · RM17.98/ha/rd (PA 2/2026)
 Spraying & weeding:
-  - Weeding rounds FY2025/26 (to Apr 2026) (Agro Table 9): Weeding status achieved in FY2025/26 (May 2025–Apr 2026): interrow rd 1 100%, interrow rd 2 100%, interrow rd 3 100%, circle rd 1 100%, circle rd 2 100%; no entry for circle rd 3 (Agro Table 9). (Agro 1/2026)
+  - Weeding rounds FY2025/26: Weeding status achieved in FY2025/26 (May 2025–Apr 2026): interrow rd 1 100%, interrow rd 2 100%, interrow rd 3 100%, circle rd 1 100%, circle rd 2 100%; no entry for circle rd 3 (Agro Table 9). (Agro 1/2026)
   - Ground cover May 2026: Slightly bare, with some soft grasses (Agro 4.4.4, May 2026 visit). (Agro 1/2026)
   - Nephrolepis May 2026: Nephrolepis soft fern growing in the interrow (Agro Photo 77). (Agro 1/2026)
 Fertiliser programme (this year) FY2026/27:
@@ -294,7 +291,7 @@ Spraying progress (May 2025–Apr 2026 (FY2025/26; no FY2026/27 progress in the 
   - Circle & path spray: 0% — not sprayed (PA 2/2026)
   - Selective spray: 75% — 3 of 4 rds · 8.94 ha · RM12.47/ha/rd (PA 2/2026)
 Spraying & weeding:
-  - Weeding rounds FY2025/26 (to Apr 2026) (Agro Table 9): Weeding status achieved in FY2025/26 (May 2025–Apr 2026): interrow rd 1 100%, interrow rd 2 100%, interrow rd 3 100%; no entry for circle rd 1, circle rd 2, circle rd 3 (Agro Table 9). (Agro 1/2026)
+  - Weeding rounds FY2025/26: Weeding status achieved in FY2025/26 (May 2025–Apr 2026): interrow rd 1 100%, interrow rd 2 100%, interrow rd 3 100%; no entry for circle rd 1, circle rd 2, circle rd 3 (Agro Table 9). (Agro 1/2026)
   - Weed patches May 2026: Localised patches of undesirable weeds in the interrow (Agro Photos 70–75); common species estate-wide are Clidemia hirta, wild bitter gourd, Asystasia intrusa, Stenochlaena palustris and Dicranopteris linearis, less dense than at the Nov 2025 visit (Agro 4.4.5). (Agro 1/2026)
   - Blanket spray May 2026: Blanket spray of tall grasses seen (Agro Photos 78–79): acceptable as a correction but not as routine; follow with selective weeding (Agro 4.4.13). (Agro 1/2026)
   - Circle condition Aug 2026: Clean palm circle (PA Photos 1–2) and established soft grasses that should be retained (PA Photo 7). (PA 2/2026)
@@ -318,7 +315,7 @@ Spraying progress (May 2025–Apr 2026 (FY2025/26; no FY2026/27 progress in the 
   - Circle & path spray: 100% — 2 of 2 rds · 78.82 ha · RM15.57/ha/rd (PA 2/2026)
   - Selective spray: 100% — 4 of 4 rds · 157.64 ha · RM17.36/ha/rd (PA 2/2026)
 Spraying & weeding:
-  - Weeding rounds FY2025/26 (to Apr 2026) (Agro Table 9): Weeding status achieved in FY2025/26 (May 2025–Apr 2026): interrow rd 1 100%, interrow rd 2 100%, interrow rd 3 100%, circle rd 1 100%, circle rd 2 100%; no entry for circle rd 3 (Agro Table 9). (Agro 1/2026)
+  - Weeding rounds FY2025/26: Weeding status achieved in FY2025/26 (May 2025–Apr 2026): interrow rd 1 100%, interrow rd 2 100%, interrow rd 3 100%, circle rd 1 100%, circle rd 2 100%; no entry for circle rd 3 (Agro Table 9). (Agro 1/2026)
   - Ground cover May 2026: Slightly bare, with some soft grasses (Agro 4.4.4, May 2026 visit). (Agro 1/2026)
   - Weed patches May 2026: Localised patches of undesirable weeds in the interrow (Agro Photos 70–75); common species estate-wide are Clidemia hirta, wild bitter gourd, Asystasia intrusa, Stenochlaena palustris and Dicranopteris linearis, less dense than at the Nov 2025 visit (Agro 4.4.5). (Agro 1/2026)
 Fertiliser programme (this year) FY2026/27:
@@ -343,7 +340,7 @@ Spraying progress (May 2025–Apr 2026 (FY2025/26; no FY2026/27 progress in the 
   - Circle & path spray: 100% — 2 of 2 rds · 82.18 ha · RM15.63/ha/rd (PA 2/2026)
   - Selective spray: 100% — 4 of 4 rds · 164.36 ha · RM16.53/ha/rd (PA 2/2026)
 Spraying & weeding:
-  - Weeding rounds FY2025/26 (to Apr 2026) (Agro Table 9): Weeding status achieved in FY2025/26 (May 2025–Apr 2026): interrow rd 1 100%, interrow rd 2 100%, interrow rd 3 100%, circle rd 1 100%, circle rd 2 100%; no entry for circle rd 3 (Agro Table 9). (Agro 1/2026)
+  - Weeding rounds FY2025/26: Weeding status achieved in FY2025/26 (May 2025–Apr 2026): interrow rd 1 100%, interrow rd 2 100%, interrow rd 3 100%, circle rd 1 100%, circle rd 2 100%; no entry for circle rd 3 (Agro Table 9). (Agro 1/2026)
   - Ground cover May 2026: Slightly bare, with some soft grasses (Agro 4.4.4, May 2026 visit). (Agro 1/2026)
   - Weed patches May 2026: Localised patches of undesirable weeds in the interrow (Agro Photos 70–75); common species estate-wide are Clidemia hirta, wild bitter gourd, Asystasia intrusa, Stenochlaena palustris and Dicranopteris linearis, less dense than at the Nov 2025 visit (Agro 4.4.5). (Agro 1/2026)
 Fertiliser programme (this year) FY2026/27:
@@ -367,7 +364,7 @@ Spraying progress (May 2025–Apr 2026 (FY2025/26; no FY2026/27 progress in the 
   - Circle & path spray: 100% — 2 of 2 rds · 63.84 ha · RM17.25/ha/rd (PA 2/2026)
   - Selective spray: 75% — 3 of 4 rds · 95.76 ha · RM23.72/ha/rd (PA 2/2026)
 Spraying & weeding:
-  - Weeding rounds FY2025/26 (to Apr 2026) (Agro Table 9): Weeding status achieved in FY2025/26 (May 2025–Apr 2026): interrow rd 1 100%, interrow rd 2 100%, interrow rd 3 100%, circle rd 1 100%, circle rd 2 100%; no entry for circle rd 3 (Agro Table 9). (Agro 1/2026)
+  - Weeding rounds FY2025/26: Weeding status achieved in FY2025/26 (May 2025–Apr 2026): interrow rd 1 100%, interrow rd 2 100%, interrow rd 3 100%, circle rd 1 100%, circle rd 2 100%; no entry for circle rd 3 (Agro Table 9). (Agro 1/2026)
   - Ground cover May 2026: Slightly bare, with some soft grasses (Agro 4.4.4, May 2026 visit). (Agro 1/2026)
 Fertiliser programme (this year) FY2026/27:
   - Jun 2026: Mix B 2,500 g/palm (P2012 programme, Agro 1/2026 Appendix 1a; surface broadcast; Mix B = 45% SOA, 40% MOP, 14% kieserite, 1% borate; RP 28–30% P2O5) (Agro 1/2026)
@@ -393,7 +390,7 @@ Spraying progress (May 2025–Apr 2026 (FY2025/26; no FY2026/27 progress in the 
   - Circle & path spray: 100% — 2 of 2 rds · 61.76 ha · RM19.68/ha/rd (PA 2/2026)
   - Selective spray: 75% — 3 of 4 rds · 92.64 ha · RM23.52/ha/rd (PA 2/2026)
 Spraying & weeding:
-  - Weeding rounds FY2025/26 (to Apr 2026) (Agro Table 9): Weeding status achieved in FY2025/26 (May 2025–Apr 2026): interrow rd 1 100%, interrow rd 2 100%, interrow rd 3 100%, circle rd 1 100%, circle rd 2 100%, circle rd 3 100% (Agro Table 9). (Agro 1/2026)
+  - Weeding rounds FY2025/26: Weeding status achieved in FY2025/26 (May 2025–Apr 2026): interrow rd 1 100%, interrow rd 2 100%, interrow rd 3 100%, circle rd 1 100%, circle rd 2 100%, circle rd 3 100% (Agro Table 9). (Agro 1/2026)
 Fertiliser programme (this year) FY2026/27:
   - Jun 2026: Mix B 2,500 g/palm (P2012 programme, Agro 1/2026 Appendix 1a; surface broadcast; Mix B = 45% SOA, 40% MOP, 14% kieserite, 1% borate; RP 28–30% P2O5) (Agro 1/2026)
   - Sep 2026: Mix B 2,200 g/palm (P2012) (Agro 1/2026)
@@ -418,7 +415,7 @@ Spraying progress (May 2025–Apr 2026 (FY2025/26; no FY2026/27 progress in the 
   - Selective spray: 50% — 2 of 4 rds · 64 ha · RM18.15/ha/rd (PA 2/2026)
 Spraying & weeding:
   - Selective spray FY2025/26 (to Apr 2026): Selective (inter-row) spraying May 2025–Apr 2026 (FY2025/26): 2 of 4 budgeted rounds, 64 ha, 50% done; cost RM18.15/ha/round (PA Table 11). Low because the work was previously charged to immature expenses (PA 6.1.2.3). (PA 2/2026)
-  - Weeding rounds FY2025/26 (to Apr 2026) (Agro Table 9): Weeding status achieved in FY2025/26 (May 2025–Apr 2026): interrow rd 1 100%, interrow rd 2 100%, circle rd 1 100%, circle rd 2 100%, circle rd 3 100%; no entry for interrow rd 3 (Agro Table 9). (Agro 1/2026)
+  - Weeding rounds FY2025/26: Weeding status achieved in FY2025/26 (May 2025–Apr 2026): interrow rd 1 100%, interrow rd 2 100%, circle rd 1 100%, circle rd 2 100%, circle rd 3 100%; no entry for interrow rd 3 (Agro Table 9). (Agro 1/2026)
   - Ground cover May 2026: Slightly bare, with some soft grasses (Agro 4.4.4, May 2026 visit). (Agro 1/2026)
   - Weed patches May 2026: Localised patches of undesirable weeds in the interrow (Agro Photos 70–75); common species estate-wide are Clidemia hirta, wild bitter gourd, Asystasia intrusa, Stenochlaena palustris and Dicranopteris linearis, less dense than at the Nov 2025 visit (Agro 4.4.5). (Agro 1/2026)
 Fertiliser programme (this year) FY2026/27:
@@ -447,7 +444,7 @@ Spraying progress (May 2025–Apr 2026 (FY2025/26; no FY2026/27 progress in the 
   - Circle & path spray: 100% — 2 of 2 rds · 17.24 ha · RM19.72/ha/rd (PA 2/2026)
   - Selective spray: 75% — 3 of 4 rds · 25.86 ha · RM27.77/ha/rd (PA 2/2026)
 Spraying & weeding:
-  - Weeding rounds FY2025/26 (to Apr 2026) (Agro Table 9): Weeding status achieved in FY2025/26 (May 2025–Apr 2026): interrow rd 1 100%, interrow rd 2 100%, interrow rd 3 100%, circle rd 1 100%, circle rd 2 100%; no entry for circle rd 3 (Agro Table 9). (Agro 1/2026)
+  - Weeding rounds FY2025/26: Weeding status achieved in FY2025/26 (May 2025–Apr 2026): interrow rd 1 100%, interrow rd 2 100%, interrow rd 3 100%, circle rd 1 100%, circle rd 2 100%; no entry for circle rd 3 (Agro Table 9). (Agro 1/2026)
 Fertiliser programme (this year) FY2026/27:
   - May 2026: Mix B 2,500 g/palm (P2008 programme, Agro 1/2026 Appendix 1a; surface broadcast; Mix B = 45% SOA, 40% MOP, 14% kieserite, 1% borate; RP 28–30% P2O5) (Agro 1/2026)
   - Aug 2026: Mix B 2,200 g/palm (P2008) (Agro 1/2026)
@@ -468,7 +465,7 @@ Spraying progress (May 2025–Apr 2026 (FY2025/26; no FY2026/27 progress in the 
   - Circle & path spray: 100% — 2 of 2 rds · 13.28 ha · RM18.5/ha/rd (PA 2/2026)
   - Selective spray: 75% — 3 of 4 rds · 19.92 ha · RM23.16/ha/rd (PA 2/2026)
 Spraying & weeding:
-  - Weeding rounds FY2025/26 (to Apr 2026) (Agro Table 9): Weeding status achieved in FY2025/26 (May 2025–Apr 2026): interrow rd 1 100%, interrow rd 2 100%, interrow rd 3 100%, circle rd 1 100%, circle rd 2 100%; no entry for circle rd 3 (Agro Table 9). (Agro 1/2026)
+  - Weeding rounds FY2025/26: Weeding status achieved in FY2025/26 (May 2025–Apr 2026): interrow rd 1 100%, interrow rd 2 100%, interrow rd 3 100%, circle rd 1 100%, circle rd 2 100%; no entry for circle rd 3 (Agro Table 9). (Agro 1/2026)
   - Fern & sedge spray Aug 2026: Satisfactory paraquat + Ally 20DF spraying on Stenochlaena and sedges (PA Photos 9–10). (PA 2/2026)
 Fertiliser programme (this year) FY2026/27:
   - May 2026: Mix B 2,500 g/palm (P2008 programme, Agro 1/2026 Appendix 1a; surface broadcast; Mix B = 45% SOA, 40% MOP, 14% kieserite, 1% borate; RP 28–30% P2O5) (Agro 1/2026)
@@ -490,7 +487,7 @@ Spraying progress (May 2025–Apr 2026 (FY2025/26; no FY2026/27 progress in the 
   - Circle & path spray: 100% — 2 of 2 rds · 18.32 ha · RM19.79/ha/rd (PA 2/2026)
   - Selective spray: 75% — 3 of 4 rds · 27.48 ha · RM23.65/ha/rd (PA 2/2026)
 Spraying & weeding:
-  - Weeding rounds FY2025/26 (to Apr 2026) (Agro Table 9): Weeding status achieved in FY2025/26 (May 2025–Apr 2026): interrow rd 1 100%, interrow rd 2 100%, interrow rd 3 100%, circle rd 1 100%, circle rd 2 100%; no entry for circle rd 3 (Agro Table 9). (Agro 1/2026)
+  - Weeding rounds FY2025/26: Weeding status achieved in FY2025/26 (May 2025–Apr 2026): interrow rd 1 100%, interrow rd 2 100%, interrow rd 3 100%, circle rd 1 100%, circle rd 2 100%; no entry for circle rd 3 (Agro Table 9). (Agro 1/2026)
 Fertiliser programme (this year) FY2026/27:
   - May 2026: Mix B 2,500 g/palm (P2008 programme, Agro 1/2026 Appendix 1a; surface broadcast; Mix B = 45% SOA, 40% MOP, 14% kieserite, 1% borate; RP 28–30% P2O5) (Agro 1/2026)
   - Aug 2026: Mix B 2,200 g/palm (P2008) (Agro 1/2026)
@@ -511,7 +508,7 @@ Spraying progress (May 2025–Apr 2026 (FY2025/26; no FY2026/27 progress in the 
   - Circle & path spray: 100% — 2 of 2 rds · 24.58 ha · RM18.8/ha/rd (PA 2/2026)
   - Selective spray: 75% — 3 of 4 rds · 36.87 ha · RM18.73/ha/rd (PA 2/2026)
 Spraying & weeding:
-  - Weeding rounds FY2025/26 (to Apr 2026) (Agro Table 9): Weeding status achieved in FY2025/26 (May 2025–Apr 2026): interrow rd 1 100%, interrow rd 2 100%, interrow rd 3 100%, circle rd 1 100%, circle rd 2 100%; no entry for circle rd 3 (Agro Table 9). (Agro 1/2026)
+  - Weeding rounds FY2025/26: Weeding status achieved in FY2025/26 (May 2025–Apr 2026): interrow rd 1 100%, interrow rd 2 100%, interrow rd 3 100%, circle rd 1 100%, circle rd 2 100%; no entry for circle rd 3 (Agro Table 9). (Agro 1/2026)
 Fertiliser programme (this year) FY2026/27:
   - May 2026: Mix B 2,500 g/palm (P2008 programme, Agro 1/2026 Appendix 1a; surface broadcast; Mix B = 45% SOA, 40% MOP, 14% kieserite, 1% borate; RP 28–30% P2O5) (Agro 1/2026)
   - Aug 2026: Mix B 2,200 g/palm (P2008) (Agro 1/2026)
@@ -532,7 +529,7 @@ Spraying progress (May 2025–Apr 2026 (FY2025/26; no FY2026/27 progress in the 
   - Circle & path spray: 100% — 2 of 2 rds · 34.22 ha · RM15.61/ha/rd (PA 2/2026)
   - Selective spray: 75% — 3 of 4 rds · 51.33 ha · RM17.14/ha/rd (PA 2/2026)
 Spraying & weeding:
-  - Weeding rounds FY2025/26 (to Apr 2026) (Agro Table 9): Weeding status achieved in FY2025/26 (May 2025–Apr 2026): interrow rd 1 100%, interrow rd 2 100%, interrow rd 3 100%, circle rd 1 100%, circle rd 2 100%; no entry for circle rd 3 (Agro Table 9). (Agro 1/2026)
+  - Weeding rounds FY2025/26: Weeding status achieved in FY2025/26 (May 2025–Apr 2026): interrow rd 1 100%, interrow rd 2 100%, interrow rd 3 100%, circle rd 1 100%, circle rd 2 100%; no entry for circle rd 3 (Agro Table 9). (Agro 1/2026)
 Fertiliser programme (this year) FY2026/27:
   - Jun 2026: Mix B 2,500 g/palm (P2012 programme, Agro 1/2026 Appendix 1a; surface broadcast; Mix B = 45% SOA, 40% MOP, 14% kieserite, 1% borate; RP 28–30% P2O5) (Agro 1/2026)
   - Sep 2026: Mix B 2,200 g/palm (P2012) (Agro 1/2026)
@@ -553,7 +550,7 @@ Spraying progress (May 2025–Apr 2026 (FY2025/26; no FY2026/27 progress in the 
   - Circle & path spray: 100% — 2 of 2 rds · 17.04 ha · RM15.61/ha/rd (PA 2/2026)
   - Selective spray: 75% — 3 of 4 rds · 25.56 ha · RM16.73/ha/rd (PA 2/2026)
 Spraying & weeding:
-  - Weeding rounds FY2025/26 (to Apr 2026) (Agro Table 9): Weeding status achieved in FY2025/26 (May 2025–Apr 2026): interrow rd 1 100%, interrow rd 2 100%, interrow rd 3 100%, circle rd 1 100%, circle rd 2 100%; no entry for circle rd 3 (Agro Table 9). (Agro 1/2026)
+  - Weeding rounds FY2025/26: Weeding status achieved in FY2025/26 (May 2025–Apr 2026): interrow rd 1 100%, interrow rd 2 100%, interrow rd 3 100%, circle rd 1 100%, circle rd 2 100%; no entry for circle rd 3 (Agro Table 9). (Agro 1/2026)
 Fertiliser programme (this year) FY2026/27:
   - Jun 2026: Mix B 2,500 g/palm (P2012 programme, Agro 1/2026 Appendix 1a; surface broadcast; Mix B = 45% SOA, 40% MOP, 14% kieserite, 1% borate; RP 28–30% P2O5) (Agro 1/2026)
   - Sep 2026: Mix B 2,200 g/palm (P2012) (Agro 1/2026)
@@ -577,7 +574,7 @@ Spraying progress (May 2025–Apr 2026 (FY2025/26; no FY2026/27 progress in the 
   - Circle & path spray: 100% — 2 of 2 rds · 61.32 ha · RM18.4/ha/rd (PA 2/2026)
   - Selective spray: 75% — 3 of 4 rds · 91.98 ha · RM16.63/ha/rd (PA 2/2026)
 Spraying & weeding:
-  - Weeding rounds FY2025/26 (to Apr 2026) (Agro Table 9): Weeding status achieved in FY2025/26 (May 2025–Apr 2026): interrow rd 1 100%, interrow rd 2 100%, interrow rd 3 100%, circle rd 1 100%, circle rd 2 100%, circle rd 3 100% (Agro Table 9). (Agro 1/2026)
+  - Weeding rounds FY2025/26: Weeding status achieved in FY2025/26 (May 2025–Apr 2026): interrow rd 1 100%, interrow rd 2 100%, interrow rd 3 100%, circle rd 1 100%, circle rd 2 100%, circle rd 3 100% (Agro Table 9). (Agro 1/2026)
   - Ground cover May 2026: Slightly bare, with some soft grasses (Agro 4.4.4, May 2026 visit). (Agro 1/2026)
 Fertiliser programme (this year) FY2026/27:
   - Jun 2026: Mix B 2,500 g/palm (P2012 programme, Agro 1/2026 Appendix 1a; surface broadcast; Mix B = 45% SOA, 40% MOP, 14% kieserite, 1% borate; RP 28–30% P2O5) (Agro 1/2026)
@@ -605,7 +602,7 @@ Spraying progress (May 2025–Apr 2026 (FY2025/26; no FY2026/27 progress in the 
   - Circle & path spray: 100% — 2 of 2 rds · 9.08 ha · RM19.38/ha/rd (PA 2/2026)
   - Selective spray: 100% — 4 of 4 rds · 18.16 ha · RM21.38/ha/rd (PA 2/2026)
 Spraying & weeding:
-  - Weeding rounds FY2025/26 (to Apr 2026) (Agro Table 9): Weeding status achieved in FY2025/26 (May 2025–Apr 2026): interrow rd 1 100%, interrow rd 2 100%, interrow rd 3 100%, circle rd 1 100%, circle rd 2 100%; no entry for circle rd 3 (Agro Table 9). (Agro 1/2026)
+  - Weeding rounds FY2025/26: Weeding status achieved in FY2025/26 (May 2025–Apr 2026): interrow rd 1 100%, interrow rd 2 100%, interrow rd 3 100%, circle rd 1 100%, circle rd 2 100%; no entry for circle rd 3 (Agro Table 9). (Agro 1/2026)
 Fertiliser programme (this year) FY2026/27:
   - May 2026: Mix B 2,500 g/palm (P2008 programme, Agro 1/2026 Appendix 1a; surface broadcast; Mix B = 45% SOA, 40% MOP, 14% kieserite, 1% borate; RP 28–30% P2O5) (Agro 1/2026)
   - Aug 2026: Mix B 2,200 g/palm (P2008) (Agro 1/2026)
@@ -627,7 +624,7 @@ Spraying progress (May 2025–Apr 2026 (FY2025/26; no FY2026/27 progress in the 
   - Circle & path spray: 100% — 2 of 2 rds · 22.56 ha · RM17.96/ha/rd (PA 2/2026)
   - Selective spray: 75% — 3 of 4 rds · 33.84 ha · RM18.48/ha/rd (PA 2/2026)
 Spraying & weeding:
-  - Weeding rounds FY2025/26 (to Apr 2026) (Agro Table 9): Weeding status achieved in FY2025/26 (May 2025–Apr 2026): interrow rd 1 100%, interrow rd 2 100%, interrow rd 3 100%, circle rd 1 100%, circle rd 2 100%; no entry for circle rd 3 (Agro Table 9). (Agro 1/2026)
+  - Weeding rounds FY2025/26: Weeding status achieved in FY2025/26 (May 2025–Apr 2026): interrow rd 1 100%, interrow rd 2 100%, interrow rd 3 100%, circle rd 1 100%, circle rd 2 100%; no entry for circle rd 3 (Agro Table 9). (Agro 1/2026)
   - Circle condition Aug 2026: Satisfactory circle spraying, clean palm circle (PA Photo 3). (PA 2/2026)
 Fertiliser programme (this year) FY2026/27:
   - Jun 2026: Mix B 2,500 g/palm (P2012 programme, Agro 1/2026 Appendix 1a; surface broadcast; Mix B = 45% SOA, 40% MOP, 14% kieserite, 1% borate; RP 28–30% P2O5) (Agro 1/2026)
@@ -649,7 +646,7 @@ Spraying progress (May 2025–Apr 2026 (FY2025/26; no FY2026/27 progress in the 
   - Circle & path spray: 100% — 2 of 2 rds · 12.98 ha · RM14.02/ha/rd (PA 2/2026)
   - Selective spray: 75% — 3 of 4 rds · 19.47 ha · RM17.13/ha/rd (PA 2/2026)
 Spraying & weeding:
-  - Weeding rounds FY2025/26 (to Apr 2026) (Agro Table 9): Weeding status achieved in FY2025/26 (May 2025–Apr 2026): interrow rd 1 100%, interrow rd 2 100%, interrow rd 3 100%, circle rd 1 100%, circle rd 2 100%; no entry for circle rd 3 (Agro Table 9). (Agro 1/2026)
+  - Weeding rounds FY2025/26: Weeding status achieved in FY2025/26 (May 2025–Apr 2026): interrow rd 1 100%, interrow rd 2 100%, interrow rd 3 100%, circle rd 1 100%, circle rd 2 100%; no entry for circle rd 3 (Agro Table 9). (Agro 1/2026)
 Fertiliser programme (this year) FY2026/27:
   - Jun 2026: Mix B 2,500 g/palm (P2012 programme, Agro 1/2026 Appendix 1a; surface broadcast; Mix B = 45% SOA, 40% MOP, 14% kieserite, 1% borate; RP 28–30% P2O5) (Agro 1/2026)
   - Sep 2026: Mix B 2,200 g/palm (P2012) (Agro 1/2026)
@@ -673,7 +670,7 @@ Spraying progress (May 2025–Apr 2026 (FY2025/26; no FY2026/27 progress in the 
   - Circle & path spray: 100% — 2 of 2 rds · 35.64 ha · RM14.66/ha/rd (PA 2/2026)
   - Selective spray: 75% — 3 of 4 rds · 53.46 ha · RM17.8/ha/rd (PA 2/2026)
 Spraying & weeding:
-  - Weeding rounds FY2025/26 (to Apr 2026) (Agro Table 9): Weeding status achieved in FY2025/26 (May 2025–Apr 2026): interrow rd 1 100%, interrow rd 2 100%, interrow rd 3 100%, circle rd 1 100%, circle rd 2 100%; no entry for circle rd 3 (Agro Table 9). (Agro 1/2026)
+  - Weeding rounds FY2025/26: Weeding status achieved in FY2025/26 (May 2025–Apr 2026): interrow rd 1 100%, interrow rd 2 100%, interrow rd 3 100%, circle rd 1 100%, circle rd 2 100%; no entry for circle rd 3 (Agro Table 9). (Agro 1/2026)
 Fertiliser programme (this year) FY2026/27:
   - Jun 2026: Mix B 2,500 g/palm (P2012 programme, Agro 1/2026 Appendix 1a; surface broadcast; Mix B = 45% SOA, 40% MOP, 14% kieserite, 1% borate; RP 28–30% P2O5) (Agro 1/2026)
   - Sep 2026: Mix B 2,200 g/palm (P2012) (Agro 1/2026)
@@ -696,7 +693,7 @@ Spraying progress (May 2025–Apr 2026 (FY2025/26; no FY2026/27 progress in the 
   - Circle & path spray: 100% — 2 of 2 rds · 0.7 ha · RM21.58/ha/rd (PA 2/2026)
   - Selective spray: 75% — 3 of 4 rds · 1.05 ha · RM16.29/ha/rd (PA 2/2026)
 Spraying & weeding:
-  - Weeding rounds FY2025/26 (to Apr 2026) (Agro Table 9): Weeding status achieved in FY2025/26 (May 2025–Apr 2026): interrow rd 1 100%, interrow rd 2 100%, circle rd 1 100%, circle rd 2 100%; no entry for interrow rd 3, circle rd 3 (Agro Table 9). (Agro 1/2026)
+  - Weeding rounds FY2025/26: Weeding status achieved in FY2025/26 (May 2025–Apr 2026): interrow rd 1 100%, interrow rd 2 100%, circle rd 1 100%, circle rd 2 100%; no entry for interrow rd 3, circle rd 3 (Agro Table 9). (Agro 1/2026)
 Fertiliser programme (this year) FY2026/27:
   - Jun 2026: Mix B 2,500 g/palm (P2012 programme, Agro 1/2026 Appendix 1a; surface broadcast; Mix B = 45% SOA, 40% MOP, 14% kieserite, 1% borate; RP 28–30% P2O5) (Agro 1/2026)
   - Sep 2026: Mix B 2,200 g/palm (P2012) (Agro 1/2026)
@@ -721,7 +718,7 @@ Spraying progress (May 2025–Apr 2026 (FY2025/26; no FY2026/27 progress in the 
   - Circle & path spray: 100% — 2 of 2 rds · 40.7 ha · RM15.31/ha/rd (PA 2/2026)
   - Selective spray: 100% — 4 of 4 rds · 81.4 ha · RM21.62/ha/rd (PA 2/2026)
 Spraying & weeding:
-  - Weeding rounds FY2025/26 (to Apr 2026) (Agro Table 9): Weeding status achieved in FY2025/26 (May 2025–Apr 2026): interrow rd 1 100%, interrow rd 2 100%, interrow rd 3 100%, circle rd 1 100%, circle rd 2 100%; no entry for circle rd 3 (Agro Table 9). (Agro 1/2026)
+  - Weeding rounds FY2025/26: Weeding status achieved in FY2025/26 (May 2025–Apr 2026): interrow rd 1 100%, interrow rd 2 100%, interrow rd 3 100%, circle rd 1 100%, circle rd 2 100%; no entry for circle rd 3 (Agro Table 9). (Agro 1/2026)
   - Ground cover May 2026: Slightly bare, with some soft grasses (Agro 4.4.4, May 2026 visit). (Agro 1/2026)
 Fertiliser programme (this year) FY2026/27:
   - Jun 2026: Mix B 2,500 g/palm (P2012 programme, Agro 1/2026 Appendix 1a; surface broadcast; Mix B = 45% SOA, 40% MOP, 14% kieserite, 1% borate; RP 28–30% P2O5) (Agro 1/2026)
@@ -746,7 +743,7 @@ Spraying progress (May 2025–Apr 2026 (FY2025/26; no FY2026/27 progress in the 
   - Circle & path spray: 100% — 2 of 2 rds · 43.5 ha · RM15.64/ha/rd (PA 2/2026)
   - Selective spray: 100% — 4 of 4 rds · 87 ha · RM22.08/ha/rd (PA 2/2026)
 Spraying & weeding:
-  - Weeding rounds FY2025/26 (to Apr 2026) (Agro Table 9): Weeding status achieved in FY2025/26 (May 2025–Apr 2026): interrow rd 1 100%, interrow rd 2 100%, interrow rd 3 100%, circle rd 1 100%, circle rd 2 100%; no entry for circle rd 3 (Agro Table 9). (Agro 1/2026)
+  - Weeding rounds FY2025/26: Weeding status achieved in FY2025/26 (May 2025–Apr 2026): interrow rd 1 100%, interrow rd 2 100%, interrow rd 3 100%, circle rd 1 100%, circle rd 2 100%; no entry for circle rd 3 (Agro Table 9). (Agro 1/2026)
   - Molineria May 2026: Suspected Molineria latifolia (Rumput Lemba) not controlled by glyphosate + Ally, paraquat + Ally or Garlon; try 2,4-D amine + Garlon or glyphosate + Garlon with a wetting agent, spot-sprayed by CKS (Agro 4.4.14–4.4.16, Photos 80–83). (Agro 1/2026)
 Fertiliser programme (this year) FY2026/27:
   - Jun 2026: Mix B 2,500 g/palm (P2012 programme, Agro 1/2026 Appendix 1a; surface broadcast; Mix B = 45% SOA, 40% MOP, 14% kieserite, 1% borate; RP 28–30% P2O5) (Agro 1/2026)
@@ -772,7 +769,7 @@ Spraying progress (May 2025–Apr 2026 (FY2025/26; no FY2026/27 progress in the 
   - Circle & path spray: 100% — 2 of 2 rds · 59.88 ha · RM15.29/ha/rd (PA 2/2026)
   - Selective spray: 100% — 4 of 4 rds · 119.76 ha · RM21.59/ha/rd (PA 2/2026)
 Spraying & weeding:
-  - Weeding rounds FY2025/26 (to Apr 2026) (Agro Table 9): Weeding status achieved in FY2025/26 (May 2025–Apr 2026): interrow rd 1 100%, interrow rd 2 100%, interrow rd 3 100%, circle rd 1 100%, circle rd 2 100%; no entry for circle rd 3 (Agro Table 9). (Agro 1/2026)
+  - Weeding rounds FY2025/26: Weeding status achieved in FY2025/26 (May 2025–Apr 2026): interrow rd 1 100%, interrow rd 2 100%, interrow rd 3 100%, circle rd 1 100%, circle rd 2 100%; no entry for circle rd 3 (Agro Table 9). (Agro 1/2026)
   - Ground cover May 2026: Slightly bare, with some soft grasses (Agro 4.4.4, May 2026 visit). (Agro 1/2026)
   - Glyphosate overspray Aug 2026: Bare ground from glyphosate overspray, which should be prevented (PA Photos 5–6). (PA 2/2026)
 Fertiliser programme (this year) FY2026/27:
@@ -798,7 +795,7 @@ Spraying progress (May 2025–Apr 2026 (FY2025/26; no FY2026/27 progress in the 
   - Circle & path spray: 100% — 2 of 2 rds · 30.66 ha · RM15.52/ha/rd (PA 2/2026)
   - Selective spray: 100% — 4 of 4 rds · 61.32 ha · RM21.53/ha/rd (PA 2/2026)
 Spraying & weeding:
-  - Weeding rounds FY2025/26 (to Apr 2026) (Agro Table 9): Weeding status achieved in FY2025/26 (May 2025–Apr 2026): interrow rd 1 100%, interrow rd 2 100%, interrow rd 3 100%, circle rd 1 100%, circle rd 2 100%; no entry for circle rd 3 (Agro Table 9). (Agro 1/2026)
+  - Weeding rounds FY2025/26: Weeding status achieved in FY2025/26 (May 2025–Apr 2026): interrow rd 1 100%, interrow rd 2 100%, interrow rd 3 100%, circle rd 1 100%, circle rd 2 100%; no entry for circle rd 3 (Agro Table 9). (Agro 1/2026)
 Fertiliser programme (this year) FY2026/27:
   - Jun 2026: Mix B 2,500 g/palm (P2012 programme, Agro 1/2026 Appendix 1a; surface broadcast; Mix B = 45% SOA, 40% MOP, 14% kieserite, 1% borate; RP 28–30% P2O5) (Agro 1/2026)
   - Sep 2026: Mix B 2,200 g/palm (P2012) (Agro 1/2026)
@@ -819,7 +816,7 @@ Spraying progress (May 2025–Apr 2026 (FY2025/26; no FY2026/27 progress in the 
   - Circle & path spray: 100% — 2 of 2 rds · 1.78 ha · RM16.41/ha/rd (PA 2/2026)
   - Selective spray: 100% — 4 of 4 rds · 3.56 ha · RM16.17/ha/rd (PA 2/2026)
 Spraying & weeding:
-  - Weeding rounds FY2025/26 (to Apr 2026) (Agro Table 9): Weeding status achieved in FY2025/26 (May 2025–Apr 2026): interrow rd 1 100%, interrow rd 2 100%, interrow rd 3 100%, circle rd 1 100%, circle rd 2 100%; no entry for circle rd 3 (Agro Table 9). (Agro 1/2026)
+  - Weeding rounds FY2025/26: Weeding status achieved in FY2025/26 (May 2025–Apr 2026): interrow rd 1 100%, interrow rd 2 100%, interrow rd 3 100%, circle rd 1 100%, circle rd 2 100%; no entry for circle rd 3 (Agro Table 9). (Agro 1/2026)
 Fertiliser programme (this year) FY2026/27:
   - Jun 2026: Mix B 2,500 g/palm (P2012 programme, Agro 1/2026 Appendix 1a; surface broadcast; Mix B = 45% SOA, 40% MOP, 14% kieserite, 1% borate; RP 28–30% P2O5) (Agro 1/2026)
   - Sep 2026: Mix B 2,200 g/palm (P2012) (Agro 1/2026)
@@ -840,7 +837,7 @@ Spraying progress (May 2025–Apr 2026 (FY2025/26; no FY2026/27 progress in the 
   - Circle & path spray: 100% — 2 of 2 rds · 65.46 ha · RM18.83/ha/rd (PA 2/2026)
   - Selective spray: 100% — 4 of 4 rds · 130.92 ha · RM16.87/ha/rd (PA 2/2026)
 Spraying & weeding:
-  - Weeding rounds FY2025/26 (to Apr 2026) (Agro Table 9): Weeding status achieved in FY2025/26 (May 2025–Apr 2026): interrow rd 1 100%, interrow rd 2 100%, interrow rd 3 100%, circle rd 1 100%, circle rd 2 100%; no entry for circle rd 3 (Agro Table 9). (Agro 1/2026)
+  - Weeding rounds FY2025/26: Weeding status achieved in FY2025/26 (May 2025–Apr 2026): interrow rd 1 100%, interrow rd 2 100%, interrow rd 3 100%, circle rd 1 100%, circle rd 2 100%; no entry for circle rd 3 (Agro Table 9). (Agro 1/2026)
   - Ground cover May 2026: Slightly bare, with some soft grasses (Agro 4.4.4, May 2026 visit). (Agro 1/2026)
 Fertiliser programme (this year) FY2026/27:
   - Jun 2026: Mix B 2,500 g/palm (P2012 programme, Agro 1/2026 Appendix 1a; surface broadcast; Mix B = 45% SOA, 40% MOP, 14% kieserite, 1% borate; RP 28–30% P2O5) (Agro 1/2026)
@@ -865,7 +862,7 @@ Spraying progress (May 2025–Apr 2026 (FY2025/26; no FY2026/27 progress in the 
   - Circle & path spray: 100% — 2 of 2 rds · 43.86 ha · RM18.99/ha/rd (PA 2/2026)
   - Selective spray: 100% — 4 of 4 rds · 87.72 ha · RM16.97/ha/rd (PA 2/2026)
 Spraying & weeding:
-  - Weeding rounds FY2025/26 (to Apr 2026) (Agro Table 9): Weeding status achieved in FY2025/26 (May 2025–Apr 2026): interrow rd 1 100%, interrow rd 2 100%, interrow rd 3 100%, circle rd 1 100%, circle rd 2 100%; no entry for circle rd 3 (Agro Table 9). (Agro 1/2026)
+  - Weeding rounds FY2025/26: Weeding status achieved in FY2025/26 (May 2025–Apr 2026): interrow rd 1 100%, interrow rd 2 100%, interrow rd 3 100%, circle rd 1 100%, circle rd 2 100%; no entry for circle rd 3 (Agro Table 9). (Agro 1/2026)
   - Glyphosate overspray Aug 2026: Glyphosate overspray to be avoided (PA Photo 8). (PA 2/2026)
 Fertiliser programme (this year) FY2026/27:
   - Jun 2026: Mix B 2,500 g/palm (P2012 programme, Agro 1/2026 Appendix 1a; surface broadcast; Mix B = 45% SOA, 40% MOP, 14% kieserite, 1% borate; RP 28–30% P2O5) (Agro 1/2026)
@@ -903,7 +900,7 @@ Spraying progress (May 2025–Apr 2026 (FY2025/26; no FY2026/27 progress in the 
 Manuring progress:
   - Straight-fertiliser trial FY2025/26 (to Apr 2026): Trial block for straight fertilisers (with DG15-08A1) (Agro 3.2). Special-block rounds for the 2 trial blocks combined, all 100% applied by Apr 2026 (Agro Table 5; months from PA Table 12): ZA rd 1 7.80 t (May 2025), MOP rd 1 7.80 t (Jun 2025), RP rd 1 7.80 t (Jul 2025), Kieserite rd 1 5.85 t (Aug 2025), HGFB 0.78 t (Sep 2025), urea 7.80 t (Oct 2025), MOP rd 2 7.80 t (Nov 2025), RP rd 2 7.80 t (Dec 2025), Kieserite rd 2 5.85 t (Jan 2026), ZA rd 2 7.80 t (printed Feb 2025), MOP rd 3 7.80 t (printed Mar 2025). (Agro 1/2026)
 Spraying & weeding:
-  - Weeding rounds FY2025/26 (to Apr 2026) (Agro Table 9): Weeding status achieved in FY2025/26 (May 2025–Apr 2026): interrow rd 1 100%, interrow rd 2 100%, interrow rd 3 100%, circle rd 1 100%, circle rd 2 100%; no entry for circle rd 3 (Agro Table 9). (Agro 1/2026)
+  - Weeding rounds FY2025/26: Weeding status achieved in FY2025/26 (May 2025–Apr 2026): interrow rd 1 100%, interrow rd 2 100%, interrow rd 3 100%, circle rd 1 100%, circle rd 2 100%; no entry for circle rd 3 (Agro Table 9). (Agro 1/2026)
   - Ground cover May 2026: Slightly bare, with some soft grasses (Agro 4.4.4, May 2026 visit). (Agro 1/2026)
   - Fern & sedge spray Aug 2026: Satisfactory paraquat + Ally 20DF spraying on Stenochlaena and sedges (PA Photos 9–10). (PA 2/2026)
 Fertiliser programme (this year) FY2026/27:
@@ -933,7 +930,7 @@ Spraying progress (May 2025–Apr 2026 (FY2025/26; no FY2026/27 progress in the 
   - Circle & path spray: 100% — 2 of 2 rds · 43.18 ha · RM15.56/ha/rd (PA 2/2026)
   - Selective spray: 100% — 4 of 4 rds · 86.36 ha · RM15.87/ha/rd (PA 2/2026)
 Spraying & weeding:
-  - Weeding rounds FY2025/26 (to Apr 2026) (Agro Table 9): Weeding status achieved in FY2025/26 (May 2025–Apr 2026): interrow rd 1 100%, interrow rd 2 100%, interrow rd 3 100%, circle rd 1 100%, circle rd 2 100%; no entry for circle rd 3 (Agro Table 9). (Agro 1/2026)
+  - Weeding rounds FY2025/26: Weeding status achieved in FY2025/26 (May 2025–Apr 2026): interrow rd 1 100%, interrow rd 2 100%, interrow rd 3 100%, circle rd 1 100%, circle rd 2 100%; no entry for circle rd 3 (Agro Table 9). (Agro 1/2026)
   - Glyphosate overspray Aug 2026: Glyphosate overspray killed the soft grasses and left bare ground (PA Photo 4). (PA 2/2026)
 Fertiliser programme (this year) FY2026/27:
   - Jun 2026: Mix B 2,500 g/palm (P2012 programme, Agro 1/2026 Appendix 1a; surface broadcast; Mix B = 45% SOA, 40% MOP, 14% kieserite, 1% borate; RP 28–30% P2O5) (Agro 1/2026)
@@ -957,7 +954,7 @@ Spraying progress (May 2025–Apr 2026 (FY2025/26; no FY2026/27 progress in the 
   - Circle & path spray: 100% — 2 of 2 rds · 53.94 ha · RM15.47/ha/rd (PA 2/2026)
   - Selective spray: 75% — 3 of 4 rds · 80.91 ha · RM18.19/ha/rd (PA 2/2026)
 Spraying & weeding:
-  - Weeding rounds FY2025/26 (to Apr 2026) (Agro Table 9): Weeding status achieved in FY2025/26 (May 2025–Apr 2026): interrow rd 1 100%, interrow rd 2 100%, interrow rd 3 100%, circle rd 1 100%, circle rd 2 100%; no entry for circle rd 3 (Agro Table 9). (Agro 1/2026)
+  - Weeding rounds FY2025/26: Weeding status achieved in FY2025/26 (May 2025–Apr 2026): interrow rd 1 100%, interrow rd 2 100%, interrow rd 3 100%, circle rd 1 100%, circle rd 2 100%; no entry for circle rd 3 (Agro Table 9). (Agro 1/2026)
   - Ground cover May 2026: Slightly bare, with some soft grasses (Agro 4.4.4, May 2026 visit). (Agro 1/2026)
 Fertiliser programme (this year) FY2026/27:
   - Jun 2026: Mix B 2,500 g/palm (P2012 programme, Agro 1/2026 Appendix 1a; surface broadcast; Mix B = 45% SOA, 40% MOP, 14% kieserite, 1% borate; RP 28–30% P2O5) (Agro 1/2026)
@@ -982,7 +979,7 @@ Spraying progress (May 2025–Apr 2026 (FY2025/26; no FY2026/27 progress in the 
   - Circle & path spray: 100% — 2 of 2 rds · 49.62 ha · RM15.09/ha/rd (PA 2/2026)
   - Selective spray: 75% — 3 of 4 rds · 74.43 ha · RM18.2/ha/rd (PA 2/2026)
 Spraying & weeding:
-  - Weeding rounds FY2025/26 (to Apr 2026) (Agro Table 9): Weeding status achieved in FY2025/26 (May 2025–Apr 2026): interrow rd 1 100%, interrow rd 2 100%, interrow rd 3 100%, circle rd 1 100%, circle rd 2 100%; no entry for circle rd 3 (Agro Table 9). (Agro 1/2026)
+  - Weeding rounds FY2025/26: Weeding status achieved in FY2025/26 (May 2025–Apr 2026): interrow rd 1 100%, interrow rd 2 100%, interrow rd 3 100%, circle rd 1 100%, circle rd 2 100%; no entry for circle rd 3 (Agro Table 9). (Agro 1/2026)
 Fertiliser programme (this year) FY2026/27:
   - Jun 2026: Mix B 2,500 g/palm (P2012 programme, Agro 1/2026 Appendix 1a; surface broadcast; Mix B = 45% SOA, 40% MOP, 14% kieserite, 1% borate; RP 28–30% P2O5) (Agro 1/2026)
   - Sep 2026: Mix B 2,200 g/palm (P2012) (Agro 1/2026)
@@ -1006,7 +1003,7 @@ Spraying progress (May 2025–Apr 2026 (FY2025/26; no FY2026/27 progress in the 
   - Circle & path spray: 100% — 2 of 2 rds · 3.3 ha · RM15.06/ha/rd (PA 2/2026)
   - Selective spray: 75% — 3 of 4 rds · 4.95 ha · RM24/ha/rd (PA 2/2026)
 Spraying & weeding:
-  - Weeding rounds FY2025/26 (to Apr 2026) (Agro Table 9): Weeding status achieved in FY2025/26 (May 2025–Apr 2026): interrow rd 1 100%, interrow rd 2 100%, interrow rd 3 100%, circle rd 1 100%, circle rd 2 100%; no entry for circle rd 3 (Agro Table 9). (Agro 1/2026)
+  - Weeding rounds FY2025/26: Weeding status achieved in FY2025/26 (May 2025–Apr 2026): interrow rd 1 100%, interrow rd 2 100%, interrow rd 3 100%, circle rd 1 100%, circle rd 2 100%; no entry for circle rd 3 (Agro Table 9). (Agro 1/2026)
 Fertiliser programme (this year) FY2026/27:
   - Jun 2026: Mix B 2,500 g/palm (P2012 programme, Agro 1/2026 Appendix 1a; surface broadcast; Mix B = 45% SOA, 40% MOP, 14% kieserite, 1% borate; RP 28–30% P2O5) (Agro 1/2026)
   - Sep 2026: Mix B 2,200 g/palm (P2012) (Agro 1/2026)
@@ -1029,7 +1026,7 @@ Spraying progress (May 2025–Apr 2026 (FY2025/26; no FY2026/27 progress in the 
   - Circle & path spray: 100% — 2 of 2 rds · 4.36 ha · RM14.9/ha/rd (PA 2/2026)
   - Selective spray: 75% — 3 of 4 rds · 6.54 ha · RM26.86/ha/rd (PA 2/2026)
 Spraying & weeding:
-  - Weeding rounds FY2025/26 (to Apr 2026) (Agro Table 9): Weeding status achieved in FY2025/26 (May 2025–Apr 2026): interrow rd 1 100%, interrow rd 2 100%, interrow rd 3 100%, circle rd 1 100%, circle rd 2 100%; no entry for circle rd 3 (Agro Table 9). (Agro 1/2026)
+  - Weeding rounds FY2025/26: Weeding status achieved in FY2025/26 (May 2025–Apr 2026): interrow rd 1 100%, interrow rd 2 100%, interrow rd 3 100%, circle rd 1 100%, circle rd 2 100%; no entry for circle rd 3 (Agro Table 9). (Agro 1/2026)
 Fertiliser programme (this year) FY2026/27:
   - Jun 2026: Mix B 2,500 g/palm (P2012 programme, Agro 1/2026 Appendix 1a; surface broadcast; Mix B = 45% SOA, 40% MOP, 14% kieserite, 1% borate; RP 28–30% P2O5) (Agro 1/2026)
   - Sep 2026: Mix B 2,200 g/palm (P2012) (Agro 1/2026)
@@ -1050,7 +1047,7 @@ Spraying progress (May 2025–Apr 2026 (FY2025/26; no FY2026/27 progress in the 
   - Circle & path spray: 100% — 2 of 2 rds · 24.02 ha · RM15.05/ha/rd (PA 2/2026)
   - Selective spray: 75% — 3 of 4 rds · 36.03 ha · RM19.15/ha/rd (PA 2/2026)
 Spraying & weeding:
-  - Weeding rounds FY2025/26 (to Apr 2026) (Agro Table 9): Weeding status achieved in FY2025/26 (May 2025–Apr 2026): interrow rd 1 100%, interrow rd 2 100%, interrow rd 3 100%, circle rd 1 100%, circle rd 2 100%; no entry for circle rd 3 (Agro Table 9). (Agro 1/2026)
+  - Weeding rounds FY2025/26: Weeding status achieved in FY2025/26 (May 2025–Apr 2026): interrow rd 1 100%, interrow rd 2 100%, interrow rd 3 100%, circle rd 1 100%, circle rd 2 100%; no entry for circle rd 3 (Agro Table 9). (Agro 1/2026)
 Fertiliser programme (this year) FY2026/27:
   - Jun 2026: Mix B 2,500 g/palm (P2012 programme, Agro 1/2026 Appendix 1a; surface broadcast; Mix B = 45% SOA, 40% MOP, 14% kieserite, 1% borate; RP 28–30% P2O5) (Agro 1/2026)
   - Sep 2026: Mix B 2,200 g/palm (P2012) (Agro 1/2026)
@@ -1074,7 +1071,7 @@ Spraying progress (May 2025–Apr 2026 (FY2025/26; no FY2026/27 progress in the 
   - Circle & path spray: 100% — 2 of 2 rds · 54.5 ha · RM32.25/ha/rd (PA 2/2026)
   - Selective spray: 75% — 3 of 4 rds · 81.75 ha · RM18.73/ha/rd (PA 2/2026)
 Spraying & weeding:
-  - Weeding rounds FY2025/26 (to Apr 2026) (Agro Table 9): Weeding status achieved in FY2025/26 (May 2025–Apr 2026): interrow rd 1 100%, interrow rd 2 100%, interrow rd 3 100%, circle rd 1 100%, circle rd 2 100%; no entry for circle rd 3 (Agro Table 9). (Agro 1/2026)
+  - Weeding rounds FY2025/26: Weeding status achieved in FY2025/26 (May 2025–Apr 2026): interrow rd 1 100%, interrow rd 2 100%, interrow rd 3 100%, circle rd 1 100%, circle rd 2 100%; no entry for circle rd 3 (Agro Table 9). (Agro 1/2026)
   - Ground cover May 2026: Slightly bare, with some soft grasses (Agro 4.4.4, May 2026 visit). (Agro 1/2026)
   - Weed patches May 2026: Localised patches of undesirable weeds in the interrow (Agro Photos 70–75); common species estate-wide are Clidemia hirta, wild bitter gourd, Asystasia intrusa, Stenochlaena palustris and Dicranopteris linearis, less dense than at the Nov 2025 visit (Agro 4.4.5). (Agro 1/2026)
 Fertiliser programme (this year) FY2026/27:
@@ -1101,7 +1098,7 @@ Spraying progress (May 2025–Apr 2026 (FY2025/26; no FY2026/27 progress in the 
   - Circle & path spray: 100% — 2 of 2 rds · 55.46 ha · RM20.71/ha/rd (PA 2/2026)
   - Selective spray: 75% — 3 of 4 rds · 83.19 ha · RM18.17/ha/rd (PA 2/2026)
 Spraying & weeding:
-  - Weeding rounds FY2025/26 (to Apr 2026) (Agro Table 9): Weeding status achieved in FY2025/26 (May 2025–Apr 2026): interrow rd 1 100%, interrow rd 2 100%, interrow rd 3 100%, circle rd 1 100%, circle rd 2 100%; no entry for circle rd 3 (Agro Table 9). (Agro 1/2026)
+  - Weeding rounds FY2025/26: Weeding status achieved in FY2025/26 (May 2025–Apr 2026): interrow rd 1 100%, interrow rd 2 100%, interrow rd 3 100%, circle rd 1 100%, circle rd 2 100%; no entry for circle rd 3 (Agro Table 9). (Agro 1/2026)
 Fertiliser programme (this year) FY2026/27:
   - Jun 2026: Mix B 2,500 g/palm (P2012 programme, Agro 1/2026 Appendix 1a; surface broadcast; Mix B = 45% SOA, 40% MOP, 14% kieserite, 1% borate; RP 28–30% P2O5) (Agro 1/2026)
   - Sep 2026: Mix B 2,200 g/palm (P2012) (Agro 1/2026)
@@ -1122,7 +1119,7 @@ Spraying progress (May 2025–Apr 2026 (FY2025/26; no FY2026/27 progress in the 
   - Circle & path spray: 100% — 2 of 2 rds · 28.38 ha · RM18.66/ha/rd (PA 2/2026)
   - Selective spray: 100% — 4 of 4 rds · 56.76 ha · RM20.09/ha/rd (PA 2/2026)
 Spraying & weeding:
-  - Weeding rounds FY2025/26 (to Apr 2026) (Agro Table 9): Weeding status achieved in FY2025/26 (May 2025–Apr 2026): interrow rd 1 100%, interrow rd 2 100%, interrow rd 3 100%, circle rd 1 100%, circle rd 2 100%; no entry for circle rd 3 (Agro Table 9). (Agro 1/2026)
+  - Weeding rounds FY2025/26: Weeding status achieved in FY2025/26 (May 2025–Apr 2026): interrow rd 1 100%, interrow rd 2 100%, interrow rd 3 100%, circle rd 1 100%, circle rd 2 100%; no entry for circle rd 3 (Agro Table 9). (Agro 1/2026)
   - Ground cover May 2026: Slightly bare, with some soft grasses (Agro 4.4.4, May 2026 visit). (Agro 1/2026)
 Fertiliser programme (this year) FY2026/27:
   - Jun 2026: Mix B 2,500 g/palm (P2012 programme, Agro 1/2026 Appendix 1a; surface broadcast; Mix B = 45% SOA, 40% MOP, 14% kieserite, 1% borate; RP 28–30% P2O5) (Agro 1/2026)
@@ -1148,7 +1145,7 @@ Spraying progress (May 2025–Apr 2026 (FY2025/26; no FY2026/27 progress in the 
   - Circle & path spray: 100% — 2 of 2 rds · 4.4 ha · RM16.85/ha/rd (PA 2/2026)
   - Selective spray: 100% — 4 of 4 rds · 8.8 ha · RM19.05/ha/rd (PA 2/2026)
 Spraying & weeding:
-  - Weeding rounds FY2025/26 (to Apr 2026) (Agro Table 9): Weeding status achieved in FY2025/26 (May 2025–Apr 2026): interrow rd 1 100%, interrow rd 2 100%, interrow rd 3 100%, circle rd 1 100%, circle rd 2 100%; no entry for circle rd 3 (Agro Table 9). (Agro 1/2026)
+  - Weeding rounds FY2025/26: Weeding status achieved in FY2025/26 (May 2025–Apr 2026): interrow rd 1 100%, interrow rd 2 100%, interrow rd 3 100%, circle rd 1 100%, circle rd 2 100%; no entry for circle rd 3 (Agro Table 9). (Agro 1/2026)
 Fertiliser programme (this year) FY2026/27:
   - Jun 2026: Mix B 2,500 g/palm (P2012 programme, Agro 1/2026 Appendix 1a; surface broadcast; Mix B = 45% SOA, 40% MOP, 14% kieserite, 1% borate; RP 28–30% P2O5) (Agro 1/2026)
   - Sep 2026: Mix B 2,200 g/palm (P2012) (Agro 1/2026)
@@ -1169,7 +1166,7 @@ Spraying progress (May 2025–Apr 2026 (FY2025/26; no FY2026/27 progress in the 
   - Circle & path spray: 100% — 2 of 2 rds · 68.42 ha · RM17.04/ha/rd (PA 2/2026)
   - Selective spray: 100% — 4 of 4 rds · 136.84 ha · RM20.1/ha/rd (PA 2/2026)
 Spraying & weeding:
-  - Weeding rounds FY2025/26 (to Apr 2026) (Agro Table 9): Weeding status achieved in FY2025/26 (May 2025–Apr 2026): interrow rd 1 100%, interrow rd 2 100%, interrow rd 3 100%, circle rd 1 100%, circle rd 2 100%; no entry for circle rd 3 (Agro Table 9). (Agro 1/2026)
+  - Weeding rounds FY2025/26: Weeding status achieved in FY2025/26 (May 2025–Apr 2026): interrow rd 1 100%, interrow rd 2 100%, interrow rd 3 100%, circle rd 1 100%, circle rd 2 100%; no entry for circle rd 3 (Agro Table 9). (Agro 1/2026)
   - Ground cover May 2026: Slightly bare, with some soft grasses (Agro 4.4.4, May 2026 visit). (Agro 1/2026)
 Fertiliser programme (this year) FY2026/27:
   - Jun 2026: Mix B 2,500 g/palm (P2012 programme, Agro 1/2026 Appendix 1a; surface broadcast; Mix B = 45% SOA, 40% MOP, 14% kieserite, 1% borate; RP 28–30% P2O5) (Agro 1/2026)
@@ -1194,7 +1191,7 @@ Spraying progress (May 2025–Apr 2026 (FY2025/26; no FY2026/27 progress in the 
   - Circle & path spray: 100% — 2 of 2 rds · 16.06 ha · RM18.75/ha/rd (PA 2/2026)
   - Selective spray: 100% — 4 of 4 rds · 32.12 ha · RM32.92/ha/rd (PA 2/2026)
 Spraying & weeding:
-  - Weeding rounds FY2025/26 (to Apr 2026) (Agro Table 9): Weeding status achieved in FY2025/26 (May 2025–Apr 2026): interrow rd 1 100%, interrow rd 2 100%, circle rd 1 100%, circle rd 2 100%; no entry for interrow rd 3, circle rd 3 (Agro Table 9). (Agro 1/2026)
+  - Weeding rounds FY2025/26: Weeding status achieved in FY2025/26 (May 2025–Apr 2026): interrow rd 1 100%, interrow rd 2 100%, circle rd 1 100%, circle rd 2 100%; no entry for interrow rd 3, circle rd 3 (Agro Table 9). (Agro 1/2026)
 Fertiliser programme (this year) FY2026/27:
   - Jun 2026: Mix B 2,500 g/palm (P2012 programme, Agro 1/2026 Appendix 1a; surface broadcast; Mix B = 45% SOA, 40% MOP, 14% kieserite, 1% borate; RP 28–30% P2O5) (Agro 1/2026)
   - Sep 2026: Mix B 2,200 g/palm (P2012) (Agro 1/2026)
@@ -1215,7 +1212,7 @@ Spraying progress (May 2025–Apr 2026 (FY2025/26; no FY2026/27 progress in the 
   - Circle & path spray: 50% — 1 of 2 rds · 6.58 ha · RM24.53/ha/rd (PA 2/2026)
   - Selective spray: 75% — 3 of 4 rds · 19.74 ha · RM20.24/ha/rd (PA 2/2026)
 Spraying & weeding:
-  - Weeding rounds FY2025/26 (to Apr 2026) (Agro Table 9): Weeding status achieved in FY2025/26 (May 2025–Apr 2026): interrow rd 1 100%, interrow rd 2 100%, circle rd 1 100%; no entry for interrow rd 3, circle rd 2, circle rd 3 (Agro Table 9). (Agro 1/2026)
+  - Weeding rounds FY2025/26: Weeding status achieved in FY2025/26 (May 2025–Apr 2026): interrow rd 1 100%, interrow rd 2 100%, circle rd 1 100%; no entry for interrow rd 3, circle rd 2, circle rd 3 (Agro Table 9). (Agro 1/2026)
   - Circle spray shortfall FY2025/26 (to Apr 2026): Only 1 of 2 circle rounds done in May 2025–Apr 2026, the only mature block below 2 rounds (PA 6.1.1.3). (PA 2/2026)
 Fertiliser programme (this year) FY2026/27:
   - Jun 2026: Mix B 2,500 g/palm (P2012 programme, Agro 1/2026 Appendix 1a; surface broadcast; Mix B = 45% SOA, 40% MOP, 14% kieserite, 1% borate; RP 28–30% P2O5) (Agro 1/2026)
@@ -1238,7 +1235,7 @@ Spraying progress (May 2025–Apr 2026 (FY2025/26; no FY2026/27 progress in the 
   - Circle & path spray: 100% — 2 of 2 rds · 13.58 ha · RM18.34/ha/rd (PA 2/2026)
   - Selective spray: 100% — 4 of 4 rds · 27.16 ha · RM20.4/ha/rd (PA 2/2026)
 Spraying & weeding:
-  - Weeding rounds FY2025/26 (to Apr 2026) (Agro Table 9): Weeding status achieved in FY2025/26 (May 2025–Apr 2026): interrow rd 1 100%, interrow rd 2 100%, interrow rd 3 100%, circle rd 1 100%, circle rd 2 100%; no entry for circle rd 3 (Agro Table 9). (Agro 1/2026)
+  - Weeding rounds FY2025/26: Weeding status achieved in FY2025/26 (May 2025–Apr 2026): interrow rd 1 100%, interrow rd 2 100%, interrow rd 3 100%, circle rd 1 100%, circle rd 2 100%; no entry for circle rd 3 (Agro Table 9). (Agro 1/2026)
 Fertiliser programme (this year) FY2026/27:
   - Jun 2026: Mix B 2,500 g/palm (P2012 programme, Agro 1/2026 Appendix 1a; surface broadcast; Mix B = 45% SOA, 40% MOP, 14% kieserite, 1% borate; RP 28–30% P2O5) (Agro 1/2026)
   - Sep 2026: Mix B 2,200 g/palm (P2012) (Agro 1/2026)
@@ -1261,7 +1258,7 @@ Spraying progress (May 2025–Apr 2026 (FY2025/26; no FY2026/27 progress in the 
   - Circle & path spray: 100% — 2 of 2 rds · 12.14 ha · RM24.02/ha/rd (PA 2/2026)
   - Selective spray: 100% — 4 of 4 rds · 24.28 ha · RM20.64/ha/rd (PA 2/2026)
 Spraying & weeding:
-  - Weeding rounds FY2025/26 (to Apr 2026) (Agro Table 9): Weeding status achieved in FY2025/26 (May 2025–Apr 2026): interrow rd 1 100%, interrow rd 2 100%, interrow rd 3 100%, circle rd 1 100%, circle rd 2 100%; no entry for circle rd 3 (Agro Table 9). (Agro 1/2026)
+  - Weeding rounds FY2025/26: Weeding status achieved in FY2025/26 (May 2025–Apr 2026): interrow rd 1 100%, interrow rd 2 100%, interrow rd 3 100%, circle rd 1 100%, circle rd 2 100%; no entry for circle rd 3 (Agro Table 9). (Agro 1/2026)
 Fertiliser programme (this year) FY2026/27:
   - Jun 2026: Mix B 2,500 g/palm (P2012 programme, Agro 1/2026 Appendix 1a; surface broadcast; Mix B = 45% SOA, 40% MOP, 14% kieserite, 1% borate; RP 28–30% P2O5) (Agro 1/2026)
   - Sep 2026: Mix B 2,200 g/palm (P2012) (Agro 1/2026)
@@ -1282,7 +1279,7 @@ Spraying progress (May 2025–Apr 2026 (FY2025/26; no FY2026/27 progress in the 
   - Circle & path spray: 100% — 2 of 2 rds · 8.84 ha · RM19.1/ha/rd (PA 2/2026)
   - Selective spray: 100% — 4 of 4 rds · 17.68 ha · RM22.2/ha/rd (PA 2/2026)
 Spraying & weeding:
-  - Weeding rounds FY2025/26 (to Apr 2026) (Agro Table 9): Weeding status achieved in FY2025/26 (May 2025–Apr 2026): interrow rd 1 100%, interrow rd 2 100%, interrow rd 3 100%, circle rd 1 100%, circle rd 2 100%; no entry for circle rd 3 (Agro Table 9). (Agro 1/2026)
+  - Weeding rounds FY2025/26: Weeding status achieved in FY2025/26 (May 2025–Apr 2026): interrow rd 1 100%, interrow rd 2 100%, interrow rd 3 100%, circle rd 1 100%, circle rd 2 100%; no entry for circle rd 3 (Agro Table 9). (Agro 1/2026)
 Fertiliser programme (this year) FY2026/27:
   - Jun 2026: Mix B 2,500 g/palm (P2012 programme, Agro 1/2026 Appendix 1a; surface broadcast; Mix B = 45% SOA, 40% MOP, 14% kieserite, 1% borate; RP 28–30% P2O5) (Agro 1/2026)
   - Sep 2026: Mix B 2,200 g/palm (P2012) (Agro 1/2026)
@@ -1304,7 +1301,7 @@ Spraying progress (May 2025–Apr 2026 (FY2025/26; no FY2026/27 progress in the 
   - Circle & path spray: 100% — 2 of 2 rds · 8.22 ha · RM19.1/ha/rd (PA 2/2026)
   - Selective spray: 100% — 4 of 4 rds · 16.44 ha · RM32.57/ha/rd (PA 2/2026)
 Spraying & weeding:
-  - Weeding rounds FY2025/26 (to Apr 2026) (Agro Table 9): Weeding status achieved in FY2025/26 (May 2025–Apr 2026): interrow rd 1 100%, interrow rd 2 100%, interrow rd 3 100%, circle rd 1 100%, circle rd 2 100%; no entry for circle rd 3 (Agro Table 9). (Agro 1/2026)
+  - Weeding rounds FY2025/26: Weeding status achieved in FY2025/26 (May 2025–Apr 2026): interrow rd 1 100%, interrow rd 2 100%, interrow rd 3 100%, circle rd 1 100%, circle rd 2 100%; no entry for circle rd 3 (Agro Table 9). (Agro 1/2026)
 Fertiliser programme (this year) FY2026/27:
   - Jun 2026: Mix B 2,500 g/palm (P2012 programme, Agro 1/2026 Appendix 1a; surface broadcast; Mix B = 45% SOA, 40% MOP, 14% kieserite, 1% borate; RP 28–30% P2O5) (Agro 1/2026)
   - Sep 2026: Mix B 2,200 g/palm (P2012) (Agro 1/2026)
@@ -1327,7 +1324,7 @@ Spraying progress (May 2025–Apr 2026 (FY2025/26; no FY2026/27 progress in the 
   - Circle & path spray: 100% — 2 of 2 rds · 12.24 ha · RM19.12/ha/rd (PA 2/2026)
   - Selective spray: 100% — 4 of 4 rds · 24.48 ha · RM32.15/ha/rd (PA 2/2026)
 Spraying & weeding:
-  - Weeding rounds FY2025/26 (to Apr 2026) (Agro Table 9): Weeding status achieved in FY2025/26 (May 2025–Apr 2026): interrow rd 1 100%, interrow rd 2 100%, interrow rd 3 100%, circle rd 1 100%, circle rd 2 100%; no entry for circle rd 3 (Agro Table 9). (Agro 1/2026)
+  - Weeding rounds FY2025/26: Weeding status achieved in FY2025/26 (May 2025–Apr 2026): interrow rd 1 100%, interrow rd 2 100%, interrow rd 3 100%, circle rd 1 100%, circle rd 2 100%; no entry for circle rd 3 (Agro Table 9). (Agro 1/2026)
 Fertiliser programme (this year) FY2026/27:
   - Jun 2026: Mix B 2,500 g/palm (P2012 programme, Agro 1/2026 Appendix 1a; surface broadcast; Mix B = 45% SOA, 40% MOP, 14% kieserite, 1% borate; RP 28–30% P2O5) (Agro 1/2026)
   - Sep 2026: Mix B 2,200 g/palm (P2012) (Agro 1/2026)
@@ -1350,7 +1347,7 @@ Spraying progress (May 2025–Apr 2026 (FY2025/26; no FY2026/27 progress in the 
   - Circle & path spray: 100% — 2 of 2 rds · 54.36 ha · RM16.99/ha/rd (PA 2/2026)
   - Selective spray: 100% — 4 of 4 rds · 108.72 ha · RM19/ha/rd (PA 2/2026)
 Spraying & weeding:
-  - Weeding rounds FY2025/26 (to Apr 2026) (Agro Table 9): Weeding status achieved in FY2025/26 (May 2025–Apr 2026): interrow rd 1 100%, interrow rd 2 100%, interrow rd 3 100%, circle rd 1 100%, circle rd 2 100%; no entry for circle rd 3 (Agro Table 9). (Agro 1/2026)
+  - Weeding rounds FY2025/26: Weeding status achieved in FY2025/26 (May 2025–Apr 2026): interrow rd 1 100%, interrow rd 2 100%, interrow rd 3 100%, circle rd 1 100%, circle rd 2 100%; no entry for circle rd 3 (Agro Table 9). (Agro 1/2026)
   - Ground cover May 2026: Slightly bare, with some soft grasses (Agro 4.4.4, May 2026 visit). (Agro 1/2026)
 Fertiliser programme (this year) FY2026/27:
   - Jun 2026: Mix B 2,500 g/palm (P2012 programme, Agro 1/2026 Appendix 1a; surface broadcast; Mix B = 45% SOA, 40% MOP, 14% kieserite, 1% borate; RP 28–30% P2O5) (Agro 1/2026)
@@ -1375,7 +1372,7 @@ Spraying progress (May 2025–Apr 2026 (FY2025/26; no FY2026/27 progress in the 
   - Circle & path spray: 100% — 2 of 2 rds · 55.42 ha · RM14.01/ha/rd (PA 2/2026)
   - Selective spray: 100% — 4 of 4 rds · 110.84 ha · RM31.87/ha/rd (PA 2/2026)
 Spraying & weeding:
-  - Weeding rounds FY2025/26 (to Apr 2026) (Agro Table 9): Weeding status achieved in FY2025/26 (May 2025–Apr 2026): interrow rd 1 100%, interrow rd 2 100%, interrow rd 3 100%, circle rd 1 100%, circle rd 2 100%; no entry for circle rd 3 (Agro Table 9). (Agro 1/2026)
+  - Weeding rounds FY2025/26: Weeding status achieved in FY2025/26 (May 2025–Apr 2026): interrow rd 1 100%, interrow rd 2 100%, interrow rd 3 100%, circle rd 1 100%, circle rd 2 100%; no entry for circle rd 3 (Agro Table 9). (Agro 1/2026)
   - Ground cover May 2026: Slightly bare, with some soft grasses (Agro 4.4.4, May 2026 visit). (Agro 1/2026)
   - Weed patches May 2026: Localised patches of undesirable weeds in the interrow (Agro Photos 70–75); common species estate-wide are Clidemia hirta, wild bitter gourd, Asystasia intrusa, Stenochlaena palustris and Dicranopteris linearis, less dense than at the Nov 2025 visit (Agro 4.4.5). (Agro 1/2026)
 Fertiliser programme (this year) FY2026/27:
@@ -1401,7 +1398,7 @@ Spraying progress (May 2025–Apr 2026 (FY2025/26; no FY2026/27 progress in the 
   - Circle & path spray: 100% — 2 of 2 rds · 46.34 ha · RM13.98/ha/rd (PA 2/2026)
   - Selective spray: 100% — 4 of 4 rds · 92.68 ha · RM34.63/ha/rd (PA 2/2026)
 Spraying & weeding:
-  - Weeding rounds FY2025/26 (to Apr 2026) (Agro Table 9): Weeding status achieved in FY2025/26 (May 2025–Apr 2026): interrow rd 1 100%, interrow rd 2 100%, interrow rd 3 100%, circle rd 1 100%, circle rd 2 100%; no entry for circle rd 3 (Agro Table 9). (Agro 1/2026)
+  - Weeding rounds FY2025/26: Weeding status achieved in FY2025/26 (May 2025–Apr 2026): interrow rd 1 100%, interrow rd 2 100%, interrow rd 3 100%, circle rd 1 100%, circle rd 2 100%; no entry for circle rd 3 (Agro Table 9). (Agro 1/2026)
 Fertiliser programme (this year) FY2026/27:
   - Jun 2026: Mix B 2,500 g/palm (P2012 programme, Agro 1/2026 Appendix 1a; surface broadcast; Mix B = 45% SOA, 40% MOP, 14% kieserite, 1% borate; RP 28–30% P2O5) (Agro 1/2026)
   - Sep 2026: Mix B 2,200 g/palm (P2012) (Agro 1/2026)
@@ -1424,7 +1421,7 @@ Spraying progress (May 2025–Apr 2026 (FY2025/26; no FY2026/27 progress in the 
   - Circle & path spray: 100% — 2 of 2 rds · 40.3 ha · RM15.46/ha/rd (PA 2/2026)
   - Selective spray: 100% — 4 of 4 rds · 80.6 ha · RM20.08/ha/rd (PA 2/2026)
 Spraying & weeding:
-  - Weeding rounds FY2025/26 (to Apr 2026) (Agro Table 9): Weeding status achieved in FY2025/26 (May 2025–Apr 2026): interrow rd 1 100%, interrow rd 2 100%, interrow rd 3 100%, circle rd 1 100%, circle rd 2 100%, circle rd 3 100% (Agro Table 9). (Agro 1/2026)
+  - Weeding rounds FY2025/26: Weeding status achieved in FY2025/26 (May 2025–Apr 2026): interrow rd 1 100%, interrow rd 2 100%, interrow rd 3 100%, circle rd 1 100%, circle rd 2 100%, circle rd 3 100% (Agro Table 9). (Agro 1/2026)
 Fertiliser programme (this year) FY2026/27:
   - Jun 2026: Mix B 2,500 g/palm (P2012 programme, Agro 1/2026 Appendix 1a; surface broadcast; Mix B = 45% SOA, 40% MOP, 14% kieserite, 1% borate; RP 28–30% P2O5) (Agro 1/2026)
   - Sep 2026: Mix B 2,200 g/palm (P2012) (Agro 1/2026)
@@ -1448,7 +1445,7 @@ Spraying progress (May 2025–Apr 2026 (FY2025/26; no FY2026/27 progress in the 
   - Circle & path spray: 100% — 2 of 2 rds · 40.72 ha · RM16.09/ha/rd (PA 2/2026)
   - Selective spray: 100% — 4 of 4 rds · 81.44 ha · RM20.05/ha/rd (PA 2/2026)
 Spraying & weeding:
-  - Weeding rounds FY2025/26 (to Apr 2026) (Agro Table 9): Weeding status achieved in FY2025/26 (May 2025–Apr 2026): interrow rd 1 100%, interrow rd 2 100%, interrow rd 3 100%, circle rd 1 100%, circle rd 2 100%, circle rd 3 100% (Agro Table 9). (Agro 1/2026)
+  - Weeding rounds FY2025/26: Weeding status achieved in FY2025/26 (May 2025–Apr 2026): interrow rd 1 100%, interrow rd 2 100%, interrow rd 3 100%, circle rd 1 100%, circle rd 2 100%, circle rd 3 100% (Agro Table 9). (Agro 1/2026)
   - Ground cover May 2026: Slightly bare, with some soft grasses (Agro 4.4.4, May 2026 visit). (Agro 1/2026)
 Fertiliser programme (this year) FY2026/27:
   - May 2026: Mix B 2,500 g/palm (P2013 programme, Agro 1/2026 Appendix 1a; surface broadcast; Mix B = 45% SOA, 40% MOP, 14% kieserite, 1% borate; RP 28–30% P2O5) (Agro 1/2026)

@@ -166,11 +166,10 @@ Harvesting:
   - Harvesting interval FY2025/26 (May 2025–Apr 2026): May 2025–Apr 2026, month by month: 14-21, 13-24, 12-16, 12-20, 16-25, 11-20, 15-19, 16-19, 14-19, 13-15, 12-17, 12-17 days (Agro 2/2026)
   - Harvesters Mar 2026: 2006 planting: RM52/t, 2.37 t/man-day, average earnings RM123.24/day vs RM65.38 basic wage (PA 1/2026)
 Pruning:
-  - Progressive pruning FY2026/27 to Jul 2026: 0.00 of 247.92 ha programmed to date (0%). Estate 10%; the Manager says most progressive pruning is done in the field but records and payments are not yet finalised (Agro 2/2026)
+  - Pruning FY2026/27 to Jul 2026: 0.00 of 247.92 ha programmed to date (0%). Estate 10%; the Manager says most progressive pruning is done in the field but records and payments are not yet finalised (Agro 2/2026)
   - Pruning FY2025/26 (May 2025–Apr 2026): To Apr 2026: progressive 194.45 of 248.09 ha (78%, 1.6 rounds; target 2); corrective 5.68 ha done vs 3.38 ha programmed (printed 168%) (Agro 2/2026)
   - Pruning standard Aug 2026: Pruning and sanitation good in A01, A02, A17 (Agro 2/2026)
-  - Progressive pruning FY2025/26 (May 2025–Mar 2026): May 2025–Mar 2026: 194.45 of 248.09 ha (78%) programmed to date, payment basis (3rd-quarter payment not yet made) (PA 1/2026)
-  - Corrective pruning FY2025/26 (May 2025–Mar 2026): May 2025–Mar 2026: 4.01 of 4.09 ha (98%) (PA 1/2026)
+  - Pruning to Mar 2026 (PA): May 2025–Mar 2026: 194.45 of 248.09 ha (78%) programmed to date, payment basis (3rd-quarter payment not yet made) | May 2025–Mar 2026: 4.01 of 4.09 ha (98%) (PA 1/2026)
 Nutrients:
   - Leaf analysis (reported Aug 2026): A01 N 2.6 N, P 0.168 N, K 1.15 H, Mg 0.25 ML, Ca 0.37 L, B 17 H; A02 N 2.71 H, P 0.168 N, K 1.14 H, Mg 0.23 ML, Ca 0.36 L, B 18.2 H; A17 N 2.75 H, P 0.169 H, K 1.31 H, Mg 0.22 L, Ca 0.34 L, B 17.2 H. N, P, K, Mg, Ca in % dry matter, B in ppm; H high, N normal, ML moderately low, L low. Sampling date not printed. Estate: Mg mostly low and Ca low everywhere; localised Mg deficiency symptoms, most affected blocks scheduled for kieserite (Agro 2/2026)
 Field:
@@ -221,11 +220,10 @@ Harvesting:
   - Harvesting interval FY2025/26 (May 2025–Apr 2026): May 2025–Apr 2026, month by month: 15-22, 13-25, 11-22, 11-22, 16-26, 11-19, 14-19, 13-19, 11-20, 12-18, 11-18, 11-18 days (Agro 2/2026)
   - Harvesters Mar 2026: 2007 planting: RM52/t, 2.35 t/man-day, average earnings RM122.20/day vs RM65.38 basic wage (PA 1/2026)
 Pruning:
-  - Progressive pruning FY2026/27 to Jul 2026: 14.94 of 633.20 ha programmed to date (2%). Estate 10%; the Manager says most progressive pruning is done in the field but records and payments are not yet finalised (Agro 2/2026)
+  - Pruning FY2026/27 to Jul 2026: 14.94 of 633.20 ha programmed to date (2%). Estate 10%; the Manager says most progressive pruning is done in the field but records and payments are not yet finalised (Agro 2/2026)
   - Pruning FY2025/26 (May 2025–Apr 2026): To Apr 2026: progressive 508.26 of 634.49 ha (80%, 1.6 rounds; target 2); corrective 10.45 ha done vs 3.97 ha programmed (printed 263%) (Agro 2/2026)
   - Pruning standard Aug 2026: Pruning and sanitation: A03 good; A05 good; A07 good; A08 good; A09 good; A10 good; A11 good; A16 good; A18 pruning good–fair, sanitation good (Agro 2/2026)
-  - Progressive pruning FY2025/26 (May 2025–Mar 2026): May 2025–Mar 2026: 508.20 of 634.49 ha (80%) programmed to date, payment basis (3rd-quarter payment not yet made) (PA 1/2026)
-  - Corrective pruning FY2025/26 (May 2025–Mar 2026): May 2025–Mar 2026: 9.13 of 10.81 ha (85%) (PA 1/2026)
+  - Pruning to Mar 2026 (PA): May 2025–Mar 2026: 508.20 of 634.49 ha (80%) programmed to date, payment basis (3rd-quarter payment not yet made) | May 2025–Mar 2026: 9.13 of 10.81 ha (85%) (PA 1/2026)
 Nutrients:
   - Leaf analysis (reported Aug 2026): A03 N 2.67 N, P 0.168 N, K 1.38 H, Mg 0.22 L, Ca 0.37 L, B 17.4 H; A05 N 2.68 N, P 0.167 N, K 1.27 H, Mg 0.21 L, Ca 0.35 L, B 18.7 H; A07 N 2.62 N, P 0.168 N, K 1.11 H, Mg 0.28 N, Ca 0.38 L, B 16.1 H; A08 N 2.78 H, P 0.163 N, K 1.07 H, Mg 0.2 L, Ca 0.36 L, B 16.6 H; A09 N 2.75 H, P 0.167 N, K 1.37 H, Mg 0.23 L, Ca 0.36 L, B 17.8 H; A10 N 2.68 N, P 0.172 H, K 1.37 H, Mg 0.21 L, Ca 0.35 L, B 18.4 H; A11 N 2.66 N, P 0.166 N, K 1.11 H, Mg 0.23 L, Ca 0.36 L, B 16.3 H; A16 N 2.71 H, P 0.174 H, K 1.36 H, Mg 0.23 L, Ca 0.34 L, B 18.4 H; A18 N 2.73 H, P 0.165 N, K 1.1 H, Mg 0.25 ML, Ca 0.38 L, B 17.6 H. N, P, K, Mg, Ca in % dry matter, B in ppm; H high, N normal, ML moderately low, L low. Sampling date not printed. Estate: Mg mostly low and Ca low everywhere; localised Mg deficiency symptoms, most affected blocks scheduled for kieserite (Agro 2/2026)
 Field:
@@ -276,11 +274,10 @@ Harvesting:
   - Harvesters Mar 2026: 2008 planting: RM52/t, 2.42 t/man-day, average earnings RM125.84/day vs RM65.38 basic wage (PA 1/2026)
   - Crop recovery May 2026 visit: Loose fruit seen in P08/A06 (PA 1/2026)
 Pruning:
-  - Progressive pruning FY2026/27 to Jul 2026: 18.56 of 163.62 ha programmed to date (11%). Estate 10%; the Manager says most progressive pruning is done in the field but records and payments are not yet finalised (Agro 2/2026)
+  - Pruning FY2026/27 to Jul 2026: 18.56 of 163.62 ha programmed to date (11%). Estate 10%; the Manager says most progressive pruning is done in the field but records and payments are not yet finalised (Agro 2/2026)
   - Pruning FY2025/26 (May 2025–Apr 2026): To Apr 2026: progressive 119.92 of 163.93 ha (73%, 1.5 rounds; target 2); corrective 2.19 ha done vs 0.00 ha programmed (printed 0%) (Agro 2/2026)
   - Pruning standard Aug 2026: Pruning and sanitation good in A06, A12 (Agro 2/2026)
-  - Progressive pruning FY2025/26 (May 2025–Mar 2026): May 2025–Mar 2026: 119.48 of 163.93 ha (73%) programmed to date, payment basis (3rd-quarter payment not yet made) (PA 1/2026)
-  - Corrective pruning FY2025/26 (May 2025–Mar 2026): May 2025–Mar 2026: 2.17 of 1.74 ha (125%) (PA 1/2026)
+  - Pruning to Mar 2026 (PA): May 2025–Mar 2026: 119.48 of 163.93 ha (73%) programmed to date, payment basis (3rd-quarter payment not yet made) | May 2025–Mar 2026: 2.17 of 1.74 ha (125%) (PA 1/2026)
 Nutrients:
   - Leaf analysis (reported Aug 2026): A06 N 2.72 H, P 0.173 H, K 1.33 H, Mg 0.22 L, Ca 0.34 L, B 17.8 H; A12 N 2.73 H, P 0.168 N, K 1.27 H, Mg 0.22 L, Ca 0.35 L, B 18.2 H. N, P, K, Mg, Ca in % dry matter, B in ppm; H high, N normal, ML moderately low, L low. Sampling date not printed. Estate: Mg mostly low and Ca low everywhere; localised Mg deficiency symptoms, most affected blocks scheduled for kieserite (Agro 2/2026)
 Field:
@@ -330,11 +327,10 @@ Harvesting:
   - Harvesting interval FY2025/26 (May 2025–Apr 2026): May 2025–Apr 2026, month by month: 16, 21, 14-18, 14-18, 18-20, 16-17, 16-17, 17-19, 13-20, 15, 15-16, 15-17 days (Agro 2/2026)
   - Harvesters Mar 2026: 2009 planting: RM56/t, 2.36 t/man-day, average earnings RM132.16/day vs RM65.38 basic wage (PA 1/2026)
 Pruning:
-  - Progressive pruning FY2026/27 to Jul 2026: 13.90 of 102.30 ha programmed to date (14%). Estate 10%; the Manager says most progressive pruning is done in the field but records and payments are not yet finalised (Agro 2/2026)
+  - Pruning FY2026/27 to Jul 2026: 13.90 of 102.30 ha programmed to date (14%). Estate 10%; the Manager says most progressive pruning is done in the field but records and payments are not yet finalised (Agro 2/2026)
   - Pruning FY2025/26 (May 2025–Apr 2026): To Apr 2026: progressive 100.00 of 101.90 ha (98%, 2.0 rounds; target 2); corrective 0.15 ha done vs 0.00 ha programmed (printed 0%) (Agro 2/2026)
   - Pruning standard Aug 2026: Pruning and sanitation good in A15 (Agro 2/2026)
-  - Progressive pruning FY2025/26 (May 2025–Mar 2026): May 2025–Mar 2026: 0 of 101.90 ha (0%) programmed to date, payment basis (3rd-quarter payment not yet made) (PA 1/2026)
-  - Corrective pruning FY2025/26 (May 2025–Mar 2026): May 2025–Mar 2026: 0.07 of 2.38 ha (3%) (PA 1/2026)
+  - Pruning to Mar 2026 (PA): May 2025–Mar 2026: 0 of 101.90 ha (0%) programmed to date, payment basis (3rd-quarter payment not yet made) | May 2025–Mar 2026: 0.07 of 2.38 ha (3%) (PA 1/2026)
 Nutrients:
   - Leaf analysis (reported Aug 2026): A15 N 2.68 N, P 0.17 H, K 1.37 H, Mg 0.2 L, Ca 0.36 L, B 17.5 H. N, P, K, Mg, Ca in % dry matter, B in ppm; H high, N normal, ML moderately low, L low. Sampling date not printed. Estate: Mg mostly low and Ca low everywhere; localised Mg deficiency symptoms, most affected blocks scheduled for kieserite (Agro 2/2026)
 Field:
@@ -383,11 +379,10 @@ Harvesting:
   - Harvesting interval FY2025/26 (May 2025–Apr 2026): May 2025–Apr 2026, month by month: 19, 19, 14-19, 14-19, 21, 16-19, 16, 18-19, 14-19, 15-16, 15-17, 15-18 days (Agro 2/2026)
   - Harvesters Mar 2026: 2011 planting: RM56/t, 2.13 t/man-day, average earnings RM119.28/day vs RM65.38 basic wage (PA 1/2026)
 Pruning:
-  - Progressive pruning FY2026/27 to Jul 2026: 0.00 of 67.08 ha programmed to date (0%). Estate 10%; the Manager says most progressive pruning is done in the field but records and payments are not yet finalised (Agro 2/2026)
+  - Pruning FY2026/27 to Jul 2026: 0.00 of 67.08 ha programmed to date (0%). Estate 10%; the Manager says most progressive pruning is done in the field but records and payments are not yet finalised (Agro 2/2026)
   - Pruning FY2025/26 (May 2025–Apr 2026): To Apr 2026: progressive 22.80 of 30.63 ha (74%, 1.5 rounds; target 2); corrective 1.49 ha done vs 0.85 ha programmed (printed 175%) (Agro 2/2026)
   - Pruning standard Aug 2026: Pruning and sanitation good in A19 (Agro 2/2026)
-  - Progressive pruning FY2025/26 (May 2025–Mar 2026): May 2025–Mar 2026: 22.80 of 30.63 ha (74%) programmed to date, payment basis (3rd-quarter payment not yet made) (PA 1/2026)
-  - Corrective pruning FY2025/26 (May 2025–Mar 2026): May 2025–Mar 2026: 1.48 of 1.68 ha (88%) (PA 1/2026)
+  - Pruning to Mar 2026 (PA): May 2025–Mar 2026: 22.80 of 30.63 ha (74%) programmed to date, payment basis (3rd-quarter payment not yet made) | May 2025–Mar 2026: 1.48 of 1.68 ha (88%) (PA 1/2026)
 Nutrients:
   - Leaf analysis (reported Aug 2026): A19 N 2.71 H, P 0.167 N, K 1.14 H, Mg 0.23 L, Ca 0.38 L, B 16.5 H. N, P, K, Mg, Ca in % dry matter, B in ppm; H high, N normal, ML moderately low, L low. Sampling date not printed. Estate: Mg mostly low and Ca low everywhere; localised Mg deficiency symptoms, most affected blocks scheduled for kieserite (Agro 2/2026)
 Field:
@@ -444,12 +439,10 @@ Harvesting:
   - Harvesters Mar 2026: 2012 planting: RM56/t, 2.21 t/man-day, average earnings RM123.76/day vs RM65.38 basic wage (PA 1/2026)
   - Crop recovery May 2026 visit: Loose fruit and an unripe bunch seen in P12/A04 (PA 1/2026)
 Pruning:
-  - Progressive pruning FY2026/27 to Jul 2026: 39.00 of 269.30 ha programmed to date (14%). Estate 10%; the Manager says most progressive pruning is done in the field but records and payments are not yet finalised (Agro 2/2026)
-  - Corrective pruning FY2026/27 to Jul 2026: 2.36 of 2.90 ha (81%); nearly complete, some palms slightly over-pruned (palms long unpruned) (Agro 2/2026)
+  - Pruning FY2026/27 to Jul 2026: 39.00 of 269.30 ha programmed to date (14%). Estate 10%; the Manager says most progressive pruning is done in the field but records and payments are not yet finalised | 2.36 of 2.90 ha (81%); nearly complete, some palms slightly over-pruned (palms long unpruned) (Agro 2/2026)
   - Pruning FY2025/26 (May 2025–Apr 2026): To Apr 2026: progressive 2.37 of 271.20 ha (1%, 0.0 rounds; target 2); corrective 10.67 ha done vs 0.40 ha programmed (printed 2668%) (Agro 2/2026)
   - Pruning standard Aug 2026: Pruning and sanitation: A04 good; A43 good; A44 pruning good–fair, sanitation good–fair; A45 pruning good–fair, sanitation good–fair (Agro 2/2026)
-  - Progressive pruning FY2025/26 (May 2025–Mar 2026): May 2025–Mar 2026: 25.10 of 271.20 ha (9%) programmed to date, payment basis (3rd-quarter payment not yet made) (PA 1/2026)
-  - Corrective pruning FY2025/26 (May 2025–Mar 2026): May 2025–Mar 2026: 9.96 of 13.31 ha (75%) (PA 1/2026)
+  - Pruning to Mar 2026 (PA): May 2025–Mar 2026: 25.10 of 271.20 ha (9%) programmed to date, payment basis (3rd-quarter payment not yet made) | May 2025–Mar 2026: 9.96 of 13.31 ha (75%) (PA 1/2026)
 Nutrients:
   - Leaf analysis (reported Aug 2026): A04 N 2.68 N, P 0.165 N, K 1.05 H, Mg 0.27 N, Ca 0.38 L, B 18.1 H; A43 N 2.67 N, P 0.175 H, K 1.34 H, Mg 0.25 ML, Ca 0.35 L, B 17 H; A44 N 2.67 N, P 0.17 H, K 1.25 H, Mg 0.23 L, Ca 0.33 L, B 17.6 H; A45 N 2.78 H, P 0.183 H, K 1.32 H, Mg 0.2 L, Ca 0.32 L, B 17.9 H; A20 not sampled. N, P, K, Mg, Ca in % dry matter, B in ppm; H high, N normal, ML moderately low, L low. Sampling date not printed. Estate: Mg mostly low and Ca low everywhere; localised Mg deficiency symptoms, most affected blocks scheduled for kieserite (Agro 2/2026)
 Field:
@@ -499,11 +492,10 @@ Harvesting:
   - Harvesting interval FY2025/26 (May 2025–Apr 2026): May 2025–Apr 2026, month by month: 21, 29, 17, 12-19, 16, 14-17, 15-19, 19, 17-19, 15-17, 13-18, 13-19 days (Agro 2/2026)
   - Harvesters Mar 2026: 2006 planting: RM52/t, 2.37 t/man-day, average earnings RM123.24/day vs RM65.38 basic wage (PA 1/2026)
 Pruning:
-  - Progressive pruning FY2026/27 to Jul 2026: 18.42 of 71.96 ha programmed to date (26%). Estate 10%; the Manager says most progressive pruning is done in the field but records and payments are not yet finalised (Agro 2/2026)
+  - Pruning FY2026/27 to Jul 2026: 18.42 of 71.96 ha programmed to date (26%). Estate 10%; the Manager says most progressive pruning is done in the field but records and payments are not yet finalised (Agro 2/2026)
   - Pruning FY2025/26 (May 2025–Apr 2026): To Apr 2026: progressive 68.99 of 71.70 ha (96%, 1.9 rounds; target 2); corrective 2.35 ha done vs 0.00 ha programmed (printed 0%) (Agro 2/2026)
   - Pruning standard Aug 2026: Pruning and sanitation good in B28 (Agro 2/2026)
-  - Progressive pruning FY2025/26 (May 2025–Mar 2026): May 2025–Mar 2026: 31.01 of 71.70 ha (43%) programmed to date, payment basis (3rd-quarter payment not yet made) (PA 1/2026)
-  - Corrective pruning FY2025/26 (May 2025–Mar 2026): May 2025–Mar 2026: 1.38 of 0.80 ha (173%) (PA 1/2026)
+  - Pruning to Mar 2026 (PA): May 2025–Mar 2026: 31.01 of 71.70 ha (43%) programmed to date, payment basis (3rd-quarter payment not yet made) | May 2025–Mar 2026: 1.38 of 0.80 ha (173%) (PA 1/2026)
 Nutrients:
   - Leaf analysis (reported Aug 2026): B28 N 2.66 N, P 0.168 N, K 1.25 H, Mg 0.21 L, Ca 0.35 L, B 19 H. N, P, K, Mg, Ca in % dry matter, B in ppm; H high, N normal, ML moderately low, L low. Sampling date not printed. Estate: Mg mostly low and Ca low everywhere; localised Mg deficiency symptoms, most affected blocks scheduled for kieserite (Agro 2/2026)
 Field:
@@ -550,11 +542,10 @@ Harvesting:
   - Harvesting interval FY2025/26 (May 2025–Apr 2026): May 2025–Apr 2026, month by month: 20-23, 26, 15-17, 15-16, 20, 11-18, 10-14, 18, 13-20, 10-11, 16, 17 days (Agro 2/2026)
   - Harvesters Mar 2026: 2007 planting: RM52/t, 2.35 t/man-day, average earnings RM122.20/day vs RM65.38 basic wage (PA 1/2026)
 Pruning:
-  - Progressive pruning FY2026/27 to Jul 2026: 0.00 of 108.68 ha programmed to date (0%). Estate 10%; the Manager says most progressive pruning is done in the field but records and payments are not yet finalised (Agro 2/2026)
+  - Pruning FY2026/27 to Jul 2026: 0.00 of 108.68 ha programmed to date (0%). Estate 10%; the Manager says most progressive pruning is done in the field but records and payments are not yet finalised (Agro 2/2026)
   - Pruning FY2025/26 (May 2025–Apr 2026): To Apr 2026: progressive 99.14 of 109.21 ha (91%, 1.8 rounds; target 2); corrective 0.00 ha done vs 1.46 ha programmed (printed 0%) (Agro 2/2026)
   - Pruning standard Aug 2026: Pruning and sanitation good in B36 (Agro 2/2026)
-  - Progressive pruning FY2025/26 (May 2025–Mar 2026): May 2025–Mar 2026: 99.44 of 109.21 ha (91%) programmed to date, payment basis (3rd-quarter payment not yet made) (PA 1/2026)
-  - Corrective pruning FY2025/26 (May 2025–Mar 2026): May 2025–Mar 2026: 0 of 1.46 ha (0%) (PA 1/2026)
+  - Pruning to Mar 2026 (PA): May 2025–Mar 2026: 99.44 of 109.21 ha (91%) programmed to date, payment basis (3rd-quarter payment not yet made) | May 2025–Mar 2026: 0 of 1.46 ha (0%) (PA 1/2026)
 Nutrients:
   - Leaf analysis (reported Aug 2026): B36 N 2.71 H, P 0.174 H, K 1.22 H, Mg 0.2 L, Ca 0.36 L, B 17.5 H. N, P, K, Mg, Ca in % dry matter, B in ppm; H high, N normal, ML moderately low, L low. Sampling date not printed. Estate: Mg mostly low and Ca low everywhere; localised Mg deficiency symptoms, most affected blocks scheduled for kieserite (Agro 2/2026)
 Field:
@@ -603,11 +594,10 @@ Harvesting:
   - Harvesting interval FY2025/26 (May 2025–Apr 2026): May 2025–Apr 2026, month by month: 19-23, 25-28, 15-25, 14-18, 16-20, 11-17, 12-20, 16-20, 13-21, 10-19, 14-18, 14-19 days (Agro 2/2026)
   - Harvesters Mar 2026: 2008 planting: RM52/t, 2.42 t/man-day, average earnings RM125.84/day vs RM65.38 basic wage (PA 1/2026)
 Pruning:
-  - Progressive pruning FY2026/27 to Jul 2026: 12.77 of 180.48 ha programmed to date (7%). Estate 10%; the Manager says most progressive pruning is done in the field but records and payments are not yet finalised (Agro 2/2026)
+  - Pruning FY2026/27 to Jul 2026: 12.77 of 180.48 ha programmed to date (7%). Estate 10%; the Manager says most progressive pruning is done in the field but records and payments are not yet finalised (Agro 2/2026)
   - Pruning FY2025/26 (May 2025–Apr 2026): To Apr 2026: progressive 170.60 of 180.24 ha (95%, 1.9 rounds; target 2); corrective 1.51 ha done vs 1.71 ha programmed (printed 88%) (Agro 2/2026)
   - Pruning standard Aug 2026: Pruning and sanitation good in B30, B31, B35 (Agro 2/2026)
-  - Progressive pruning FY2025/26 (May 2025–Mar 2026): May 2025–Mar 2026: 170.60 of 180.24 ha (95%) programmed to date, payment basis (3rd-quarter payment not yet made) (PA 1/2026)
-  - Corrective pruning FY2025/26 (May 2025–Mar 2026): May 2025–Mar 2026: 1.35 of 1.88 ha (72%) (PA 1/2026)
+  - Pruning to Mar 2026 (PA): May 2025–Mar 2026: 170.60 of 180.24 ha (95%) programmed to date, payment basis (3rd-quarter payment not yet made) | May 2025–Mar 2026: 1.35 of 1.88 ha (72%) (PA 1/2026)
 Nutrients:
   - Leaf analysis (reported Aug 2026): B30 N 2.62 N, P 0.167 N, K 1.18 H, Mg 0.21 L, Ca 0.35 L, B 17.5 H; B31 N 2.64 N, P 0.173 H, K 1.26 H, Mg 0.22 L, Ca 0.33 L, B 19 H; B35 N 2.67 N, P 0.17 H, K 1.05 H, Mg 0.23 L, Ca 0.41 L, B 17.7 H. N, P, K, Mg, Ca in % dry matter, B in ppm; H high, N normal, ML moderately low, L low. Sampling date not printed. Estate: Mg mostly low and Ca low everywhere; localised Mg deficiency symptoms, most affected blocks scheduled for kieserite (Agro 2/2026)
 Field:
@@ -656,11 +646,10 @@ Harvesting:
   - Harvesting interval FY2025/26 (May 2025–Apr 2026): May 2025–Apr 2026, month by month: 21, 17-25, 16-18, 16, 19, 12-16, 11-15, 16-17, 13-22, 12-19, 15-18, 15-18 days (Agro 2/2026)
   - Harvesters Mar 2026: 2009 planting: RM56/t, 2.36 t/man-day, average earnings RM132.16/day vs RM65.38 basic wage (PA 1/2026)
 Pruning:
-  - Progressive pruning FY2026/27 to Jul 2026: 30.00 of 71.10 ha programmed to date (42%). Estate 10%; the Manager says most progressive pruning is done in the field but records and payments are not yet finalised (Agro 2/2026)
+  - Pruning FY2026/27 to Jul 2026: 30.00 of 71.10 ha programmed to date (42%). Estate 10%; the Manager says most progressive pruning is done in the field but records and payments are not yet finalised (Agro 2/2026)
   - Pruning FY2025/26 (May 2025–Apr 2026): To Apr 2026: progressive 66.55 of 70.90 ha (94%, 1.9 rounds; target 2); corrective 0.00 ha done vs 0.58 ha programmed (printed 0%) (Agro 2/2026)
   - Pruning standard Aug 2026: Pruning and sanitation good in B29 (Agro 2/2026)
-  - Progressive pruning FY2025/26 (May 2025–Mar 2026): May 2025–Mar 2026: 66.55 of 70.90 ha (94%) programmed to date, payment basis (3rd-quarter payment not yet made) (PA 1/2026)
-  - Corrective pruning FY2025/26 (May 2025–Mar 2026): May 2025–Mar 2026: 0 of 0.58 ha (0%) (PA 1/2026)
+  - Pruning to Mar 2026 (PA): May 2025–Mar 2026: 66.55 of 70.90 ha (94%) programmed to date, payment basis (3rd-quarter payment not yet made) | May 2025–Mar 2026: 0 of 0.58 ha (0%) (PA 1/2026)
 Nutrients:
   - Leaf analysis (reported Aug 2026): B29 N 2.69 N, P 0.173 H, K 1.23 H, Mg 0.22 L, Ca 0.35 L, B 17.1 H. N, P, K, Mg, Ca in % dry matter, B in ppm; H high, N normal, ML moderately low, L low. Sampling date not printed. Estate: Mg mostly low and Ca low everywhere; localised Mg deficiency symptoms, most affected blocks scheduled for kieserite (Agro 2/2026)
 Field:
@@ -709,11 +698,10 @@ Harvesting:
   - Harvesting interval FY2025/26 (May 2025–Apr 2026): May 2025–Apr 2026, month by month: 11-21, 14-27, 14-20, 15-18, 16-18, 12-16, 15-18, 17-19, 13-20, 13-19, 13-18, 13-19 days (Agro 2/2026)
   - Harvesters Mar 2026: 2010 planting: RM56/t, 2.41 t/man-day, average earnings RM134.96/day vs RM65.38 basic wage (PA 1/2026)
 Pruning:
-  - Progressive pruning FY2026/27 to Jul 2026: 3.00 of 106.70 ha programmed to date (3%). Estate 10%; the Manager says most progressive pruning is done in the field but records and payments are not yet finalised (Agro 2/2026)
+  - Pruning FY2026/27 to Jul 2026: 3.00 of 106.70 ha programmed to date (3%). Estate 10%; the Manager says most progressive pruning is done in the field but records and payments are not yet finalised (Agro 2/2026)
   - Pruning FY2025/26 (May 2025–Apr 2026): To Apr 2026: progressive 125.33 of 129.37 ha (97%, 2.3 rounds; target 2); corrective 2.21 ha done vs 0.00 ha programmed (printed 0%) (Agro 2/2026)
   - Pruning standard Aug 2026: Pruning and sanitation good in B27, B33 (Agro 2/2026)
-  - Progressive pruning FY2025/26 (May 2025–Mar 2026): May 2025–Mar 2026: 95.56 of 129.37 ha (74%) programmed to date, payment basis (3rd-quarter payment not yet made) (PA 1/2026)
-  - Corrective pruning FY2025/26 (May 2025–Mar 2026): May 2025–Mar 2026: 2.23 of 0.96 ha (232%) (PA 1/2026)
+  - Pruning to Mar 2026 (PA): May 2025–Mar 2026: 95.56 of 129.37 ha (74%) programmed to date, payment basis (3rd-quarter payment not yet made) | May 2025–Mar 2026: 2.23 of 0.96 ha (232%) (PA 1/2026)
 Nutrients:
   - Leaf analysis (reported Aug 2026): B27 N 2.73 H, P 0.173 H, K 1.29 H, Mg 0.22 L, Ca 0.34 L, B 18.5 H; B33 N 2.84 H, P 0.172 H, K 1.3 H, Mg 0.21 L, Ca 0.35 L, B 17.5 H. N, P, K, Mg, Ca in % dry matter, B in ppm; H high, N normal, ML moderately low, L low. Sampling date not printed. Estate: Mg mostly low and Ca low everywhere; localised Mg deficiency symptoms, most affected blocks scheduled for kieserite (Agro 2/2026)
 Field:
@@ -764,11 +752,10 @@ Harvesting:
   - Harvesting interval FY2025/26 (May 2025–Apr 2026): May 2025–Apr 2026, month by month: 19-20, 18-26, 10-27, 15-17, 14-21, 10-19, 12-17, 11-22, 12-13, 10-20, 14-18, 14-19 days (Agro 2/2026)
   - Harvesters Mar 2026: 2011 planting: RM56/t, 2.13 t/man-day, average earnings RM119.28/day vs RM65.38 basic wage (PA 1/2026)
 Pruning:
-  - Progressive pruning FY2026/27 to Jul 2026: 80.78 of 317.26 ha programmed to date (25%). Estate 10%; the Manager says most progressive pruning is done in the field but records and payments are not yet finalised (Agro 2/2026)
+  - Pruning FY2026/27 to Jul 2026: 80.78 of 317.26 ha programmed to date (25%). Estate 10%; the Manager says most progressive pruning is done in the field but records and payments are not yet finalised (Agro 2/2026)
   - Pruning FY2025/26 (May 2025–Apr 2026): To Apr 2026: progressive 228.17 of 290.00 ha (79%, 1.6 rounds; target 2); corrective 22.92 ha done vs 7.79 ha programmed (printed 294%) (Agro 2/2026)
   - Pruning standard Aug 2026: Pruning and sanitation: B22 good; B23 good; B37 good; B38 pruning good–fair, sanitation good–fair; B39 pruning good–fair, sanitation good–fair; B40 pruning good–fair, sanitation good–fair; B41 good (Agro 2/2026)
-  - Progressive pruning FY2025/26 (May 2025–Mar 2026): May 2025–Mar 2026: 140.76 of 290.00 ha (49%) programmed to date, payment basis (3rd-quarter payment not yet made) (PA 1/2026)
-  - Corrective pruning FY2025/26 (May 2025–Mar 2026): May 2025–Mar 2026: 18.44 of 9.86 ha (187%) (PA 1/2026)
+  - Pruning to Mar 2026 (PA): May 2025–Mar 2026: 140.76 of 290.00 ha (49%) programmed to date, payment basis (3rd-quarter payment not yet made) | May 2025–Mar 2026: 18.44 of 9.86 ha (187%) (PA 1/2026)
 Nutrients:
   - Leaf analysis (reported Aug 2026): B23 N 2.51 ML, P 0.172 H, K 1.33 H, Mg 0.2 L, Ca 0.35 L, B 18.7 H; B37 N 2.73 H, P 0.178 H, K 1.34 H, Mg 0.21 L, Ca 0.34 L, B 17 H; B38 N 2.71 H, P 0.179 H, K 1.34 H, Mg 0.22 L, Ca 0.34 L, B 17.9 H; B39 N 2.69 N, P 0.178 H, K 1.26 H, Mg 0.2 L, Ca 0.35 L, B 17.1 H; B40 N 2.76 H, P 0.169 N, K 1.18 H, Mg 0.2 L, Ca 0.35 L, B 18.3 H; B41 N 2.76 H, P 0.189 H, K 1.23 H, Mg 0.23 L, Ca 0.33 L, B 17.7 H; B22 row blank (no result printed). N, P, K, Mg, Ca in % dry matter, B in ppm; H high, N normal, ML moderately low, L low. Sampling date not printed. Estate: Mg mostly low and Ca low everywhere; localised Mg deficiency symptoms, most affected blocks scheduled for kieserite (Agro 2/2026)
 Field:
@@ -826,12 +813,10 @@ Harvesting:
   - Harvesters Mar 2026: 2012 planting: RM56/t, 2.21 t/man-day, average earnings RM123.76/day vs RM65.38 basic wage (PA 1/2026)
   - Crop recovery May 2026 visit: Uncollected bunch and loose fruit seen in P12/B20 (PA 1/2026)
 Pruning:
-  - Progressive pruning FY2026/27 to Jul 2026: 13.20 of 219.96 ha programmed to date (6%). Estate 10%; the Manager says most progressive pruning is done in the field but records and payments are not yet finalised (Agro 2/2026)
-  - Corrective pruning FY2026/27 to Jul 2026: 0.00 of 3.20 ha (0%); not started (Agro 2/2026)
+  - Pruning FY2026/27 to Jul 2026: 13.20 of 219.96 ha programmed to date (6%). Estate 10%; the Manager says most progressive pruning is done in the field but records and payments are not yet finalised | 0.00 of 3.20 ha (0%); not started (Agro 2/2026)
   - Pruning FY2025/26 (May 2025–Apr 2026): To Apr 2026: progressive 218.37 of 233.44 ha (94%, 1.8 rounds; target 2); corrective 9.82 ha done vs 0.02 ha programmed (printed 49100%) (Agro 2/2026)
   - Pruning standard Aug 2026: Pruning and sanitation good in B20, B25, B32, B34 (Agro 2/2026)
-  - Progressive pruning FY2025/26 (May 2025–Mar 2026): May 2025–Mar 2026: 161.26 of 233.44 ha (69%) programmed to date, payment basis (3rd-quarter payment not yet made) (PA 1/2026)
-  - Corrective pruning FY2025/26 (May 2025–Mar 2026): May 2025–Mar 2026: 5.70 of 7.13 ha (80%) (PA 1/2026)
+  - Pruning to Mar 2026 (PA): May 2025–Mar 2026: 161.26 of 233.44 ha (69%) programmed to date, payment basis (3rd-quarter payment not yet made) | May 2025–Mar 2026: 5.70 of 7.13 ha (80%) (PA 1/2026)
   - Pruning seen May 2026 visit: Under-pruned palm seen in P12/B20 (PA 1/2026)
 Nutrients:
   - Leaf analysis (reported Aug 2026): B20 N 2.69 N, P 0.171 H, K 1.27 H, Mg 0.22 L, Ca 0.35 L, B 17.5 H; B25 N 2.65 N, P 0.165 N, K 1.34 H, Mg 0.26 ML, Ca 0.34 L, B 19 H; B32 N 2.69 N, P 0.168 N, K 1.07 H, Mg 0.27 N, Ca 0.36 L, B 16.1 H; B34 N 2.61 N, P 0.172 H, K 1.23 H, Mg 0.21 ML, Ca 0.35 L, B 18.2 H. N, P, K, Mg, Ca in % dry matter, B in ppm; H high, N normal, ML moderately low, L low. Sampling date not printed. Estate: Mg mostly low and Ca low everywhere; localised Mg deficiency symptoms, most affected blocks scheduled for kieserite (Agro 2/2026)

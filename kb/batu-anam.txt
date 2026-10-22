@@ -101,19 +101,7 @@ FY2025/26 (May–Apr): 11,729.40 t (PA Report 1/2026 Table 22 (May 2025–Apr 20
 BLOCK DETAIL (everything the latest reports say per block)
 ESTATE-WIDE FIELD NOTES
 [manuring] Programme FY2025/26 (May 2025–Apr 2026): 652.91 t programmed, 653.30 t delivered and applied; completed within budget (PA). Agro: Mix B 619.75 of 620.32 t, RP 24.35 of 24.31 t, kieserite 10 of 9.98 t, total 654.1 of 654.61 t (100%) (PA 1/2026 · Agro 1/2026)
-[manuring] Mix B May 2025: 76.95 of 76.91 t applied, completed (PA 1/2026)
-[manuring] Mix B Jun 2025: 93.75 of 93.73 t applied, completed (PA 1/2026)
-[manuring] RP Jul 2025: 12.45 of 12.42 t applied, completed (PA 1/2026)
-[manuring] Mix B Aug 2025: 56.10 of 56.07 t applied, completed (PA 1/2026)
-[manuring] Mix B Sep 2025: 96.25 of 96.22 t applied, completed (PA 1/2026)
-[manuring] Mix B Oct 2025: 20.85 of 20.84 t applied, completed (PA 1/2026)
-[manuring] Mix B Nov 2025: 52.00 of 51.91 t applied, completed (PA 1/2026)
-[manuring] Mix B Jan 2026: 91.70 of 91.61 t applied, completed (PA 1/2026)
-[manuring] Kieserite Jan 2026: 8.25 of 8.28 t applied, completed (PA 1/2026)
-[manuring] Mix B Feb 2026: 33.30 of 33.28 t applied, completed (PA 1/2026)
-[manuring] RP Feb 2026: 11.90 of 11.88 t applied, completed (PA 1/2026)
-[manuring] Mix B Mar 2026: 18.65 of 18.63 t applied, completed (PA 1/2026)
-[manuring] Mix B Apr 2026: 81.15 of 81.13 t applied, completed (PA 1/2026)
+[manuring] Monthly applications FY2025/26: 76.95 of 76.91 t applied, completed | 93.75 of 93.73 t applied, completed | 12.45 of 12.42 t applied, completed | 56.10 of 56.07 t applied, completed | 96.25 of 96.22 t applied, completed | 20.85 of 20.84 t applied, completed | 52.00 of 51.91 t applied, completed | 91.70 of 91.61 t applied, completed | 8.25 of 8.28 t applied, completed | 33.30 of 33.28 t applied, completed | 11.90 of 11.88 t applied, completed | 18.65 of 18.63 t applied, completed | 81.15 of 81.13 t applied, completed (PA 1/2026)
 [manuring] Timing FY2025/26 (May 2025–Apr 2026): Mix B 0–4 months late (most fields 0–2 months; P2020A and P2020B 4 months); RP 1 month late; kieserite on schedule (Agro 1/2026)
 [manuring] Methods (Jun 2026 visit): EMDEK spreader 409.12 ha (only for blocks above 100 palms/ha, with clean circles), manual 148.29 ha, sub-soil 70.05 ha. Manure young-mature, then prime, then old palms first (Agro 1/2026)
 [manuring] Trenches and fronds: Avoid slant-cut trenches: 4–5 ft trenches go below the root zone and EMDEK fertiliser falling in can mean more than 30% wastage. Adopt the recommended frond stacking (most areas still straight-line) (Agro 1/2026)
@@ -154,8 +142,7 @@ Spraying progress (May 2025–Apr 2026 (FY2025/26; no FY2026/27 progress printed
 Manuring progress:
   - Application method (Dec 2025): Fertiliser applied by EMDEK spreader (estate totals unchanged at the Jun 2026 visit: spreader 409.12 ha, manual 148.29 ha, sub-soil 70.05 ha) (Agro 2/2025)
 Spraying & weeding:
-  - Circle spray rounds FY2025/26 (May 2025–Apr 2026): Round 1 100%, round 2 100%, round 3 100% (Agro 1/2026)
-  - Selective spray rounds FY2025/26 (May 2025–Apr 2026): Round 1 100%, round 2 100%, round 3 100% (Agro 1/2026)
+  - Spray rounds FY2025/26: Round 1 100%, round 2 100%, round 3 100% | Round 1 100%, round 2 100%, round 3 100% (Agro 1/2026)
   - Repair spraying: Selective spraying above 3.0 rounds because repair spraying was done (PA text gives 4.0 rounds; Table 9 shows the figure above) (PA 1/2026)
   - Ground vegetation (Jun 2026 visit): Still substantial areas of soft vegetation; acceptable (photo) (Agro 1/2026)
 Fertiliser programme (this year) FY2026/27:
@@ -166,8 +153,8 @@ Fertiliser programme (this year) FY2026/27:
   - Note: 6,238 palms, 125 SPH, 49.96 ha; 46.79 t for the year (Agro 1/2026)
 Pests & diseases:
   - Ganoderma census Apr 2024: 37% infected (dead/fallen 24%, rotten 7%, snapping frond 4%, unopened spear 2%), 63% healthy; no newer census as of the Jul 2026 PA visit (PA 1/2026)
-  - Rat damage census Feb 2026: 4% fresh damage on 5 Feb 2026 (Agro 1/2026)
   - Barn owl boxes Apr 2026: 2 boxes (required 2), cleaned 1 round to date. Occupied: PA table 1 (50.00%); Agro table 1 (50.00%) — the two reports print different occupancy for the same Apr 2026 census (PA 1/2026 · Agro 1/2026)
+  - Rat damage census Feb 2026: 4% fresh damage on 5 Feb 2026 (Agro 1/2026)
 Yield:
   - FFB yield FY2025/26 (May 2025–Apr 2026): 20.47 t/ha vs 20.21 t/ha in FY2024/25 (May 2024–Apr 2025), +1%; estate 18.69 vs 18.62 t/ha (Agro 1/2026)
 Harvesting:
@@ -189,8 +176,7 @@ Spraying progress (May 2025–Apr 2026 (FY2025/26; no FY2026/27 progress printed
 Manuring progress:
   - Application method (Dec 2025): Fertiliser applied by manual (estate totals unchanged at the Jun 2026 visit: spreader 409.12 ha, manual 148.29 ha, sub-soil 70.05 ha) (Agro 2/2025)
 Spraying & weeding:
-  - Circle spray rounds FY2025/26 (May 2025–Apr 2026): Round 1 100%, round 2 85%, round 3 no figure printed (Agro 1/2026)
-  - Selective spray rounds FY2025/26 (May 2025–Apr 2026): Round 1 100%, round 2 100%, round 3 100% (Agro 1/2026)
+  - Spray rounds FY2025/26: Round 1 100%, round 2 85%, round 3 no figure printed | Round 1 100%, round 2 100%, round 3 100% (Agro 1/2026)
   - Selective spraying delayed: Delayed at 2.0 to 2.8 rounds, mainly because repair work in other fields was given priority; sprayers need training (PA 1/2026)
   - Ground vegetation (Jun 2026 visit): Category (d): soft vegetation reduced, more localized patches of undesirable weeds; reclassified from soft vegetation since the Dec 2025 visit (Agro 1/2026)
   - Undesirable vegetation (Jun 2026 visit): Slight to moderately unacceptable vegetation (photo) (Agro 1/2026)
@@ -202,9 +188,9 @@ Fertiliser programme (this year) FY2026/27:
   - Note: 2,954 palms, 95 SPH, 31.10 ha; 22.16 t for the year (Agro 1/2026)
 Pests & diseases:
   - Ganoderma census Apr 2024: 56% infected (dead/fallen 36%, rotten 6%, snapping frond 12%, unopened spear 2%), 44% healthy; no newer census as of the Jul 2026 PA visit (PA 1/2026)
+  - Barn owl boxes Apr 2026: 1 boxes (required 1), cleaned 1 round to date. Occupied: PA table 0 (0.00%); Agro table 0 (0.00%) — the two reports print different occupancy for the same Apr 2026 census (PA 1/2026 · Agro 1/2026)
   - Ganoderma severity: Most severe Ganoderma in the estate (56%) (PA 1/2026)
   - Rat damage census Feb 2026: 3% fresh damage on 5 Feb 2026 (Agro 1/2026)
-  - Barn owl boxes Apr 2026: 1 boxes (required 1), cleaned 1 round to date. Occupied: PA table 0 (0.00%); Agro table 0 (0.00%) — the two reports print different occupancy for the same Apr 2026 census (PA 1/2026 · Agro 1/2026)
 Yield:
   - FFB yield FY2025/26 (May 2025–Apr 2026): 15.45 t/ha vs 16.40 t/ha in FY2024/25 (May 2024–Apr 2025), -6%; estate 18.69 vs 18.62 t/ha (Agro 1/2026)
 Harvesting:
@@ -226,8 +212,7 @@ Spraying progress (May 2025–Apr 2026 (FY2025/26; no FY2026/27 progress printed
 Manuring progress:
   - Application method (Dec 2025): Fertiliser applied by EMDEK spreader (estate totals unchanged at the Jun 2026 visit: spreader 409.12 ha, manual 148.29 ha, sub-soil 70.05 ha) (Agro 2/2025)
 Spraying & weeding:
-  - Circle spray rounds FY2025/26 (May 2025–Apr 2026): Round 1 100%, round 2 100%, round 3 no figure printed (Agro 1/2026)
-  - Selective spray rounds FY2025/26 (May 2025–Apr 2026): Round 1 100%, round 2 100%, round 3 100% (Agro 1/2026)
+  - Spray rounds FY2025/26: Round 1 100%, round 2 100%, round 3 no figure printed | Round 1 100%, round 2 100%, round 3 100% (Agro 1/2026)
   - Circle spraying due (Jul 2026 visit): Due for palm circle spraying; grasses mixed with broadleaf weeds dominate the palm circles (PA 1/2026)
   - Broadleaf weeds (Jul 2026 visit): Overgrown broadleaf weeds that had been sprayed (photo) (PA 1/2026)
   - Ground vegetation (Jun 2026 visit): Still substantial areas of soft vegetation; acceptable (photo) (Agro 1/2026)
@@ -239,8 +224,8 @@ Fertiliser programme (this year) FY2026/27:
   - Note: 4,880 palms, 115 SPH, 42.30 ha; 36.60 t for the year. T3 trial (TrichoMix 2 kg x 2 rounds/year + Biochemical Real Strong 8:8:20 2.5 kg x 4 rounds/year) ran Nov 2019 to Apr 2024 (Agro 1/2026)
 Pests & diseases:
   - Ganoderma census Apr 2024: 48% infected (dead/fallen 30%, rotten 10%, snapping frond 5%, unopened spear 3%), 52% healthy; no newer census as of the Jul 2026 PA visit (PA 1/2026)
-  - Rat damage census Feb 2026: 3% fresh damage on 5 Feb 2026 (Agro 1/2026)
   - Barn owl boxes Apr 2026: 2 boxes (required 2), cleaned 1 round to date. Occupied: PA table 1 (50.00%); Agro table 2 (100.00%) — the two reports print different occupancy for the same Apr 2026 census (PA 1/2026 · Agro 1/2026)
+  - Rat damage census Feb 2026: 3% fresh damage on 5 Feb 2026 (Agro 1/2026)
 Yield:
   - FFB yield FY2025/26 (May 2025–Apr 2026): 18.26 t/ha vs 18.84 t/ha in FY2024/25 (May 2024–Apr 2025), -3%; estate 18.69 vs 18.62 t/ha (Agro 1/2026)
 Harvesting:
@@ -266,8 +251,7 @@ Spraying progress (May 2025–Apr 2026 (FY2025/26; no FY2026/27 progress printed
 Manuring progress:
   - Application method (Dec 2025): Fertiliser applied by EMDEK spreader (estate totals unchanged at the Jun 2026 visit: spreader 409.12 ha, manual 148.29 ha, sub-soil 70.05 ha) (Agro 2/2025)
 Spraying & weeding:
-  - Circle spray rounds FY2025/26 (May 2025–Apr 2026): Round 1 100%, round 2 100%, round 3 no figure printed (Agro 1/2026)
-  - Selective spray rounds FY2025/26 (May 2025–Apr 2026): Round 1 100%, round 2 100%, round 3 100% (Agro 1/2026)
+  - Spray rounds FY2025/26: Round 1 100%, round 2 100%, round 3 no figure printed | Round 1 100%, round 2 100%, round 3 100% (Agro 1/2026)
   - Repair spraying: Selective spraying above 3.0 rounds because repair spraying was done (PA text gives 4.0 rounds; Table 9 shows the figure above) (PA 1/2026)
   - Ground vegetation (Jun 2026 visit): Category (b): slightly dense, taller grasses from higher sunlight penetration; catch up on circle weeding and spray a 3–4 ft radius from the palm base (Agro 1/2026)
 Fertiliser programme (this year) FY2026/27:
@@ -278,8 +262,8 @@ Fertiliser programme (this year) FY2026/27:
   - Note: 6,893 palms, 128 SPH, 53.81 ha; 51.70 t for the year. TrichoMix trial plot: control plot (Agro 1/2026)
 Pests & diseases:
   - Ganoderma census Apr 2024: 39% infected (dead/fallen 23%, rotten 8%, snapping frond 5%, unopened spear 3%), 61% healthy; no newer census as of the Jul 2026 PA visit (PA 1/2026)
-  - Rat damage census Feb 2026: 4% fresh damage on 5 Feb 2026 (Agro 1/2026)
   - Barn owl boxes Apr 2026: 3 boxes (required 3), cleaned 1 round to date. Occupied: PA table 1 (66.67%); Agro table 2 (66.67%) — the two reports print different occupancy for the same Apr 2026 census (PA 1/2026 · Agro 1/2026)
+  - Rat damage census Feb 2026: 4% fresh damage on 5 Feb 2026 (Agro 1/2026)
 Yield:
   - FFB yield FY2025/26 (May 2025–Apr 2026): 20.10 t/ha vs 21.18 t/ha in FY2024/25 (May 2024–Apr 2025), -5%; estate 18.69 vs 18.62 t/ha (Agro 1/2026)
 Harvesting:
@@ -300,8 +284,7 @@ Spraying progress (May 2025–Apr 2026 (FY2025/26; no FY2026/27 progress printed
 Manuring progress:
   - Application method (Dec 2025): Fertiliser applied by manual (estate totals unchanged at the Jun 2026 visit: spreader 409.12 ha, manual 148.29 ha, sub-soil 70.05 ha) (Agro 2/2025)
 Spraying & weeding:
-  - Circle spray rounds FY2025/26 (May 2025–Apr 2026): Round 1 50%, round 2 100%, round 3 100%; 1st round not completed due to mounding works (Agro 1/2026)
-  - Selective spray rounds FY2025/26 (May 2025–Apr 2026): Round 1 100%, round 2 100%, round 3 100% (Agro 1/2026)
+  - Spray rounds FY2025/26: Round 1 50%, round 2 100%, round 3 100%; 1st round not completed due to mounding works | Round 1 100%, round 2 100%, round 3 100% (Agro 1/2026)
   - Ground vegetation (Jun 2026 visit): Category (d): soft vegetation reduced, more localized patches of undesirable weeds; reclassified from soft vegetation since the Dec 2025 visit (Agro 1/2026)
   - Ground vegetation change: Acceptable at the Dec 2025 visit; slight to moderately unacceptable at the Jun 2026 visit (photos) (Agro 1/2026)
 Fertiliser programme (this year) FY2026/27:
@@ -312,10 +295,10 @@ Fertiliser programme (this year) FY2026/27:
   - Note: 5,371 palms, 97 SPH, 55.45 ha; 40.28 t for the year (Agro 1/2026)
 Pests & diseases:
   - Ganoderma census Apr 2024: 43% infected (dead/fallen 29%, rotten 6%, snapping frond 5%, unopened spear 3%), 57% healthy; no newer census as of the Jul 2026 PA visit (PA 1/2026)
-  - Rat damage census Feb 2026: 4% fresh damage on 5 Feb 2026 (Agro 1/2026)
-  - Rat baiting Jan–Mar 2026: 30% baited on 9 Jan 2026; post-baiting census 19 Jan 2026 (no % printed) (Agro 1/2026)
   - Rat baiting FY2025/26 (May 2025–Apr 2026): 20.00 of 55.45 ha baited to date, 1 round(s) to date; STORM (flocoumafen 0.005%), 1 bait per palm per round (PA 1/2026)
   - Barn owl boxes Apr 2026: 3 boxes (required 3), cleaned 1 round to date. Occupied: PA table 2 (33.33%); Agro table 4 (100.00%) — the two reports print different occupancy for the same Apr 2026 census (PA 1/2026 · Agro 1/2026)
+  - Rat damage census Feb 2026: 4% fresh damage on 5 Feb 2026 (Agro 1/2026)
+  - Rat baiting Jan–Mar 2026: 30% baited on 9 Jan 2026; post-baiting census 19 Jan 2026 (no % printed) (Agro 1/2026)
 Yield:
   - FFB yield FY2025/26 (May 2025–Apr 2026): 14.26 t/ha vs 16.47 t/ha in FY2024/25 (May 2024–Apr 2025), -13%; estate 18.69 vs 18.62 t/ha (Agro 1/2026)
 Harvesting:
@@ -339,8 +322,7 @@ Spraying progress (May 2025–Apr 2026 (FY2025/26; no FY2026/27 progress printed
 Manuring progress:
   - Application method (Dec 2025): Fertiliser applied by EMDEK spreader (estate totals unchanged at the Jun 2026 visit: spreader 409.12 ha, manual 148.29 ha, sub-soil 70.05 ha) (Agro 2/2025)
 Spraying & weeding:
-  - Circle spray rounds FY2025/26 (May 2025–Apr 2026): Round 1 100%, round 2 100%, round 3 100% (Agro 1/2026)
-  - Selective spray rounds FY2025/26 (May 2025–Apr 2026): Round 1 100%, round 2 100%, round 3 100% (Agro 1/2026)
+  - Spray rounds FY2025/26: Round 1 100%, round 2 100%, round 3 100% | Round 1 100%, round 2 100%, round 3 100% (Agro 1/2026)
   - Repair spraying: Selective spraying above 3.0 rounds because repair spraying was done (PA text gives 4.0 rounds; Table 9 shows the figure above) (PA 1/2026)
   - Interrow (Jul 2026 visit): Satisfactory interrow dominated by soft grasses (photo; caption prints 2023B1) (PA 1/2026)
   - Ground vegetation (Jun 2026 visit): Category (d): soft vegetation reduced, more localized patches of undesirable weeds; reclassified from soft vegetation since the Dec 2025 visit (Agro 1/2026)
@@ -354,8 +336,8 @@ Fertiliser programme (this year) FY2026/27:
   - Note: 6,783 palms, 118 SPH, 57.47 ha; 50.87 t for the year (Agro 1/2026)
 Pests & diseases:
   - Ganoderma census Apr 2024: 31% infected (dead/fallen 16%, rotten 7%, snapping frond 2%, unopened spear 6%), 69% healthy; no newer census as of the Jul 2026 PA visit (PA 1/2026)
-  - Rat damage census Feb 2026: 4% fresh damage on 7 Feb 2026 (Agro 1/2026)
   - Barn owl boxes Apr 2026: 3 boxes (required 3), cleaned 1 round to date. Occupied: PA table 2 (33.33%); Agro table 5 (100.00%) — the two reports print different occupancy for the same Apr 2026 census (PA 1/2026 · Agro 1/2026)
+  - Rat damage census Feb 2026: 4% fresh damage on 7 Feb 2026 (Agro 1/2026)
 Yield:
   - FFB yield FY2025/26 (May 2025–Apr 2026): 19.20 t/ha vs 21.52 t/ha in FY2024/25 (May 2024–Apr 2025), -11%; estate 18.69 vs 18.62 t/ha (Agro 1/2026)
 Harvesting:
@@ -368,10 +350,10 @@ Pruning:
 Nutrients:
   - Leaf analysis Aug 2025: N 2.77%, P 0.168%, K 0.98%, Mg 0.29%, Ca 0.64%, B 18.25 ppm (samples received 20 Aug 2025, results 27 Sep 2025) (Agro 1/2026)
 Field:
-  - Volunteer oil palms (Jun 2026 visit): Giant VOPs in the interrow have been eradicated (before/after photos) (Agro 1/2026)
   - Area and stand Apr 2026: 57.47 ha, 118 palms/ha (PA blocking table); census basis for the FY2026/27 programme in Agro appendix (PA 1/2026)
-  - Flood-prone area: 2 ha flood-prone (3% of the block); estate has no de-silting in FY2025/26 and needs an annual programme (Agro 1/2026)
   - Palm mounding 2022–2025: Completed: 6,111 palms, Jun 2024–Feb 2025 (Agro 2/2025)
+  - Flood-prone area: 2 ha flood-prone (3% of the block); estate has no de-silting in FY2025/26 and needs an annual programme (Agro 1/2026)
+  - Volunteer oil palms (Jun 2026 visit): Giant VOPs in the interrow have been eradicated (before/after photos) (Agro 1/2026)
   - Frond stacking (Jun 2026 visit): Still straight-line frond stacking along the trenches; adopt the recommended stacking to cut runoff and fertiliser loss (photo) (Agro 1/2026)
 
 BLOCK P03B2 (58.39 ha, planted 2003, Mature)
@@ -382,8 +364,7 @@ Manuring progress:
   - Application method (Dec 2025): Fertiliser applied by EMDEK spreader (estate totals unchanged at the Jun 2026 visit: spreader 409.12 ha, manual 148.29 ha, sub-soil 70.05 ha) (Agro 2/2025)
   - Mix A round Jul 2026 (at PA visit): Mix A at 2,500 g/palm being applied by mechanical spreader: 2 workers carried 150 bags of 50 kg; productivity acceptable; tractor crew also crushing caked Mixture A (photos) (PA 1/2026)
 Spraying & weeding:
-  - Circle spray rounds FY2025/26 (May 2025–Apr 2026): Round 1 100%, round 2 100%, round 3 100% (Agro 1/2026)
-  - Selective spray rounds FY2025/26 (May 2025–Apr 2026): Round 1 100%, round 2 100%, round 3 100% (Agro 1/2026)
+  - Spray rounds FY2025/26: Round 1 100%, round 2 100%, round 3 100% | Round 1 100%, round 2 100%, round 3 100% (Agro 1/2026)
   - Palm circle (Jul 2026 visit): Clean palm circle, due to the palm mounding (photo) (PA 1/2026)
   - Broadleaf weeds (Jul 2026 visit): Overgrown broadleaf weeds that had been sprayed (photo) (PA 1/2026)
   - Ground vegetation (Jun 2026 visit): Category (d): soft vegetation reduced, more localized patches of undesirable weeds; reclassified from soft vegetation since the Dec 2025 visit (Agro 1/2026)
@@ -396,10 +377,10 @@ Fertiliser programme (this year) FY2026/27:
   - Note: 6,467 palms, 111 SPH, 58.39 ha; 48.50 t for the year (Agro 1/2026)
 Pests & diseases:
   - Ganoderma census Apr 2024: 33% infected (dead/fallen 20%, rotten 5%, snapping frond 3%, unopened spear 5%), 66% healthy; no newer census as of the Jul 2026 PA visit (PA 1/2026)
-  - Rat damage census Feb 2026: 8% fresh damage on 7 Feb 2026 (Agro 1/2026)
-  - Rat baiting Jan–Mar 2026: 100% baited on 9 Feb 2026; post-baiting damage 4% on 18 Feb 2026 (Agro 1/2026)
   - Rat baiting FY2025/26 (May 2025–Apr 2026): 58.39 ha baited to date, 1 round(s) to date; STORM (flocoumafen 0.005%), 1 bait per palm per round (PA 1/2026)
   - Barn owl boxes Apr 2026: 3 boxes (required 3), cleaned 1 round to date. Occupied: PA table 1 (66.67%); Agro table 2 (66.67%) — the two reports print different occupancy for the same Apr 2026 census (PA 1/2026 · Agro 1/2026)
+  - Rat damage census Feb 2026: 8% fresh damage on 7 Feb 2026 (Agro 1/2026)
+  - Rat baiting Jan–Mar 2026: 100% baited on 9 Feb 2026; post-baiting damage 4% on 18 Feb 2026 (Agro 1/2026)
 Yield:
   - FFB yield FY2025/26 (May 2025–Apr 2026): 19.10 t/ha vs 20.55 t/ha in FY2024/25 (May 2024–Apr 2025), -7%; estate 18.69 vs 18.62 t/ha (Agro 1/2026)
 Harvesting:
@@ -411,10 +392,10 @@ Pruning:
 Nutrients:
   - Leaf analysis Aug 2025: N 2.80%, P 0.164%, K 1.02%, Mg 0.31%, Ca 0.63%, B 18.99 ppm (samples received 20 Aug 2025, results 27 Sep 2025) (Agro 1/2026)
 Field:
-  - Volunteer oil palms (Jun 2026 visit): Fewer VOPs in the interrow than at the Dec 2025 visit (Agro 1/2026)
   - Area and stand Apr 2026: 58.39 ha, 111 palms/ha (PA blocking table); census basis for the FY2026/27 programme in Agro appendix (PA 1/2026)
-  - Flood-prone area: 3 ha flood-prone (5% of the block); estate has no de-silting in FY2025/26 and needs an annual programme (Agro 1/2026)
   - Palm mounding 2022–2025: Completed: 5,845 palms, Jul–Nov 2024 (Agro 2/2025)
+  - Flood-prone area: 3 ha flood-prone (5% of the block); estate has no de-silting in FY2025/26 and needs an annual programme (Agro 1/2026)
+  - Volunteer oil palms (Jun 2026 visit): Fewer VOPs in the interrow than at the Dec 2025 visit (Agro 1/2026)
 
 BLOCK P03B3 (25.37 ha, planted 2003, Mature)
 Spraying progress (May 2025–Apr 2026 (FY2025/26; no FY2026/27 progress printed yet)):
@@ -423,8 +404,7 @@ Spraying progress (May 2025–Apr 2026 (FY2025/26; no FY2026/27 progress printed
 Manuring progress:
   - Application method (Dec 2025): Fertiliser applied by EMDEK spreader (estate totals unchanged at the Jun 2026 visit: spreader 409.12 ha, manual 148.29 ha, sub-soil 70.05 ha) (Agro 2/2025)
 Spraying & weeding:
-  - Circle spray rounds FY2025/26 (May 2025–Apr 2026): Round 1 100%, round 2 100%, round 3 100% (Agro 1/2026)
-  - Selective spray rounds FY2025/26 (May 2025–Apr 2026): Round 1 100%, round 2 100%, round 3 100% (Agro 1/2026)
+  - Spray rounds FY2025/26: Round 1 100%, round 2 100%, round 3 100% | Round 1 100%, round 2 100%, round 3 100% (Agro 1/2026)
   - Circle spraying, Alion used: Only 1.0 circle round in FY2025/26 because Alion (pre-emergent) was used (PA 1/2026)
   - Selective spraying delayed: Delayed at 2.0 to 2.8 rounds, mainly because repair work in other fields was given priority; sprayers need training (PA 1/2026)
 Fertiliser programme (this year) FY2026/27:
@@ -436,8 +416,8 @@ Fertiliser programme (this year) FY2026/27:
   - Note: 3,389 palms, 134 SPH, 25.37 ha (Section 1); 30.50 t for the year (Agro 1/2026)
 Pests & diseases:
   - Ganoderma census Apr 2024: 33% infected (dead/fallen 16%, rotten 7%, snapping frond 6%, unopened spear 4%), 67% healthy; no newer census as of the Jul 2026 PA visit (PA 1/2026)
-  - Rat damage census Feb 2026: 3% fresh damage on 7 Feb 2026 (Agro 1/2026)
   - Barn owl boxes Apr 2026: 2 boxes (required 1), cleaned 1 round to date. Occupied: PA table 1 (0.00%); Agro table 2 (100.00%) — the two reports print different occupancy for the same Apr 2026 census (PA 1/2026 · Agro 1/2026)
+  - Rat damage census Feb 2026: 3% fresh damage on 7 Feb 2026 (Agro 1/2026)
 Yield:
   - FFB yield FY2025/26 (May 2025–Apr 2026): 24.56 t/ha vs 26.75 t/ha in FY2024/25 (May 2024–Apr 2025), -8%; estate 18.69 vs 18.62 t/ha (Agro 1/2026)
 Harvesting:
@@ -458,8 +438,7 @@ Spraying progress (May 2025–Apr 2026 (FY2025/26; no FY2026/27 progress printed
 Manuring progress:
   - Application method (Dec 2025): Fertiliser applied by EMDEK spreader (estate totals unchanged at the Jun 2026 visit: spreader 409.12 ha, manual 148.29 ha, sub-soil 70.05 ha) (Agro 2/2025)
 Spraying & weeding:
-  - Circle spray rounds FY2025/26 (May 2025–Apr 2026): Round 1 100%, round 2 100%, round 3 100% (Agro 1/2026)
-  - Selective spray rounds FY2025/26 (May 2025–Apr 2026): Round 1 100%, round 2 100%, round 3 100% (Agro 1/2026)
+  - Spray rounds FY2025/26: Round 1 100%, round 2 100%, round 3 100% | Round 1 100%, round 2 100%, round 3 100% (Agro 1/2026)
   - Ground vegetation (Jun 2026 visit): Category (b): slightly dense, taller grasses from higher sunlight penetration; catch up on circle weeding and spray a 3–4 ft radius from the palm base (Agro 1/2026)
 Fertiliser programme (this year) FY2026/27:
   - May: Mix A 2,500 g/palm (Agro 1/2026)
@@ -469,8 +448,8 @@ Fertiliser programme (this year) FY2026/27:
   - Note: 6,808 palms, 126 SPH, 54.00 ha; 51.06 t for the year (Agro 1/2026)
 Pests & diseases:
   - Ganoderma census Apr 2024: 31% infected (dead/fallen 15%, rotten 6%, snapping frond 4%, unopened spear 6%), 67% healthy; no newer census as of the Jul 2026 PA visit (PA 1/2026)
-  - Rat damage census Feb 2026: 2% fresh damage on 7 Feb 2026 (Agro 1/2026)
   - Barn owl boxes Apr 2026: 3 boxes (required 3), cleaned 1 round to date. Occupied: PA table 2 (66.67%); Agro table 4 (100.00%) — the two reports print different occupancy for the same Apr 2026 census (PA 1/2026 · Agro 1/2026)
+  - Rat damage census Feb 2026: 2% fresh damage on 7 Feb 2026 (Agro 1/2026)
 Yield:
   - FFB yield FY2025/26 (May 2025–Apr 2026): 22.45 t/ha vs 23.51 t/ha in FY2024/25 (May 2024–Apr 2025), -4%; estate 18.69 vs 18.62 t/ha (Agro 1/2026)
 Harvesting:
@@ -492,8 +471,7 @@ Spraying progress (May 2025–Apr 2026 (FY2025/26; no FY2026/27 progress printed
 Manuring progress:
   - Application method (Dec 2025): Fertiliser applied by EMDEK spreader (estate totals unchanged at the Jun 2026 visit: spreader 409.12 ha, manual 148.29 ha, sub-soil 70.05 ha) (Agro 2/2025)
 Spraying & weeding:
-  - Circle spray rounds FY2025/26 (May 2025–Apr 2026): Round 1 100%, round 2 100%, round 3 100% (Agro 1/2026)
-  - Selective spray rounds FY2025/26 (May 2025–Apr 2026): Round 1 100%, round 2 100%, round 3 100% (Agro 1/2026)
+  - Spray rounds FY2025/26: Round 1 100%, round 2 100%, round 3 100% | Round 1 100%, round 2 100%, round 3 100% (Agro 1/2026)
   - Ground vegetation (Jun 2026 visit): Category (d): soft vegetation reduced, more localized patches of undesirable weeds; reclassified from soft vegetation since the Dec 2025 visit (Agro 1/2026)
   - Undesirable vegetation (Jun 2026 visit): Slight to moderately unacceptable vegetation (photo) (Agro 1/2026)
 Fertiliser programme (this year) FY2026/27:
@@ -504,8 +482,8 @@ Fertiliser programme (this year) FY2026/27:
   - Note: 3,177 palms, 107 SPH, 29.65 ha; 23.83 t for the year. T2 trial (TrichoMix 2 kg x 2 rounds/year + UMB standard except Mycoplex) ran Nov 2019 to Apr 2024 (Agro 1/2026)
 Pests & diseases:
   - Ganoderma census Apr 2024: 42% infected (dead/fallen 32%, rotten 1%, snapping frond 4%, unopened spear 5%), 58% healthy; no newer census as of the Jul 2026 PA visit (PA 1/2026)
-  - Rat damage census Feb 2026: 2% fresh damage on 7 Feb 2026 (Agro 1/2026)
   - Barn owl boxes Apr 2026: 1 boxes (required 1), cleaned 1 round to date. Occupied: PA table 1 (100.00%); Agro table 2 (100.00%) — the two reports print different occupancy for the same Apr 2026 census (PA 1/2026 · Agro 1/2026)
+  - Rat damage census Feb 2026: 2% fresh damage on 7 Feb 2026 (Agro 1/2026)
 Yield:
   - FFB yield FY2025/26 (May 2025–Apr 2026): 19.53 t/ha vs 21.61 t/ha in FY2024/25 (May 2024–Apr 2025), -10%; estate 18.69 vs 18.62 t/ha (Agro 1/2026)
 Harvesting:
@@ -528,8 +506,7 @@ Spraying progress (May 2025–Apr 2026 (FY2025/26; no FY2026/27 progress printed
 Manuring progress:
   - Application method (Dec 2025): Fertiliser applied by EMDEK spreader (estate totals unchanged at the Jun 2026 visit: spreader 409.12 ha, manual 148.29 ha, sub-soil 70.05 ha) (Agro 2/2025)
 Spraying & weeding:
-  - Circle spray rounds FY2025/26 (May 2025–Apr 2026): Round 1 100%, round 2 81%, round 3 100% (Agro 1/2026)
-  - Selective spray rounds FY2025/26 (May 2025–Apr 2026): Round 1 100%, round 2 100%, round 3 100% (Agro 1/2026)
+  - Spray rounds FY2025/26: Round 1 100%, round 2 81%, round 3 100% | Round 1 100%, round 2 100%, round 3 100% (Agro 1/2026)
   - Circle spraying due (Jul 2026 visit): Due for palm circle spraying; grasses mixed with broadleaf weeds dominate the palm circles (PA 1/2026)
   - Ground vegetation (Jun 2026 visit): Category (d): soft vegetation reduced, more localized patches of undesirable weeds; reclassified from soft vegetation since the Dec 2025 visit (Agro 1/2026)
   - Undesirable vegetation (Jun 2026 visit): Slight to moderately unacceptable vegetation (photo) (Agro 1/2026)
@@ -541,8 +518,8 @@ Fertiliser programme (this year) FY2026/27:
   - Note: 4,242 palms, 111 SPH, 38.17 ha; 31.82 t for the year (Agro 1/2026)
 Pests & diseases:
   - Ganoderma census Apr 2024: 40% infected (dead/fallen 20%, rotten 7%, snapping frond 7%, unopened spear 6%), 60% healthy; no newer census as of the Jul 2026 PA visit (PA 1/2026)
-  - Rat damage census Feb 2026: 3% fresh damage on 7 Feb 2026 (Agro 1/2026)
   - Barn owl boxes Apr 2026: 2 boxes (required 2), cleaned 1 round to date. Occupied: PA table 2 (50.00%); Agro table 2 (100.00%) — the two reports print different occupancy for the same Apr 2026 census (PA 1/2026 · Agro 1/2026)
+  - Rat damage census Feb 2026: 3% fresh damage on 7 Feb 2026 (Agro 1/2026)
 Yield:
   - FFB yield FY2025/26 (May 2025–Apr 2026): 19.91 t/ha vs 20.47 t/ha in FY2024/25 (May 2024–Apr 2025), -3%; estate 18.69 vs 18.62 t/ha (Agro 1/2026)
 Harvesting:
@@ -565,8 +542,7 @@ Spraying progress (May 2025–Apr 2026 (FY2025/26; no FY2026/27 progress printed
 Manuring progress:
   - Application method (Dec 2025): Fertiliser applied by manual (estate totals unchanged at the Jun 2026 visit: spreader 409.12 ha, manual 148.29 ha, sub-soil 70.05 ha) (Agro 2/2025)
 Spraying & weeding:
-  - Circle spray rounds FY2025/26 (May 2025–Apr 2026): Round 1 100%, round 2 100%, round 3 no figure printed; 3rd round not completed due to waterlogging at the planting platform (Agro 1/2026)
-  - Selective spray rounds FY2025/26 (May 2025–Apr 2026): Round 1 100%, round 2 100%, round 3 no figure printed (Agro 1/2026)
+  - Spray rounds FY2025/26: Round 1 100%, round 2 100%, round 3 no figure printed; 3rd round not completed due to waterlogging at the planting platform | Round 1 100%, round 2 100%, round 3 no figure printed (Agro 1/2026)
   - Circle spraying due (Jul 2026 visit): Due for palm circle spraying; grasses mixed with broadleaf weeds dominate the palm circles (PA 1/2026)
   - Selective spraying delayed: Delayed at 2.0 to 2.8 rounds, mainly because repair work in other fields was given priority; sprayers need training (PA 1/2026)
   - Ground vegetation (Jun 2026 visit): Category (d): soft vegetation reduced, more localized patches of undesirable weeds; reclassified from soft vegetation since the Dec 2025 visit (Agro 1/2026)
@@ -580,9 +556,9 @@ Fertiliser programme (this year) FY2026/27:
   - Note: 4,058 palms, 138 SPH, 29.49 ha (planted Apr 2017); 42.20 t for the year (Agro 1/2026)
 Pests & diseases:
   - Rat damage census Jan–Feb 2026: Fresh damage 26% (5 Jan), 35% (3 Feb), 28% (12 Feb) 2026 (Agro 1/2026)
-  - Rat baiting Jan–Mar 2026: 100% baited 8 Jan, 20% on 5 Feb 2026; post-baiting census 19 Jan (no % printed), 4% on 18 Feb 2026 (Agro 1/2026)
   - Rat baiting FY2025/26 (May 2025–Apr 2026): 29.49 ha baited to date, 4 round(s) to date; STORM (flocoumafen 0.005%), 1 bait per palm per round (PA 1/2026)
   - Barn owl boxes Apr 2026: No boxes installed (PA: required 1). Agro: SPH is low at 99 (2017 field); consider boxes in shaded areas or T-perches (wooden crossbar) in open areas (PA 1/2026 · Agro 1/2026)
+  - Rat baiting Jan–Mar 2026: 100% baited 8 Jan, 20% on 5 Feb 2026; post-baiting census 19 Jan (no % printed), 4% on 18 Feb 2026 (Agro 1/2026)
 Yield:
   - FFB yield FY2025/26 (May 2025–Apr 2026): 16.44 t/ha vs 13.67 t/ha in FY2024/25 (May 2024–Apr 2025), +20%; estate 18.69 vs 18.62 t/ha (Agro 1/2026)
   - Young plantings below expectation: Yield improved in FY2025/26 but P17 and P20 remain below expectations (CEO comment, Agro 2-2025 follow-up) (Agro 1/2026)
@@ -595,11 +571,11 @@ Pruning:
 Nutrients:
   - Leaf analysis Aug 2025: N 2.64%, P 0.152%, K 1.10%, Mg 0.32%, Ca 0.50%, B 19.12 ppm (samples received 20 Aug 2025, results 27 Sep 2025) (Agro 1/2026)
 Field:
-  - Volunteer oil palms (Jun 2026 visit): Sporadic giant VOPs remain; eradicate (small VOPs 120 ml potassium glyphosate per 16 L; giant VOPs by JCB, or slash and poison with 250 ml glyphosate per 16 L) (Agro 1/2026)
   - Area and stand Apr 2026: 29.49 ha, 138 palms/ha (PA blocking table); census basis for the FY2026/27 programme in Agro appendix (PA 1/2026)
   - Flood-prone area: 5 ha flood-prone (17% of the block); estate has no de-silting in FY2025/26 and needs an annual programme (Agro 1/2026)
-  - Drain desilting: Desilt drains in the low-lying parts of fields 2017, 2018, 2020 and 2025 to speed water flow in the heavy-rain months (PA 1/2026)
   - Supply palms 2023–2025: 400 palms in 2023, 194 in 2025; total 594 (status as at Nov 2025) (Agro 1/2026)
+  - Volunteer oil palms (Jun 2026 visit): Sporadic giant VOPs remain; eradicate (small VOPs 120 ml potassium glyphosate per 16 L; giant VOPs by JCB, or slash and poison with 250 ml glyphosate per 16 L) (Agro 1/2026)
+  - Drain desilting: Desilt drains in the low-lying parts of fields 2017, 2018, 2020 and 2025 to speed water flow in the heavy-rain months (PA 1/2026)
   - Re-blocking: Blocks PM17, PM18, PM19 and PM20 were re-blocked; flood-prone parts went into the 2025 replant. 2017 field 84 to 61.74 ha, 2018 field 36.51 to 16.08 ha, 2020 field 69 to 53.97 ha (Agro 1/2026)
 
 BLOCK P17B (32.25 ha, planted 2017, Young mature)
@@ -609,8 +585,7 @@ Spraying progress (May 2025–Apr 2026 (FY2025/26; no FY2026/27 progress printed
 Manuring progress:
   - Application method (Dec 2025): Fertiliser applied by manual (estate totals unchanged at the Jun 2026 visit: spreader 409.12 ha, manual 148.29 ha, sub-soil 70.05 ha) (Agro 2/2025)
 Spraying & weeding:
-  - Circle spray rounds FY2025/26 (May 2025–Apr 2026): Round 1 100%, round 2 100%, round 3 no figure printed; 3rd round not completed due to waterlogging at the planting platform (Agro 1/2026)
-  - Selective spray rounds FY2025/26 (May 2025–Apr 2026): Round 1 100%, round 2 100%, round 3 100% (Agro 1/2026)
+  - Spray rounds FY2025/26: Round 1 100%, round 2 100%, round 3 no figure printed; 3rd round not completed due to waterlogging at the planting platform | Round 1 100%, round 2 100%, round 3 100% (Agro 1/2026)
   - Circle spraying due (Jul 2026 visit): Due for palm circle spraying; grasses mixed with broadleaf weeds dominate the palm circles (PA 1/2026)
   - Palm circle (Jul 2026 visit): Clean palm circle (photo) (PA 1/2026)
   - Ground vegetation (Jun 2026 visit): Category (b): slightly dense, taller grasses from higher sunlight penetration; catch up on circle weeding and spray a 3–4 ft radius from the palm base (Agro 1/2026)
@@ -624,9 +599,9 @@ Fertiliser programme (this year) FY2026/27:
   - Note: 4,223 palms, 131 SPH, 32.25 ha (planted Apr 2017); 44.76 t for the year (Agro 1/2026)
 Pests & diseases:
   - Rat damage census Jan–Feb 2026: Fresh damage 30% (5 Jan), 31% (3 Feb), 23% (12 Feb) 2026 (Agro 1/2026)
-  - Rat baiting Jan–Mar 2026: 100% baited 9 Jan, 40% on 7 Feb, 20% on 14 Feb 2026; post-baiting census 19 Jan (no % printed), 4% on 23 Feb 2026 (Agro 1/2026)
   - Rat baiting FY2025/26 (May 2025–Apr 2026): 32.25 ha baited to date, 5 round(s) to date; STORM (flocoumafen 0.005%), 1 bait per palm per round (PA 1/2026)
   - Barn owl boxes Apr 2026: No boxes installed (PA: required 2). Agro: SPH is low at 99 (2017 field); consider boxes in shaded areas or T-perches (wooden crossbar) in open areas (PA 1/2026 · Agro 1/2026)
+  - Rat baiting Jan–Mar 2026: 100% baited 9 Jan, 40% on 7 Feb, 20% on 14 Feb 2026; post-baiting census 19 Jan (no % printed), 4% on 23 Feb 2026 (Agro 1/2026)
 Yield:
   - FFB yield FY2025/26 (May 2025–Apr 2026): 19.02 t/ha vs 18.37 t/ha in FY2024/25 (May 2024–Apr 2025), +4%; estate 18.69 vs 18.62 t/ha (Agro 1/2026)
   - Young plantings below expectation: Yield improved in FY2025/26 but P17 and P20 remain below expectations (CEO comment, Agro 2-2025 follow-up) (Agro 1/2026)
@@ -639,11 +614,11 @@ Pruning:
 Nutrients:
   - Leaf analysis Aug 2025: N 2.50%, P 0.151%, K 1.10%, Mg 0.35%, Ca 0.41%, B 19.53 ppm (samples received 20 Aug 2025, results 27 Sep 2025) (Agro 1/2026)
 Field:
-  - Volunteer oil palms (Jun 2026 visit): Giant VOPs in the interrow have been eradicated (before/after photos) (Agro 1/2026)
   - Area and stand Apr 2026: 32.25 ha, 131 palms/ha (PA blocking table); census basis for the FY2026/27 programme in Agro appendix (PA 1/2026)
   - Flood-prone area: 5 ha flood-prone (16% of the block); estate has no de-silting in FY2025/26 and needs an annual programme (Agro 1/2026)
-  - Drain desilting: Desilt drains in the low-lying parts of fields 2017, 2018, 2020 and 2025 to speed water flow in the heavy-rain months (PA 1/2026)
   - Supply palms 2023–2025: 100 palms in 2023, 414 in 2025; total 514 (status as at Nov 2025) (Agro 1/2026)
+  - Volunteer oil palms (Jun 2026 visit): Giant VOPs in the interrow have been eradicated (before/after photos) (Agro 1/2026)
+  - Drain desilting: Desilt drains in the low-lying parts of fields 2017, 2018, 2020 and 2025 to speed water flow in the heavy-rain months (PA 1/2026)
   - Re-blocking: Blocks PM17, PM18, PM19 and PM20 were re-blocked; flood-prone parts went into the 2025 replant. 2017 field 84 to 61.74 ha, 2018 field 36.51 to 16.08 ha, 2020 field 69 to 53.97 ha (Agro 1/2026)
 
 BLOCK P18A (16.08 ha, planted 2018, Young mature)
@@ -653,8 +628,7 @@ Spraying progress (May 2025–Apr 2026 (FY2025/26; no FY2026/27 progress printed
 Manuring progress:
   - Application method (Dec 2025): Fertiliser applied by sub-soil (estate totals unchanged at the Jun 2026 visit: spreader 409.12 ha, manual 148.29 ha, sub-soil 70.05 ha) (Agro 2/2025)
 Spraying & weeding:
-  - Circle spray rounds FY2025/26 (May 2025–Apr 2026): Round 1 100%, round 2 48%, round 3 68%; 2nd and 3rd rounds not completed due to flooding (Agro 1/2026)
-  - Selective spray rounds FY2025/26 (May 2025–Apr 2026): Round 1 100%, round 2 100%, round 3 100% (Agro 1/2026)
+  - Spray rounds FY2025/26: Round 1 100%, round 2 48%, round 3 68%; 2nd and 3rd rounds not completed due to flooding | Round 1 100%, round 2 100%, round 3 100% (Agro 1/2026)
   - Selective spraying delayed: Delayed at 2.0 to 2.8 rounds, mainly because repair work in other fields was given priority; sprayers need training (PA 1/2026)
 Fertiliser programme (this year) FY2026/27:
   - May: Mix B 4,000 g/palm, sub-soil (Agro 1/2026)
@@ -664,9 +638,9 @@ Fertiliser programme (this year) FY2026/27:
   - Note: 1,721 palms, 107 SPH, 16.08 ha (planted Dec 2018); 16.69 t for the year. Flood-prone: fertiliser buried in 3–4 pockets, 1,000–1,500 g per pocket (Agro 1/2026)
 Pests & diseases:
   - Rat damage census Jan–Feb 2026: Fresh damage 4% (3 Jan), 25% (4 Feb), 15% (11 Feb) 2026 (Agro 1/2026)
-  - Rat baiting Jan–Mar 2026: 100% baited 9 Feb and 100% on 14 Feb 2026; post-baiting damage 4% on 23 Feb 2026 (Agro 1/2026)
   - Rat baiting FY2025/26 (May 2025–Apr 2026): 16.08 ha baited to date, 3 round(s) to date; STORM (flocoumafen 0.005%), 1 bait per palm per round (PA 1/2026)
   - Barn owl boxes Apr 2026: No boxes installed (PA: required 1). Agro: SPH is low at 47 (2018 field); consider boxes in shaded areas or T-perches (wooden crossbar) in open areas (PA 1/2026 · Agro 1/2026)
+  - Rat baiting Jan–Mar 2026: 100% baited 9 Feb and 100% on 14 Feb 2026; post-baiting damage 4% on 23 Feb 2026 (Agro 1/2026)
 Yield:
   - FFB yield FY2025/26 (May 2025–Apr 2026): 24.89 t/ha vs 18.60 t/ha in FY2024/25 (May 2024–Apr 2025), +34%; estate 18.69 vs 18.62 t/ha (Agro 1/2026)
   - Best block: Highest FY2025/26 yield in the estate; the 2017/2018 gains are attributed to re-consolidation and re-blocking to about 130 palms/ha (Agro 1/2026)
@@ -681,8 +655,8 @@ Nutrients:
 Field:
   - Area and stand Apr 2026: 16.08 ha, 107 palms/ha (PA blocking table); census basis for the FY2026/27 programme in Agro appendix (PA 1/2026)
   - Flood-prone area: 5 ha flood-prone (31% of the block); estate has no de-silting in FY2025/26 and needs an annual programme (Agro 1/2026)
-  - Drain desilting: Desilt drains in the low-lying parts of fields 2017, 2018, 2020 and 2025 to speed water flow in the heavy-rain months (PA 1/2026)
   - Supply palms 2023–2025: 483 palms in 2025 (status as at Nov 2025) (Agro 1/2026)
+  - Drain desilting: Desilt drains in the low-lying parts of fields 2017, 2018, 2020 and 2025 to speed water flow in the heavy-rain months (PA 1/2026)
   - Re-blocking: Blocks PM17, PM18, PM19 and PM20 were re-blocked; flood-prone parts went into the 2025 replant. 2017 field 84 to 61.74 ha, 2018 field 36.51 to 16.08 ha, 2020 field 69 to 53.97 ha (Agro 1/2026)
 
 BLOCK P20A (36.18 ha, planted 2020, Young mature)
@@ -693,8 +667,7 @@ Manuring progress:
   - Application method (Dec 2025): Fertiliser applied by sub-soil (estate totals unchanged at the Jun 2026 visit: spreader 409.12 ha, manual 148.29 ha, sub-soil 70.05 ha) (Agro 2/2025)
   - Mix B timing FY2025/26 (May 2025–Apr 2026): Mix B applied up to 4 months late, the longest delay in the estate (most fields 0–2 months) (Agro 1/2026)
 Spraying & weeding:
-  - Circle spray rounds FY2025/26 (May 2025–Apr 2026): Round 1 100%, round 2 100%, round 3 100% (Agro 1/2026)
-  - Selective spray rounds FY2025/26 (May 2025–Apr 2026): Round 1 100%, round 2 100%, round 3 100% (Agro 1/2026)
+  - Spray rounds FY2025/26: Round 1 100%, round 2 100%, round 3 100% | Round 1 100%, round 2 100%, round 3 100% (Agro 1/2026)
   - Circle spraying due (Jul 2026 visit): Due for palm circle spraying; grasses mixed with broadleaf weeds dominate the palm circles (PA 1/2026)
   - Selective spraying delayed: Delayed at 2.0 to 2.8 rounds, mainly because repair work in other fields was given priority; sprayers need training (PA 1/2026)
 Fertiliser programme (this year) FY2026/27:
@@ -705,9 +678,9 @@ Fertiliser programme (this year) FY2026/27:
   - Note: 3,355 palms, 93 SPH, 36.18 ha (planted Mar 2020); 33.55 t for the year. Flood-prone: Mix B buried in 2–3 pockets, 1,000–1,500 g per pocket, twice a year; RP on the surface (Agro 1/2026)
 Pests & diseases:
   - Rat damage census Jan–Feb 2026: Fresh damage 19% (3 Jan), 36% (4 Feb), 21% (11 Feb) 2026 (Agro 1/2026)
-  - Rat baiting Jan–Mar 2026: 100% baited 7 Jan, 100% on 6 Feb, 45% on 13 Feb 2026; post-baiting census 19 Jan (no % printed), 4% on 10 Mar 2026 (Agro 1/2026)
   - Rat baiting FY2025/26 (May 2025–Apr 2026): 21.21 of 36.18 ha baited to date, 5 round(s) to date; STORM (flocoumafen 0.005%), 1 bait per palm per round (PA 1/2026)
   - Barn owl boxes Apr 2026: No boxes installed (PA: required 2). Agro: SPH is low at 67 (2020 field); consider boxes in shaded areas or T-perches (wooden crossbar) in open areas (PA 1/2026 · Agro 1/2026)
+  - Rat baiting Jan–Mar 2026: 100% baited 7 Jan, 100% on 6 Feb, 45% on 13 Feb 2026; post-baiting census 19 Jan (no % printed), 4% on 10 Mar 2026 (Agro 1/2026)
 Yield:
   - FFB yield FY2025/26 (May 2025–Apr 2026): 14.10 t/ha vs 4.23 t/ha in FY2024/25 (May 2024–Apr 2025), +233%; estate 18.69 vs 18.62 t/ha (Agro 1/2026)
   - Young plantings below expectation: Yield improved in FY2025/26 but P17 and P20 remain below expectations (CEO comment, Agro 2-2025 follow-up) (Agro 1/2026)
@@ -721,8 +694,8 @@ Nutrients:
 Field:
   - Area and stand Apr 2026: 36.18 ha, 93 palms/ha (PA blocking table); census basis for the FY2026/27 programme in Agro appendix (PA 1/2026)
   - Flood-prone area: 2.5 ha flood-prone (7% of the block); estate has no de-silting in FY2025/26 and needs an annual programme (Agro 1/2026)
-  - Drain desilting: Desilt drains in the low-lying parts of fields 2017, 2018, 2020 and 2025 to speed water flow in the heavy-rain months (PA 1/2026)
   - Supply palms 2023–2025: 1,848 palms in 2025 (status as at Nov 2025) (Agro 1/2026)
+  - Drain desilting: Desilt drains in the low-lying parts of fields 2017, 2018, 2020 and 2025 to speed water flow in the heavy-rain months (PA 1/2026)
   - Re-blocking: Blocks PM17, PM18, PM19 and PM20 were re-blocked; flood-prone parts went into the 2025 replant. 2017 field 84 to 61.74 ha, 2018 field 36.51 to 16.08 ha, 2020 field 69 to 53.97 ha (Agro 1/2026)
 
 BLOCK P20B (17.79 ha, planted 2020, Young mature)
@@ -733,8 +706,7 @@ Manuring progress:
   - Application method (Dec 2025): Fertiliser applied by sub-soil (estate totals unchanged at the Jun 2026 visit: spreader 409.12 ha, manual 148.29 ha, sub-soil 70.05 ha) (Agro 2/2025)
   - Mix B timing FY2025/26 (May 2025–Apr 2026): Mix B applied up to 4 months late, the longest delay in the estate (most fields 0–2 months) (Agro 1/2026)
 Spraying & weeding:
-  - Circle spray rounds FY2025/26 (May 2025–Apr 2026): Round 1 100%, round 2 100%, round 3 100% (Agro 1/2026)
-  - Selective spray rounds FY2025/26 (May 2025–Apr 2026): Round 1 100%, round 2 100%, round 3 100% (Agro 1/2026)
+  - Spray rounds FY2025/26: Round 1 100%, round 2 100%, round 3 100% | Round 1 100%, round 2 100%, round 3 100% (Agro 1/2026)
   - Circle spraying due (Jul 2026 visit): Due for palm circle spraying; grasses mixed with broadleaf weeds dominate the palm circles (PA 1/2026)
 Fertiliser programme (this year) FY2026/27:
   - May: Mix B 4,000 g/palm, sub-soil (Agro 1/2026)
@@ -744,9 +716,9 @@ Fertiliser programme (this year) FY2026/27:
   - Note: 1,296 palms, 73 SPH, 17.79 ha (planted Mar 2020); 12.96 t for the year. Flood-prone: Mix B buried in 2–3 pockets, 1,000–1,500 g per pocket, twice a year; RP on the surface (Agro 1/2026)
 Pests & diseases:
   - Rat damage census Jan–Feb 2026: Fresh damage 16% (3 Jan), 47% (4 Feb), 20% (11 Feb) 2026 (Agro 1/2026)
-  - Rat baiting Jan–Mar 2026: 100% baited 7 Jan, 100% on 6 Feb, 50% on 13 Feb 2026; post-baiting census 19 Jan (no % printed), 4% on 10 Mar 2026 (Agro 1/2026)
   - Rat baiting FY2025/26 (May 2025–Apr 2026): 23.97 ha on a 17.79 ha field (as printed) baited to date, 5 round(s) to date; STORM (flocoumafen 0.005%), 1 bait per palm per round (PA 1/2026)
   - Barn owl boxes Apr 2026: No boxes installed (PA: required 1). Agro: SPH is low at 67 (2020 field); consider boxes in shaded areas or T-perches (wooden crossbar) in open areas (PA 1/2026 · Agro 1/2026)
+  - Rat baiting Jan–Mar 2026: 100% baited 7 Jan, 100% on 6 Feb, 50% on 13 Feb 2026; post-baiting census 19 Jan (no % printed), 4% on 10 Mar 2026 (Agro 1/2026)
 Yield:
   - FFB yield FY2025/26 (May 2025–Apr 2026): 10.10 t/ha vs 3.48 t/ha in FY2024/25 (May 2024–Apr 2025), +191%; estate 18.69 vs 18.62 t/ha (Agro 1/2026)
   - Young plantings below expectation: Yield improved in FY2025/26 but P17 and P20 remain below expectations (CEO comment, Agro 2-2025 follow-up) (Agro 1/2026)
@@ -760,8 +732,8 @@ Nutrients:
 Field:
   - Area and stand Apr 2026: 17.79 ha, 73 palms/ha (PA blocking table); census basis for the FY2026/27 programme in Agro appendix (PA 1/2026)
   - Flood-prone area: 2.5 ha flood-prone (14% of the block); estate has no de-silting in FY2025/26 and needs an annual programme (Agro 1/2026)
-  - Drain desilting: Desilt drains in the low-lying parts of fields 2017, 2018, 2020 and 2025 to speed water flow in the heavy-rain months (PA 1/2026)
   - Supply palms 2023–2025: 669 palms in 2025 (status as at Nov 2025) (Agro 1/2026)
+  - Drain desilting: Desilt drains in the low-lying parts of fields 2017, 2018, 2020 and 2025 to speed water flow in the heavy-rain months (PA 1/2026)
   - Re-blocking: Blocks PM17, PM18, PM19 and PM20 were re-blocked; flood-prone parts went into the 2025 replant. 2017 field 84 to 61.74 ha, 2018 field 36.51 to 16.08 ha, 2020 field 69 to 53.97 ha (Agro 1/2026)
 
 BLOCK PR25 (168.1 ha, planted 2025, Immature)

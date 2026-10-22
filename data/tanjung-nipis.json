@@ -504,17 +504,62 @@
      {
       "k": "Agronomist weeding record FY2025/26 (May 2025–Apr 2026)",
       "v": "May 2025–Apr 2026 per Agronomist: blanket/selective spray 68%, circle spray 68% (Agro Table 9; differs from PA figures).",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "stats": [
+       {
+        "l": "Blanket/selective",
+        "v": "68%"
+       },
+       {
+        "l": "Circle spray",
+        "v": "68%"
+       }
+      ],
+      "note": "Agro Table 9; differs from PA figures"
      },
      {
       "k": "Weed condition May 2026",
       "v": "Circle / inter-row: 48 Good / Good; 49 Fair / Good; 50 Good / Good; 51 Good / Fair (Agro p27).",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "tbl": {
+       "cols": [
+        "Sub-block",
+        "Circle",
+        "Inter-row"
+       ],
+       "rows": [
+        [
+         "48",
+         "Good",
+         "Good"
+        ],
+        [
+         "49",
+         "Fair",
+         "Good"
+        ],
+        [
+         "50",
+         "Good",
+         "Good"
+        ],
+        [
+         "51",
+         "Good",
+         "Fair"
+        ]
+       ]
+      },
+      "note": "May 2026 (Agro p27)"
      },
      {
       "k": "Soft grasses May 2026",
       "v": "Soft grasses and Nephrolepis established in blocks 48 and 49 (4.4.6); PA photo: soft grasses starting in 2004A-49.",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "pts": [
+       "Soft grasses and Nephrolepis established in blocks 48 and 49",
+       "PA photo: soft grasses starting in 2004A-49"
+      ]
      }
     ],
     "pests": [
@@ -528,12 +573,35 @@
      {
       "k": "FY2025/26 (May 2025–Apr 2026) yield",
       "v": "21.44 t/ha vs 17.79 t/ha in FY2024/25 (May 2024–Apr 2025), 17% (Table 15, period 12).",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "stats": [
+       {
+        "l": "FY2025/26 yield",
+        "v": "21.44 t/ha",
+        "d": "May 2025–Apr 2026 · 17.79 in FY2024/25"
+       },
+       {
+        "l": "Change",
+        "v": "17%"
+       }
+      ]
      },
      {
       "k": "Yield May 2026",
       "v": "1.77 t/ha in Period 1 FY2026/27 (May 2026) vs 2.13 t/ha in May 2025, -20% as printed (Table 16).",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "stats": [
+       {
+        "l": "Period 1 FY2026/27",
+        "v": "1.77 t/ha",
+        "d": "May 2026 · 2.13 in May 2025"
+       },
+       {
+        "l": "Change",
+        "v": "-20%",
+        "d": "as printed"
+       }
+      ]
      },
      {
       "k": "Yield vs potential (2025–26)",
@@ -545,22 +613,161 @@
      {
       "k": "Harvest intervals May 2025–May 2026",
       "v": "Days, 2025 unless stated: May 17-23, Jun 15-19, Jul 13-16, Aug 11-15, Sep 10-19, Oct 12-14, Nov 14-16, Dec 11-16; Jan 2026 13-15, Feb 11-21, Mar 14-16, Apr 11-14; May 2026 11-12 (Agro Tables 7, 10, 13).",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "tbl": {
+       "cols": [
+        "Month",
+        "Interval (days)"
+       ],
+       "rows": [
+        [
+         "May 2025",
+         "17-23"
+        ],
+        [
+         "Jun 2025",
+         "15-19"
+        ],
+        [
+         "Jul 2025",
+         "13-16"
+        ],
+        [
+         "Aug 2025",
+         "11-15"
+        ],
+        [
+         "Sep 2025",
+         "10-19"
+        ],
+        [
+         "Oct 2025",
+         "12-14"
+        ],
+        [
+         "Nov 2025",
+         "14-16"
+        ],
+        [
+         "Dec 2025",
+         "11-16"
+        ],
+        [
+         "Jan 2026",
+         "13-15"
+        ],
+        [
+         "Feb 2026",
+         "11-21"
+        ],
+        [
+         "Mar 2026",
+         "14-16"
+        ],
+        [
+         "Apr 2026",
+         "11-14"
+        ],
+        [
+         "May 2026",
+         "11-12"
+        ]
+       ]
+      },
+      "note": "Agro Tables 7, 10, 13"
      },
      {
       "k": "Harvest rounds May 2026",
       "v": "3 rounds vs target 2, 150% (Table 17, Period 1 FY2026/27).",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "stats": [
+       {
+        "l": "Rounds",
+        "v": "3",
+        "d": "target 2 · 150%"
+       }
+      ],
+      "note": "Period 1 FY2026/27 (Table 17)"
      },
      {
       "k": "Harvest rounds Feb 2026",
       "v": "Sub-block: rounds in Feb 2026 / rounds May 2025–Feb 2026 / intervals (days): 48: 2 / 21 / 16-19; 49: 2 / 21 / 16-21; 50: 3 / 22 / 11-11-11; 51: 2 / 23 / 11-11 (PA Table 16).",
-      "src": "PA 1/2026"
+      "src": "PA 1/2026",
+      "tbl": {
+       "cols": [
+        "Sub-block",
+        "Feb 2026",
+        "May–Feb",
+        "Interval (days)"
+       ],
+       "rows": [
+        [
+         "48",
+         "2",
+         "21",
+         "16-19"
+        ],
+        [
+         "49",
+         "2",
+         "21",
+         "16-21"
+        ],
+        [
+         "50",
+         "3",
+         "22",
+         "11-11-11"
+        ],
+        [
+         "51",
+         "2",
+         "23",
+         "11-11"
+        ]
+       ]
+      },
+      "note": "Rounds; PA Table 16"
      },
      {
       "k": "Harvester output Feb 2026",
       "v": "Sub-block: rate paid per t FFB, t FFB per man-day, average earning per day: 48 RM54/t 1.11 t RM59.94; 49 RM54 0.94 t RM50.76; 50 RM54 0.97 t RM52.38; 51 RM54 0.74 t RM39.96 (PA Table 17).",
-      "src": "PA 1/2026"
+      "src": "PA 1/2026",
+      "tbl": {
+       "cols": [
+        "Sub-block",
+        "Rate/t FFB",
+        "t/man-day",
+        "Earning/day"
+       ],
+       "rows": [
+        [
+         "48",
+         "RM54",
+         "1.11",
+         "RM59.94"
+        ],
+        [
+         "49",
+         "RM54",
+         "0.94",
+         "RM50.76"
+        ],
+        [
+         "50",
+         "RM54",
+         "0.97",
+         "RM52.38"
+        ],
+        [
+         "51",
+         "RM54",
+         "0.74",
+         "RM39.96"
+        ]
+       ]
+      },
+      "note": "Feb 2026; PA Table 17"
      },
      {
       "k": "Long intervals Feb 2026",
@@ -572,12 +779,33 @@
      {
       "k": "Pruning FY2025/26 (PA) (May 2025–Apr 2026)",
       "v": "May 2025–Apr 2026: 105,496 palms pruned vs 86,032 programme (4 rounds on 21,508 palms), 123%, 4.9 rounds (PA Table 13).",
-      "src": "PA 1/2026"
+      "src": "PA 1/2026",
+      "stats": [
+       {
+        "l": "Palms pruned",
+        "v": "105,496",
+        "d": "vs 86,032 programme"
+       },
+       {
+        "l": "Achieved",
+        "v": "123%",
+        "d": "4.9 rounds"
+       }
+      ],
+      "note": "May 2025–Apr 2026; PA Table 13"
      },
      {
       "k": "Pruning FY2025/26 (Agronomist) (May 2025–Apr 2026)",
       "v": "Progressive pruning FY2025/26: 84,898 of 86,032 palms, 99% (Agro Table 8, as of May 2026; differs from PA).",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "stats": [
+       {
+        "l": "Progressive pruning",
+        "v": "99%",
+        "d": "84,898 of 86,032 palms"
+       }
+      ],
+      "note": "As of May 2026; differs from PA"
      },
      {
       "k": "Pruning & sanitation May 2026",
@@ -594,12 +822,51 @@
      {
       "k": "Leaf analysis 2025",
       "v": "Agro 2/2025 (visit 28 Oct 2025; sampling date not printed). N, P, K, Mg, Ca % dry matter; B ppm; L low, ML marginally low, N normal, H high: 48 N 2.69 N, P 0.166 N, K 1.07 H, Mg 0.31 H, Ca 0.48 ML, B 17.3 H; 49 N 2.35 L, P 0.151 ML, K 1.01 N, Mg 0.38 H, Ca 0.43 ML, B 16.9 H; 50 N 2.33 L, P 0.152 ML, K 1.03 N, Mg 0.37 H, Ca 0.45 ML, B 17.0 H; 51 N 2.45 L, P 0.151 ML, K 1.02 N, Mg 0.37 H, Ca 0.43 ML, B 15.3 H.",
-      "src": "Agro 2/2025"
+      "src": "Agro 2/2025",
+      "tbl": {
+       "cols": [
+        "Block",
+        "N · P %",
+        "K · Mg %",
+        "Ca % · B ppm"
+       ],
+       "rows": [
+        [
+         "48",
+         "2.69 N · 0.166 N",
+         "1.07 H · 0.31 H",
+         "0.48 ML · 17.3 H"
+        ],
+        [
+         "49",
+         "2.35 L · 0.151 ML",
+         "1.01 N · 0.38 H",
+         "0.43 ML · 16.9 H"
+        ],
+        [
+         "50",
+         "2.33 L · 0.152 ML",
+         "1.03 N · 0.37 H",
+         "0.45 ML · 17.0 H"
+        ],
+        [
+         "51",
+         "2.45 L · 0.151 ML",
+         "1.02 N · 0.37 H",
+         "0.43 ML · 15.3 H"
+        ]
+       ]
+      },
+      "note": "Visit 28 Oct 2025. L low, ML marginally low, N normal, H high"
      },
      {
       "k": "Leaf N & Ca 2025",
       "v": "Agro 2/2025: N low in 49, 50, 51; Ca marginally low in P04A and P05A (4.2.1).",
-      "src": "Agro 2/2025"
+      "src": "Agro 2/2025",
+      "pts": [
+       "N low in 49, 50, 51",
+       "Ca marginally low in P04A and P05A"
+      ]
      }
     ],
     "field": [
@@ -611,7 +878,20 @@
      {
       "k": "Palm census May 2026",
       "v": "Previous → current: 162.96 ha, 21,993 palms, 135 SPH, unchanged (Table 3). Sub-blocks: 48 48.07, 49 39.77, 50 41.57, 51 33.55 ha (Table 2).",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "stats": [
+       {
+        "l": "Palms",
+        "v": "21,993",
+        "d": "on 162.96 ha"
+       },
+       {
+        "l": "SPH",
+        "v": "135",
+        "d": "unchanged"
+       }
+      ],
+      "note": "Sub-blocks ha: 48 48.07, 49 39.77, 50 41.57, 51 33.55 (Table 2)"
      }
     ],
     "fertNow": {
@@ -3792,76 +4072,315 @@
    {
     "k": "FY2026/27 progress May 2026",
     "v": "Programme first half: Mix A 448.9 t, Mix B 414.36 t, NK 1 199.32 t, AS 30.17 t, BRP 80.49 t, CPD 26.9 t, Aruma 0.13 t. Due by May 2026: Mix A 22.08 t, Mix B 72.32 t, CPD 11.43 t. Delivered: Mix A 231.4 t only. Applied: nil (Table 6).",
-    "src": "Agro 1/2026"
+    "src": "Agro 1/2026",
+    "tbl": {
+     "cols": [
+      "Mix",
+      "Half-year prog. t",
+      "Due May t"
+     ],
+     "rows": [
+      [
+       "Mix A",
+       "448.9",
+       "22.08"
+      ],
+      [
+       "Mix B",
+       "414.36",
+       "72.32"
+      ],
+      [
+       "CPD",
+       "26.9",
+       "11.43"
+      ]
+     ]
+    },
+    "note": "Programme first half FY2026/27. Delivered: Mix A 231.4 t only; applied nil (Table 6). Also NK 1 199.32, AS 30.17, BRP 80.49, Aruma 0.13 t"
    },
    {
     "k": "FY2026/27 start May 2026",
     "v": "Programme not started at May 2026 because the estate was still applying carry-forward FY2025/26 fertiliser; expected to start Jun 2026. Mix B and CPD deliveries expected Jun 2026. No manuring seen at the visit; keep placement quality high given uneven frond stacking. Stores satisfactory (3.3-3.6).",
-    "src": "Agro 1/2026"
+    "src": "Agro 1/2026",
+    "pts": [
+     "Not started at May 2026: still applying carry-forward FY2025/26 fertiliser",
+     "Expected to start Jun 2026; Mix B and CPD deliveries Jun 2026",
+     "Keep placement quality high given uneven frond stacking"
+    ]
    },
    {
     "k": "FY2025/26 completion May 2026",
     "v": "FY2025/26 programme completed in May 2026 (first month of FY2026/27): Mix A 524.05 t programme, 429.52 t applied, printed 100%; Mix B 217.25 t, 152.55 t applied, 100%; Mix C 490.4 t, 487.57 t, 100%; RP 231.9 t, 226.4 t, 100%; CPD 5.15 t, 5.15 t, 100%. Delays: late deliveries (second half), weather on hills, Tobe access (Table 5, 3.1).",
-    "src": "Agro 1/2026"
+    "src": "Agro 1/2026",
+    "tbl": {
+     "cols": [
+      "Fert",
+      "Programme t",
+      "Applied t",
+      "Printed"
+     ],
+     "rows": [
+      [
+       "Mix A",
+       "524.05",
+       "429.52",
+       "100%"
+      ],
+      [
+       "Mix B",
+       "217.25",
+       "152.55",
+       "100%"
+      ],
+      [
+       "Mix C",
+       "490.4",
+       "487.57",
+       "100%"
+      ],
+      [
+       "RP",
+       "231.9",
+       "226.4",
+       "100%"
+      ],
+      [
+       "CPD",
+       "5.15",
+       "5.15",
+       "100%"
+      ]
+     ]
+    },
+    "note": "Completed May 2026. Delays: late deliveries, hill weather, Tobe access"
    },
    {
     "k": "FY2025/26 progress Apr 2026",
     "v": "May 2025–Apr 2026: first half Mix A 330.32 of 350.20 t (94%), Mix B 27.35 of 27.28 t (100%), Mix C 289.22 of 298.76 t (97%), RP 226.40 of 226.40 t (100%), first half 873.29 of 902.64 t (97%); second half Mix A 99.20 of 189.95 t (52%), Mix B 125.23 of 158.63 t (79%), Mix C 0 of 189.95 t (0%), second half 224.43 of 538.53 t (42%); total 1,097.72 of 1,441.17 t (76%) (Table 10).",
-    "src": "PA 1/2026"
+    "src": "PA 1/2026",
+    "tbl": {
+     "cols": [
+      "Fert",
+      "1st half t",
+      "2nd half t"
+     ],
+     "rows": [
+      [
+       "Mix A",
+       "330.32 / 350.20 (94%)",
+       "99.20 / 189.95 (52%)"
+      ],
+      [
+       "Mix B",
+       "27.35 / 27.28 (100%)",
+       "125.23 / 158.63 (79%)"
+      ],
+      [
+       "Mix C",
+       "289.22 / 298.76 (97%)",
+       "0 / 189.95 (0%)"
+      ],
+      [
+       "RP",
+       "226.40 / 226.40 (100%)",
+       "–"
+      ],
+      [
+       "Total",
+       "873.29 / 902.64 (97%)",
+       "224.43 / 538.53 (42%)"
+      ]
+     ]
+    },
+    "note": "Applied / programme, May 2025–Apr 2026. Full year 1,097.72 of 1,441.17 t (76%) (Table 10)"
    },
    {
     "k": "Manuring labour & cost Apr 2026",
     "v": "Delay from heavy rain Jan–Mar 2026 and too few workers; labour raised from 19 to 29 by Apr 2026, finish expected May 2026. Buckets used on steep land; wheelbarrows where suitable; Mix A Feb 2026 at 1,500-2,000 g/palm: 2.59 ha/man-day at RM20.00/ha, RM51.80/day, low; bring fertiliser closer to palms, consider mechanisation. Cost RM1,148/ha, 72% of budget RM1,588 (6.2.4-6.2.9). Do not manure in Nov-Dec heavy rain; finish Sep-Oct schedule by October (CEO comment).",
-    "src": "PA 1/2026"
+    "src": "PA 1/2026",
+    "stats": [
+     {
+      "l": "Cost",
+      "v": "RM1,148/ha",
+      "d": "72% of RM1,588 budget"
+     },
+     {
+      "l": "Mix A output",
+      "v": "2.59 ha/man-day",
+      "d": "RM20.00/ha · RM51.80/day"
+     }
+    ],
+    "pts": [
+     "Delay: heavy rain Jan–Mar 2026, too few workers; labour 19 to 29 by Apr",
+     "Bring fertiliser closer to palms, consider mechanisation",
+     "No manuring in Nov-Dec heavy rain; finish Sep-Oct schedule by October"
+    ]
    }
   ],
   "spraying": [
    {
     "k": "Circle & path spraying FY2025/26 (May 2025–Apr 2026)",
     "v": "Estate May 2025–Apr 2026: 2,841.10 of 4,110.24 ha programme (3 rounds), 69%, 2.1 rounds (Table 7).",
-    "src": "PA 1/2026"
+    "src": "PA 1/2026",
+    "stats": [
+     {
+      "l": "Circle done",
+      "v": "69%",
+      "d": "2,841.10 of 4,110.24 ha"
+     },
+     {
+      "l": "Rounds",
+      "v": "2.1",
+      "d": "of 3"
+     }
+    ],
+    "note": "Estate, May 2025–Apr 2026 (Table 7)"
    },
    {
     "k": "Selective (inter-row) spraying FY2025/26 (May 2025–Apr 2026)",
     "v": "Estate May 2025–Apr 2026: 2,586.68 of 4,110.24 ha programme (3 rounds), 63%, 1.9 rounds (Table 9).",
-    "src": "PA 1/2026"
+    "src": "PA 1/2026",
+    "stats": [
+     {
+      "l": "Inter-row done",
+      "v": "63%",
+      "d": "2,586.68 of 4,110.24 ha"
+     },
+     {
+      "l": "Rounds",
+      "v": "1.9",
+      "d": "of 3"
+     }
+    ],
+    "note": "Estate, May 2025–Apr 2026 (Table 9)"
    },
    {
     "k": "Unmatched row 2024A 17.37 ha (2025–26)",
     "v": "PA Tables 7 and 9 also print a row '2024A 17.37 ha': circle 27.81 of 52.11 ha (53%, 1.6 rounds); selective 0 of 52.11 ha (0%) — not matched to a dashboard block.",
-    "src": "PA 1/2026"
+    "src": "PA 1/2026",
+    "tbl": {
+     "cols": [
+      "2024A 17.37 ha",
+      "Done / prog. ha",
+      "%"
+     ],
+     "rows": [
+      [
+       "Circle",
+       "27.81 / 52.11",
+       "53% (1.6 rounds)"
+      ],
+      [
+       "Selective",
+       "0 / 52.11",
+       "0%"
+      ]
+     ]
+    },
+    "note": "PA Tables 7, 9; not matched to a dashboard block"
    },
    {
     "k": "Methods & output Apr 2026",
     "v": "Circle: Inter Pump, glyphosate; 4.50 ha/man-day at RM18.00/ha, RM81.00/day; separate circle work from Lalang/Giant Paspalum/roadside spraying; one round could be a mist-blower round with glyphosate 4.0-6.0 L/ha. Inter-row: mist blower, Trichlopyr (Kenlon) for tough broadleaf, Ally 20DF for soft broadleaf; 3.0 ha/man-day at RM24.00/ha, RM72.00/day, should reach 4.5 ha (Table 8, 6.1.3.4-6.1.4.8).",
-    "src": "PA 1/2026"
+    "src": "PA 1/2026",
+    "tbl": {
+     "cols": [
+      "Method",
+      "Output ha/man-day",
+      "Rate/day"
+     ],
+     "rows": [
+      [
+       "Circle (Inter Pump)",
+       "4.50 · RM18.00/ha",
+       "RM81.00"
+      ],
+      [
+       "Inter-row (mist blower)",
+       "3.0 · RM24.00/ha",
+       "RM72.00"
+      ]
+     ]
+    },
+    "pts": [
+     "Inter-row should reach 4.5 ha/man-day",
+     "Kenlon for tough broadleaf, Ally 20DF for soft broadleaf",
+     "One circle round could be mist-blower glyphosate 4.0-6.0 L/ha"
+    ],
+    "note": "Table 8"
    },
    {
     "k": "Weeds & causes Apr 2026",
     "v": "Inter-row delay because sprayers helped with late manuring in heavy rain Jan–Mar 2026. Circles and paths generally free of grass; some due areas covered by broadleaf. Inter-row still dominated by Clidemia hirta, Eupatorium, Hedyotis, Melastoma, Asystasia, VOP, Stenochlaena, Bracken and sedges; spray inter-row at most every 4 months, 3 rounds a year. Jungle trees poisoned with Trichlopyr, dying. Weeding RM268/ha vs budget RM231 (rates rose RM15→18/ha circle, RM21→24/ha inter-row) (6.1.3.3-6.1.4.13).",
-    "src": "PA 1/2026"
+    "src": "PA 1/2026",
+    "stats": [
+     {
+      "l": "Weeding cost",
+      "v": "RM268/ha",
+      "d": "budget RM231"
+     }
+    ],
+    "pts": [
+     "Inter-row delayed: sprayers helped late manuring in rain Jan–Mar 2026",
+     "Dominant weeds: Clidemia, Eupatorium, Melastoma, Asystasia, bracken, sedges",
+     "Inter-row at most every 4 months, 3 rounds a year",
+     "Rates rose RM15 to 18/ha circle, RM21 to 24/ha inter-row"
+    ]
    },
    {
     "k": "Main Division weeding (2025–26)",
     "v": "Only two of three circle and inter-row rounds done in FY2025/26 (05A and 09A did three inter-row); third round due Mar–Apr 2026 dropped as labour moved to manuring; most blocks last sprayed Dec 2025–Jan 2026; early regrowth seen; sporadic grasses and Clidemia; VOP control spraying to be prioritised in FY2026/27 (4.4.2-4.4.7).",
-    "src": "Agro 1/2026"
+    "src": "Agro 1/2026",
+    "pts": [
+     "Only 2 of 3 rounds done in FY2025/26 (05A, 09A did 3 inter-row)",
+     "3rd round dropped as labour moved to manuring; early regrowth seen",
+     "Prioritise VOP control spraying in FY2026/27"
+    ]
    },
    {
     "k": "Main Division weeding May 2026",
     "v": "FY2026/27 (2026–27) weeding not yet started in the Main Division at 25 May 2026; work focused on Tobe; expedite (4.4.8).",
-    "src": "Agro 1/2026"
+    "src": "Agro 1/2026",
+    "pts": [
+     "FY2026/27 weeding not started in Main Division at 25 May 2026",
+     "Work focused on Tobe; expedite"
+    ]
    },
    {
     "k": "Tobe weeding (2025–26)",
     "v": "Tobe FY2025/26: only one inter-row round done; circle mostly two rounds; held back by few workers and high rain. Circles and paths clear; woody weeds and overgrown Clidemia in inter-terraces on hills (5.14-5.15).",
-    "src": "Agro 1/2026"
+    "src": "Agro 1/2026",
+    "pts": [
+     "Only 1 inter-row round; circle mostly 2 rounds",
+     "Held back by few workers and high rain",
+     "Woody weeds and Clidemia in hill inter-terraces"
+    ]
    }
   ],
   "pests": [
    {
     "k": "Pests & diseases Apr 2026",
     "v": "No serious pests or diseases except minimal rats. Rat baiting 1 round over 1,308.31 ha to Feb 2026 (STORM; 2 baits/palm Main, 1 Sg Kaindangan), programme complete; census every 3 months, bait with second-generation bait if damage exceeds 10%. Bagworm: no treatment in FY2025/26; signs of infection seen, stay vigilant. Oryctes: no treatment, no serious damage. Ganoderma: seen in tall 2004 and 2005 palms of Main Division; no census, mounding not needed. Cost RM45/ha vs budget RM35 (STORM dearer than budgeted Ebor) (6.3).",
-    "src": "PA 1/2026"
+    "src": "PA 1/2026",
+    "stats": [
+     {
+      "l": "Rat baiting",
+      "v": "1 round",
+      "d": "1,308.31 ha to Feb 2026"
+     },
+     {
+      "l": "Pest cost",
+      "v": "RM45/ha",
+      "d": "budget RM35"
+     }
+    ],
+    "pts": [
+     "Only minimal rats; programme complete (STORM, 2 baits/palm Main, 1 Sg Kaindangan)",
+     "Census every 3 months; second-generation bait if damage >10%",
+     "Bagworm: no treatment, signs seen; Oryctes: no serious damage",
+     "Ganoderma in tall 2004-05 palms of Main Division; no census"
+    ]
    },
    {
     "k": "Tobe rats May 2026",
@@ -3873,43 +4392,152 @@
    {
     "k": "Pruning Apr 2026",
     "v": "Estate 749,037 palms pruned vs 650,264 programme, 115%, 4.6 rounds (May 2025–Apr 2026); overrun from corrective pruning at Sg Kaindangan. Payment every 3 months. Improve frond stacking on flat and undulating land: stack in patches within 4 palms. Cost RM255/ha, 71% over budget (Table 13, 6.4).",
-    "src": "PA 1/2026"
+    "src": "PA 1/2026",
+    "stats": [
+     {
+      "l": "Palms pruned",
+      "v": "749,037",
+      "d": "vs 650,264 programme"
+     },
+     {
+      "l": "Achieved",
+      "v": "115%",
+      "d": "4.6 rounds"
+     },
+     {
+      "l": "Cost",
+      "v": "RM255/ha",
+      "d": "71% over budget"
+     }
+    ],
+    "pts": [
+     "Overrun from corrective pruning at Sg Kaindangan",
+     "Stack fronds in patches within 4 palms on flat/undulating land"
+    ],
+    "note": "May 2025–Apr 2026; paid every 3 months (Table 13)"
    },
    {
     "k": "Pruning May 2026",
     "v": "Main Division FY2025/26 programme nearly done; minimal under-pruning; frond snapping on steep hills, only dry fronds removed; stacking inconsistent but fronds now out of circles; FY2026/27 pruning started (4.3.2-4.3.4). Tobe programme not completed (few harvesters); canopy acceptable (5.10-5.11).",
-    "src": "Agro 1/2026"
+    "src": "Agro 1/2026",
+    "pts": [
+     "Main Division FY2025/26 nearly done; minimal under-pruning",
+     "Frond snapping on steep hills; stacking inconsistent but out of circles",
+     "Tobe programme not completed (few harvesters); canopy acceptable"
+    ]
    }
   ],
   "harvesting": [
    {
     "k": "Harvesting Apr 2026",
     "v": "80 harvesters, 1 per 16 ha, in 3 gangs (1 Sg Kaindangan, 2 Main). Manual cutter-carrier with wheelbarrows (mini-crawler broken, write off); tractor grabber to bins; internal transport own tractors, external outsourced at RM24-27/t to Paitan mill. Feb 2026 average 2.85 rounds, 28.5 rounds in 10 months. Output 0.50-2.83 t/man-day, RM41-56/t, RM35-118/day; low from Feb rain. Harvesting & collection RM122.59/t vs budget RM105.57 (7.1-7.19).",
-    "src": "PA 1/2026"
+    "src": "PA 1/2026",
+    "stats": [
+     {
+      "l": "Harvesters",
+      "v": "80",
+      "d": "1 per 16 ha"
+     },
+     {
+      "l": "Cost",
+      "v": "RM122.59/t",
+      "d": "budget RM105.57"
+     },
+     {
+      "l": "Output",
+      "v": "0.50-2.83 t",
+      "d": "per man-day"
+     }
+    ],
+    "pts": [
+     "3 gangs (1 Sg Kaindangan, 2 Main); external transport RM24-27/t to Paitan mill",
+     "Feb 2026 average 2.85 rounds, 28.5 rounds in 10 months",
+     "Output low from Feb rain; mini-crawler broken, write off"
+    ],
+    "note": "Rate RM41-56/t, earning RM35-118/day"
    },
    {
     "k": "Main Division May 2026",
     "v": "Intervals improved vs FY2024/25; harvesting delays minimal; few unripe/overripe bunches; loose fruit acceptable but some oxidised fruit at collection platforms (4.1.1-4.1.4).",
-    "src": "Agro 1/2026"
+    "src": "Agro 1/2026",
+    "pts": [
+     "Intervals improved vs FY2024/25; delays minimal",
+     "Few unripe/overripe bunches; loose fruit acceptable",
+     "Some oxidised fruit at collection platforms"
+    ]
    }
   ],
   "yield": [
    {
     "k": "FY2025/26 (May 2025–Apr 2026) crop",
     "v": "Estate 22,111.368 t FFB on 1,308.31 ha, 16.90 t/ha vs budget 26,990 t, 20.63 t/ha (-18%); FY2024/25 13,632.529 t, 16.49 t/ha on 826.72 ha. Main Division 16,526.865 t, 19.49 t/ha on 848.10 ha (budget 16,831 t, 19.85). Sg Kaindangan (Tobe) 5,584.503 t, 12.13 t/ha on 460.21 ha (budget 10,159 t, 22.07) (Table 19).",
-    "src": "PA 1/2026"
+    "src": "PA 1/2026",
+    "tbl": {
+     "cols": [
+      "Area",
+      "FFB t",
+      "t/ha",
+      "Budget t/ha"
+     ],
+     "rows": [
+      [
+       "Estate",
+       "22,111.368",
+       "16.90",
+       "20.63"
+      ],
+      [
+       "Main Division",
+       "16,526.865",
+       "19.49",
+       "19.85"
+      ],
+      [
+       "Sg Kaindangan (Tobe)",
+       "5,584.503",
+       "12.13",
+       "22.07"
+      ]
+     ]
+    },
+    "note": "Estate 1,308.31 ha, -18% vs budget 26,990 t. FY2024/25: 13,632.529 t, 16.49 t/ha on 826.72 ha (Table 19)"
    },
    {
     "k": "FY2025/26 (May 2025–Apr 2026) yield",
     "v": "Agronomist: 17.12 t/ha vs 16.35 t/ha in FY2024/25, +4% (Table 15). May 2026 1.14 t/ha vs 1.40, -23% (Table 16).",
-    "src": "Agro 1/2026"
+    "src": "Agro 1/2026",
+    "stats": [
+     {
+      "l": "Agronomist yield",
+      "v": "17.12 t/ha",
+      "d": "FY2025/26 · 16.35 in FY2024/25 (+4%)"
+     },
+     {
+      "l": "May 2026",
+      "v": "1.14 t/ha",
+      "d": "vs 1.40 May 2025 (-23%)"
+     }
+    ]
    }
   ],
   "other": [
    {
     "k": "Rainfall FY2025/26 (May 2025–Apr 2026)",
     "v": "4,122 mm on 203 wet days (Main Division); Jan 2026 780 mm, Feb 2026 870 mm; FY2024/25 4,137 mm, 203 days; May 2026 168 mm, 12 days (Agro 9.1-9.4).",
-    "src": "Agro 1/2026"
+    "src": "Agro 1/2026",
+    "stats": [
+     {
+      "l": "Rainfall",
+      "v": "4,122 mm",
+      "d": "203 wet days · FY2024/25 4,137 mm"
+     },
+     {
+      "l": "May 2026",
+      "v": "168 mm",
+      "d": "12 days"
+     }
+    ],
+    "note": "Main Division; Jan 2026 780 mm, Feb 2026 870 mm"
    }
   ]
  },

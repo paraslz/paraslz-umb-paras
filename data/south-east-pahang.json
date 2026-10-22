@@ -472,75 +472,266 @@
      {
       "k": "Ganoderma census Apr 2026",
       "v": "4,995 infected palms (8.20% of 60,913 standing) and 10,115 dead palms (18%); 21.27% of 71,028 palms planted if dead palms are counted as Ganoderma; 55,918 healthy; 127 SPH",
-      "src": "PA 1/2026"
+      "src": "PA 1/2026",
+      "stats": [
+       {
+        "l": "Infected",
+        "v": "8.20%",
+        "d": "4,995 of 60,913 standing"
+       },
+       {
+        "l": "Dead",
+        "v": "18%",
+        "d": "10,115 palms"
+       },
+       {
+        "l": "Healthy",
+        "v": "55,918",
+        "d": "127 SPH"
+       }
+      ],
+      "pts": [
+       "21.27% of 71,028 palms planted if dead palms are counted as Ganoderma"
+      ],
+      "note": "Census Apr 2026"
      },
      {
       "k": "Barn owl occupancy May–Jun 2025",
       "v": "64 boxes, 37% occupied (census May–Jun 2025); no box cleaning in FY2025/26, planned May 2026",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "stats": [
+       {
+        "l": "Boxes",
+        "v": "64"
+       },
+       {
+        "l": "Occupied",
+        "v": "37%"
+       }
+      ],
+      "note": "Census May–Jun 2025; no box cleaning in FY2025/26, planned May 2026"
      }
     ],
     "yield": [
      {
       "k": "FFB yield FY2020/21–FY2025/26 (2021–2026)",
       "v": "t/ha by FY: 24.26, 16.70, 23.55, 14.50, 20.78, 19.34",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "hide": true
      },
      {
       "k": "FFB yield FY2025/26 (May 2025–Apr 2026)",
       "v": "19.34 t/ha vs 20.78 t/ha in FY2024/25; lowest field",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "hide": true
      },
      {
       "k": "FFB yield Jan–Apr 2026",
       "v": "3.59 t/ha vs 5.53 t/ha in Jan–Apr 2025 (-35%); estate 4.58 vs 5.88 t/ha (-22%)",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "stats": [
+       {
+        "l": "Field, Jan–Apr 2026",
+        "v": "3.59 t/ha",
+        "d": "5.53 in Jan–Apr 2025 (-35%)"
+       },
+       {
+        "l": "Estate, Jan–Apr 2026",
+        "v": "4.58 t/ha",
+        "d": "5.88 in Jan–Apr 2025 (-22%)"
+       }
+      ]
      },
      {
       "k": "FFB yield May–Nov 2025",
       "v": "14.02 t/ha vs 14.07 t/ha in May–Nov 2024 (0%)",
-      "src": "Agro 2/2025 visit"
+      "src": "Agro 2/2025 visit",
+      "stats": [
+       {
+        "l": "May–Nov 2025 yield",
+        "v": "14.02 t/ha",
+        "d": "14.07 in May–Nov 2024 (0%)"
+       }
+      ]
      }
     ],
     "harvesting": [
      {
       "k": "Harvester output Oct 2025",
       "v": "3.09 t per man-day at RM31.00/t, earning RM89.94 a day",
-      "src": "PA 1/2026"
+      "src": "PA 1/2026",
+      "stats": [
+       {
+        "l": "Output",
+        "v": "3.09 t/man-day"
+       },
+       {
+        "l": "Harvest rate",
+        "v": "RM31.00/t"
+       },
+       {
+        "l": "Earning",
+        "v": "RM89.94/day"
+       }
+      ]
      },
      {
       "k": "Harvesting rounds FY2025/26 (May 2025–Apr 2026)",
       "v": "3.00 rounds in Apr 2026; 24.00 rounds for the year (budget 24); interval 13-15 days",
-      "src": "PA 1/2026"
+      "src": "PA 1/2026",
+      "stats": [
+       {
+        "l": "Rounds Apr 2026",
+        "v": "3.00"
+       },
+       {
+        "l": "Rounds FY2025/26",
+        "v": "24.00",
+        "d": "budget 24"
+       },
+       {
+        "l": "Interval",
+        "v": "13–15 days"
+       }
+      ]
      },
      {
       "k": "Harvesting interval by month FY2025/26 (May 2025–Apr 2026)",
       "v": "Days, May to Apr: 10-14 · 10 · 11-13 · 20-26 · 15-20 · 10-13 · 19.22 (as printed) · 10-13 · 10-12 · 12-15 · 12-14 · 8-12. Long intervals Aug–Sep 2025 from peak crop; Nov–Dec 2025 from rain and floods in P07",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "tbl": {
+       "cols": [
+        "Month",
+        "Interval (days)"
+       ],
+       "rows": [
+        [
+         "May 2025",
+         "10–14"
+        ],
+        [
+         "Jun 2025",
+         "10"
+        ],
+        [
+         "Jul 2025",
+         "11–13"
+        ],
+        [
+         "Aug 2025",
+         "20–26"
+        ],
+        [
+         "Sep 2025",
+         "15–20"
+        ],
+        [
+         "Oct 2025",
+         "10–13"
+        ],
+        [
+         "Nov 2025",
+         "19.22 (as printed)"
+        ],
+        [
+         "Dec 2025",
+         "10–13"
+        ],
+        [
+         "Jan 2026",
+         "10–12"
+        ],
+        [
+         "Feb 2026",
+         "12–15"
+        ],
+        [
+         "Mar 2026",
+         "12–14"
+        ],
+        [
+         "Apr 2026",
+         "8–12"
+        ]
+       ]
+      },
+      "note": "Long intervals Aug–Sep 2025 from peak crop; Nov–Dec 2025 from rain and floods in P07"
      }
     ],
     "pruning": [
      {
       "k": "Progressive pruning FY2025/26 (May 2025–Apr 2026)",
       "v": "Rounds 1–4 each 100% of 479.92 ha (programme 1,919.7 ha); Agro: 1st and 2nd half both 100%, four rounds achieved",
-      "src": "PA 1/2026 · Agro 1/2026"
+      "src": "PA 1/2026 · Agro 1/2026",
+      "stats": [
+       {
+        "l": "Rounds 1–4",
+        "v": "100% each",
+        "d": "of 479.92 ha"
+       },
+       {
+        "l": "Programme",
+        "v": "1,919.7 ha"
+       }
+      ],
+      "pts": [
+       "Agro: 1st and 2nd half both 100%, four rounds achieved"
+      ]
      }
     ],
     "field": [
      {
       "k": "Palm base mounding FY2025/26 (May 2025–Apr 2026)",
       "v": "52,035 palms on 479.92 ha (100% of field 2005) at RM7.20 per palm, RM374,652 (PA). Agro Table 13: 52,014 of 60,913 palms (85%)",
-      "src": "PA 1/2026 · Agro 1/2026"
+      "src": "PA 1/2026 · Agro 1/2026",
+      "stats": [
+       {
+        "l": "Palms mounded",
+        "v": "52,035",
+        "d": "on 479.92 ha (100% of field 2005)"
+       },
+       {
+        "l": "Cost",
+        "v": "RM374,652",
+        "d": "RM7.20/palm"
+       }
+      ],
+      "pts": [
+       "Agro Table 13: 52,014 of 60,913 palms (85%)"
+      ]
      },
      {
       "k": "Palm census Jul 2024",
       "v": "60,913 palms; stand 131 previously, 126 now (last census Jul 2024; new census requested)",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "stats": [
+       {
+        "l": "Palms",
+        "v": "60,913"
+       },
+       {
+        "l": "Palms/ha",
+        "v": "126",
+        "d": "131 previously"
+       }
+      ],
+      "note": "Last census Jul 2024; new census requested"
      },
      {
       "k": "Area Apr 2026",
       "v": "483.03 ha, 126 SPH (PA area statement); all mature, no replanting in the next two financial years",
-      "src": "PA 1/2026"
+      "src": "PA 1/2026",
+      "stats": [
+       {
+        "l": "Area",
+        "v": "483.03 ha"
+       },
+       {
+        "l": "Palms/ha",
+        "v": "126"
+       }
+      ],
+      "note": "PA area statement; all mature, no replanting in the next two financial years"
      }
     ],
     "progress": {
@@ -635,75 +826,267 @@
      {
       "k": "Ganoderma census Apr 2026",
       "v": "5,915 infected palms (7.01% of 84,365 standing) and 6,541 dead palms (8%); 13.70% of 90,906 palms planted if dead palms are counted as Ganoderma; 78,450 healthy; 137 SPH",
-      "src": "PA 1/2026"
+      "src": "PA 1/2026",
+      "stats": [
+       {
+        "l": "Infected",
+        "v": "7.01%",
+        "d": "5,915 of 84,365 standing"
+       },
+       {
+        "l": "Dead",
+        "v": "8%",
+        "d": "6,541 palms"
+       },
+       {
+        "l": "Healthy",
+        "v": "78,450",
+        "d": "137 SPH"
+       }
+      ],
+      "pts": [
+       "13.70% of 90,906 palms planted if dead palms are counted as Ganoderma"
+      ],
+      "note": "Census Apr 2026"
      },
      {
       "k": "Barn owl occupancy May–Jun 2025",
       "v": "50 boxes, 46% occupied (census May–Jun 2025); no box cleaning in FY2025/26, planned May 2026",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "stats": [
+       {
+        "l": "Boxes",
+        "v": "50"
+       },
+       {
+        "l": "Occupied",
+        "v": "46%"
+       }
+      ],
+      "note": "Census May–Jun 2025; no box cleaning in FY2025/26, planned May 2026"
      }
     ],
     "yield": [
      {
       "k": "FFB yield FY2020/21–FY2025/26 (2021–2026)",
       "v": "t/ha by FY: 25.90, 19.71, 25.62, 18.19, 23.40, 25.69",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "hide": true
      },
      {
       "k": "FFB yield FY2025/26 (May 2025–Apr 2026)",
       "v": "25.69 t/ha vs 23.40 t/ha in FY2024/25; best field",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "hide": true
      },
      {
       "k": "FFB yield Jan–Apr 2026",
       "v": "5.11 t/ha vs 6.17 t/ha in Jan–Apr 2025 (-17%); estate 4.58 vs 5.88 t/ha (-22%)",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "stats": [
+       {
+        "l": "Field, Jan–Apr 2026",
+        "v": "5.11 t/ha",
+        "d": "6.17 in Jan–Apr 2025 (-17%)"
+       },
+       {
+        "l": "Estate, Jan–Apr 2026",
+        "v": "4.58 t/ha",
+        "d": "5.88 in Jan–Apr 2025 (-22%)"
+       }
+      ]
      },
      {
       "k": "FFB yield May–Nov 2025",
       "v": "18.54 t/ha vs 15.99 t/ha in May–Nov 2024 (16%)",
-      "src": "Agro 2/2025 visit"
+      "src": "Agro 2/2025 visit",
+      "stats": [
+       {
+        "l": "May–Nov 2025 yield",
+        "v": "18.54 t/ha",
+        "d": "15.99 in May–Nov 2024 (16%)"
+       }
+      ]
      }
     ],
     "harvesting": [
      {
       "k": "Harvester output Oct 2025",
       "v": "3.38 t per man-day at RM32.00/t, earning RM95.21 a day",
-      "src": "PA 1/2026"
+      "src": "PA 1/2026",
+      "stats": [
+       {
+        "l": "Output",
+        "v": "3.38 t/man-day"
+       },
+       {
+        "l": "Harvest rate",
+        "v": "RM32.00/t"
+       },
+       {
+        "l": "Earning",
+        "v": "RM95.21/day"
+       }
+      ]
      },
      {
       "k": "Harvesting rounds FY2025/26 (May 2025–Apr 2026)",
       "v": "2.70 rounds in Apr 2026; 23.70 rounds for the year (budget 24); interval 14-16 days",
-      "src": "PA 1/2026"
+      "src": "PA 1/2026",
+      "stats": [
+       {
+        "l": "Rounds Apr 2026",
+        "v": "2.70"
+       },
+       {
+        "l": "Rounds FY2025/26",
+        "v": "23.70",
+        "d": "budget 24"
+       },
+       {
+        "l": "Interval",
+        "v": "14–16 days"
+       }
+      ]
      },
      {
       "k": "Harvesting interval by month FY2025/26 (May 2025–Apr 2026)",
       "v": "Days, May to Apr: 10-13 · 10-11 · 10-12 · 18-23 · 18-23 · 10-13 · 17-21 · 17-21 · 9-11 · 12-15 · 9-12 · 9-11. Long intervals Aug–Sep 2025 from peak crop; Nov–Dec 2025 from rain and floods in P07",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "tbl": {
+       "cols": [
+        "Month",
+        "Interval (days)"
+       ],
+       "rows": [
+        [
+         "May 2025",
+         "10–13"
+        ],
+        [
+         "Jun 2025",
+         "10–11"
+        ],
+        [
+         "Jul 2025",
+         "10–12"
+        ],
+        [
+         "Aug 2025",
+         "18–23"
+        ],
+        [
+         "Sep 2025",
+         "18–23"
+        ],
+        [
+         "Oct 2025",
+         "10–13"
+        ],
+        [
+         "Nov 2025",
+         "17–21"
+        ],
+        [
+         "Dec 2025",
+         "17–21"
+        ],
+        [
+         "Jan 2026",
+         "9–11"
+        ],
+        [
+         "Feb 2026",
+         "12–15"
+        ],
+        [
+         "Mar 2026",
+         "9–12"
+        ],
+        [
+         "Apr 2026",
+         "9–11"
+        ]
+       ]
+      },
+      "note": "Long intervals Aug–Sep 2025 from peak crop; Nov–Dec 2025 from rain and floods in P07"
      }
     ],
     "pruning": [
      {
       "k": "Progressive pruning FY2025/26 (May 2025–Apr 2026)",
       "v": "Rounds 1–4 each 100% of 614.23 ha (programme 2,456.9 ha); Agro: 1st and 2nd half both 100%, four rounds achieved",
-      "src": "PA 1/2026 · Agro 1/2026"
+      "src": "PA 1/2026 · Agro 1/2026",
+      "stats": [
+       {
+        "l": "Rounds 1–4",
+        "v": "100% each",
+        "d": "of 614.23 ha"
+       },
+       {
+        "l": "Programme",
+        "v": "2,456.9 ha"
+       }
+      ],
+      "pts": [
+       "Agro: 1st and 2nd half both 100%, four rounds achieved"
+      ]
      }
     ],
     "field": [
      {
       "k": "Palm base mounding FY2025/26 (May 2025–Apr 2026)",
       "v": "12,508 palms on 118.97 ha at RM7.20 per palm, RM90,057; PA text says 90% of field 2006. Agro Table 13 prints 54,843 of 84,365 palms (65%) — the two reports differ",
-      "src": "PA 1/2026 · Agro 1/2026"
+      "src": "PA 1/2026 · Agro 1/2026",
+      "stats": [
+       {
+        "l": "Palms mounded",
+        "v": "12,508",
+        "d": "on 118.97 ha"
+       },
+       {
+        "l": "Cost",
+        "v": "RM90,057",
+        "d": "RM7.20/palm"
+       }
+      ],
+      "pts": [
+       "PA text says 90% of field 2006",
+       "Agro Table 13 prints 54,843 of 84,365 palms (65%) — the two reports differ"
+      ]
      },
      {
       "k": "Palm census Jul 2024",
       "v": "84,466 palms; stand 144 previously, 137 now (last census Jul 2024; new census requested)",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "stats": [
+       {
+        "l": "Palms",
+        "v": "84,466"
+       },
+       {
+        "l": "Palms/ha",
+        "v": "137",
+        "d": "144 previously"
+       }
+      ],
+      "note": "Last census Jul 2024; new census requested"
      },
      {
       "k": "Area Apr 2026",
       "v": "614.23 ha, 137 SPH (PA area statement); all mature, no replanting in the next two financial years",
-      "src": "PA 1/2026"
+      "src": "PA 1/2026",
+      "stats": [
+       {
+        "l": "Area",
+        "v": "614.23 ha"
+       },
+       {
+        "l": "Palms/ha",
+        "v": "137"
+       }
+      ],
+      "note": "PA area statement; all mature, no replanting in the next two financial years"
      }
     ],
     "other": [
@@ -788,12 +1171,21 @@
      {
       "k": "Manuring delayed by floods FY2025/26 (May 2025–Apr 2026)",
       "v": "Fertiliser application in flood-prone low-lying P07A, B, C, D, E, F, G and K delayed by flooding Nov 2025–Feb 2026; estate expected to finish by end Jun 2026",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "pts": [
+       "Fertiliser application in flood-prone low-lying P07A, B, C, D, E, F, G and K delayed by flooding Nov 2025–Feb 2026",
+       "Estate expected to finish by end Jun 2026"
+      ]
      },
      {
       "k": "Sub-soil application",
       "v": "Sub-soil fertiliser application practised in flood-prone areas, mainly P07 plantings (131.52 ha); EMDEK spreader elsewhere",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "pts": [
+       "Sub-soil fertiliser application practised in flood-prone areas",
+       "Mainly P07 plantings (131.52 ha)",
+       "EMDEK spreader elsewhere"
+      ]
      }
     ],
     "spraying": [
@@ -812,58 +1204,211 @@
      {
       "k": "Ganoderma census Apr 2026",
       "v": "4,754 infected palms (8.36% of 56,885 standing) and 5,986 dead palms (11%); 17.08% of 62,871 palms planted if dead palms are counted as Ganoderma; 52,131 healthy; 134 SPH",
-      "src": "PA 1/2026"
+      "src": "PA 1/2026",
+      "stats": [
+       {
+        "l": "Infected",
+        "v": "8.36%",
+        "d": "4,754 of 56,885 standing"
+       },
+       {
+        "l": "Dead",
+        "v": "11%",
+        "d": "5,986 palms"
+       },
+       {
+        "l": "Healthy",
+        "v": "52,131",
+        "d": "134 SPH"
+       }
+      ],
+      "pts": [
+       "17.08% of 62,871 palms planted if dead palms are counted as Ganoderma"
+      ],
+      "note": "Census Apr 2026"
      },
      {
       "k": "Barn owl occupancy May–Jun 2025",
       "v": "23 boxes, 41% occupied (census May–Jun 2025); no box cleaning in FY2025/26, planned May 2026",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "stats": [
+       {
+        "l": "Boxes",
+        "v": "23"
+       },
+       {
+        "l": "Occupied",
+        "v": "41%"
+       }
+      ],
+      "note": "Census May–Jun 2025; no box cleaning in FY2025/26, planned May 2026"
      }
     ],
     "yield": [
      {
       "k": "FFB yield FY2020/21–FY2025/26 (2021–2026)",
       "v": "t/ha by FY: 24.34, 20.10, 23.96, 15.82, 22.45, 22.06",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "hide": true
      },
      {
       "k": "FFB yield FY2025/26 (May 2025–Apr 2026)",
       "v": "22.06 t/ha vs 22.45 t/ha in FY2024/25",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "hide": true
      },
      {
       "k": "FFB yield Jan–Apr 2026",
       "v": "4.96 t/ha vs 5.56 t/ha in Jan–Apr 2025 (-11%); estate 4.58 vs 5.88 t/ha (-22%)",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "stats": [
+       {
+        "l": "Field, Jan–Apr 2026",
+        "v": "4.96 t/ha",
+        "d": "5.56 in Jan–Apr 2025 (-11%)"
+       },
+       {
+        "l": "Estate, Jan–Apr 2026",
+        "v": "4.58 t/ha",
+        "d": "5.88 in Jan–Apr 2025 (-22%)"
+       }
+      ]
      },
      {
       "k": "FFB yield May–Nov 2025",
       "v": "15.05 t/ha vs 15.57 t/ha in May–Nov 2024 (-3%)",
-      "src": "Agro 2/2025 visit"
+      "src": "Agro 2/2025 visit",
+      "stats": [
+       {
+        "l": "May–Nov 2025 yield",
+        "v": "15.05 t/ha",
+        "d": "15.57 in May–Nov 2024 (-3%)"
+       }
+      ]
      }
     ],
     "harvesting": [
      {
       "k": "Harvester output Oct 2025",
       "v": "3.06 t per man-day at RM32.00/t, earning RM91.36 a day",
-      "src": "PA 1/2026"
+      "src": "PA 1/2026",
+      "stats": [
+       {
+        "l": "Output",
+        "v": "3.06 t/man-day"
+       },
+       {
+        "l": "Harvest rate",
+        "v": "RM32.00/t"
+       },
+       {
+        "l": "Earning",
+        "v": "RM91.36/day"
+       }
+      ]
      },
      {
       "k": "Harvesting rounds FY2025/26 (May 2025–Apr 2026)",
       "v": "2.90 rounds in Apr 2026; 24.00 rounds for the year (budget 24); interval 13-15 days",
-      "src": "PA 1/2026"
+      "src": "PA 1/2026",
+      "stats": [
+       {
+        "l": "Rounds Apr 2026",
+        "v": "2.90"
+       },
+       {
+        "l": "Rounds FY2025/26",
+        "v": "24.00",
+        "d": "budget 24"
+       },
+       {
+        "l": "Interval",
+        "v": "13–15 days"
+       }
+      ]
      },
      {
       "k": "Harvesting interval by month FY2025/26 (May 2025–Apr 2026)",
       "v": "Days, May to Apr: 10-11 · 13-15 · 15-16 · 13-15 · 19-22 · 10-12 · 16-20 · 20-26 · 11-13 · 12-14 · 11-13 · 8-10. Long intervals Aug–Sep 2025 from peak crop; Nov–Dec 2025 from rain and floods in P07",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "tbl": {
+       "cols": [
+        "Month",
+        "Interval (days)"
+       ],
+       "rows": [
+        [
+         "May 2025",
+         "10–11"
+        ],
+        [
+         "Jun 2025",
+         "13–15"
+        ],
+        [
+         "Jul 2025",
+         "15–16"
+        ],
+        [
+         "Aug 2025",
+         "13–15"
+        ],
+        [
+         "Sep 2025",
+         "19–22"
+        ],
+        [
+         "Oct 2025",
+         "10–12"
+        ],
+        [
+         "Nov 2025",
+         "16–20"
+        ],
+        [
+         "Dec 2025",
+         "20–26"
+        ],
+        [
+         "Jan 2026",
+         "11–13"
+        ],
+        [
+         "Feb 2026",
+         "12–14"
+        ],
+        [
+         "Mar 2026",
+         "11–13"
+        ],
+        [
+         "Apr 2026",
+         "8–10"
+        ]
+       ]
+      },
+      "note": "Long intervals Aug–Sep 2025 from peak crop; Nov–Dec 2025 from rain and floods in P07"
      }
     ],
     "pruning": [
      {
       "k": "Progressive pruning FY2025/26 (May 2025–Apr 2026)",
       "v": "Rounds 1–4 each 100% of 424.81 ha (programme 1,699.2 ha); Agro: 1st and 2nd half both 100%, four rounds achieved",
-      "src": "PA 1/2026 · Agro 1/2026"
+      "src": "PA 1/2026 · Agro 1/2026",
+      "stats": [
+       {
+        "l": "Rounds 1–4",
+        "v": "100% each",
+        "d": "of 424.81 ha"
+       },
+       {
+        "l": "Programme",
+        "v": "1,699.2 ha"
+       }
+      ],
+      "pts": [
+       "Agro: 1st and 2nd half both 100%, four rounds achieved"
+      ]
      }
     ],
     "field": [
@@ -875,12 +1420,35 @@
      {
       "k": "Palm census Jul 2024",
       "v": "61,972 palms; stand 142 previously, 146 now (last census Jul 2024; new census requested)",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "stats": [
+       {
+        "l": "Palms",
+        "v": "61,972"
+       },
+       {
+        "l": "Palms/ha",
+        "v": "146",
+        "d": "142 previously"
+       }
+      ],
+      "note": "Last census Jul 2024; new census requested"
      },
      {
       "k": "Area Apr 2026",
       "v": "424.81 ha, 146 SPH (PA area statement); all mature, no replanting in the next two financial years",
-      "src": "PA 1/2026"
+      "src": "PA 1/2026",
+      "stats": [
+       {
+        "l": "Area",
+        "v": "424.81 ha"
+       },
+       {
+        "l": "Palms/ha",
+        "v": "146"
+       }
+      ],
+      "note": "PA area statement; all mature, no replanting in the next two financial years"
      }
     ],
     "progress": {
@@ -950,28 +1518,89 @@
      {
       "k": "Compost FY2025/26 (May 2025–Apr 2026)",
       "v": "755.08 t on 35.54 ha, 21 t/ha, 100% of area (as of Nov 2025)",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "stats": [
+       {
+        "l": "Compost",
+        "v": "755.08 t",
+        "d": "21 t/ha on 35.54 ha"
+       },
+       {
+        "l": "Area covered",
+        "v": "100%"
+       }
+      ],
+      "note": "As of Nov 2025"
      }
     ],
     "pests": [
      {
       "k": "Rat damage census Jan 2026",
       "v": "40% damage (32.54 ha as printed); above the 10% threshold. Baiting started Apr 2026",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "stats": [
+       {
+        "l": "Rat damage",
+        "v": "40%",
+        "d": "above 10% threshold"
+       }
+      ],
+      "note": "Census Jan 2026; 32.54 ha as printed; baiting started Apr 2026"
      }
     ],
     "yield": [
      {
       "k": "FFB yield May–Nov 2025",
       "v": "12.31 t/ha vs 15.53 t/ha in May–Nov 2024 (-21%); no sub-block yields in the May 2026 report",
-      "src": "Agro 2/2025 visit"
+      "src": "Agro 2/2025 visit",
+      "stats": [
+       {
+        "l": "May–Nov 2025 yield",
+        "v": "12.31 t/ha",
+        "d": "15.53 in May–Nov 2024 (-21%)"
+       }
+      ],
+      "note": "No sub-block yields in the May 2026 report"
      }
     ],
     "nutrients": [
      {
       "k": "Leaf analysis Jun 2025",
       "v": "N 2.69%, P 0.165%, K 0.96%, Mg 0.33%, Ca 0.56%, B 17.63 ppm (samples received 21 Jun 2025, results 12 Jul 2025)",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "tbl": {
+       "cols": [
+        "Nutrient",
+        "Level"
+       ],
+       "rows": [
+        [
+         "N",
+         "2.69%"
+        ],
+        [
+         "P",
+         "0.165%"
+        ],
+        [
+         "K",
+         "0.96%"
+        ],
+        [
+         "Mg",
+         "0.33%"
+        ],
+        [
+         "Ca",
+         "0.56%"
+        ],
+        [
+         "B",
+         "17.63 ppm"
+        ]
+       ]
+      },
+      "note": "Samples received 21 Jun 2025, results 12 Jul 2025"
      }
     ],
     "fertNow": {
@@ -1040,7 +1669,19 @@
      {
       "k": "Compost FY2025/26 (May 2025–Apr 2026)",
       "v": "729.34 t on 37.99 ha, 19 t/ha, 100% of area (as of Nov 2025)",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "stats": [
+       {
+        "l": "Compost",
+        "v": "729.34 t",
+        "d": "19 t/ha on 37.99 ha"
+       },
+       {
+        "l": "Area covered",
+        "v": "100%"
+       }
+      ],
+      "note": "As of Nov 2025"
      }
     ],
     "spraying": [
@@ -1054,40 +1695,109 @@
      {
       "k": "Rat damage census Jan 2026",
       "v": "55% damage; above the 10% threshold. Baiting started Apr 2026",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "stats": [
+       {
+        "l": "Rat damage",
+        "v": "55%",
+        "d": "above 10% threshold"
+       }
+      ],
+      "note": "Census Jan 2026; baiting started Apr 2026"
      }
     ],
     "yield": [
      {
       "k": "FFB yield May–Nov 2025",
       "v": "12.63 t/ha vs 13.96 t/ha in May–Nov 2024 (-10%); no sub-block yields in the May 2026 report",
-      "src": "Agro 2/2025 visit"
+      "src": "Agro 2/2025 visit",
+      "stats": [
+       {
+        "l": "May–Nov 2025 yield",
+        "v": "12.63 t/ha",
+        "d": "13.96 in May–Nov 2024 (-10%)"
+       }
+      ],
+      "note": "No sub-block yields in the May 2026 report"
      }
     ],
     "harvesting": [
      {
       "k": "Ripeness check (May 2026 visit)",
       "v": "15% overripe among freshly harvested bunches (photos); 8–15% across checked blocks is still high, keep a 15-day interval",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "stats": [
+       {
+        "l": "Overripe bunches",
+        "v": "15%",
+        "d": "freshly harvested"
+       }
+      ],
+      "pts": [
+       "8–15% across checked blocks is still high",
+       "Keep a 15-day interval"
+      ]
      }
     ],
     "nutrients": [
      {
       "k": "Leaf analysis Jun 2025",
       "v": "N 2.54%, P 0.164%, K 1.04%, Mg 0.33%, Ca 0.58%, B 17.56 ppm (samples received 21 Jun 2025, results 12 Jul 2025)",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "tbl": {
+       "cols": [
+        "Nutrient",
+        "Level"
+       ],
+       "rows": [
+        [
+         "N",
+         "2.54%"
+        ],
+        [
+         "P",
+         "0.164%"
+        ],
+        [
+         "K",
+         "1.04%"
+        ],
+        [
+         "Mg",
+         "0.33%"
+        ],
+        [
+         "Ca",
+         "0.58%"
+        ],
+        [
+         "B",
+         "17.56 ppm"
+        ]
+       ]
+      },
+      "note": "Samples received 21 Jun 2025, results 12 Jul 2025"
      }
     ],
     "field": [
      {
       "k": "Fronds in trenches (May 2026 visit)",
       "v": "Fronds placed in the slant-cut trenches (photos); this does not create an organic-matter fertiliser zone and may let fertiliser wash into the trenches",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "pts": [
+       "Fronds placed in the slant-cut trenches (photos)",
+       "This does not create an organic-matter fertiliser zone and may let fertiliser wash into the trenches"
+      ]
      },
      {
       "k": "Slant-cut trenches (May 2026 visit)",
       "v": "Improper slant-cut mounding trenches toward the harvesting path (photos); severe root damage and possibly over 30% fertiliser loss under EMDEK; stop slant-cut trenching",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "pts": [
+       "Improper slant-cut mounding trenches toward the harvesting path (photos)",
+       "Severe root damage and possibly over 30% fertiliser loss under EMDEK",
+       "Stop slant-cut trenching"
+      ]
      }
     ],
     "fertNow": {
@@ -1156,21 +1866,49 @@
      {
       "k": "Compost FY2025/26 (May 2025–Apr 2026)",
       "v": "828.14 t on 41.44 ha, 20 t/ha, 100% of area (as of Nov 2025)",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "stats": [
+       {
+        "l": "Compost",
+        "v": "828.14 t",
+        "d": "20 t/ha on 41.44 ha"
+       },
+       {
+        "l": "Area covered",
+        "v": "100%"
+       }
+      ],
+      "note": "As of Nov 2025"
      }
     ],
     "pests": [
      {
       "k": "Rat damage census Jan 2026",
       "v": "27% damage; above the 10% threshold. Baiting started Apr 2026",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "stats": [
+       {
+        "l": "Rat damage",
+        "v": "27%",
+        "d": "above 10% threshold"
+       }
+      ],
+      "note": "Census Jan 2026; baiting started Apr 2026"
      }
     ],
     "yield": [
      {
       "k": "FFB yield May–Nov 2025",
       "v": "11.55 t/ha vs 13.03 t/ha in May–Nov 2024 (-11%); no sub-block yields in the May 2026 report",
-      "src": "Agro 2/2025 visit"
+      "src": "Agro 2/2025 visit",
+      "stats": [
+       {
+        "l": "May–Nov 2025 yield",
+        "v": "11.55 t/ha",
+        "d": "13.03 in May–Nov 2024 (-11%)"
+       }
+      ],
+      "note": "No sub-block yields in the May 2026 report"
      }
     ],
     "harvesting": [
@@ -1184,14 +1922,51 @@
      {
       "k": "Leaf analysis Jun 2025",
       "v": "N 2.52%, P 0.166%, K 0.96%, Mg 0.30%, Ca 0.60%, B 18.63 ppm (samples received 21 Jun 2025, results 12 Jul 2025)",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "tbl": {
+       "cols": [
+        "Nutrient",
+        "Level"
+       ],
+       "rows": [
+        [
+         "N",
+         "2.52%"
+        ],
+        [
+         "P",
+         "0.166%"
+        ],
+        [
+         "K",
+         "0.96%"
+        ],
+        [
+         "Mg",
+         "0.30%"
+        ],
+        [
+         "Ca",
+         "0.60%"
+        ],
+        [
+         "B",
+         "18.63 ppm"
+        ]
+       ]
+      },
+      "note": "Samples received 21 Jun 2025, results 12 Jul 2025"
      }
     ],
     "field": [
      {
       "k": "Silty subsoil (May 2026 visit)",
       "v": "Subsoil with high silt content (photos): poor drainage and aeration, waterlogging; improve with organic matter through proper frond stacking",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "pts": [
+       "Subsoil with high silt content (photos): poor drainage and aeration, waterlogging",
+       "Improve with organic matter through proper frond stacking"
+      ]
      }
     ],
     "fertNow": {
@@ -1256,7 +2031,19 @@
      {
       "k": "Compost FY2025/26 (May 2025–Apr 2026)",
       "v": "917.92 t on 42.55 ha, 22 t/ha, 100% of area (as of Nov 2025)",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "stats": [
+       {
+        "l": "Compost",
+        "v": "917.92 t",
+        "d": "22 t/ha on 42.55 ha"
+       },
+       {
+        "l": "Area covered",
+        "v": "100%"
+       }
+      ],
+      "note": "As of Nov 2025"
      }
     ],
     "spraying": [
@@ -1282,21 +2069,66 @@
      {
       "k": "FFB yield May–Nov 2025",
       "v": "12.39 t/ha vs 11.95 t/ha in May–Nov 2024 (4%); no sub-block yields in the May 2026 report",
-      "src": "Agro 2/2025 visit"
+      "src": "Agro 2/2025 visit",
+      "stats": [
+       {
+        "l": "May–Nov 2025 yield",
+        "v": "12.39 t/ha",
+        "d": "11.95 in May–Nov 2024 (4%)"
+       }
+      ],
+      "note": "No sub-block yields in the May 2026 report"
      }
     ],
     "harvesting": [
      {
       "k": "Leftover bunches (May 2026 visit)",
       "v": "Leftover uncollected old bunches seen (photo), believed to be excess overripe bunches left by harvesters",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "pts": [
+       "Leftover uncollected old bunches seen (photo)",
+       "Believed to be excess overripe bunches left by harvesters"
+      ]
      }
     ],
     "nutrients": [
      {
       "k": "Leaf analysis Jun 2025",
       "v": "N 2.67%, P 0.160%, K 1.00%, Mg 0.34%, Ca 0.55%, B 14.71 ppm (samples received 21 Jun 2025, results 12 Jul 2025)",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "tbl": {
+       "cols": [
+        "Nutrient",
+        "Level"
+       ],
+       "rows": [
+        [
+         "N",
+         "2.67%"
+        ],
+        [
+         "P",
+         "0.160%"
+        ],
+        [
+         "K",
+         "1.00%"
+        ],
+        [
+         "Mg",
+         "0.34%"
+        ],
+        [
+         "Ca",
+         "0.55%"
+        ],
+        [
+         "B",
+         "14.71 ppm"
+        ]
+       ]
+      },
+      "note": "Samples received 21 Jun 2025, results 12 Jul 2025"
      }
     ],
     "fertNow": {
@@ -1361,7 +2193,19 @@
      {
       "k": "Compost FY2025/26 (May 2025–Apr 2026)",
       "v": "606.82 t on 31.61 ha, 19 t/ha, 100% of area (as of Nov 2025)",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "stats": [
+       {
+        "l": "Compost",
+        "v": "606.82 t",
+        "d": "19 t/ha on 31.61 ha"
+       },
+       {
+        "l": "Area covered",
+        "v": "100%"
+       }
+      ],
+      "note": "As of Nov 2025"
      }
     ],
     "spraying": [
@@ -1387,14 +2231,55 @@
      {
       "k": "FFB yield May–Nov 2025",
       "v": "16.83 t/ha vs 16.54 t/ha in May–Nov 2024 (2%); no sub-block yields in the May 2026 report",
-      "src": "Agro 2/2025 visit"
+      "src": "Agro 2/2025 visit",
+      "stats": [
+       {
+        "l": "May–Nov 2025 yield",
+        "v": "16.83 t/ha",
+        "d": "16.54 in May–Nov 2024 (2%)"
+       }
+      ],
+      "note": "No sub-block yields in the May 2026 report"
      }
     ],
     "nutrients": [
      {
       "k": "Leaf analysis Jun 2025",
       "v": "N 2.51%, P 0.159%, K 0.98%, Mg 0.35%, Ca 0.56%, B 21.41 ppm (samples received 21 Jun 2025, results 12 Jul 2025)",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "tbl": {
+       "cols": [
+        "Nutrient",
+        "Level"
+       ],
+       "rows": [
+        [
+         "N",
+         "2.51%"
+        ],
+        [
+         "P",
+         "0.159%"
+        ],
+        [
+         "K",
+         "0.98%"
+        ],
+        [
+         "Mg",
+         "0.35%"
+        ],
+        [
+         "Ca",
+         "0.56%"
+        ],
+        [
+         "B",
+         "21.41 ppm"
+        ]
+       ]
+      },
+      "note": "Samples received 21 Jun 2025, results 12 Jul 2025"
      }
     ],
     "field": [
@@ -1471,28 +2356,89 @@
      {
       "k": "Compost FY2025/26 (May 2025–Apr 2026)",
       "v": "912.16 t on 36.42 ha, 25 t/ha, 100% of area (as of Nov 2025)",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "stats": [
+       {
+        "l": "Compost",
+        "v": "912.16 t",
+        "d": "25 t/ha on 36.42 ha"
+       },
+       {
+        "l": "Area covered",
+        "v": "100%"
+       }
+      ],
+      "note": "As of Nov 2025"
      }
     ],
     "pests": [
      {
       "k": "Rat damage census Jan 2026",
       "v": "35% damage; above the 10% threshold. Baiting started Apr 2026",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "stats": [
+       {
+        "l": "Rat damage",
+        "v": "35%",
+        "d": "above 10% threshold"
+       }
+      ],
+      "note": "Census Jan 2026; baiting started Apr 2026"
      }
     ],
     "yield": [
      {
       "k": "FFB yield May–Nov 2025",
       "v": "13.27 t/ha vs 14.07 t/ha in May–Nov 2024 (-6%); no sub-block yields in the May 2026 report",
-      "src": "Agro 2/2025 visit"
+      "src": "Agro 2/2025 visit",
+      "stats": [
+       {
+        "l": "May–Nov 2025 yield",
+        "v": "13.27 t/ha",
+        "d": "14.07 in May–Nov 2024 (-6%)"
+       }
+      ],
+      "note": "No sub-block yields in the May 2026 report"
      }
     ],
     "nutrients": [
      {
       "k": "Leaf analysis Jun 2025",
       "v": "N 2.52%, P 0.152%, K 0.98%, Mg 0.34%, Ca 0.52%, B 15.02 ppm (samples received 21 Jun 2025, results 12 Jul 2025)",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "tbl": {
+       "cols": [
+        "Nutrient",
+        "Level"
+       ],
+       "rows": [
+        [
+         "N",
+         "2.52%"
+        ],
+        [
+         "P",
+         "0.152%"
+        ],
+        [
+         "K",
+         "0.98%"
+        ],
+        [
+         "Mg",
+         "0.34%"
+        ],
+        [
+         "Ca",
+         "0.52%"
+        ],
+        [
+         "B",
+         "15.02 ppm"
+        ]
+       ]
+      },
+      "note": "Samples received 21 Jun 2025, results 12 Jul 2025"
      }
     ],
     "fertNow": {
@@ -1562,28 +2508,89 @@
      {
       "k": "Compost FY2025/26 (May 2025–Apr 2026)",
       "v": "974.52 t on 42.07 ha, 23 t/ha, 100% of area (as of Nov 2025)",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "stats": [
+       {
+        "l": "Compost",
+        "v": "974.52 t",
+        "d": "23 t/ha on 42.07 ha"
+       },
+       {
+        "l": "Area covered",
+        "v": "100%"
+       }
+      ],
+      "note": "As of Nov 2025"
      }
     ],
     "pests": [
      {
       "k": "Rat damage census Jan 2026",
       "v": "34% damage; above the 10% threshold. Baiting started Apr 2026",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "stats": [
+       {
+        "l": "Rat damage",
+        "v": "34%",
+        "d": "above 10% threshold"
+       }
+      ],
+      "note": "Census Jan 2026; baiting started Apr 2026"
      }
     ],
     "yield": [
      {
       "k": "FFB yield May–Nov 2025",
       "v": "15.96 t/ha vs 14.58 t/ha in May–Nov 2024 (9%); no sub-block yields in the May 2026 report",
-      "src": "Agro 2/2025 visit"
+      "src": "Agro 2/2025 visit",
+      "stats": [
+       {
+        "l": "May–Nov 2025 yield",
+        "v": "15.96 t/ha",
+        "d": "14.58 in May–Nov 2024 (9%)"
+       }
+      ],
+      "note": "No sub-block yields in the May 2026 report"
      }
     ],
     "nutrients": [
      {
       "k": "Leaf analysis Jun 2025",
       "v": "N 2.53%, P 0.150%, K 0.96%, Mg 0.31%, Ca 0.52%, B 17.71 ppm (samples received 21 Jun 2025, results 12 Jul 2025)",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "tbl": {
+       "cols": [
+        "Nutrient",
+        "Level"
+       ],
+       "rows": [
+        [
+         "N",
+         "2.53%"
+        ],
+        [
+         "P",
+         "0.150%"
+        ],
+        [
+         "K",
+         "0.96%"
+        ],
+        [
+         "Mg",
+         "0.31%"
+        ],
+        [
+         "Ca",
+         "0.52%"
+        ],
+        [
+         "B",
+         "17.71 ppm"
+        ]
+       ]
+      },
+      "note": "Samples received 21 Jun 2025, results 12 Jul 2025"
      }
     ],
     "fertNow": {
@@ -1649,7 +2656,19 @@
      {
       "k": "Compost FY2025/26 (May 2025–Apr 2026)",
       "v": "923.74 t on 37.37 ha, 25 t/ha, 100% of area (as of Nov 2025)",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "stats": [
+       {
+        "l": "Compost",
+        "v": "923.74 t",
+        "d": "25 t/ha on 37.37 ha"
+       },
+       {
+        "l": "Area covered",
+        "v": "100%"
+       }
+      ],
+      "note": "As of Nov 2025"
      }
     ],
     "pests": [
@@ -1663,14 +2682,55 @@
      {
       "k": "FFB yield May–Nov 2025",
       "v": "17.15 t/ha vs 13.99 t/ha in May–Nov 2024 (23%); no sub-block yields in the May 2026 report",
-      "src": "Agro 2/2025 visit"
+      "src": "Agro 2/2025 visit",
+      "stats": [
+       {
+        "l": "May–Nov 2025 yield",
+        "v": "17.15 t/ha",
+        "d": "13.99 in May–Nov 2024 (23%)"
+       }
+      ],
+      "note": "No sub-block yields in the May 2026 report"
      }
     ],
     "nutrients": [
      {
       "k": "Leaf analysis Jun 2025",
       "v": "N 2.46%, P 0.151%, K 0.96%, Mg 0.34%, Ca 0.55%, B 18.25 ppm (samples received 21 Jun 2025, results 12 Jul 2025)",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "tbl": {
+       "cols": [
+        "Nutrient",
+        "Level"
+       ],
+       "rows": [
+        [
+         "N",
+         "2.46%"
+        ],
+        [
+         "P",
+         "0.151%"
+        ],
+        [
+         "K",
+         "0.96%"
+        ],
+        [
+         "Mg",
+         "0.34%"
+        ],
+        [
+         "Ca",
+         "0.55%"
+        ],
+        [
+         "B",
+         "18.25 ppm"
+        ]
+       ]
+      },
+      "note": "Samples received 21 Jun 2025, results 12 Jul 2025"
      }
     ],
     "fertNow": {
@@ -1740,7 +2800,19 @@
      {
       "k": "Compost FY2025/26 (May 2025–Apr 2026)",
       "v": "587.42 t on 25.71 ha, 23 t/ha, 100% of area (as of Nov 2025)",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "stats": [
+       {
+        "l": "Compost",
+        "v": "587.42 t",
+        "d": "23 t/ha on 25.71 ha"
+       },
+       {
+        "l": "Area covered",
+        "v": "100%"
+       }
+      ],
+      "note": "As of Nov 2025"
      }
     ],
     "spraying": [
@@ -1754,21 +2826,70 @@
      {
       "k": "Rat damage census Jan 2026",
       "v": "26% damage; above the 10% threshold. Baiting started Apr 2026",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "stats": [
+       {
+        "l": "Rat damage",
+        "v": "26%",
+        "d": "above 10% threshold"
+       }
+      ],
+      "note": "Census Jan 2026; baiting started Apr 2026"
      }
     ],
     "yield": [
      {
       "k": "FFB yield May–Nov 2025",
       "v": "14.85 t/ha vs 14.38 t/ha in May–Nov 2024 (3%); no sub-block yields in the May 2026 report",
-      "src": "Agro 2/2025 visit"
+      "src": "Agro 2/2025 visit",
+      "stats": [
+       {
+        "l": "May–Nov 2025 yield",
+        "v": "14.85 t/ha",
+        "d": "14.38 in May–Nov 2024 (3%)"
+       }
+      ],
+      "note": "No sub-block yields in the May 2026 report"
      }
     ],
     "nutrients": [
      {
       "k": "Leaf analysis Jun 2025",
       "v": "N 2.62%, P 0.166%, K 1.04%, Mg 0.32%, Ca 0.55%, B 22.41 ppm (samples received 21 Jun 2025, results 12 Jul 2025)",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "tbl": {
+       "cols": [
+        "Nutrient",
+        "Level"
+       ],
+       "rows": [
+        [
+         "N",
+         "2.62%"
+        ],
+        [
+         "P",
+         "0.166%"
+        ],
+        [
+         "K",
+         "1.04%"
+        ],
+        [
+         "Mg",
+         "0.32%"
+        ],
+        [
+         "Ca",
+         "0.55%"
+        ],
+        [
+         "B",
+         "22.41 ppm"
+        ]
+       ]
+      },
+      "note": "Samples received 21 Jun 2025, results 12 Jul 2025"
      }
     ],
     "fertNow": {
@@ -1833,7 +2954,19 @@
      {
       "k": "Compost FY2025/26 (May 2025–Apr 2026)",
       "v": "1,008.92 t on 36.81 ha, 27 t/ha, 100% of area (as of Nov 2025)",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "stats": [
+       {
+        "l": "Compost",
+        "v": "1,008.92 t",
+        "d": "27 t/ha on 36.81 ha"
+       },
+       {
+        "l": "Area covered",
+        "v": "100%"
+       }
+      ],
+      "note": "As of Nov 2025"
      }
     ],
     "spraying": [
@@ -1869,14 +3002,55 @@
      {
       "k": "FFB yield May–Nov 2025",
       "v": "11.69 t/ha vs 13.23 t/ha in May–Nov 2024 (-12%); no sub-block yields in the May 2026 report",
-      "src": "Agro 2/2025 visit"
+      "src": "Agro 2/2025 visit",
+      "stats": [
+       {
+        "l": "May–Nov 2025 yield",
+        "v": "11.69 t/ha",
+        "d": "13.23 in May–Nov 2024 (-12%)"
+       }
+      ],
+      "note": "No sub-block yields in the May 2026 report"
      }
     ],
     "nutrients": [
      {
       "k": "Leaf analysis Jun 2025",
       "v": "N 2.65%, P 0.165%, K 1.06%, Mg 0.30%, Ca 0.54%, B 23.57 ppm (samples received 21 Jun 2025, results 12 Jul 2025)",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "tbl": {
+       "cols": [
+        "Nutrient",
+        "Level"
+       ],
+       "rows": [
+        [
+         "N",
+         "2.65%"
+        ],
+        [
+         "P",
+         "0.165%"
+        ],
+        [
+         "K",
+         "1.06%"
+        ],
+        [
+         "Mg",
+         "0.30%"
+        ],
+        [
+         "Ca",
+         "0.54%"
+        ],
+        [
+         "B",
+         "23.57 ppm"
+        ]
+       ]
+      },
+      "note": "Samples received 21 Jun 2025, results 12 Jul 2025"
      }
     ],
     "fertNow": {
@@ -1941,7 +3115,19 @@
      {
       "k": "Compost FY2025/26 (May 2025–Apr 2026)",
       "v": "908.92 t on 36.44 ha, 25 t/ha, 100% of area (as of Nov 2025)",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "stats": [
+       {
+        "l": "Compost",
+        "v": "908.92 t",
+        "d": "25 t/ha on 36.44 ha"
+       },
+       {
+        "l": "Area covered",
+        "v": "100%"
+       }
+      ],
+      "note": "As of Nov 2025"
      }
     ],
     "spraying": [
@@ -1962,14 +3148,55 @@
      {
       "k": "FFB yield May–Nov 2025",
       "v": "13.24 t/ha vs 13.47 t/ha in May–Nov 2024 (-2%); no sub-block yields in the May 2026 report",
-      "src": "Agro 2/2025 visit"
+      "src": "Agro 2/2025 visit",
+      "stats": [
+       {
+        "l": "May–Nov 2025 yield",
+        "v": "13.24 t/ha",
+        "d": "13.47 in May–Nov 2024 (-2%)"
+       }
+      ],
+      "note": "No sub-block yields in the May 2026 report"
      }
     ],
     "nutrients": [
      {
       "k": "Leaf analysis Jun 2025",
       "v": "N 2.48%, P 0.165%, K 1.04%, Mg 0.31%, Ca 0.54%, B 16.71 ppm (samples received 21 Jun 2025, results 12 Jul 2025)",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "tbl": {
+       "cols": [
+        "Nutrient",
+        "Level"
+       ],
+       "rows": [
+        [
+         "N",
+         "2.48%"
+        ],
+        [
+         "P",
+         "0.165%"
+        ],
+        [
+         "K",
+         "1.04%"
+        ],
+        [
+         "Mg",
+         "0.31%"
+        ],
+        [
+         "Ca",
+         "0.54%"
+        ],
+        [
+         "B",
+         "16.71 ppm"
+        ]
+       ]
+      },
+      "note": "Samples received 21 Jun 2025, results 12 Jul 2025"
      }
     ],
     "fertNow": {
@@ -2038,45 +3265,119 @@
      {
       "k": "Compost FY2025/26 (May 2025–Apr 2026)",
       "v": "992.08 t on 42.07 ha, 24 t/ha, 100% of area (as of Nov 2025)",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "stats": [
+       {
+        "l": "Compost",
+        "v": "992.08 t",
+        "d": "24 t/ha on 42.07 ha"
+       },
+       {
+        "l": "Area covered",
+        "v": "100%"
+       }
+      ],
+      "note": "As of Nov 2025"
      },
      {
       "k": "Compost in trenches (May 2026 visit)",
       "v": "Compost placed in or over waterlogged trenches (photo): anaerobic breakdown risk; partial covering of trenches with compost not needed",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "pts": [
+       "Compost placed in or over waterlogged trenches (photo): anaerobic breakdown risk",
+       "Partial covering of trenches with compost not needed"
+      ]
      }
     ],
     "pests": [
      {
       "k": "Rat damage census Jan 2026",
       "v": "33% damage; above the 10% threshold. Baiting started Apr 2026",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "stats": [
+       {
+        "l": "Rat damage",
+        "v": "33%",
+        "d": "above 10% threshold"
+       }
+      ],
+      "note": "Census Jan 2026; baiting started Apr 2026"
      }
     ],
     "yield": [
      {
       "k": "FFB yield May–Nov 2025",
       "v": "15.00 t/ha vs 13.77 t/ha in May–Nov 2024 (9%); no sub-block yields in the May 2026 report",
-      "src": "Agro 2/2025 visit"
+      "src": "Agro 2/2025 visit",
+      "stats": [
+       {
+        "l": "May–Nov 2025 yield",
+        "v": "15.00 t/ha",
+        "d": "13.77 in May–Nov 2024 (9%)"
+       }
+      ],
+      "note": "No sub-block yields in the May 2026 report"
      }
     ],
     "nutrients": [
      {
       "k": "Leaf analysis Jun 2025",
       "v": "N 2.56%, P 0.168%, K 1.02%, Mg 0.34%, Ca 0.57%, B 21.79 ppm (samples received 21 Jun 2025, results 12 Jul 2025)",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "tbl": {
+       "cols": [
+        "Nutrient",
+        "Level"
+       ],
+       "rows": [
+        [
+         "N",
+         "2.56%"
+        ],
+        [
+         "P",
+         "0.168%"
+        ],
+        [
+         "K",
+         "1.02%"
+        ],
+        [
+         "Mg",
+         "0.34%"
+        ],
+        [
+         "Ca",
+         "0.57%"
+        ],
+        [
+         "B",
+         "21.79 ppm"
+        ]
+       ]
+      },
+      "note": "Samples received 21 Jun 2025, results 12 Jul 2025"
      }
     ],
     "field": [
      {
       "k": "Fronds in trenches (May 2026 visit)",
       "v": "Fronds placed in the slant-cut trenches (photos); this does not create an organic-matter fertiliser zone and may let fertiliser wash into the trenches",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "pts": [
+       "Fronds placed in the slant-cut trenches (photos)",
+       "This does not create an organic-matter fertiliser zone and may let fertiliser wash into the trenches"
+      ]
      },
      {
       "k": "Slant-cut trenches (May 2026 visit)",
       "v": "Improper slant-cut mounding trenches toward the harvesting path (photos); severe root damage and possibly over 30% fertiliser loss under EMDEK; stop slant-cut trenching",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "pts": [
+       "Improper slant-cut mounding trenches toward the harvesting path (photos)",
+       "Severe root damage and possibly over 30% fertiliser loss under EMDEK",
+       "Stop slant-cut trenching"
+      ]
      }
     ],
     "fertNow": {
@@ -2145,7 +3446,19 @@
      {
       "k": "Compost FY2025/26 (May 2025–Apr 2026)",
       "v": "916.22 t on 37.01 ha, 25 t/ha, 100% of area (as of Nov 2025)",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "stats": [
+       {
+        "l": "Compost",
+        "v": "916.22 t",
+        "d": "25 t/ha on 37.01 ha"
+       },
+       {
+        "l": "Area covered",
+        "v": "100%"
+       }
+      ],
+      "note": "As of Nov 2025"
      }
     ],
     "spraying": [
@@ -2169,40 +3482,108 @@
      {
       "k": "Rat damage census Jan 2026",
       "v": "30% damage; above the 10% threshold. Baiting started Apr 2026",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "stats": [
+       {
+        "l": "Rat damage",
+        "v": "30%",
+        "d": "above 10% threshold"
+       }
+      ],
+      "note": "Census Jan 2026; baiting started Apr 2026"
      },
      {
       "k": "Bagworm (May 2026 visit)",
       "v": "Old bagworm defoliation on older fronds; new fronds show minimal damage, population under control (photos)",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "pts": [
+       "Old bagworm defoliation on older fronds",
+       "New fronds show minimal damage, population under control (photos)"
+      ]
      }
     ],
     "yield": [
      {
       "k": "FFB yield May–Nov 2025",
       "v": "14.84 t/ha vs 15.30 t/ha in May–Nov 2024 (-3%); no sub-block yields in the May 2026 report",
-      "src": "Agro 2/2025 visit"
+      "src": "Agro 2/2025 visit",
+      "stats": [
+       {
+        "l": "May–Nov 2025 yield",
+        "v": "14.84 t/ha",
+        "d": "15.30 in May–Nov 2024 (-3%)"
+       }
+      ],
+      "note": "No sub-block yields in the May 2026 report"
      }
     ],
     "harvesting": [
      {
       "k": "Ripeness check (May 2026 visit)",
       "v": "10% overripe among freshly harvested bunches (photos); 8–15% across checked blocks is still high, keep a 15-day interval",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "stats": [
+       {
+        "l": "Overripe bunches",
+        "v": "10%",
+        "d": "freshly harvested"
+       }
+      ],
+      "pts": [
+       "8–15% across checked blocks is still high",
+       "Keep a 15-day interval"
+      ]
      }
     ],
     "pruning": [
      {
       "k": "Pruning standard (May 2026 visit)",
       "v": "Satisfactory pruning condition (photo); estate pruning up to date with only minor dry hanging fronds",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "pts": [
+       "Satisfactory pruning condition (photo)",
+       "Estate pruning up to date with only minor dry hanging fronds"
+      ]
      }
     ],
     "nutrients": [
      {
       "k": "Leaf analysis Jun 2025",
       "v": "N 2.57%, P 0.170%, K 1.00%, Mg 0.34%, Ca 0.53%, B 19.48 ppm (samples received 21 Jun 2025, results 12 Jul 2025)",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "tbl": {
+       "cols": [
+        "Nutrient",
+        "Level"
+       ],
+       "rows": [
+        [
+         "N",
+         "2.57%"
+        ],
+        [
+         "P",
+         "0.170%"
+        ],
+        [
+         "K",
+         "1.00%"
+        ],
+        [
+         "Mg",
+         "0.34%"
+        ],
+        [
+         "Ca",
+         "0.53%"
+        ],
+        [
+         "B",
+         "19.48 ppm"
+        ]
+       ]
+      },
+      "note": "Samples received 21 Jun 2025, results 12 Jul 2025"
      }
     ],
     "field": [
@@ -2274,35 +3655,100 @@
      {
       "k": "Compost FY2025/26 (May 2025–Apr 2026)",
       "v": "538.10 t on 53.81 ha, 10 t/ha, 100% of area (as of Nov 2025)",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "stats": [
+       {
+        "l": "Compost",
+        "v": "538.10 t",
+        "d": "10 t/ha on 53.81 ha"
+       },
+       {
+        "l": "Area covered",
+        "v": "100%"
+       }
+      ],
+      "note": "As of Nov 2025"
      }
     ],
     "pests": [
      {
       "k": "Rat damage census Feb 2026",
       "v": "44% damage; above the 10% threshold. Baiting started Apr 2026",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "stats": [
+       {
+        "l": "Rat damage",
+        "v": "44%",
+        "d": "above 10% threshold"
+       }
+      ],
+      "note": "Census Feb 2026; baiting started Apr 2026"
      }
     ],
     "yield": [
      {
       "k": "FFB yield May–Nov 2025",
       "v": "18.04 t/ha vs 17.51 t/ha in May–Nov 2024 (3%); no sub-block yields in the May 2026 report",
-      "src": "Agro 2/2025 visit"
+      "src": "Agro 2/2025 visit",
+      "stats": [
+       {
+        "l": "May–Nov 2025 yield",
+        "v": "18.04 t/ha",
+        "d": "17.51 in May–Nov 2024 (3%)"
+       }
+      ],
+      "note": "No sub-block yields in the May 2026 report"
      }
     ],
     "pruning": [
      {
       "k": "Pruning standard (May 2026 visit)",
       "v": "Satisfactory pruning condition (photo); estate pruning up to date with only minor dry hanging fronds",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "pts": [
+       "Satisfactory pruning condition (photo)",
+       "Estate pruning up to date with only minor dry hanging fronds"
+      ]
      }
     ],
     "nutrients": [
      {
       "k": "Leaf analysis Jun 2025",
       "v": "N 2.54%, P 0.165%, K 0.96%, Mg 0.31%, Ca 0.59%, B 16.02 ppm (samples received 21 Jun 2025, results 12 Jul 2025)",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "tbl": {
+       "cols": [
+        "Nutrient",
+        "Level"
+       ],
+       "rows": [
+        [
+         "N",
+         "2.54%"
+        ],
+        [
+         "P",
+         "0.165%"
+        ],
+        [
+         "K",
+         "0.96%"
+        ],
+        [
+         "Mg",
+         "0.31%"
+        ],
+        [
+         "Ca",
+         "0.59%"
+        ],
+        [
+         "B",
+         "16.02 ppm"
+        ]
+       ]
+      },
+      "note": "Samples received 21 Jun 2025, results 12 Jul 2025"
      }
     ],
     "fertNow": {
@@ -2367,28 +3813,89 @@
      {
       "k": "Compost FY2025/26 (May 2025–Apr 2026)",
       "v": "651.60 t on 65.16 ha, 10 t/ha, 100% of area (as of Nov 2025)",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "stats": [
+       {
+        "l": "Compost",
+        "v": "651.60 t",
+        "d": "10 t/ha on 65.16 ha"
+       },
+       {
+        "l": "Area covered",
+        "v": "100%"
+       }
+      ],
+      "note": "As of Nov 2025"
      }
     ],
     "pests": [
      {
       "k": "Rat damage census Feb 2026",
       "v": "42% damage; above the 10% threshold. Baiting started Apr 2026",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "stats": [
+       {
+        "l": "Rat damage",
+        "v": "42%",
+        "d": "above 10% threshold"
+       }
+      ],
+      "note": "Census Feb 2026; baiting started Apr 2026"
      }
     ],
     "yield": [
      {
       "k": "FFB yield May–Nov 2025",
       "v": "19.85 t/ha vs 16.54 t/ha in May–Nov 2024 (20%); no sub-block yields in the May 2026 report",
-      "src": "Agro 2/2025 visit"
+      "src": "Agro 2/2025 visit",
+      "stats": [
+       {
+        "l": "May–Nov 2025 yield",
+        "v": "19.85 t/ha",
+        "d": "16.54 in May–Nov 2024 (20%)"
+       }
+      ],
+      "note": "No sub-block yields in the May 2026 report"
      }
     ],
     "nutrients": [
      {
       "k": "Leaf analysis Jun 2025",
       "v": "N 2.52%, P 0.160%, K 0.88%, Mg 0.30%, Ca 0.67%, B 21.02 ppm (samples received 21 Jun 2025, results 12 Jul 2025)",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "tbl": {
+       "cols": [
+        "Nutrient",
+        "Level"
+       ],
+       "rows": [
+        [
+         "N",
+         "2.52%"
+        ],
+        [
+         "P",
+         "0.160%"
+        ],
+        [
+         "K",
+         "0.88%"
+        ],
+        [
+         "Mg",
+         "0.30%"
+        ],
+        [
+         "Ca",
+         "0.67%"
+        ],
+        [
+         "B",
+         "21.02 ppm"
+        ]
+       ]
+      },
+      "note": "Samples received 21 Jun 2025, results 12 Jul 2025"
      }
     ],
     "fertNow": {
@@ -2458,28 +3965,89 @@
      {
       "k": "Compost FY2025/26 (May 2025–Apr 2026)",
       "v": "311.10 t on 31.11 ha, 10 t/ha, 100% of area (as of Nov 2025)",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "stats": [
+       {
+        "l": "Compost",
+        "v": "311.10 t",
+        "d": "10 t/ha on 31.11 ha"
+       },
+       {
+        "l": "Area covered",
+        "v": "100%"
+       }
+      ],
+      "note": "As of Nov 2025"
      }
     ],
     "pests": [
      {
       "k": "Rat damage census Feb 2026",
       "v": "51% damage; above the 10% threshold. Baiting started Apr 2026",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "stats": [
+       {
+        "l": "Rat damage",
+        "v": "51%",
+        "d": "above 10% threshold"
+       }
+      ],
+      "note": "Census Feb 2026; baiting started Apr 2026"
      }
     ],
     "yield": [
      {
       "k": "FFB yield May–Nov 2025",
       "v": "14.33 t/ha vs 15.06 t/ha in May–Nov 2024 (-5%); no sub-block yields in the May 2026 report",
-      "src": "Agro 2/2025 visit"
+      "src": "Agro 2/2025 visit",
+      "stats": [
+       {
+        "l": "May–Nov 2025 yield",
+        "v": "14.33 t/ha",
+        "d": "15.06 in May–Nov 2024 (-5%)"
+       }
+      ],
+      "note": "No sub-block yields in the May 2026 report"
      }
     ],
     "nutrients": [
      {
       "k": "Leaf analysis Jun 2025",
       "v": "N 2.46%, P 0.158%, K 0.92%, Mg 0.34%, Ca 0.58%, B 24.18 ppm (samples received 21 Jun 2025, results 12 Jul 2025)",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "tbl": {
+       "cols": [
+        "Nutrient",
+        "Level"
+       ],
+       "rows": [
+        [
+         "N",
+         "2.46%"
+        ],
+        [
+         "P",
+         "0.158%"
+        ],
+        [
+         "K",
+         "0.92%"
+        ],
+        [
+         "Mg",
+         "0.34%"
+        ],
+        [
+         "Ca",
+         "0.58%"
+        ],
+        [
+         "B",
+         "24.18 ppm"
+        ]
+       ]
+      },
+      "note": "Samples received 21 Jun 2025, results 12 Jul 2025"
      }
     ],
     "fertNow": {
@@ -2545,7 +4113,19 @@
      {
       "k": "Compost FY2025/26 (May 2025–Apr 2026)",
       "v": "290.60 t on 29.06 ha, 10 t/ha, 100% of area (as of Nov 2025)",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "stats": [
+       {
+        "l": "Compost",
+        "v": "290.60 t",
+        "d": "10 t/ha on 29.06 ha"
+       },
+       {
+        "l": "Area covered",
+        "v": "100%"
+       }
+      ],
+      "note": "As of Nov 2025"
      }
     ],
     "pests": [
@@ -2559,14 +4139,55 @@
      {
       "k": "FFB yield May–Nov 2025",
       "v": "22.13 t/ha vs 18.45 t/ha in May–Nov 2024 (20%); no sub-block yields in the May 2026 report",
-      "src": "Agro 2/2025 visit"
+      "src": "Agro 2/2025 visit",
+      "stats": [
+       {
+        "l": "May–Nov 2025 yield",
+        "v": "22.13 t/ha",
+        "d": "18.45 in May–Nov 2024 (20%)"
+       }
+      ],
+      "note": "No sub-block yields in the May 2026 report"
      }
     ],
     "nutrients": [
      {
       "k": "Leaf analysis Jun 2025",
       "v": "N 2.59%, P 0.152%, K 0.90%, Mg 0.34%, Ca 0.52%, B 18.56 ppm (samples received 21 Jun 2025, results 12 Jul 2025)",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "tbl": {
+       "cols": [
+        "Nutrient",
+        "Level"
+       ],
+       "rows": [
+        [
+         "N",
+         "2.59%"
+        ],
+        [
+         "P",
+         "0.152%"
+        ],
+        [
+         "K",
+         "0.90%"
+        ],
+        [
+         "Mg",
+         "0.34%"
+        ],
+        [
+         "Ca",
+         "0.52%"
+        ],
+        [
+         "B",
+         "18.56 ppm"
+        ]
+       ]
+      },
+      "note": "Samples received 21 Jun 2025, results 12 Jul 2025"
      }
     ],
     "fertNow": {
@@ -2636,7 +4257,19 @@
      {
       "k": "Compost FY2025/26 (May 2025–Apr 2026)",
       "v": "527.30 t on 52.73 ha, 10 t/ha, 100% of area (as of Nov 2025)",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "stats": [
+       {
+        "l": "Compost",
+        "v": "527.30 t",
+        "d": "10 t/ha on 52.73 ha"
+       },
+       {
+        "l": "Area covered",
+        "v": "100%"
+       }
+      ],
+      "note": "As of Nov 2025"
      }
     ],
     "spraying": [
@@ -2650,7 +4283,12 @@
      {
       "k": "Ganoderma palms (May 2026 visit)",
       "v": "Ganoderma-infected palms photographed: mild to moderately severe, poor vigour, small canopies, frond snapping, multiple unopened spears",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "pts": [
+       "Ganoderma-infected palms photographed",
+       "Mild to moderately severe, poor vigour, small canopies",
+       "Frond snapping, multiple unopened spears"
+      ]
      },
      {
       "k": "Rat damage census Jan–Mar 2026",
@@ -2662,14 +4300,55 @@
      {
       "k": "FFB yield May–Nov 2025",
       "v": "18.41 t/ha vs 14.79 t/ha in May–Nov 2024 (24%); no sub-block yields in the May 2026 report",
-      "src": "Agro 2/2025 visit"
+      "src": "Agro 2/2025 visit",
+      "stats": [
+       {
+        "l": "May–Nov 2025 yield",
+        "v": "18.41 t/ha",
+        "d": "14.79 in May–Nov 2024 (24%)"
+       }
+      ],
+      "note": "No sub-block yields in the May 2026 report"
      }
     ],
     "nutrients": [
      {
       "k": "Leaf analysis Jun 2025",
       "v": "N 2.77%, P 0.155%, K 0.90%, Mg 0.35%, Ca 0.57%, B 17.33 ppm (samples received 21 Jun 2025, results 12 Jul 2025)",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "tbl": {
+       "cols": [
+        "Nutrient",
+        "Level"
+       ],
+       "rows": [
+        [
+         "N",
+         "2.77%"
+        ],
+        [
+         "P",
+         "0.155%"
+        ],
+        [
+         "K",
+         "0.90%"
+        ],
+        [
+         "Mg",
+         "0.35%"
+        ],
+        [
+         "Ca",
+         "0.57%"
+        ],
+        [
+         "B",
+         "17.33 ppm"
+        ]
+       ]
+      },
+      "note": "Samples received 21 Jun 2025, results 12 Jul 2025"
      }
     ],
     "field": [
@@ -2746,7 +4425,19 @@
      {
       "k": "Compost FY2025/26 (May 2025–Apr 2026)",
       "v": "333.30 t on 33.33 ha, 10 t/ha, 100% of area (as of Nov 2025)",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "stats": [
+       {
+        "l": "Compost",
+        "v": "333.30 t",
+        "d": "10 t/ha on 33.33 ha"
+       },
+       {
+        "l": "Area covered",
+        "v": "100%"
+       }
+      ],
+      "note": "As of Nov 2025"
      }
     ],
     "spraying": [
@@ -2772,28 +4463,78 @@
      {
       "k": "FFB yield May–Nov 2025",
       "v": "19.29 t/ha vs 16.39 t/ha in May–Nov 2024 (18%); no sub-block yields in the May 2026 report",
-      "src": "Agro 2/2025 visit"
+      "src": "Agro 2/2025 visit",
+      "stats": [
+       {
+        "l": "May–Nov 2025 yield",
+        "v": "19.29 t/ha",
+        "d": "16.39 in May–Nov 2024 (18%)"
+       }
+      ],
+      "note": "No sub-block yields in the May 2026 report"
      }
     ],
     "pruning": [
      {
       "k": "Pruning standard (May 2026 visit)",
       "v": "Satisfactory pruning condition (photo); estate pruning up to date with only minor dry hanging fronds",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "pts": [
+       "Satisfactory pruning condition (photo)",
+       "Estate pruning up to date with only minor dry hanging fronds"
+      ]
      }
     ],
     "nutrients": [
      {
       "k": "Leaf analysis Jun 2025",
       "v": "N 2.59%, P 0.152%, K 0.92%, Mg 0.33%, Ca 0.57%, B 16.63 ppm (samples received 21 Jun 2025, results 12 Jul 2025)",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "tbl": {
+       "cols": [
+        "Nutrient",
+        "Level"
+       ],
+       "rows": [
+        [
+         "N",
+         "2.59%"
+        ],
+        [
+         "P",
+         "0.152%"
+        ],
+        [
+         "K",
+         "0.92%"
+        ],
+        [
+         "Mg",
+         "0.33%"
+        ],
+        [
+         "Ca",
+         "0.57%"
+        ],
+        [
+         "B",
+         "16.63 ppm"
+        ]
+       ]
+      },
+      "note": "Samples received 21 Jun 2025, results 12 Jul 2025"
      }
     ],
     "field": [
      {
       "k": "Slant-cut trenches (May 2026 visit)",
       "v": "Improper slant-cut mounding trenches toward the harvesting path (photos); severe root damage and possibly over 30% fertiliser loss under EMDEK; stop slant-cut trenching",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "pts": [
+       "Improper slant-cut mounding trenches toward the harvesting path (photos)",
+       "Severe root damage and possibly over 30% fertiliser loss under EMDEK",
+       "Stop slant-cut trenching"
+      ]
      }
     ],
     "fertNow": {
@@ -2863,35 +4604,100 @@
      {
       "k": "Compost FY2025/26 (May 2025–Apr 2026)",
       "v": "287.50 t on 28.75 ha, 10 t/ha, 100% of area (as of Nov 2025)",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "stats": [
+       {
+        "l": "Compost",
+        "v": "287.50 t",
+        "d": "10 t/ha on 28.75 ha"
+       },
+       {
+        "l": "Area covered",
+        "v": "100%"
+       }
+      ],
+      "note": "As of Nov 2025"
      }
     ],
     "pests": [
      {
       "k": "Rat damage census Feb 2026",
       "v": "41% damage; above the 10% threshold. Baiting started Apr 2026",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "stats": [
+       {
+        "l": "Rat damage",
+        "v": "41%",
+        "d": "above 10% threshold"
+       }
+      ],
+      "note": "Census Feb 2026; baiting started Apr 2026"
      }
     ],
     "yield": [
      {
       "k": "FFB yield May–Nov 2025",
       "v": "15.92 t/ha vs 18.90 t/ha in May–Nov 2024 (-16%); no sub-block yields in the May 2026 report",
-      "src": "Agro 2/2025 visit"
+      "src": "Agro 2/2025 visit",
+      "stats": [
+       {
+        "l": "May–Nov 2025 yield",
+        "v": "15.92 t/ha",
+        "d": "18.90 in May–Nov 2024 (-16%)"
+       }
+      ],
+      "note": "No sub-block yields in the May 2026 report"
      }
     ],
     "pruning": [
      {
       "k": "Pruning standard (May 2026 visit)",
       "v": "Satisfactory pruning condition (photo); estate pruning up to date with only minor dry hanging fronds",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "pts": [
+       "Satisfactory pruning condition (photo)",
+       "Estate pruning up to date with only minor dry hanging fronds"
+      ]
      }
     ],
     "nutrients": [
      {
       "k": "Leaf analysis Jun 2025",
       "v": "N 2.45%, P 0.155%, K 1.04%, Mg 0.32%, Ca 0.57%, B 16.48 ppm (samples received 21 Jun 2025, results 12 Jul 2025)",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "tbl": {
+       "cols": [
+        "Nutrient",
+        "Level"
+       ],
+       "rows": [
+        [
+         "N",
+         "2.45%"
+        ],
+        [
+         "P",
+         "0.155%"
+        ],
+        [
+         "K",
+         "1.04%"
+        ],
+        [
+         "Mg",
+         "0.32%"
+        ],
+        [
+         "Ca",
+         "0.57%"
+        ],
+        [
+         "B",
+         "16.48 ppm"
+        ]
+       ]
+      },
+      "note": "Samples received 21 Jun 2025, results 12 Jul 2025"
      }
     ],
     "field": [
@@ -2968,45 +4774,118 @@
      {
       "k": "Compost FY2025/26 (May 2025–Apr 2026)",
       "v": "323.92 t on 32.88 ha, 10 t/ha, 100% of area (as of Nov 2025)",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "stats": [
+       {
+        "l": "Compost",
+        "v": "323.92 t",
+        "d": "10 t/ha on 32.88 ha"
+       },
+       {
+        "l": "Area covered",
+        "v": "100%"
+       }
+      ],
+      "note": "As of Nov 2025"
      },
      {
       "k": "Compost placement (Jun 2026 visit)",
       "v": "Compost placed between two palms in the frond-stacking row (photos); 140 kg between 2 palms, 2 rounds a year (estate practice)",
-      "src": "PA 1/2026"
+      "src": "PA 1/2026",
+      "pts": [
+       "Compost placed between two palms in the frond-stacking row (photos)",
+       "140 kg between 2 palms, 2 rounds a year (estate practice)"
+      ]
      }
     ],
     "pests": [
      {
       "k": "Rat damage census Feb 2026",
       "v": "44% damage; above the 10% threshold. Baiting started Apr 2026",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "stats": [
+       {
+        "l": "Rat damage",
+        "v": "44%",
+        "d": "above 10% threshold"
+       }
+      ],
+      "note": "Census Feb 2026; baiting started Apr 2026"
      }
     ],
     "yield": [
      {
       "k": "FFB yield May–Nov 2025",
       "v": "14.64 t/ha vs 17.59 t/ha in May–Nov 2024 (-17%); no sub-block yields in the May 2026 report",
-      "src": "Agro 2/2025 visit"
+      "src": "Agro 2/2025 visit",
+      "stats": [
+       {
+        "l": "May–Nov 2025 yield",
+        "v": "14.64 t/ha",
+        "d": "17.59 in May–Nov 2024 (-17%)"
+       }
+      ],
+      "note": "No sub-block yields in the May 2026 report"
      }
     ],
     "pruning": [
      {
       "k": "Pruning and frond stacking (Jun 2026 visit)",
       "v": "Satisfactory pruned-palm appearance; cut frond stacking began to be realigned slanting between two palms (photos)",
-      "src": "PA 1/2026"
+      "src": "PA 1/2026",
+      "pts": [
+       "Satisfactory pruned-palm appearance",
+       "Cut frond stacking began to be realigned slanting between two palms (photos)"
+      ]
      },
      {
       "k": "Pruning standard (May 2026 visit)",
       "v": "Satisfactory pruning condition (photo); estate pruning up to date with only minor dry hanging fronds",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "pts": [
+       "Satisfactory pruning condition (photo)",
+       "Estate pruning up to date with only minor dry hanging fronds"
+      ]
      }
     ],
     "nutrients": [
      {
       "k": "Leaf analysis Jun 2025",
       "v": "N 2.40%, P 0.158%, K 1.08%, Mg 0.31%, Ca 0.54%, B 14.55 ppm (samples received 21 Jun 2025, results 12 Jul 2025)",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "tbl": {
+       "cols": [
+        "Nutrient",
+        "Level"
+       ],
+       "rows": [
+        [
+         "N",
+         "2.40%"
+        ],
+        [
+         "P",
+         "0.158%"
+        ],
+        [
+         "K",
+         "1.08%"
+        ],
+        [
+         "Mg",
+         "0.31%"
+        ],
+        [
+         "Ca",
+         "0.54%"
+        ],
+        [
+         "B",
+         "14.55 ppm"
+        ]
+       ]
+      },
+      "note": "Samples received 21 Jun 2025, results 12 Jul 2025"
      }
     ],
     "fertNow": {
@@ -3080,7 +4959,19 @@
      {
       "k": "Compost FY2025/26 (May 2025–Apr 2026)",
       "v": "315.50 t on 31.55 ha, 10 t/ha, 100% of area (as of Nov 2025)",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "stats": [
+       {
+        "l": "Compost",
+        "v": "315.50 t",
+        "d": "10 t/ha on 31.55 ha"
+       },
+       {
+        "l": "Area covered",
+        "v": "100%"
+       }
+      ],
+      "note": "As of Nov 2025"
      }
     ],
     "spraying": [
@@ -3099,33 +4990,90 @@
      {
       "k": "Rat damage census Feb 2026",
       "v": "41% damage; above the 10% threshold. Baiting started Apr 2026",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "stats": [
+       {
+        "l": "Rat damage",
+        "v": "41%",
+        "d": "above 10% threshold"
+       }
+      ],
+      "note": "Census Feb 2026; baiting started Apr 2026"
      }
     ],
     "yield": [
      {
       "k": "FFB yield May–Nov 2025",
       "v": "21.10 t/ha vs 16.02 t/ha in May–Nov 2024 (32%); no sub-block yields in the May 2026 report",
-      "src": "Agro 2/2025 visit"
+      "src": "Agro 2/2025 visit",
+      "stats": [
+       {
+        "l": "May–Nov 2025 yield",
+        "v": "21.10 t/ha",
+        "d": "16.02 in May–Nov 2024 (32%)"
+       }
+      ],
+      "note": "No sub-block yields in the May 2026 report"
      }
     ],
     "pruning": [
      {
       "k": "Pruning and frond stacking (Jun 2026 visit)",
       "v": "Satisfactory pruned-palm appearance; cut frond stacking began to be realigned slanting between two palms (photos)",
-      "src": "PA 1/2026"
+      "src": "PA 1/2026",
+      "pts": [
+       "Satisfactory pruned-palm appearance",
+       "Cut frond stacking began to be realigned slanting between two palms (photos)"
+      ]
      },
      {
       "k": "Pruning standard (May 2026 visit)",
       "v": "Satisfactory pruning condition (photo); estate pruning up to date with only minor dry hanging fronds",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "pts": [
+       "Satisfactory pruning condition (photo)",
+       "Estate pruning up to date with only minor dry hanging fronds"
+      ]
      }
     ],
     "nutrients": [
      {
       "k": "Leaf analysis Jun 2025",
       "v": "N 2.57%, P 0.160%, K 1.00%, Mg 0.33%, Ca 0.57%, B 19.72 ppm (samples received 21 Jun 2025, results 12 Jul 2025)",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "tbl": {
+       "cols": [
+        "Nutrient",
+        "Level"
+       ],
+       "rows": [
+        [
+         "N",
+         "2.57%"
+        ],
+        [
+         "P",
+         "0.160%"
+        ],
+        [
+         "K",
+         "1.00%"
+        ],
+        [
+         "Mg",
+         "0.33%"
+        ],
+        [
+         "Ca",
+         "0.57%"
+        ],
+        [
+         "B",
+         "19.72 ppm"
+        ]
+       ]
+      },
+      "note": "Samples received 21 Jun 2025, results 12 Jul 2025"
      }
     ],
     "fertNow": {
@@ -3195,28 +5143,89 @@
      {
       "k": "Compost FY2025/26 (May 2025–Apr 2026)",
       "v": "288.00 t on 33.18 ha, 9 t/ha, 100% of area (as of Nov 2025)",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "stats": [
+       {
+        "l": "Compost",
+        "v": "288.00 t",
+        "d": "9 t/ha on 33.18 ha"
+       },
+       {
+        "l": "Area covered",
+        "v": "100%"
+       }
+      ],
+      "note": "As of Nov 2025"
      }
     ],
     "pests": [
      {
       "k": "Rat damage census Feb 2026",
       "v": "32% damage; above the 10% threshold. Baiting started Apr 2026",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "stats": [
+       {
+        "l": "Rat damage",
+        "v": "32%",
+        "d": "above 10% threshold"
+       }
+      ],
+      "note": "Census Feb 2026; baiting started Apr 2026"
      }
     ],
     "yield": [
      {
       "k": "FFB yield May–Nov 2025",
       "v": "17.16 t/ha vs 14.65 t/ha in May–Nov 2024 (17%); no sub-block yields in the May 2026 report",
-      "src": "Agro 2/2025 visit"
+      "src": "Agro 2/2025 visit",
+      "stats": [
+       {
+        "l": "May–Nov 2025 yield",
+        "v": "17.16 t/ha",
+        "d": "14.65 in May–Nov 2024 (17%)"
+       }
+      ],
+      "note": "No sub-block yields in the May 2026 report"
      }
     ],
     "nutrients": [
      {
       "k": "Leaf analysis Jun 2025",
       "v": "N 2.56%, P 0.160%, K 0.94%, Mg 0.35%, Ca 0.62%, B 18.71 ppm (samples received 21 Jun 2025, results 12 Jul 2025)",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "tbl": {
+       "cols": [
+        "Nutrient",
+        "Level"
+       ],
+       "rows": [
+        [
+         "N",
+         "2.56%"
+        ],
+        [
+         "P",
+         "0.160%"
+        ],
+        [
+         "K",
+         "0.94%"
+        ],
+        [
+         "Mg",
+         "0.35%"
+        ],
+        [
+         "Ca",
+         "0.62%"
+        ],
+        [
+         "B",
+         "18.71 ppm"
+        ]
+       ]
+      },
+      "note": "Samples received 21 Jun 2025, results 12 Jul 2025"
      }
     ],
     "field": [
@@ -3293,28 +5302,89 @@
      {
       "k": "Compost FY2025/26 (May 2025–Apr 2026)",
       "v": "410.66 t on 40.37 ha, 10 t/ha, 100% of area (as of Nov 2025)",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "stats": [
+       {
+        "l": "Compost",
+        "v": "410.66 t",
+        "d": "10 t/ha on 40.37 ha"
+       },
+       {
+        "l": "Area covered",
+        "v": "100%"
+       }
+      ],
+      "note": "As of Nov 2025"
      }
     ],
     "pests": [
      {
       "k": "Rat damage census Feb 2026",
       "v": "33% damage; above the 10% threshold. Baiting started Apr 2026",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "stats": [
+       {
+        "l": "Rat damage",
+        "v": "33%",
+        "d": "above 10% threshold"
+       }
+      ],
+      "note": "Census Feb 2026; baiting started Apr 2026"
      }
     ],
     "yield": [
      {
       "k": "FFB yield May–Nov 2025",
       "v": "18.46 t/ha vs 13.35 t/ha in May–Nov 2024 (38%); no sub-block yields in the May 2026 report",
-      "src": "Agro 2/2025 visit"
+      "src": "Agro 2/2025 visit",
+      "stats": [
+       {
+        "l": "May–Nov 2025 yield",
+        "v": "18.46 t/ha",
+        "d": "13.35 in May–Nov 2024 (38%)"
+       }
+      ],
+      "note": "No sub-block yields in the May 2026 report"
      }
     ],
     "nutrients": [
      {
       "k": "Leaf analysis Jun 2025",
       "v": "N 2.56%, P 0.160%, K 0.86%, Mg 0.38%, Ca 0.63%, B 20.10 ppm (samples received 21 Jun 2025, results 12 Jul 2025)",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "tbl": {
+       "cols": [
+        "Nutrient",
+        "Level"
+       ],
+       "rows": [
+        [
+         "N",
+         "2.56%"
+        ],
+        [
+         "P",
+         "0.160%"
+        ],
+        [
+         "K",
+         "0.86%"
+        ],
+        [
+         "Mg",
+         "0.38%"
+        ],
+        [
+         "Ca",
+         "0.63%"
+        ],
+        [
+         "B",
+         "20.10 ppm"
+        ]
+       ]
+      },
+      "note": "Samples received 21 Jun 2025, results 12 Jul 2025"
      }
     ],
     "fertNow": {
@@ -3380,7 +5450,19 @@
      {
       "k": "Compost FY2025/26 (May 2025–Apr 2026)",
       "v": "486.28 t on 46.95 ha, 10 t/ha, 100% of area (as of Nov 2025)",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "stats": [
+       {
+        "l": "Compost",
+        "v": "486.28 t",
+        "d": "10 t/ha on 46.95 ha"
+       },
+       {
+        "l": "Area covered",
+        "v": "100%"
+       }
+      ],
+      "note": "As of Nov 2025"
      }
     ],
     "pests": [
@@ -3394,14 +5476,55 @@
      {
       "k": "FFB yield May–Nov 2025",
       "v": "14.58 t/ha vs 12.32 t/ha in May–Nov 2024 (18%); no sub-block yields in the May 2026 report",
-      "src": "Agro 2/2025 visit"
+      "src": "Agro 2/2025 visit",
+      "stats": [
+       {
+        "l": "May–Nov 2025 yield",
+        "v": "14.58 t/ha",
+        "d": "12.32 in May–Nov 2024 (18%)"
+       }
+      ],
+      "note": "No sub-block yields in the May 2026 report"
      }
     ],
     "nutrients": [
      {
       "k": "Leaf analysis Jun 2025",
       "v": "N 2.55%, P 0.160%, K 0.90%, Mg 0.35%, Ca 0.64%, B 18.33 ppm (samples received 21 Jun 2025, results 12 Jul 2025)",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "tbl": {
+       "cols": [
+        "Nutrient",
+        "Level"
+       ],
+       "rows": [
+        [
+         "N",
+         "2.55%"
+        ],
+        [
+         "P",
+         "0.160%"
+        ],
+        [
+         "K",
+         "0.90%"
+        ],
+        [
+         "Mg",
+         "0.35%"
+        ],
+        [
+         "Ca",
+         "0.64%"
+        ],
+        [
+         "B",
+         "18.33 ppm"
+        ]
+       ]
+      },
+      "note": "Samples received 21 Jun 2025, results 12 Jul 2025"
      }
     ],
     "fertNow": {
@@ -3471,14 +5594,31 @@
      {
       "k": "Compost FY2025/26 (May 2025–Apr 2026)",
       "v": "400.28 t on 38.76 ha, 10 t/ha, 100% of area (as of Nov 2025)",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "stats": [
+       {
+        "l": "Compost",
+        "v": "400.28 t",
+        "d": "10 t/ha on 38.76 ha"
+       },
+       {
+        "l": "Area covered",
+        "v": "100%"
+       }
+      ],
+      "note": "As of Nov 2025"
      }
     ],
     "pests": [
      {
       "k": "Ganoderma palms (May 2026 visit)",
       "v": "Ganoderma-infected palms photographed: mild to moderately severe, poor vigour, small canopies, frond snapping, multiple unopened spears",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "pts": [
+       "Ganoderma-infected palms photographed",
+       "Mild to moderately severe, poor vigour, small canopies",
+       "Frond snapping, multiple unopened spears"
+      ]
      },
      {
       "k": "Rat damage census Jan–Mar 2026",
@@ -3490,21 +5630,66 @@
      {
       "k": "FFB yield May–Nov 2025",
       "v": "20.02 t/ha vs 13.61 t/ha in May–Nov 2024 (47%); no sub-block yields in the May 2026 report",
-      "src": "Agro 2/2025 visit"
+      "src": "Agro 2/2025 visit",
+      "stats": [
+       {
+        "l": "May–Nov 2025 yield",
+        "v": "20.02 t/ha",
+        "d": "13.61 in May–Nov 2024 (47%)"
+       }
+      ],
+      "note": "No sub-block yields in the May 2026 report"
      }
     ],
     "nutrients": [
      {
       "k": "Leaf analysis Jun 2025",
       "v": "N 2.49%, P 0.158%, K 0.90%, Mg 0.34%, Ca 0.61%, B 20.10 ppm (samples received 21 Jun 2025, results 12 Jul 2025)",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "tbl": {
+       "cols": [
+        "Nutrient",
+        "Level"
+       ],
+       "rows": [
+        [
+         "N",
+         "2.49%"
+        ],
+        [
+         "P",
+         "0.158%"
+        ],
+        [
+         "K",
+         "0.90%"
+        ],
+        [
+         "Mg",
+         "0.34%"
+        ],
+        [
+         "Ca",
+         "0.61%"
+        ],
+        [
+         "B",
+         "20.10 ppm"
+        ]
+       ]
+      },
+      "note": "Samples received 21 Jun 2025, results 12 Jul 2025"
      }
     ],
     "field": [
      {
       "k": "Silty subsoil (May 2026 visit)",
       "v": "Subsoil with high silt content (photos): poor drainage and aeration, waterlogging; improve with organic matter through proper frond stacking",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "pts": [
+       "Subsoil with high silt content (photos): poor drainage and aeration, waterlogging",
+       "Improve with organic matter through proper frond stacking"
+      ]
      },
      {
       "k": "Palm vigour (May 2026 visit)",
@@ -3583,7 +5768,19 @@
      {
       "k": "Compost FY2025/26 (May 2025–Apr 2026)",
       "v": "341.58 t on 33.91 ha, 10 t/ha, 100% of area (as of Nov 2025)",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "stats": [
+       {
+        "l": "Compost",
+        "v": "341.58 t",
+        "d": "10 t/ha on 33.91 ha"
+       },
+       {
+        "l": "Area covered",
+        "v": "100%"
+       }
+      ],
+      "note": "As of Nov 2025"
      }
     ],
     "spraying": [
@@ -3597,21 +5794,70 @@
      {
       "k": "Rat damage census Feb 2026",
       "v": "39% damage; above the 10% threshold. Baiting started Apr 2026",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "stats": [
+       {
+        "l": "Rat damage",
+        "v": "39%",
+        "d": "above 10% threshold"
+       }
+      ],
+      "note": "Census Feb 2026; baiting started Apr 2026"
      }
     ],
     "yield": [
      {
       "k": "FFB yield May–Nov 2025",
       "v": "22.86 t/ha vs 16.34 t/ha in May–Nov 2024 (40%); no sub-block yields in the May 2026 report",
-      "src": "Agro 2/2025 visit"
+      "src": "Agro 2/2025 visit",
+      "stats": [
+       {
+        "l": "May–Nov 2025 yield",
+        "v": "22.86 t/ha",
+        "d": "16.34 in May–Nov 2024 (40%)"
+       }
+      ],
+      "note": "No sub-block yields in the May 2026 report"
      }
     ],
     "nutrients": [
      {
       "k": "Leaf analysis Jun 2025",
       "v": "N 2.49%, P 0.154%, K 0.88%, Mg 0.39%, Ca 0.59%, B 18.02 ppm (samples received 21 Jun 2025, results 12 Jul 2025)",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "tbl": {
+       "cols": [
+        "Nutrient",
+        "Level"
+       ],
+       "rows": [
+        [
+         "N",
+         "2.49%"
+        ],
+        [
+         "P",
+         "0.154%"
+        ],
+        [
+         "K",
+         "0.88%"
+        ],
+        [
+         "Mg",
+         "0.39%"
+        ],
+        [
+         "Ca",
+         "0.59%"
+        ],
+        [
+         "B",
+         "18.02 ppm"
+        ]
+       ]
+      },
+      "note": "Samples received 21 Jun 2025, results 12 Jul 2025"
      }
     ],
     "fertNow": {
@@ -3685,7 +5931,19 @@
      {
       "k": "Compost FY2025/26 (May 2025–Apr 2026)",
       "v": "348.12 t on 32.71 ha, 11 t/ha, 100% of area (as of Nov 2025)",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "stats": [
+       {
+        "l": "Compost",
+        "v": "348.12 t",
+        "d": "11 t/ha on 32.71 ha"
+       },
+       {
+        "l": "Area covered",
+        "v": "100%"
+       }
+      ],
+      "note": "As of Nov 2025"
      }
     ],
     "spraying": [
@@ -3699,21 +5957,70 @@
      {
       "k": "Rat damage census Feb 2026",
       "v": "42% damage; above the 10% threshold. Baiting started Apr 2026",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "stats": [
+       {
+        "l": "Rat damage",
+        "v": "42%",
+        "d": "above 10% threshold"
+       }
+      ],
+      "note": "Census Feb 2026; baiting started Apr 2026"
      }
     ],
     "yield": [
      {
       "k": "FFB yield May–Nov 2025",
       "v": "20.28 t/ha vs 16.65 t/ha in May–Nov 2024 (22%); no sub-block yields in the May 2026 report",
-      "src": "Agro 2/2025 visit"
+      "src": "Agro 2/2025 visit",
+      "stats": [
+       {
+        "l": "May–Nov 2025 yield",
+        "v": "20.28 t/ha",
+        "d": "16.65 in May–Nov 2024 (22%)"
+       }
+      ],
+      "note": "No sub-block yields in the May 2026 report"
      }
     ],
     "nutrients": [
      {
       "k": "Leaf analysis Jun 2025",
       "v": "N 2.45%, P 0.149%, K 0.86%, Mg 0.36%, Ca 0.59%, B 18.02 ppm (samples received 21 Jun 2025, results 12 Jul 2025)",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "tbl": {
+       "cols": [
+        "Nutrient",
+        "Level"
+       ],
+       "rows": [
+        [
+         "N",
+         "2.45%"
+        ],
+        [
+         "P",
+         "0.149%"
+        ],
+        [
+         "K",
+         "0.86%"
+        ],
+        [
+         "Mg",
+         "0.36%"
+        ],
+        [
+         "Ca",
+         "0.59%"
+        ],
+        [
+         "B",
+         "18.02 ppm"
+        ]
+       ]
+      },
+      "note": "Samples received 21 Jun 2025, results 12 Jul 2025"
      }
     ],
     "fertNow": {
@@ -3787,7 +6094,19 @@
      {
       "k": "Compost FY2025/26 (May 2025–Apr 2026)",
       "v": "310.70 t on 29.97 ha, 10 t/ha, 100% of area (as of Nov 2025)",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "stats": [
+       {
+        "l": "Compost",
+        "v": "310.70 t",
+        "d": "10 t/ha on 29.97 ha"
+       },
+       {
+        "l": "Area covered",
+        "v": "100%"
+       }
+      ],
+      "note": "As of Nov 2025"
      }
     ],
     "spraying": [
@@ -3801,12 +6120,25 @@
      {
       "k": "Ganoderma palms (May 2026 visit)",
       "v": "Ganoderma-infected palms photographed: mild to moderately severe, poor vigour, small canopies, frond snapping, multiple unopened spears",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "pts": [
+       "Ganoderma-infected palms photographed",
+       "Mild to moderately severe, poor vigour, small canopies",
+       "Frond snapping, multiple unopened spears"
+      ]
      },
      {
       "k": "Rat damage census Feb 2026",
       "v": "61% damage (highest in the census); above the 10% threshold. Baiting started Apr 2026",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "stats": [
+       {
+        "l": "Rat damage",
+        "v": "61%",
+        "d": "above 10% threshold"
+       }
+      ],
+      "note": "Census Feb 2026; highest in the census; baiting started Apr 2026"
      },
      {
       "k": "Zinc plate trial (May 2026 visit)",
@@ -3818,28 +6150,78 @@
      {
       "k": "FFB yield May–Nov 2025",
       "v": "21.00 t/ha vs 20.57 t/ha in May–Nov 2024 (2%); no sub-block yields in the May 2026 report",
-      "src": "Agro 2/2025 visit"
+      "src": "Agro 2/2025 visit",
+      "stats": [
+       {
+        "l": "May–Nov 2025 yield",
+        "v": "21.00 t/ha",
+        "d": "20.57 in May–Nov 2024 (2%)"
+       }
+      ],
+      "note": "No sub-block yields in the May 2026 report"
      }
     ],
     "pruning": [
      {
       "k": "Pruning standard (May 2026 visit)",
       "v": "Satisfactory pruning condition (photo); estate pruning up to date with only minor dry hanging fronds",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "pts": [
+       "Satisfactory pruning condition (photo)",
+       "Estate pruning up to date with only minor dry hanging fronds"
+      ]
      }
     ],
     "nutrients": [
      {
       "k": "Leaf analysis Jun 2025",
       "v": "N 2.40%, P 0.156%, K 0.82%, Mg 0.36%, Ca 0.60%, B 21.79 ppm (samples received 21 Jun 2025, results 12 Jul 2025)",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "tbl": {
+       "cols": [
+        "Nutrient",
+        "Level"
+       ],
+       "rows": [
+        [
+         "N",
+         "2.40%"
+        ],
+        [
+         "P",
+         "0.156%"
+        ],
+        [
+         "K",
+         "0.82%"
+        ],
+        [
+         "Mg",
+         "0.36%"
+        ],
+        [
+         "Ca",
+         "0.60%"
+        ],
+        [
+         "B",
+         "21.79 ppm"
+        ]
+       ]
+      },
+      "note": "Samples received 21 Jun 2025, results 12 Jul 2025"
      }
     ],
     "field": [
      {
       "k": "Slant-cut trenches (May 2026 visit)",
       "v": "Improper slant-cut mounding trenches toward the harvesting path (photos); severe root damage and possibly over 30% fertiliser loss under EMDEK; stop slant-cut trenching",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "pts": [
+       "Improper slant-cut mounding trenches toward the harvesting path (photos)",
+       "Severe root damage and possibly over 30% fertiliser loss under EMDEK",
+       "Stop slant-cut trenching"
+      ]
      },
      {
       "k": "Palm vigour (May 2026 visit)",
@@ -3918,33 +6300,99 @@
      {
       "k": "Compost FY2025/26 (May 2025–Apr 2026)",
       "v": "263.56 t on 26.54 ha (section 1 area), 10 t/ha, 100% of area (as of Nov 2025)",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "stats": [
+       {
+        "l": "Compost",
+        "v": "263.56 t",
+        "d": "10 t/ha on 26.54 ha"
+       },
+       {
+        "l": "Area covered",
+        "v": "100%"
+       }
+      ],
+      "note": "As of Nov 2025; section 1 area"
      },
      {
       "k": "Manuring delayed by floods FY2025/26 (May 2025–Apr 2026)",
       "v": "Fertiliser application delayed by flooding Nov 2025–Feb 2026; estate to complete the FY2025/26 programme by end Jun 2026 (PA: completed by the Jun 2026 visit, estate-wide)",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "pts": [
+       "Fertiliser application delayed by flooding Nov 2025–Feb 2026",
+       "Estate to complete the FY2025/26 programme by end Jun 2026",
+       "PA: completed by the Jun 2026 visit, estate-wide"
+      ]
      }
     ],
     "pests": [
      {
       "k": "Rat damage census Mar 2026",
       "v": "19% damage (section 1, 26.54 ha); above the 10% threshold. Baiting started Apr 2026",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "stats": [
+       {
+        "l": "Rat damage",
+        "v": "19%",
+        "d": "above 10% threshold"
+       }
+      ],
+      "note": "Census Mar 2026; section 1, 26.54 ha; baiting started Apr 2026"
      }
     ],
     "yield": [
      {
       "k": "FFB yield May–Nov 2025",
       "v": "14.22 t/ha vs 14.89 t/ha in May–Nov 2024 (-4%); no sub-block yields in the May 2026 report",
-      "src": "Agro 2/2025 visit"
+      "src": "Agro 2/2025 visit",
+      "stats": [
+       {
+        "l": "May–Nov 2025 yield",
+        "v": "14.22 t/ha",
+        "d": "14.89 in May–Nov 2024 (-4%)"
+       }
+      ],
+      "note": "No sub-block yields in the May 2026 report"
      }
     ],
     "nutrients": [
      {
       "k": "Leaf analysis Jun 2025",
       "v": "N 2.53%, P 0.159%, K 0.80%, Mg 0.37%, Ca 0.61%, B 20.41 ppm (samples received 21 Jun 2025, results 12 Jul 2025)",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "tbl": {
+       "cols": [
+        "Nutrient",
+        "Level"
+       ],
+       "rows": [
+        [
+         "N",
+         "2.53%"
+        ],
+        [
+         "P",
+         "0.159%"
+        ],
+        [
+         "K",
+         "0.80%"
+        ],
+        [
+         "Mg",
+         "0.37%"
+        ],
+        [
+         "Ca",
+         "0.61%"
+        ],
+        [
+         "B",
+         "20.41 ppm"
+        ]
+       ]
+      },
+      "note": "Samples received 21 Jun 2025, results 12 Jul 2025"
      }
     ],
     "fertNow": {
@@ -4028,33 +6476,99 @@
      {
       "k": "Compost FY2025/26 (May 2025–Apr 2026)",
       "v": "333.14 t on 30.29 ha (section 1 area), 11 t/ha, 100% of area (as of Nov 2025)",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "stats": [
+       {
+        "l": "Compost",
+        "v": "333.14 t",
+        "d": "11 t/ha on 30.29 ha"
+       },
+       {
+        "l": "Area covered",
+        "v": "100%"
+       }
+      ],
+      "note": "As of Nov 2025; section 1 area"
      },
      {
       "k": "Manuring delayed by floods FY2025/26 (May 2025–Apr 2026)",
       "v": "Fertiliser application delayed by flooding Nov 2025–Feb 2026; estate to complete the FY2025/26 programme by end Jun 2026 (PA: completed by the Jun 2026 visit, estate-wide)",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "pts": [
+       "Fertiliser application delayed by flooding Nov 2025–Feb 2026",
+       "Estate to complete the FY2025/26 programme by end Jun 2026",
+       "PA: completed by the Jun 2026 visit, estate-wide"
+      ]
      }
     ],
     "pests": [
      {
       "k": "Rat damage census Mar 2026",
       "v": "26% damage (section 1, 30.29 ha); above the 10% threshold. Baiting started Apr 2026",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "stats": [
+       {
+        "l": "Rat damage",
+        "v": "26%",
+        "d": "above 10% threshold"
+       }
+      ],
+      "note": "Census Mar 2026; section 1, 30.29 ha; baiting started Apr 2026"
      }
     ],
     "yield": [
      {
       "k": "FFB yield May–Nov 2025",
       "v": "13.91 t/ha vs 16.28 t/ha in May–Nov 2024 (-15%); no sub-block yields in the May 2026 report",
-      "src": "Agro 2/2025 visit"
+      "src": "Agro 2/2025 visit",
+      "stats": [
+       {
+        "l": "May–Nov 2025 yield",
+        "v": "13.91 t/ha",
+        "d": "16.28 in May–Nov 2024 (-15%)"
+       }
+      ],
+      "note": "No sub-block yields in the May 2026 report"
      }
     ],
     "nutrients": [
      {
       "k": "Leaf analysis Jun 2025",
       "v": "N 2.60%, P 0.160%, K 0.90%, Mg 0.35%, Ca 0.57%, B 19.10 ppm (samples received 21 Jun 2025, results 12 Jul 2025)",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "tbl": {
+       "cols": [
+        "Nutrient",
+        "Level"
+       ],
+       "rows": [
+        [
+         "N",
+         "2.60%"
+        ],
+        [
+         "P",
+         "0.160%"
+        ],
+        [
+         "K",
+         "0.90%"
+        ],
+        [
+         "Mg",
+         "0.35%"
+        ],
+        [
+         "Ca",
+         "0.57%"
+        ],
+        [
+         "B",
+         "19.10 ppm"
+        ]
+       ]
+      },
+      "note": "Samples received 21 Jun 2025, results 12 Jul 2025"
      }
     ],
     "fertNow": {
@@ -4138,33 +6652,99 @@
      {
       "k": "Compost FY2025/26 (May 2025–Apr 2026)",
       "v": "161.40 t on 16.33 ha (section 1 area), 10 t/ha, 100% of area (as of Nov 2025)",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "stats": [
+       {
+        "l": "Compost",
+        "v": "161.40 t",
+        "d": "10 t/ha on 16.33 ha"
+       },
+       {
+        "l": "Area covered",
+        "v": "100%"
+       }
+      ],
+      "note": "As of Nov 2025; section 1 area"
      },
      {
       "k": "Manuring delayed by floods FY2025/26 (May 2025–Apr 2026)",
       "v": "Fertiliser application delayed by flooding Nov 2025–Feb 2026; estate to complete the FY2025/26 programme by end Jun 2026 (PA: completed by the Jun 2026 visit, estate-wide)",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "pts": [
+       "Fertiliser application delayed by flooding Nov 2025–Feb 2026",
+       "Estate to complete the FY2025/26 programme by end Jun 2026",
+       "PA: completed by the Jun 2026 visit, estate-wide"
+      ]
      }
     ],
     "pests": [
      {
       "k": "Rat damage census Mar 2026",
       "v": "38% damage (section 1, 16.33 ha); above the 10% threshold. Baiting started Apr 2026",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "stats": [
+       {
+        "l": "Rat damage",
+        "v": "38%",
+        "d": "above 10% threshold"
+       }
+      ],
+      "note": "Census Mar 2026; section 1, 16.33 ha; baiting started Apr 2026"
      }
     ],
     "yield": [
      {
       "k": "FFB yield May–Nov 2025",
       "v": "11.97 t/ha vs 14.23 t/ha in May–Nov 2024 (-16%); no sub-block yields in the May 2026 report",
-      "src": "Agro 2/2025 visit"
+      "src": "Agro 2/2025 visit",
+      "stats": [
+       {
+        "l": "May–Nov 2025 yield",
+        "v": "11.97 t/ha",
+        "d": "14.23 in May–Nov 2024 (-16%)"
+       }
+      ],
+      "note": "No sub-block yields in the May 2026 report"
      }
     ],
     "nutrients": [
      {
       "k": "Leaf analysis Jun 2025",
       "v": "N 2.54%, P 0.164%, K 0.92%, Mg 0.32%, Ca 0.53%, B 19.63 ppm (samples received 21 Jun 2025, results 12 Jul 2025)",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "tbl": {
+       "cols": [
+        "Nutrient",
+        "Level"
+       ],
+       "rows": [
+        [
+         "N",
+         "2.54%"
+        ],
+        [
+         "P",
+         "0.164%"
+        ],
+        [
+         "K",
+         "0.92%"
+        ],
+        [
+         "Mg",
+         "0.32%"
+        ],
+        [
+         "Ca",
+         "0.53%"
+        ],
+        [
+         "B",
+         "19.63 ppm"
+        ]
+       ]
+      },
+      "note": "Samples received 21 Jun 2025, results 12 Jul 2025"
      }
     ],
     "fertNow": {
@@ -4243,12 +6823,29 @@
      {
       "k": "Compost FY2025/26 (May 2025–Apr 2026)",
       "v": "349.94 t on 38.70 ha (section 1 area), 9 t/ha, 100% of area (as of Nov 2025)",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "stats": [
+       {
+        "l": "Compost",
+        "v": "349.94 t",
+        "d": "9 t/ha on 38.70 ha"
+       },
+       {
+        "l": "Area covered",
+        "v": "100%"
+       }
+      ],
+      "note": "As of Nov 2025; section 1 area"
      },
      {
       "k": "Manuring delayed by floods FY2025/26 (May 2025–Apr 2026)",
       "v": "Fertiliser application delayed by flooding Nov 2025–Feb 2026; estate to complete the FY2025/26 programme by end Jun 2026 (PA: completed by the Jun 2026 visit, estate-wide)",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "pts": [
+       "Fertiliser application delayed by flooding Nov 2025–Feb 2026",
+       "Estate to complete the FY2025/26 programme by end Jun 2026",
+       "PA: completed by the Jun 2026 visit, estate-wide"
+      ]
      }
     ],
     "spraying": [
@@ -4262,28 +6859,81 @@
      {
       "k": "Rat damage census Mar 2026",
       "v": "32% damage (section 1, 38.7 ha); above the 10% threshold. Baiting started Apr 2026",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "stats": [
+       {
+        "l": "Rat damage",
+        "v": "32%",
+        "d": "above 10% threshold"
+       }
+      ],
+      "note": "Census Mar 2026; section 1, 38.7 ha; baiting started Apr 2026"
      }
     ],
     "yield": [
      {
       "k": "FFB yield May–Nov 2025",
       "v": "18.80 t/ha vs 16.43 t/ha in May–Nov 2024 (14%); no sub-block yields in the May 2026 report",
-      "src": "Agro 2/2025 visit"
+      "src": "Agro 2/2025 visit",
+      "stats": [
+       {
+        "l": "May–Nov 2025 yield",
+        "v": "18.80 t/ha",
+        "d": "16.43 in May–Nov 2024 (14%)"
+       }
+      ],
+      "note": "No sub-block yields in the May 2026 report"
      }
     ],
     "pruning": [
      {
       "k": "Pruning standard (May 2026 visit)",
       "v": "Satisfactory pruning condition (photo); estate pruning up to date with only minor dry hanging fronds",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "pts": [
+       "Satisfactory pruning condition (photo)",
+       "Estate pruning up to date with only minor dry hanging fronds"
+      ]
      }
     ],
     "nutrients": [
      {
       "k": "Leaf analysis Jun 2025",
       "v": "N 2.46%, P 0.160%, K 0.98%, Mg 0.31%, Ca 0.61%, B 22.11 ppm (samples received 21 Jun 2025, results 12 Jul 2025)",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "tbl": {
+       "cols": [
+        "Nutrient",
+        "Level"
+       ],
+       "rows": [
+        [
+         "N",
+         "2.46%"
+        ],
+        [
+         "P",
+         "0.160%"
+        ],
+        [
+         "K",
+         "0.98%"
+        ],
+        [
+         "Mg",
+         "0.31%"
+        ],
+        [
+         "Ca",
+         "0.61%"
+        ],
+        [
+         "B",
+         "22.11 ppm"
+        ]
+       ]
+      },
+      "note": "Samples received 21 Jun 2025, results 12 Jul 2025"
      }
     ],
     "fertNow": {
@@ -4367,12 +7017,29 @@
      {
       "k": "Compost FY2025/26 (May 2025–Apr 2026)",
       "v": "300.24 t on 29.78 ha (section 1 area), 10 t/ha, 100% of area (as of Nov 2025)",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "stats": [
+       {
+        "l": "Compost",
+        "v": "300.24 t",
+        "d": "10 t/ha on 29.78 ha"
+       },
+       {
+        "l": "Area covered",
+        "v": "100%"
+       }
+      ],
+      "note": "As of Nov 2025; section 1 area"
      },
      {
       "k": "Manuring delayed by floods FY2025/26 (May 2025–Apr 2026)",
       "v": "Fertiliser application delayed by flooding Nov 2025–Feb 2026; estate to complete the FY2025/26 programme by end Jun 2026 (PA: completed by the Jun 2026 visit, estate-wide)",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "pts": [
+       "Fertiliser application delayed by flooding Nov 2025–Feb 2026",
+       "Estate to complete the FY2025/26 programme by end Jun 2026",
+       "PA: completed by the Jun 2026 visit, estate-wide"
+      ]
      }
     ],
     "spraying": [
@@ -4391,28 +7058,81 @@
      {
       "k": "Rat damage census Mar 2026",
       "v": "35% damage (section 1, 29.72 ha); above the 10% threshold. Baiting started Apr 2026",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "stats": [
+       {
+        "l": "Rat damage",
+        "v": "35%",
+        "d": "above 10% threshold"
+       }
+      ],
+      "note": "Census Mar 2026; section 1, 29.72 ha; baiting started Apr 2026"
      }
     ],
     "yield": [
      {
       "k": "FFB yield May–Nov 2025",
       "v": "12.77 t/ha vs 16.77 t/ha in May–Nov 2024 (-24%); no sub-block yields in the May 2026 report",
-      "src": "Agro 2/2025 visit"
+      "src": "Agro 2/2025 visit",
+      "stats": [
+       {
+        "l": "May–Nov 2025 yield",
+        "v": "12.77 t/ha",
+        "d": "16.77 in May–Nov 2024 (-24%)"
+       }
+      ],
+      "note": "No sub-block yields in the May 2026 report"
      }
     ],
     "pruning": [
      {
       "k": "Pruning standard (May 2026 visit)",
       "v": "Satisfactory pruning condition (photo); estate pruning up to date with only minor dry hanging fronds",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "pts": [
+       "Satisfactory pruning condition (photo)",
+       "Estate pruning up to date with only minor dry hanging fronds"
+      ]
      }
     ],
     "nutrients": [
      {
       "k": "Leaf analysis Jun 2025",
       "v": "N 2.58%, P 0.164%, K 0.96%, Mg 0.29%, Ca 0.65%, B 17.43 ppm (samples received 21 Jun 2025, results 12 Jul 2025)",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "tbl": {
+       "cols": [
+        "Nutrient",
+        "Level"
+       ],
+       "rows": [
+        [
+         "N",
+         "2.58%"
+        ],
+        [
+         "P",
+         "0.164%"
+        ],
+        [
+         "K",
+         "0.96%"
+        ],
+        [
+         "Mg",
+         "0.29%"
+        ],
+        [
+         "Ca",
+         "0.65%"
+        ],
+        [
+         "B",
+         "17.43 ppm"
+        ]
+       ]
+      },
+      "note": "Samples received 21 Jun 2025, results 12 Jul 2025"
      }
     ],
     "fertNow": {
@@ -4482,12 +7202,29 @@
      {
       "k": "Compost FY2025/26 (May 2025–Apr 2026)",
       "v": "258.32 t on 25.66 ha (section 1 area), 10 t/ha, 100% of area (as of Nov 2025)",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "stats": [
+       {
+        "l": "Compost",
+        "v": "258.32 t",
+        "d": "10 t/ha on 25.66 ha"
+       },
+       {
+        "l": "Area covered",
+        "v": "100%"
+       }
+      ],
+      "note": "As of Nov 2025; section 1 area"
      },
      {
       "k": "Manuring delayed by floods FY2025/26 (May 2025–Apr 2026)",
       "v": "Fertiliser application delayed by flooding Nov 2025–Feb 2026; estate to complete the FY2025/26 programme by end Jun 2026 (PA: completed by the Jun 2026 visit, estate-wide)",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "pts": [
+       "Fertiliser application delayed by flooding Nov 2025–Feb 2026",
+       "Estate to complete the FY2025/26 programme by end Jun 2026",
+       "PA: completed by the Jun 2026 visit, estate-wide"
+      ]
      }
     ],
     "spraying": [
@@ -4508,21 +7245,66 @@
      {
       "k": "FFB yield May–Nov 2025",
       "v": "13.59 t/ha vs 14.44 t/ha in May–Nov 2024 (-6%); no sub-block yields in the May 2026 report",
-      "src": "Agro 2/2025 visit"
+      "src": "Agro 2/2025 visit",
+      "stats": [
+       {
+        "l": "May–Nov 2025 yield",
+        "v": "13.59 t/ha",
+        "d": "14.44 in May–Nov 2024 (-6%)"
+       }
+      ],
+      "note": "No sub-block yields in the May 2026 report"
      }
     ],
     "pruning": [
      {
       "k": "Pruning standard (May 2026 visit)",
       "v": "Satisfactory pruning condition (photo); estate pruning up to date with only minor dry hanging fronds",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "pts": [
+       "Satisfactory pruning condition (photo)",
+       "Estate pruning up to date with only minor dry hanging fronds"
+      ]
      }
     ],
     "nutrients": [
      {
       "k": "Leaf analysis Jun 2025",
       "v": "N 2.49%, P 0.164%, K 0.96%, Mg 0.29%, Ca 0.64%, B 15.63 ppm (samples received 21 Jun 2025, results 12 Jul 2025)",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "tbl": {
+       "cols": [
+        "Nutrient",
+        "Level"
+       ],
+       "rows": [
+        [
+         "N",
+         "2.49%"
+        ],
+        [
+         "P",
+         "0.164%"
+        ],
+        [
+         "K",
+         "0.96%"
+        ],
+        [
+         "Mg",
+         "0.29%"
+        ],
+        [
+         "Ca",
+         "0.64%"
+        ],
+        [
+         "B",
+         "15.63 ppm"
+        ]
+       ]
+      },
+      "note": "Samples received 21 Jun 2025, results 12 Jul 2025"
      }
     ],
     "fertNow": {
@@ -4597,7 +7379,12 @@
      {
       "k": "Manuring delayed by floods FY2025/26 (May 2025–Apr 2026)",
       "v": "Fertiliser application delayed by flooding Nov 2025–Feb 2026; estate to complete the FY2025/26 programme by end Jun 2026 (PA: completed by the Jun 2026 visit, estate-wide)",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "pts": [
+       "Fertiliser application delayed by flooding Nov 2025–Feb 2026",
+       "Estate to complete the FY2025/26 programme by end Jun 2026",
+       "PA: completed by the Jun 2026 visit, estate-wide"
+      ]
      }
     ],
     "pests": [
@@ -4611,28 +7398,84 @@
      {
       "k": "FFB yield May–Nov 2025",
       "v": "13.15 t/ha vs 14.67 t/ha in May–Nov 2024 (-10%); no sub-block yields in the May 2026 report",
-      "src": "Agro 2/2025 visit"
+      "src": "Agro 2/2025 visit",
+      "stats": [
+       {
+        "l": "May–Nov 2025 yield",
+        "v": "13.15 t/ha",
+        "d": "14.67 in May–Nov 2024 (-10%)"
+       }
+      ],
+      "note": "No sub-block yields in the May 2026 report"
      }
     ],
     "harvesting": [
      {
       "k": "Ripeness check (May 2026 visit)",
       "v": "8% overripe among freshly harvested bunches (photos); 8–15% across checked blocks is still high, keep a 15-day interval",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "stats": [
+       {
+        "l": "Overripe bunches",
+        "v": "8%",
+        "d": "freshly harvested"
+       }
+      ],
+      "pts": [
+       "8–15% across checked blocks is still high",
+       "Keep a 15-day interval"
+      ]
      }
     ],
     "pruning": [
      {
       "k": "Pruning standard (May 2026 visit)",
       "v": "Satisfactory pruning condition (photo); estate pruning up to date with only minor dry hanging fronds",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "pts": [
+       "Satisfactory pruning condition (photo)",
+       "Estate pruning up to date with only minor dry hanging fronds"
+      ]
      }
     ],
     "nutrients": [
      {
       "k": "Leaf analysis Jun 2025",
       "v": "N 2.51%, P 0.159%, K 0.94%, Mg 0.32%, Ca 0.62%, B 15.55 ppm (samples received 21 Jun 2025, results 12 Jul 2025)",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "tbl": {
+       "cols": [
+        "Nutrient",
+        "Level"
+       ],
+       "rows": [
+        [
+         "N",
+         "2.51%"
+        ],
+        [
+         "P",
+         "0.159%"
+        ],
+        [
+         "K",
+         "0.94%"
+        ],
+        [
+         "Mg",
+         "0.32%"
+        ],
+        [
+         "Ca",
+         "0.62%"
+        ],
+        [
+         "B",
+         "15.55 ppm"
+        ]
+       ]
+      },
+      "note": "Samples received 21 Jun 2025, results 12 Jul 2025"
      }
     ],
     "fertNow": {
@@ -4712,7 +7555,19 @@
      {
       "k": "Compost FY2025/26 (May 2025–Apr 2026)",
       "v": "257.96 t on 24.42 ha (section 1 area), 11 t/ha, 100% of area (as of Nov 2025)",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "stats": [
+       {
+        "l": "Compost",
+        "v": "257.96 t",
+        "d": "11 t/ha on 24.42 ha"
+       },
+       {
+        "l": "Area covered",
+        "v": "100%"
+       }
+      ],
+      "note": "As of Nov 2025; section 1 area"
      }
     ],
     "spraying": [
@@ -4733,28 +7588,84 @@
      {
       "k": "FFB yield May–Nov 2025",
       "v": "20.87 t/ha vs 17.44 t/ha in May–Nov 2024 (20%); no sub-block yields in the May 2026 report",
-      "src": "Agro 2/2025 visit"
+      "src": "Agro 2/2025 visit",
+      "stats": [
+       {
+        "l": "May–Nov 2025 yield",
+        "v": "20.87 t/ha",
+        "d": "17.44 in May–Nov 2024 (20%)"
+       }
+      ],
+      "note": "No sub-block yields in the May 2026 report"
      }
     ],
     "harvesting": [
      {
       "k": "Ripeness check (May 2026 visit)",
       "v": "12% overripe among freshly harvested bunches (photos); 8–15% across checked blocks is still high, keep a 15-day interval",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "stats": [
+       {
+        "l": "Overripe bunches",
+        "v": "12%",
+        "d": "freshly harvested"
+       }
+      ],
+      "pts": [
+       "8–15% across checked blocks is still high",
+       "Keep a 15-day interval"
+      ]
      }
     ],
     "pruning": [
      {
       "k": "Pruning standard (May 2026 visit)",
       "v": "Satisfactory pruning condition (photo); estate pruning up to date with only minor dry hanging fronds",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "pts": [
+       "Satisfactory pruning condition (photo)",
+       "Estate pruning up to date with only minor dry hanging fronds"
+      ]
      }
     ],
     "nutrients": [
      {
       "k": "Leaf analysis Jun 2025",
       "v": "N 2.68%, P 0.161%, K 1.00%, Mg 0.34%, Ca 0.60%, B 18.79 ppm (samples received 21 Jun 2025, results 12 Jul 2025)",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "tbl": {
+       "cols": [
+        "Nutrient",
+        "Level"
+       ],
+       "rows": [
+        [
+         "N",
+         "2.68%"
+        ],
+        [
+         "P",
+         "0.161%"
+        ],
+        [
+         "K",
+         "1.00%"
+        ],
+        [
+         "Mg",
+         "0.34%"
+        ],
+        [
+         "Ca",
+         "0.60%"
+        ],
+        [
+         "B",
+         "18.79 ppm"
+        ]
+       ]
+      },
+      "note": "Samples received 21 Jun 2025, results 12 Jul 2025"
      }
     ],
     "fertNow": {
@@ -4824,7 +7735,19 @@
      {
       "k": "Compost FY2025/26 (May 2025–Apr 2026)",
       "v": "250.08 t on 25.15 ha (section 1 area), 10 t/ha, 100% of area (as of Nov 2025)",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "stats": [
+       {
+        "l": "Compost",
+        "v": "250.08 t",
+        "d": "10 t/ha on 25.15 ha"
+       },
+       {
+        "l": "Area covered",
+        "v": "100%"
+       }
+      ],
+      "note": "As of Nov 2025; section 1 area"
      }
     ],
     "spraying": [
@@ -4843,7 +7766,12 @@
      {
       "k": "Ganoderma palms (May 2026 visit)",
       "v": "Ganoderma-infected palms photographed: mild to moderately severe, poor vigour, small canopies, frond snapping, multiple unopened spears",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "pts": [
+       "Ganoderma-infected palms photographed",
+       "Mild to moderately severe, poor vigour, small canopies",
+       "Frond snapping, multiple unopened spears"
+      ]
      },
      {
       "k": "Rat damage census Jan–Mar 2026",
@@ -4855,28 +7783,84 @@
      {
       "k": "FFB yield May–Nov 2025",
       "v": "16.53 t/ha vs 16.91 t/ha in May–Nov 2024 (-2%); no sub-block yields in the May 2026 report",
-      "src": "Agro 2/2025 visit"
+      "src": "Agro 2/2025 visit",
+      "stats": [
+       {
+        "l": "May–Nov 2025 yield",
+        "v": "16.53 t/ha",
+        "d": "16.91 in May–Nov 2024 (-2%)"
+       }
+      ],
+      "note": "No sub-block yields in the May 2026 report"
      }
     ],
     "harvesting": [
      {
       "k": "Ripeness check (May 2026 visit)",
       "v": "10% overripe among freshly harvested bunches (photos); 8–15% across checked blocks is still high, keep a 15-day interval",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "stats": [
+       {
+        "l": "Overripe bunches",
+        "v": "10%",
+        "d": "freshly harvested"
+       }
+      ],
+      "pts": [
+       "8–15% across checked blocks is still high",
+       "Keep a 15-day interval"
+      ]
      }
     ],
     "pruning": [
      {
       "k": "Pruning standard (May 2026 visit)",
       "v": "Satisfactory pruning condition (photo); estate pruning up to date with only minor dry hanging fronds",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "pts": [
+       "Satisfactory pruning condition (photo)",
+       "Estate pruning up to date with only minor dry hanging fronds"
+      ]
      }
     ],
     "nutrients": [
      {
       "k": "Leaf analysis Jun 2025",
       "v": "N 2.45%, P 0.158%, K 1.06%, Mg 0.35%, Ca 0.59%, B 17.71 ppm (samples received 21 Jun 2025, results 12 Jul 2025)",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "tbl": {
+       "cols": [
+        "Nutrient",
+        "Level"
+       ],
+       "rows": [
+        [
+         "N",
+         "2.45%"
+        ],
+        [
+         "P",
+         "0.158%"
+        ],
+        [
+         "K",
+         "1.06%"
+        ],
+        [
+         "Mg",
+         "0.35%"
+        ],
+        [
+         "Ca",
+         "0.59%"
+        ],
+        [
+         "B",
+         "17.71 ppm"
+        ]
+       ]
+      },
+      "note": "Samples received 21 Jun 2025, results 12 Jul 2025"
      }
     ],
     "field": [
@@ -4963,12 +7947,28 @@
      {
       "k": "Compost FY2025/26 (May 2025–Apr 2026)",
       "v": "291.56 t on 32.10 ha (section 1 area), 9 t/ha, 100% of area (as of Nov 2025)",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "stats": [
+       {
+        "l": "Compost",
+        "v": "291.56 t",
+        "d": "9 t/ha on 32.10 ha"
+       },
+       {
+        "l": "Area covered",
+        "v": "100%"
+       }
+      ],
+      "note": "As of Nov 2025; section 1 area"
      },
      {
       "k": "Sub-soil holes (May 2026 visit)",
       "v": "Sub-soil fertiliser holes placed beside the drain (photos); place them diagonally opposite the drain, in the palm feeding zone",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "pts": [
+       "Sub-soil fertiliser holes placed beside the drain (photos)",
+       "Place them diagonally opposite the drain, in the palm feeding zone"
+      ]
      }
     ],
     "spraying": [
@@ -4989,28 +7989,77 @@
      {
       "k": "FFB yield May–Nov 2025",
       "v": "18.01 t/ha vs 15.97 t/ha in May–Nov 2024 (13%); no sub-block yields in the May 2026 report",
-      "src": "Agro 2/2025 visit"
+      "src": "Agro 2/2025 visit",
+      "stats": [
+       {
+        "l": "May–Nov 2025 yield",
+        "v": "18.01 t/ha",
+        "d": "15.97 in May–Nov 2024 (13%)"
+       }
+      ],
+      "note": "No sub-block yields in the May 2026 report"
      }
     ],
     "harvesting": [
      {
       "k": "Leftover bunches (May 2026 visit)",
       "v": "Leftover uncollected old bunches seen (photo), believed to be excess overripe bunches left by harvesters",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "pts": [
+       "Leftover uncollected old bunches seen (photo)",
+       "Believed to be excess overripe bunches left by harvesters"
+      ]
      }
     ],
     "pruning": [
      {
       "k": "Pruning standard (May 2026 visit)",
       "v": "Satisfactory pruning condition (photo); estate pruning up to date with only minor dry hanging fronds",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "pts": [
+       "Satisfactory pruning condition (photo)",
+       "Estate pruning up to date with only minor dry hanging fronds"
+      ]
      }
     ],
     "nutrients": [
      {
       "k": "Leaf analysis Jun 2025",
       "v": "N 2.46%, P 0.156%, K 0.98%, Mg 0.35%, Ca 0.55%, B 16.79 ppm (samples received 21 Jun 2025, results 12 Jul 2025)",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "tbl": {
+       "cols": [
+        "Nutrient",
+        "Level"
+       ],
+       "rows": [
+        [
+         "N",
+         "2.46%"
+        ],
+        [
+         "P",
+         "0.156%"
+        ],
+        [
+         "K",
+         "0.98%"
+        ],
+        [
+         "Mg",
+         "0.35%"
+        ],
+        [
+         "Ca",
+         "0.55%"
+        ],
+        [
+         "B",
+         "16.79 ppm"
+        ]
+       ]
+      },
+      "note": "Samples received 21 Jun 2025, results 12 Jul 2025"
      }
     ],
     "fertNow": {
@@ -5090,12 +8139,29 @@
      {
       "k": "Compost FY2025/26 (May 2025–Apr 2026)",
       "v": "397.84 t on 44.55 ha (section 1 area), 9 t/ha, 100% of area (as of Nov 2025)",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "stats": [
+       {
+        "l": "Compost",
+        "v": "397.84 t",
+        "d": "9 t/ha on 44.55 ha"
+       },
+       {
+        "l": "Area covered",
+        "v": "100%"
+       }
+      ],
+      "note": "As of Nov 2025; section 1 area"
      },
      {
       "k": "Manuring delayed by floods FY2025/26 (May 2025–Apr 2026)",
       "v": "Fertiliser application delayed by flooding Nov 2025–Feb 2026; estate to complete the FY2025/26 programme by end Jun 2026 (PA: completed by the Jun 2026 visit, estate-wide)",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "pts": [
+       "Fertiliser application delayed by flooding Nov 2025–Feb 2026",
+       "Estate to complete the FY2025/26 programme by end Jun 2026",
+       "PA: completed by the Jun 2026 visit, estate-wide"
+      ]
      }
     ],
     "spraying": [
@@ -5116,21 +8182,67 @@
      {
       "k": "FFB yield May–Nov 2025",
       "v": "15.35 t/ha vs 14.38 t/ha in May–Nov 2024 (7%); no sub-block yields in the May 2026 report",
-      "src": "Agro 2/2025 visit"
+      "src": "Agro 2/2025 visit",
+      "stats": [
+       {
+        "l": "May–Nov 2025 yield",
+        "v": "15.35 t/ha",
+        "d": "14.38 in May–Nov 2024 (7%)"
+       }
+      ],
+      "note": "No sub-block yields in the May 2026 report"
      }
     ],
     "nutrients": [
      {
       "k": "Leaf analysis Jun 2025",
       "v": "N 2.67%, P 0.168%, K 1.02%, Mg 0.35%, Ca 0.58%, B 20.56 ppm (samples received 21 Jun 2025, results 12 Jul 2025)",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "tbl": {
+       "cols": [
+        "Nutrient",
+        "Level"
+       ],
+       "rows": [
+        [
+         "N",
+         "2.67%"
+        ],
+        [
+         "P",
+         "0.168%"
+        ],
+        [
+         "K",
+         "1.02%"
+        ],
+        [
+         "Mg",
+         "0.35%"
+        ],
+        [
+         "Ca",
+         "0.58%"
+        ],
+        [
+         "B",
+         "20.56 ppm"
+        ]
+       ]
+      },
+      "note": "Samples received 21 Jun 2025, results 12 Jul 2025"
      }
     ],
     "field": [
      {
       "k": "Runt palms (May 2026 visit)",
       "v": "Runt palms seen (photos); none thinned in FY2025/26. Kill by injecting about 50 ml glyphosate into two diagonal holes near the trunk base",
-      "src": "Agro 1/2026"
+      "src": "Agro 1/2026",
+      "pts": [
+       "Runt palms seen (photos)",
+       "None thinned in FY2025/26",
+       "Kill by injecting about 50 ml glyphosate into two diagonal holes near the trunk base"
+      ]
      }
     ],
     "fertNow": {
@@ -5501,202 +8613,598 @@
    {
     "k": "Programme FY2025/26 (May 2025–Apr 2026) (PA)",
     "v": "2,156.50 t programmed; 1,905.70 t delivered and applied by Apr 2026 (88%), slightly delayed mainly by late delivery; the programme was completed by the Jun 2026 visit",
-    "src": "PA 1/2026"
+    "src": "PA 1/2026",
+    "stats": [
+     {
+      "l": "Delivered & applied",
+      "v": "1,905.70 t",
+      "d": "of 2,156.50 t programmed (88%)"
+     }
+    ],
+    "pts": [
+     "Slightly delayed, mainly by late delivery",
+     "Programme completed by the Jun 2026 visit"
+    ],
+    "note": "To Apr 2026"
    },
    {
-    "k": "Mix B May 2025",
-    "v": "124.40 of 124.40 t applied (100%)",
-    "src": "PA 1/2026"
-   },
-   {
-    "k": "Mix B Jun 2025",
-    "v": "274.43 of 274.43 t applied (100%)",
-    "src": "PA 1/2026"
-   },
-   {
-    "k": "Mix B Jul 2025",
-    "v": "157.90 of 157.90 t applied (100%)",
-    "src": "PA 1/2026"
-   },
-   {
-    "k": "Kieserite Jul 2025",
-    "v": "161.49 of 161.49 t applied (100%)",
-    "src": "PA 1/2026"
-   },
-   {
-    "k": "Mix B Aug 2025",
-    "v": "121.83 of 121.83 t applied (100%)",
-    "src": "PA 1/2026"
-   },
-   {
-    "k": "Mix B Sep 2025",
-    "v": "103.78 of 103.78 t applied (100%)",
-    "src": "PA 1/2026"
-   },
-   {
-    "k": "Mix B Oct 2025",
-    "v": "121.83 of 121.83 t applied (100%)",
-    "src": "PA 1/2026"
-   },
-   {
-    "k": "RP Jan 2026",
-    "v": "72.38 of 144.75 t applied (50%)",
-    "src": "PA 1/2026"
-   },
-   {
-    "k": "Mix B Feb 2026",
-    "v": "537.43 of 537.43 t applied (100%)",
-    "src": "PA 1/2026"
-   },
-   {
-    "k": "RP Mar 2026",
-    "v": "72.38 of 154.14 t applied (50%)",
-    "src": "PA 1/2026"
-   },
-   {
-    "k": "Mix B Apr 2026",
-    "v": "157.85 of 254.52 t applied (62% in the table; PA concluding remarks say 52%)",
+    "k": "Monthly applied vs programme (PA)",
+    "tbl": {
+     "cols": [
+      "Month",
+      "Fertiliser",
+      "Applied (t)",
+      "%"
+     ],
+     "rows": [
+      [
+       "May 2025",
+       "Mix B",
+       "124.40 of 124.40",
+       "100%"
+      ],
+      [
+       "Jun 2025",
+       "Mix B",
+       "274.43 of 274.43",
+       "100%"
+      ],
+      [
+       "Jul 2025",
+       "Mix B",
+       "157.90 of 157.90",
+       "100%"
+      ],
+      [
+       "Jul 2025",
+       "Kieserite",
+       "161.49 of 161.49",
+       "100%"
+      ],
+      [
+       "Aug 2025",
+       "Mix B",
+       "121.83 of 121.83",
+       "100%"
+      ],
+      [
+       "Sep 2025",
+       "Mix B",
+       "103.78 of 103.78",
+       "100%"
+      ],
+      [
+       "Oct 2025",
+       "Mix B",
+       "121.83 of 121.83",
+       "100%"
+      ],
+      [
+       "Jan 2026",
+       "RP",
+       "72.38 of 144.75",
+       "50%"
+      ],
+      [
+       "Feb 2026",
+       "Mix B",
+       "537.43 of 537.43",
+       "100%"
+      ],
+      [
+       "Mar 2026",
+       "RP",
+       "72.38 of 154.14",
+       "50%"
+      ],
+      [
+       "Apr 2026",
+       "Mix B",
+       "157.85 of 254.52",
+       "62%"
+      ]
+     ]
+    },
+    "note": "FY2025/26, tonnes applied of programmed. Apr 2026 Mix B: 62% in the table, PA concluding remarks say 52%",
+    "v": "124.40 of 124.40 t applied (100%) | 274.43 of 274.43 t applied (100%) | 157.90 of 157.90 t applied (100%) | 161.49 of 161.49 t applied (100%) | 121.83 of 121.83 t applied (100%) | 103.78 of 103.78 t applied (100%) | 121.83 of 121.83 t applied (100%) | 72.38 of 144.75 t applied (50%) | 537.43 of 537.43 t applied (100%) | 72.38 of 154.14 t applied (50%) | 157.85 of 254.52 t applied (62% in the table; PA concluding remarks say 52%)",
     "src": "PA 1/2026"
    },
    {
     "k": "Programme FY2025/26 (May 2025–Apr 2026) (Agro, May 2026)",
     "v": "Mix B 1,546.77 of 1,696.18 t applied (91%); kieserite 13.55 of 13.55 t (100%); RP 142.43 of 313.44 t (table prints 91%; 156.72 t delivered); total 1,702.75 of 2,023.17 t (91%). Mix B and RP still to catch up at the May 2026 visit",
-    "src": "Agro 1/2026"
+    "src": "Agro 1/2026",
+    "tbl": {
+     "cols": [
+      "Fertiliser",
+      "Applied vs programme (t)",
+      "%"
+     ],
+     "rows": [
+      [
+       "Mix B",
+       "1,546.77 of 1,696.18",
+       "91%"
+      ],
+      [
+       "Kieserite",
+       "13.55 of 13.55",
+       "100%"
+      ],
+      [
+       "RP",
+       "142.43 of 313.44",
+       "table prints 91%"
+      ],
+      [
+       "Total",
+       "1,702.75 of 2,023.17",
+       "91%"
+      ]
+     ]
+    },
+    "pts": [
+     "RP 156.72 t delivered",
+     "Mix B and RP still to catch up at the May 2026 visit"
+    ],
+    "note": "Agro, May 2026"
    },
    {
     "k": "Methods and labour",
     "v": "EMDEK spreader on 1,390.55 ha (91.4%) where above 100 palms/ha; semi-mechanised elsewhere; sub-soil in flood-hit areas (131.52 ha, mainly P07). 10 workers shared with Bukit Senorang: semi-mechanised 30 bags/day at RM2.50 = RM75; sub-soil 10 bags/day at RM9.00 = RM90 (target 20 bags); spreader 180 bags per 3 man-days, driver RM0.50/bag = RM90/day, helpers RM0.40/bag = RM72/day",
-    "src": "PA 1/2026 · Agro 1/2026"
+    "src": "PA 1/2026 · Agro 1/2026",
+    "tbl": {
+     "cols": [
+      "Method",
+      "Output",
+      "Pay"
+     ],
+     "rows": [
+      [
+       "Semi-mechanised",
+       "30 bags/day",
+       "RM2.50/bag = RM75"
+      ],
+      [
+       "Sub-soil",
+       "10 bags/day (target 20 bags)",
+       "RM9.00/bag = RM90"
+      ],
+      [
+       "Spreader",
+       "180 bags per 3 man-days",
+       "Driver RM0.50/bag = RM90/day; helpers RM0.40/bag = RM72/day"
+      ]
+     ]
+    },
+    "pts": [
+     "EMDEK spreader on 1,390.55 ha (91.4%) where above 100 palms/ha; semi-mechanised elsewhere",
+     "Sub-soil in flood-hit areas (131.52 ha, mainly P07)",
+     "10 workers shared with Bukit Senorang"
+    ]
    },
    {
     "k": "Manuring cost FY2025/26 (May 2025–Apr 2026)",
     "v": "RM1,523.15/ha, 5% below the RM1,598.27/ha budget, mainly because the programme ran behind",
-    "src": "PA 1/2026"
+    "src": "PA 1/2026",
+    "stats": [
+     {
+      "l": "Manuring cost",
+      "v": "RM1,523.15/ha",
+      "d": "5% below budget RM1,598.27/ha"
+     }
+    ],
+    "note": "May 2025–Apr 2026; mainly because the programme ran behind"
    },
    {
     "k": "Compost FY2025/26 (May 2025–Apr 2026)",
     "v": "23,827.04 t on 1,399.51 ha (17.03 t/ha) vs 14,757.58 t programme (10.54 t/ha): 161%; 140 kg between 2 palms on the frond row, 2 rounds a year. Cost RM649.90/ha vs RM434.59/ha. Agro Table 5 (to Nov 2025): 20,089.86 t on 1,399.57 ha, 14 t/ha",
-    "src": "PA 1/2026 · Agro 1/2026"
+    "src": "PA 1/2026 · Agro 1/2026",
+    "stats": [
+     {
+      "l": "Compost",
+      "v": "23,827.04 t",
+      "d": "17.03 t/ha on 1,399.51 ha"
+     },
+     {
+      "l": "Vs programme",
+      "v": "161%",
+      "d": "14,757.58 t (10.54 t/ha)"
+     },
+     {
+      "l": "Cost",
+      "v": "RM649.90/ha",
+      "d": "budget RM434.59/ha"
+     }
+    ],
+    "pts": [
+     "140 kg between 2 palms on the frond row, 2 rounds a year",
+     "Agro Table 5 (to Nov 2025): 20,089.86 t on 1,399.57 ha, 14 t/ha"
+    ],
+    "note": "May 2025–Apr 2026"
    },
    {
     "k": "EFB from May 2026",
     "v": "Compost to be replaced by EFB from May 2026 at a planned 20 t/ha (acceptable). Compost no longer uses microbial inoculants; compare C/N ratio and decomposition of compost and EFB before paying for composting",
-    "src": "Agro 1/2026"
+    "src": "Agro 1/2026",
+    "pts": [
+     "Compost to be replaced by EFB from May 2026 at a planned 20 t/ha (acceptable)",
+     "Compost no longer uses microbial inoculants",
+     "Compare C/N ratio and decomposition of compost and EFB before paying for composting"
+    ]
    },
    {
     "k": "Frond stacking and trenches",
     "v": "Fronds not stacked as recommended; slant-cut trenches with fronds inside do not create the intended organic-matter fertiliser zone. Stop slant-cut trenching; for future mounding dig straight trenches in the interrow parallel to the harvesting path",
-    "src": "Agro 1/2026"
+    "src": "Agro 1/2026",
+    "pts": [
+     "Fronds not stacked as recommended",
+     "Slant-cut trenches with fronds inside do not create the intended organic-matter fertiliser zone",
+     "Stop slant-cut trenching",
+     "For future mounding dig straight trenches in the interrow parallel to the harvesting path"
+    ]
    },
    {
     "k": "FY2026/27 programme",
     "v": "FY2026/27 programme in Agro Appendix 1a–i; no manuring for blocks due for replanting in 2027. Mix A: 45% SOA, 40% MOP, 15% kieserite, no borate; Mix B: 45% SOA, 40% MOP, 14% kieserite, 1% borate. The appendix still carries old notes 'EFB compost scheduled May'24–Nov'24'",
-    "src": "Agro 1/2026"
+    "src": "Agro 1/2026",
+    "pts": [
+     "Programme in Agro Appendix 1a–i; no manuring for blocks due for replanting in 2027",
+     "Mix A: 45% SOA, 40% MOP, 15% kieserite, no borate",
+     "Mix B: 45% SOA, 40% MOP, 14% kieserite, 1% borate",
+     "Appendix still carries old notes 'EFB compost scheduled May'24–Nov'24'"
+    ]
    }
   ],
   "spraying": [
    {
     "k": "Circle and path spraying FY2025/26 (May 2025–Apr 2026)",
     "v": "2,853.50 of 4,566.21 ha (1.87 of 3.0 rounds, 62%), delayed; circles generally weed-free and acceptable, helped by mounding. Battery knapsack, low-volume nozzle, pure glyphosate; 5.0 ha/day at RM15/ha = RM75/day. Cost RM85.36/ha vs RM108.04/ha",
-    "src": "PA 1/2026"
+    "src": "PA 1/2026",
+    "stats": [
+     {
+      "l": "Circle & path done",
+      "v": "62%",
+      "d": "2,853.50 of 4,566.21 ha · 1.87 of 3.0 rounds"
+     },
+     {
+      "l": "Cost",
+      "v": "RM85.36/ha",
+      "d": "budget RM108.04/ha"
+     },
+     {
+      "l": "Rate",
+      "v": "5.0 ha/day",
+      "d": "RM15/ha = RM75/day"
+     }
+    ],
+    "pts": [
+     "Delayed; circles generally weed-free and acceptable, helped by mounding",
+     "Battery knapsack, low-volume nozzle, pure glyphosate"
+    ],
+    "note": "May 2025–Apr 2026"
    },
    {
     "k": "Selective spraying FY2025/26 (May 2025–Apr 2026)",
     "v": "3,898.00 of 4,566.21 ha (2.56 rounds, 85%); delay in field 2006. Mist blower with Garlon 250 for woody weeds (Clidemia, lantana, wild brinjal, bitter gourd), rotated with pure Ally for Hedyotis and Ageratum. Cost RM90.25/ha (budget RM117.25)",
-    "src": "PA 1/2026"
+    "src": "PA 1/2026",
+    "stats": [
+     {
+      "l": "Selective done",
+      "v": "85%",
+      "d": "3,898.00 of 4,566.21 ha · 2.56 rounds"
+     },
+     {
+      "l": "Cost",
+      "v": "RM90.25/ha",
+      "d": "budget RM117.25"
+     }
+    ],
+    "pts": [
+     "Delay in field 2006",
+     "Mist blower with Garlon 250 for woody weeds (Clidemia, lantana, wild brinjal, bitter gourd)",
+     "Rotated with pure Ally for Hedyotis and Ageratum"
+    ],
+    "note": "May 2025–Apr 2026"
    },
    {
     "k": "Weeding cost FY2025/26 (May 2025–Apr 2026)",
     "v": "RM171.55/ha (Table 6 RM175.61) vs RM225.29/ha, 24% below because some rounds were delayed or skipped. Weeding contracted out to 13 workers who also spray Bukit Senorang",
-    "src": "PA 1/2026"
+    "src": "PA 1/2026",
+    "stats": [
+     {
+      "l": "Weeding cost",
+      "v": "RM171.55/ha",
+      "d": "budget RM225.29, 24% below"
+     }
+    ],
+    "pts": [
+     "Table 6 shows RM175.61",
+     "Some rounds delayed or skipped",
+     "Weeding contracted out to 13 workers who also spray Bukit Senorang"
+    ],
+    "note": "May 2025–Apr 2026"
    },
    {
     "k": "Ground vegetation (May 2026 visit)",
     "v": "Improved: soft grasses and Nephrolepis about 50% each. Undesirable species: wild bitter gourd, Clidemia hirta, Asystasia, Tetracera indica, Stenochlaena palustris, Dicranopteris linearis. Most vacant points overgrown. Fewer incomplete kills than in Dec 2025",
-    "src": "Agro 1/2026"
+    "src": "Agro 1/2026",
+    "pts": [
+     "Improved: soft grasses and Nephrolepis about 50% each",
+     "Undesirable: wild bitter gourd, Clidemia hirta, Asystasia, Tetracera indica, Stenochlaena palustris, Dicranopteris linearis",
+     "Most vacant points overgrown",
+     "Fewer incomplete kills than in Dec 2025"
+    ]
    }
   ],
   "pests": [
    {
     "k": "Ganoderma census Apr 2026",
     "v": "15,664 infected palms (7.75% of 202,163 standing) plus 22,642 dead; 17.04% if dead palms counted as Ganoderma; considered high. Mounding recommended for the remaining palms",
-    "src": "PA 1/2026"
+    "src": "PA 1/2026",
+    "stats": [
+     {
+      "l": "Infected",
+      "v": "7.75%",
+      "d": "15,664 of 202,163 standing"
+     },
+     {
+      "l": "Dead",
+      "v": "22,642 palms"
+     },
+     {
+      "l": "If dead counted",
+      "v": "17.04%"
+     }
+    ],
+    "pts": [
+     "Considered high",
+     "Mounding recommended for the remaining palms"
+    ]
    },
    {
     "k": "Rat damage census Jan–Mar 2026",
     "v": "Q1 census covered only 850.35 of 1,522.07 ha (55.86%); at this pace the full census takes up to 6 months. Baiting began Apr 2026; finish the census first, group all blocks over 10%, bait in one direction",
-    "src": "Agro 1/2026"
+    "src": "Agro 1/2026",
+    "stats": [
+     {
+      "l": "Q1 census covered",
+      "v": "55.86%",
+      "d": "850.35 of 1,522.07 ha"
+     }
+    ],
+    "pts": [
+     "At this pace the full census takes up to 6 months",
+     "Baiting began Apr 2026",
+     "Finish the census first, group all blocks over 10%, bait in one direction"
+    ]
    },
    {
     "k": "Rat control FY2025/26 (May 2025–Apr 2026) (PA)",
     "v": "No serious rat attack and no treatment; no serious fresh damage seen in Jun 2026. Census every 3 months, bait above 10%. Cost RM1.23/ha vs RM74.69/ha",
-    "src": "PA 1/2026"
+    "src": "PA 1/2026",
+    "stats": [
+     {
+      "l": "Rat cost",
+      "v": "RM1.23/ha",
+      "d": "budget RM74.69/ha"
+     }
+    ],
+    "pts": [
+     "No serious rat attack and no treatment; no serious fresh damage seen in Jun 2026",
+     "Census every 3 months, bait above 10%"
+    ],
+    "note": "May 2025–Apr 2026 (PA)"
    },
    {
     "k": "Barn owls May–Jun 2025",
     "v": "137 boxes, 41% occupied (low); no cleaning in FY2025/26, planned May 2026",
-    "src": "Agro 1/2026"
+    "src": "Agro 1/2026",
+    "stats": [
+     {
+      "l": "Boxes",
+      "v": "137"
+     },
+     {
+      "l": "Occupied",
+      "v": "41%",
+      "d": "low"
+     }
+    ],
+    "note": "Census May–Jun 2025; no cleaning in FY2025/26, planned May 2026"
    },
    {
     "k": "Bagworm FY2025/26 (May 2025–Apr 2026)",
     "v": "No new outbreak; old damage only. Cost RM24.97/ha vs RM27.81/ha (treatment in the early months). Stay vigilant; neighbouring estates had severe attacks",
-    "src": "PA 1/2026 · Agro 1/2026"
+    "src": "PA 1/2026 · Agro 1/2026",
+    "stats": [
+     {
+      "l": "Bagworm cost",
+      "v": "RM24.97/ha",
+      "d": "budget RM27.81 (treatment in early months)"
+     }
+    ],
+    "pts": [
+     "No new outbreak; old damage only",
+     "Stay vigilant; neighbouring estates had severe attacks"
+    ],
+    "note": "May 2025–Apr 2026"
    }
   ],
   "harvesting": [
    {
     "k": "Harvesting FY2025/26 (May 2025–Apr 2026)",
     "v": "Contracted out (Purple Lavender, 55 harvesters on 1,391.30 ha); 62 harvesters, 1 per 25 ha (optimum 1:22, 69 harvesters); 13 pruners can help at peak. Interval 13–16 days; rounds 23.70–24.00 vs budget 24. Keep the interval under 15 days",
-    "src": "PA 1/2026"
+    "src": "PA 1/2026",
+    "stats": [
+     {
+      "l": "Interval",
+      "v": "13–16 days",
+      "d": "keep under 15 days"
+     },
+     {
+      "l": "Rounds",
+      "v": "23.70–24.00",
+      "d": "budget 24"
+     },
+     {
+      "l": "Harvesters",
+      "v": "62",
+      "d": "1 per 25 ha (optimum 1:22, 69)"
+     }
+    ],
+    "pts": [
+     "Contracted out (Purple Lavender, 55 harvesters on 1,391.30 ha)",
+     "13 pruners can help at peak"
+    ],
+    "note": "May 2025–Apr 2026"
    },
    {
     "k": "Harvesting cost FY2025/26 (May 2025–Apr 2026)",
     "v": "RM84.45/t FFB vs RM87.41/t budget; contract system the main contributor",
-    "src": "PA 1/2026"
+    "src": "PA 1/2026",
+    "stats": [
+     {
+      "l": "Harvesting cost",
+      "v": "RM84.45/t FFB",
+      "d": "budget RM87.41/t"
+     }
+    ],
+    "note": "May 2025–Apr 2026; contract system the main contributor"
    },
    {
     "k": "Crop recovery (May 2026 visit)",
     "v": "Overripe bunches down since Dec 2025 but still 8–15%; loose fruit, overnight and leftover bunches improved; loose fruit quality better. Train harvesters to strip loose fruit from overripe bunches",
-    "src": "Agro 1/2026"
+    "src": "Agro 1/2026",
+    "pts": [
+     "Overripe bunches down since Dec 2025 but still 8–15%",
+     "Loose fruit, overnight and leftover bunches improved; loose fruit quality better",
+     "Train harvesters to strip loose fruit from overripe bunches"
+    ]
    }
   ],
   "yield": [
    {
     "k": "Estate FFB FY2025/26 (May 2025–Apr 2026)",
     "v": "34,259.92 t, 22.51 t/ha vs budget 30,453 t / 20.01 t/ha (+13%); FY2024/25 33,942.99 t, 22.30 t/ha. OER 19.42%, KER 3.35%",
-    "src": "PA 1/2026"
+    "src": "PA 1/2026",
+    "stats": [
+     {
+      "l": "Crop",
+      "v": "34,259.92 t",
+      "d": "budget 30,453 t (+13%)"
+     },
+     {
+      "l": "Yield",
+      "v": "22.51 t/ha",
+      "d": "budget 20.01"
+     },
+     {
+      "l": "OER",
+      "v": "19.42%"
+     },
+     {
+      "l": "KER",
+      "v": "3.35%"
+     }
+    ],
+    "note": "May 2025–Apr 2026; FY2024/25 33,942.99 t, 22.30 t/ha"
    },
    {
     "k": "Estate FFB Jan–Apr 2026",
     "v": "4.58 t/ha vs 5.88 t/ha in Jan–Apr 2025 (-22%)",
-    "src": "Agro 1/2026"
+    "src": "Agro 1/2026",
+    "stats": [
+     {
+      "l": "Estate, Jan–Apr 2026",
+      "v": "4.58 t/ha",
+      "d": "5.88 in Jan–Apr 2025 (-22%)"
+     }
+    ]
    }
   ],
   "field": [
    {
     "k": "Palm census Jul 2024",
     "v": "207,351 palms, 136 SPH (previous 142); new census requested. 72% of palms aged 20–25",
-    "src": "Agro 1/2026"
+    "src": "Agro 1/2026",
+    "stats": [
+     {
+      "l": "Palms",
+      "v": "207,351"
+     },
+     {
+      "l": "Palms/ha",
+      "v": "136",
+      "d": "previous 142"
+     }
+    ],
+    "note": "New census requested; 72% of palms aged 20–25"
    },
    {
     "k": "De-silting FY2025/26 (May 2025–Apr 2026)",
     "v": "None in FY2024/25 or FY2025/26; annual de-silting advised for low-lying flood-prone and silty areas, especially along the Serting River",
-    "src": "PA 1/2026 · Agro 1/2026"
+    "src": "PA 1/2026 · Agro 1/2026",
+    "pts": [
+     "None in FY2024/25 or FY2025/26",
+     "Annual de-silting advised for low-lying flood-prone and silty areas",
+     "Especially along the Serting River"
+    ]
    },
    {
     "k": "Mounding FY2025/26 (May 2025–Apr 2026)",
     "v": "64,543 palms on 598.89 ha at RM7.20 = RM464,709 (RM450/ha, unbudgeted). Agro: 106,857 palms mounded (52.8%), mostly with improper slant-cut trenches despite briefings",
-    "src": "PA 1/2026 · Agro 1/2026"
+    "src": "PA 1/2026 · Agro 1/2026",
+    "stats": [
+     {
+      "l": "Palms mounded",
+      "v": "64,543",
+      "d": "on 598.89 ha"
+     },
+     {
+      "l": "Cost",
+      "v": "RM464,709",
+      "d": "RM7.20/palm · RM450/ha, unbudgeted"
+     }
+    ],
+    "pts": [
+     "Agro: 106,857 palms mounded (52.8%), mostly with improper slant-cut trenches despite briefings"
+    ],
+    "note": "May 2025–Apr 2026"
    },
    {
     "k": "Silty subsoil",
     "v": "Substantial areas have silty subsoil: poor drainage, aeration and vigour (pale green to yellowish palms); compost or EFB would help but slant trenches leave less interrow space",
-    "src": "Agro 1/2026"
+    "src": "Agro 1/2026",
+    "pts": [
+     "Substantial areas have silty subsoil: poor drainage, aeration and vigour",
+     "Pale green to yellowish palms",
+     "Compost or EFB would help but slant trenches leave less interrow space"
+    ]
    },
    {
     "k": "Roads FY2025/26 (May 2025–Apr 2026)",
     "v": "No lateriting; backhoe maintenance RM82,850 (RM54.43/ha); grading RM1,352; culverts RM2,701. Prioritise motor-grader grading",
-    "src": "PA 1/2026"
+    "src": "PA 1/2026",
+    "stats": [
+     {
+      "l": "Backhoe maintenance",
+      "v": "RM82,850",
+      "d": "RM54.43/ha"
+     },
+     {
+      "l": "Grading",
+      "v": "RM1,352"
+     },
+     {
+      "l": "Culverts",
+      "v": "RM2,701"
+     }
+    ],
+    "pts": [
+     "No lateriting",
+     "Prioritise motor-grader grading"
+    ],
+    "note": "May 2025–Apr 2026"
    }
   ]
  },
