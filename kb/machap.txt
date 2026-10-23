@@ -51,6 +51,20 @@ VEHICLES (PA Table 25, combined): management vehicles and lorry within budget. 5
 
 HARVEST MACHINES: PA 7.4 says the 3 EV Badang cover 265.56 ha of young palms but Table 20 puts them on MC2022 145.41 ha. DATA CAVEATS: see the issues list.
 
+TOP 5 YIELD-LIMITING FACTORS (ranked by likely cost in lost crop)
+1. Ganoderma killing older palms: Last census about 11% dead and 10–12% infected (2025). Worst MC2002A 26% dead, 28% infected; MC2011A 32% infected. Mounding (17,829 palms) is only temporary; new census still due. (Agro 1/2026 · PA 1/2026)
+2. Long harvesting intervals in tall palms: Intervals over 20 days in Aug–Oct 2025 while tall-palm harvesters helped Leong Hin San; tall palms 1.8 rounds/month vs 2.0–2.5 target, FY2025/26. Machap 10-19 days in Apr 2026. (Agro 1/2026 · PA 1/2026)
+3. Toppled palms and thin old stands: Many toppled palms and vacant points in MC02A, MC02E, MC08A, MC05E. MC2002 at 105 SPH (A 100, B 97), 2024 census. MC2008 yields fell 35–52% in FY2025/26. (Agro 1/2026)
+4. Rat damage in young and prime palms: Fresh damage MC2022C 21% (Feb 2026), MC2014B 18%, MC2016A 16%, MC2020A 15% (Jan 2026). After baiting MC2022C still 16%; affected blocks not baited as one group. (Agro 1/2026)
+5. Fertiliser rounds late mid-year: Only 78% of the programme applied to Nov 2025 (Mix B 72%): Oct 2025 round late from late delivery, Nov round held up by heavy rain. 99% done by Apr 2026 (Machap+Melaka Pinda). (Agro 1/2026)
+
+TOP 5 PA ISSUES (main matters raised in the latest PA report)
+1. Crop 8% below budget: 22,258.13 t FFB vs 24,321 t budget, May 2025–Apr 2026; 21.93 t/ha vs 23.96 budget and 27.79 last year (Machap+Melaka Pinda combined). (PA 1/2026 Table 23)
+2. Harvester output low, intervals long: 1.50–2.20 t/man-day judged low (Apr 2026). Intervals 10-19 days at Machap, 18-19 at Melaka Pinda; keep 12–15 days. Tall-palm areas over 15 days while harvesters helped Leong Hin San. (PA 1/2026 s.7)
+3. MTG breakdowns push up harvest cost: Harvesting and collection RM131.12/t vs RM123.89 (+6%), FY2025/26; infield loading RM23.14 vs 15.58 (+49%) from MTG breakdowns; mini tractors 82-213% over budget per hour. (PA 1/2026 Tables 22, 25)
+4. No road grading done: Grading 0 of 1,000 chains budgeted in FY2025/26; started July 2026, to finish by September before the monsoon. (PA 1/2026)
+5. Barn owl boxes mostly empty: 44 boxes (1 per 23 ha), only 7 occupied (16%) in Apr 2026. Find the cause; try Bright Farm boxes (over 90% occupancy at Far East Holdings), at least 6 palms from roads. (PA 1/2026)
+
 OPERATING COST PER TONNE FFB (RM/t), May 2025–Apr 2026 (FY2025/26, 12 months; Machap+Melaka Pinda combined), from PA Report 1/2026 (Machap & Melaka Pinda), sections 5, 6, 7, 9 (Tables 5, 6, 22, 24; Appendix 1) (actual / budget; * = worked out from report RM amounts / FFB tonnes)
 Harvest & collection: 97.26 / 92.08
   - FFB supervision: 2.98 / 3.52

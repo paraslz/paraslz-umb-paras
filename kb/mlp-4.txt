@@ -57,6 +57,20 @@ BLOCK DATA: yields exist only by field (Agro Table 12): FY2025/26 (May 2025 to A
 
 DATA CAVEATS (see issues): PA 1,280.20 vs Agro 1,301.97 ha; pruning 853 vs 179.02 vs 214.24 ha; labour table 85 harvesters vs text 77; vehicle tractor sub-total omits one tractor; Agro 17.42 t/ha vs about 17.8 from field yields; PA upkeep budget RM125.69/t vs RM124.42; 'Actual 4M' labels; 210 vs 205 manuring rounds; road cost RM2.47 (table) vs RM49.88/chain (text).
 
+TOP 5 YIELD-LIMITING FACTORS (ranked by likely cost in lost crop)
+1. Too few harvesting rounds in 12B: P12B 20.1 rounds vs minimum 24 in FY2025/26 (84%), intervals up to 16-40 days in Jun 2025, due to poor access; yield fell to 14.68 t/ha (-3%) while the estate rose. (Agro 1/2026)
+2. Harvester shortage and turnover: 77 harvesters vs 83 needed (May 2026); high turnover early in FY2025/26 blamed for the crop shortfall. Outturn only 58%; 2012 plantings 1.84 and 1.42 t/man-day. (PA 1/2026 s.3, 7, 8)
+3. Poor loose fruit collection: Loose fruit collection unsatisfactory in A13, A03, B10, B11; oxidised loose fruit in previously neglected areas; some unripe and long-stalk bunches in B05 (May 2026). (PA 1/2026 s.7 · Agro 1/2026)
+4. Weeds from short spraying: Circle spraying 1,958 of 3,840 ha (51%) to Mar 2026, short of sprayers; inter-rows still have Clidemia, Asystasia, Giant Paspalum, bamboo and woodies (worst B05, B19). (PA 1/2026 s.6 · Agro 1/2026)
+5. Manuring late: FY2025/26 programme only finished in May 2026 (delivery, access, machinery); FY2026/27 Mix B 7.8 of 159.74 t (5%) and kieserite 0 of 41.89 t at the May 2026 visit. (Agro 1/2026)
+
+TOP 5 PA ISSUES (main matters raised in the latest PA report)
+1. Crop 13% below budget: 20,740.88 t FFB vs 23,764.52 t budget, May 2025–Mar 2026; 16.20 vs 18.56 t/ha. Blamed on high harvester turnover early in the FY and a low crop season. (PA 1/2026 s.8)
+2. Cost per tonne over budget: RM315.09/t FFB vs RM292.04 budget, May 2025–Mar 2026; harvesting and collection RM103.76 vs RM84.72/t, because the crop budget was not met. (PA 1/2026 s.9)
+3. Transport and vehicle overspend: Internal transport RM681,253 vs RM443,197 (+54%) on high tractor costs; vehicles RM1,256,419.74 vs RM899,490 budget, May 2025–Mar 2026. Vehicle records unsatisfactory. (PA 1/2026 s.7, 10)
+4. Low harvester productivity: Outturn 58%, very low: investigate and keep harvesters to 8-hour days. 77 harvesters vs 83 needed (May 2026); HRD recruiting. (PA 1/2026 s.3, 7)
+5. Spraying behind, sprayers short: Circle 51% (1.3 ha/man-day vs 4 target) and selective 83% to Mar 2026; spraying workers 13 vs 18. Poorly killed woodies need corrective spraying. (PA 1/2026 s.3, 6)
+
 OPERATING COST PER TONNE FFB (RM/t), May 2025–Mar 2026 (FY2025/26, 11 months), from PA Report 1/2026, sections 5, 6, 7 and 9 (General Charges, Upkeep & Cultivation, Harvesting & Collection, Cost of Production tables) (actual / budget; * = worked out from report RM amounts / FFB tonnes)
 Harvest & collection: 103.76 / 84.72
   - FFB supervision: 6.00 / 5.00

@@ -55,6 +55,20 @@ RAINFALL (Agro Table 19, Sairin gauge, by FY May-Apr): FY17/18 3,372 mm 192 days
 
 BLOCK YIELDS on the dashboard: Agro Table 17 field level, FY2025/26 (May 2025-Apr 2026); prevYtd = FY2024/25 (May 2024-Apr 2025); 2022A prevYtd 0 as printed (not yet mature). DATA CAVEATS: general charges RM1.09m in COP vs RM2.42m in section 5; yield on 640.91 ha time-weighted area; Agro old-field yields average 21.09 t/ha and 22A 22.71, inconsistent with the 21.07 total, and 99F row copies the total; mature area 831.67 vs 868.71. See issues.
 
+TOP 5 YIELD-LIMITING FACTORS (ranked by likely cost in lost crop)
+1. FY2026/27 manuring running late: To May 2026: NK1 118.68 t programmed, 62 t delivered, none applied; Mix A 30.15 of 47.75 t (63%); Mix B 9.15 of 122.76 t. Deliveries late. (Agro 2/2026)
+2. Long harvesting intervals: Old fields mostly 10–21 days, peaks 22–23 days (99A Aug 2025, 99C and 07A Mar 2026); 22B 16–26 days in May 2026. Ripe bunches left in 01A29/01A30. (Agro 2/2026)
+3. Heavy Ganoderma in old palms: 07A34 sample (Apr 2026): 59% attack, 146 palms with fruiting bodies, 426 vacant of 1,683 points. Depressing yield in 99F16/99F17. Deboling and mounding not resumed. (Agro 2/2026 · Agro 1/2026)
+4. Old palms on poor sandy soils: Old palms 19-27 years are declining. Low vigour, small bunches and thin trunks on sandy hardpan soils in 99F16, 99F17 and 07A34 (Jan 2026); EFB recommended. (Agro 2/2026 · Agro 1/2026)
+5. Circle weeding behind: Circle spraying 1.7 of 3.4 rounds (51%), May 2025–Apr 2026, slowed by heavy rain and the Feb 2026 flood; last 1999C circle round over 5 months before the visit. (PA 1/2026 · Agro 2/2026)
+
+TOP 5 PA ISSUES (main matters raised in the latest PA report)
+1. Harvesting cost over budget: RM155.54/t vs RM138.86/t budget (+12%), May 2025–Apr 2026; excluding external transport RM109/t vs 83 (+31%). Mill is 70 km away. (PA 1/2026 s.7)
+2. Upkeep well over budget: RM3,054.08/ha vs RM2,542.82/ha (+20%), FY2025/26: weeding RM400.62 vs 230.02/ha (+74%), soil/water conservation +123%, drains +83%. (PA 1/2026 s.6)
+3. Circle spraying only half done: 1,431.03 of 2,808.44 ha, 1.7 of 3.4 rounds (51%), May 2025–Apr 2026; sprayers 3.0 ha/man-day, should exceed 4.5 ha. (PA 1/2026)
+4. Infield collection not mechanised: Wheelbarrows only; machines held up by long repairs. 2022 planting 0.8 t/man-day at RM100/t (Mar 2026). Electric Badang advised for 22A/22B. (PA 1/2026 s.7)
+5. Low manuring productivity: Bucket broadcasting 2.42 ha/day (7-10 bags) and 2.34 ha/day (10-13 bags) vs 20-25 bags potential; use wheelbarrows, mini crawler or Badang. (PA 1/2026)
+
 OPERATING COST PER TONNE FFB (RM/t), May 2025–Apr 2026 (FY2025/26, 12 months), from PA Report 1/2026, Tables 5, 6, 18 and 20 (sections 5, 6, 7, 9) (actual / budget; * = worked out from report RM amounts / FFB tonnes)
 Harvest & collection: 155.54 / 138.86
   - FFB supervision: 6.70 / 5.41

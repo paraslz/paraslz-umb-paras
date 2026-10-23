@@ -8809,5 +8809,79 @@
   ]
  },
  "blockGaps": "No FY2025/26 per-palm fertiliser programme in either Agronomy report: Agro 2/2025 (Dec 2025) already carries the FY2026/27 programme (identical to Agro 1/2026), so fertPrev is omitted for every block. No block-level manuring progress for FY2025/26 (only estate tonnages by month) and none yet for FY2026/27 beyond the Mix A round seen in 2003B2 in Jul 2026. Ganoderma census only to Apr 2024 and only for 2003 blocks; no Ganoderma or rat figures for PR25. No block yields for FY2026/27 to date. Leaf analysis is Aug 2025 (no PR25 sample). Agro lists 'P20A1, P20A3, P20A2, P20A5' as satisfactorily pruned — not valid sub-block ids (photos show P03A sub-blocks), so not assigned. Barn owl occupancy for Apr 2026 differs between PA and Agro; both kept. PA circle-spray rounds (mostly 2.0 of 3) and Agro round status (often 3 rounds at 100%) disagree; both kept.",
- "blockMap": "Dashboard ids map to report fields as follows: P03A1–P03A5 = 2003A1–A5 (Agro P03A1…, BA03A 1–5); P03B1–B3 = 2003B1–B3; P03C1–C3 = 2003C1–C3; P17A/P17B = 2017A/B (Agro P17A/B, BA17 A/B; Agro also mentions P17B3); P18A = 2018 / 2018A (BA18 A); P20A/P20B = 2020A/B (BA20A A/B); PR25 = replant field 2025 with sub-blocks 2025A/B/C (PA Table 2 '2024/2025', Agro flood table '2024', fertiliser 'P2025'). Field-level facts (2003A, 2017, 2020…) that are not split by sub-block are in estateWide unless the report names the sub-block."
+ "blockMap": "Dashboard ids map to report fields as follows: P03A1–P03A5 = 2003A1–A5 (Agro P03A1…, BA03A 1–5); P03B1–B3 = 2003B1–B3; P03C1–C3 = 2003C1–C3; P17A/P17B = 2017A/B (Agro P17A/B, BA17 A/B; Agro also mentions P17B3); P18A = 2018 / 2018A (BA18 A); P20A/P20B = 2020A/B (BA20A A/B); PR25 = replant field 2025 with sub-blocks 2025A/B/C (PA Table 2 '2024/2025', Agro flood table '2024', fertiliser 'P2025'). Field-level facts (2003A, 2017, 2020…) that are not split by sub-block are in estateWide unless the report names the sub-block.",
+ "top": {
+  "limits": [
+   {
+    "t": "Ganoderma in the 2003 palms",
+    "s": "Ganoderma",
+    "d": "31–56% infected in all 2003 sub-blocks (census Apr 2024, not updated); worst P03A2 56%. P03A5 fell to 14.26 from 16.47 t/ha (-13%), FY2025/26 vs FY2024/25.",
+    "src": "PA 1/2026 Table 14 · Agro 1/2026",
+    "rep": true
+   },
+   {
+    "t": "Low palm stand on old palms",
+    "s": "Low stand, old palms",
+    "d": "Mature stand averages 115 SPH vs 148 SPH target; 62.3% of area aged 20–25. Drone census done Apr 2026, results awaited.",
+    "src": "Agro 1/2026",
+    "rep": true
+   },
+   {
+    "t": "Harvester shortage and crop recovery",
+    "s": "Harvesters short",
+    "d": "24 harvesters, 1 per 26 ha (PA wants 1:22 ha), Jun 2026. Jun 2026 visit: more underripe and uncollected bunches (P03A5, P03C2, P03C3), loose fruit old and rotten.",
+    "src": "PA 1/2026 · Agro 1/2026",
+    "rep": true
+   },
+   {
+    "t": "Weed control behind and slipping",
+    "s": "Weeds slipping",
+    "d": "Circle spraying 2.1 of 3.0 rounds (71%), FY2025/26. Weeding deteriorated since Dec 2025; P03A2, A5, B1, B2, C2, C3 and P17A now category d.",
+    "src": "PA 1/2026 · Agro 1/2026",
+    "rep": true
+   },
+   {
+    "t": "Flooding and no desilting",
+    "s": "Flooding",
+    "d": "39% of the estate (160 of 413.73 ha listed) is low-lying and flood-prone; no desilting done in FY2025/26 (May 2025–Apr 2026).",
+    "src": "Agro 1/2026 Table 8",
+    "rep": true
+   }
+  ],
+  "pa": [
+   {
+    "t": "Crop 13% below budget",
+    "s": "Crop 13% short",
+    "d": "11,729.40 t FFB vs 13,444.00 t budget, May 2025–Apr 2026; 18.69 t/ha vs 21.43 t/ha budget (18.62 t/ha a year earlier).",
+    "src": "PA 1/2026 Table 22"
+   },
+   {
+    "t": "Cost per tonne over budget",
+    "s": "Cost/t over budget",
+    "d": "Ex-estate RM302/t FFB vs RM296 budget, May 2025–Apr 2026, because crop was 13% under budget; grand total RM442/t vs RM410.",
+    "src": "PA 1/2026 Table 23"
+   },
+   {
+    "t": "Too few harvesters, low output",
+    "s": "Harvesters short",
+    "d": "24 harvesters, 1 per 26 ha: recruit 6 more for 1:22 ha before the Aug–Oct peak. Output 1.92–2.02 t/man-day in 2003 fields vs 3.0–3.5 t target, FY2025/26.",
+    "src": "PA 1/2026 Tables 4, 18",
+    "rep": true
+   },
+   {
+    "t": "Mini tractor grabbers breaking down",
+    "s": "MTG breakdowns",
+    "d": "2 mini tractors at 12.09 t/day vs 30–35 t optimum; infield loading RM16.39/t vs RM12.60/t budget, FY2025/26, from breakdowns and high repairs.",
+    "src": "PA 1/2026 Tables 21, 24",
+    "rep": true
+   },
+   {
+    "t": "Circle and selective spraying delayed",
+    "s": "Spraying delayed",
+    "d": "Circle spraying 2.1 of 3.0 rounds (71%), FY2025/26; selective delayed in 2003A2, 2003B3, 2017A, 2018A, 2020A. Sprayers need training; recalibrate.",
+    "src": "PA 1/2026 Table 9",
+    "rep": true
+   }
+  ]
+ }
 }

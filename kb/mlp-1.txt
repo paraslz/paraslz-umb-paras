@@ -61,6 +61,20 @@ RAINFALL (Agro Table 17, FY May-Apr): FY2020/21 2,638 mm/178 days; FY2021/22 2,2
 
 CONCLUDING REMARKS (PA 12): harvesters adequate, retain them through higher productivity; recruit sprayers urgently; eradicate soft woodies; improve sprayer productivity, training and supervision; consult Senior Manager on roads; raise harvester productivity; improve supervision of loose fruit and bunch collection. Agro: palm thinning ongoing; FY2026/27 manuring 32% due to deliveries; unchanged FY2026/27 programme; FY2027/28 adds one sub-soil block.
 
+TOP 5 YIELD-LIMITING FACTORS (ranked by likely cost in lost crop)
+1. FY2026/27 manuring running late: Only 216.1 of 666.95 t applied (32%) by Jul 2026; 56% of stock delivered; kieserite 0 of 49.73 t. Yield May–Jul 2026 3.83 vs 5.50 t/ha (-30%). (Agro 2/2026)
+2. Long intervals and crop left behind: Intervals up to 18–23 days in FY2025/26, some still above 15 in May–Aug 2026. Loose fruit missed in P11B-17, P04B-01, P05B-04, P05A-05; unripe bunches. (Agro 2/2026 · PA 1/2026)
+3. Low palm stand: Estate 125 SPH, called low; 06A 117, 07A 104 and 07B 102 SPH from vacant hilly areas (Aug 2026). No recent palm census by the estate. (Agro 2/2026)
+4. Weeding late and poor: To Jul 2026: circle 53%, inter-row 27% (chemicals late); 07A and 11B circles 0%. Woodies, VOPs, Giant Paspalum and Hedyotis remain, many poorly killed. (Agro 2/2026 · PA 1/2026)
+5. Rutted hilly roads: No gravelling done; many collection roads need gravel and hilly roads are rutted; RM450,000 road gravelling not started (to Mar 2026). (PA 1/2026)
+
+TOP 5 PA ISSUES (main matters raised in the latest PA report)
+1. Harvesting cost over budget: RM99 vs 85/t (+20%), May 2025–Mar 2026: Sunday and public holiday double pay not budgeted; internal transport RM23 vs 18/t (+36%) from tractor costs. (PA 1/2026 s.7)
+2. Harvesters work short days: Harvesters work about 6 hours (should be 8-9); outturn 74% to be investigated. 2011 planting 0.93 t/man-day, earning RM46.50 vs RM65.38 basic wage. (PA 1/2026 s.7)
+3. Sprayer shortage: 10 sprayers vs 16 required (Mar 2026); recruitment urgent as inter-rows are unsatisfactory. Total labour 215 vs 231. (PA 1/2026 s.3)
+4. Poor spraying quality, CKS in use: Woodies missed or poorly killed, respraying needed. CKS circles 2.7 ha/man-day, earning RM62.10 below RM65.38; switch to CDA and mist blowers. (PA 1/2026 s.6)
+5. Collection roads not gravelled: No gravelling done; many collection roads need gravel; RM450,000 road gravelling not started. Access road RM90,887 vs RM857,900 capex budget. (PA 1/2026 s.6.7, 11)
+
 OPERATING COST PER TONNE FFB (RM/t), May 2025–Mar 2026 (FY2025/26, 11 months), from Planting Advisory Report 1/2026, sections 5, 6, 7 and 9 (actual / budget; * = worked out from report RM amounts / FFB tonnes)
 Harvest & collection: 98.57 / 85.23
   - FFB supervision: 5.00 / 4.00

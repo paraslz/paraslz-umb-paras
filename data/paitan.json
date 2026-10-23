@@ -13056,5 +13056,79 @@
   ]
  },
  "blockGaps": "No block-level FY2026/27 manuring progress (only estate tonnages); the PA block manuring status is to Mar 2026 and later superseded by Agro's estate-wide 100% FY2025/26 completion. FY2027/28 programme missing for 00A, 02A, 02B and 02C (Appendix 2 pages skip them). FY2025/26 programme for 99B (blocks 4, 5), block 12 and 99D (13–15) not printed in Agro 1/2026 or the PA table; for 99G the Agro 1/2026 table gives rates but no fertiliser names. PA pruning table by block garbled for 00A/02A (skipped; Agro field tables used). Ganoderma census dated Oct 2024 except Jun 2026 for blocks 81–84; PA census table itself is undated (date from Agro 1/2026). Rat census only Mar 2025. Foliar analysis only for blocks 43–84, sampling date not printed. No soil analysis. Agro category codes in the Jun 2026 Ganoderma table not defined. 99B and 99E missing from the May–Jun 2026 yield table.",
- "blockMap": "Dashboard ids are the agronomist's field codes; each covers numbered blocks (99B = blocks 4, 5; 99C = 10–12; 99D = 13–15; 99E = 16–18; 99G = 48–52; 00A = 25–28; 02A = 30–34; 02B = 35, 36; 02C = 37–39; 02D = 40–42; 03A = 43–46; 03B = 47; 05D = 69–73; 05E = 29; 06B = 77, 80; 13C = 81, 82; 14D = 83, 84, which Agro 2/2026 also calls 13D). Immature: 23B = block 1 (PA PR23A/01); 25A = blocks 22, 23, 24 (Agro PN25A04/03/02, appendix PN99F22–24, PA PR25A); 25B = blocks 6–9 (PN25B, PN99B06–09, PA PR25B); PR26 = blocks 19–21 (PN26A19–21, Agro PN25C, appendix PN99F19–21). PA tables by block go under the matching field; Agro tables by field go to the field."
+ "blockMap": "Dashboard ids are the agronomist's field codes; each covers numbered blocks (99B = blocks 4, 5; 99C = 10–12; 99D = 13–15; 99E = 16–18; 99G = 48–52; 00A = 25–28; 02A = 30–34; 02B = 35, 36; 02C = 37–39; 02D = 40–42; 03A = 43–46; 03B = 47; 05D = 69–73; 05E = 29; 06B = 77, 80; 13C = 81, 82; 14D = 83, 84, which Agro 2/2026 also calls 13D). Immature: 23B = block 1 (PA PR23A/01); 25A = blocks 22, 23, 24 (Agro PN25A04/03/02, appendix PN99F22–24, PA PR25A); 25B = blocks 6–9 (PN25B, PN99B06–09, PA PR25B); PR26 = blocks 19–21 (PN26A19–21, Agro PN25C, appendix PN99F19–21). PA tables by block go under the matching field; Agro tables by field go to the field.",
+ "top": {
+  "limits": [
+   {
+    "t": "Ganoderma spreading, no deboling",
+    "s": "Ganoderma",
+    "d": "About 10% infection estate-wide (PA, Apr 2026); census 5,474 confirmed of 249,723 palms, worst blocks 43 (380), 44 (306), 14 (282). No deboling or mounding done.",
+    "src": "PA 1/2026 · Agro 2/2026",
+    "rep": true
+   },
+   {
+    "t": "Palm stand falling in old fields",
+    "s": "Falling palm stand",
+    "d": "SPH fell Jan–May 2026 in 06B (139 to 86), 02B (141 to 126), 03B (119 to 108) and 00A (118 to 111). Block 43 (SPH 105) has low density and falling yield.",
+    "src": "Agro 2/2026"
+   },
+   {
+    "t": "Manuring late, poorly applied",
+    "s": "Late manuring",
+    "d": "FY2025/26 programme finished late (deliveries Mar–Apr 2026); FY2026/27 NK2 18.13 of 333.2 t (5%) at Jun 2026, other rounds 0%. NK mix applied in lumps, unevenly.",
+    "src": "Agro 2/2026 · PA 1/2026",
+    "rep": true
+   },
+   {
+    "t": "Waterlogging in low-lying blocks",
+    "s": "Waterlogging",
+    "d": "Feb 2026 floods (731 mm) damaged water gates; 13C about 3 t/ha below 14D from waterlogging (Jan 2026); high water table in block 82. 13C fell to 1.85 t/ha in May–Jun 2026 (-62%).",
+    "src": "Agro 1/2026 · Agro 2/2026 · PA 1/2026",
+    "rep": true
+   },
+   {
+    "t": "Inter-row weeds, spraying behind",
+    "s": "Weeds, VOPs",
+    "d": "Selective spraying 2,710 of 5,786 ha (47%) to Mar 2026, short of sprayers; Asystasia, Hedyotis and VOPs remain (blocks 70, 72); over-spraying in 69, 71, 73.",
+    "src": "PA 1/2026 s.6 · Agro 2/2026"
+   }
+  ],
+  "pa": [
+   {
+    "t": "Sprayers short, selective spraying 47%",
+    "s": "Sprayer shortage",
+    "d": "18 sprayers vs 26 needed, called critical. Selective spraying 2,710 of 5,786 ha (47%) to Mar 2026; 2.8 ha/man-day, earning RM58.80/day, below the RM65.38 basic wage.",
+    "src": "PA 1/2026 s.3, 6",
+    "rep": true
+   },
+   {
+    "t": "Ganoderma about 10%, no deboling",
+    "s": "Ganoderma",
+    "d": "Ganoderma seen throughout the estate, about 10% overall (Apr 2026); no deboling of fallen palms yet. Debole in blocks not due for replanting within 2 years.",
+    "src": "PA 1/2026 s.6",
+    "rep": true
+   },
+   {
+    "t": "Poor manuring supervision",
+    "s": "Manuring quality",
+    "d": "Caked NK mix applied in lumps, uneven, some on the palm; supervision seriously lacking. Sub-surface 0.7 ha/man-day earning RM10.50/day. EFB on 113 of 732 ha.",
+    "src": "PA 1/2026 s.6",
+    "rep": true
+   },
+   {
+    "t": "Low harvester output, weak collection",
+    "s": "Harvesting, transport",
+    "d": "1.85 t/man-day vs 2.5-3.0 target (to Mar 2026); contractor tractors often broke down. Tractors RM25.13/hr vs RM11.16 budget; crawlers idle, tractors underused.",
+    "src": "PA 1/2026 s.7, 10",
+    "rep": true
+   },
+   {
+    "t": "Replanting upkeep needs work",
+    "s": "Replant upkeep",
+    "d": "PR25A circles grassy and cover poor, 800 palms still to supply; PR25B EFB too thick (Oryctes risk); PR23A/01 basal pruning badly done. Expedite replanting.",
+    "src": "PA 1/2026",
+    "rep": true
+   }
+  ]
+ }
 }

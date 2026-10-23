@@ -4542,5 +4542,75 @@
   ]
  },
  "blockGaps": "fertPrev (FY2025/26 programme by block) not found: Agro 2/2025 only says the FY2025/26 programme is unchanged and prints the FY2026/27 draft; FY2025/26 rates would be in Agro 1/2025, not supplied. No fertNext (FY2027/28). No block-level manuring progress in either latest report (estate tonnage only). No FY2026/27 spraying figures (only that Main Division weeding had not started at 25 May 2026). Latest leaf analysis is Agro 2/2025 (Oct 2025 visit, sampling date not printed); none for 23A, 24A, 25A. No Ganoderma census except Agro 2/2025 (05B 53 and 54). PA and Agro disagree on FY2025/26 spraying and pruning % for several blocks; both kept. No block-level FFB tonnes or bunch weight. Total g/palm/year not printed.",
- "blockMap": "Dashboard ids are planting-year fields; reports use sub-block numbers. 04A = 48-51; 05A = 52; 05B = 53-56; 05C = 57-60 (Agro tables label them 05B); 05D = 63-68; 06A = 76, 78, 79; 08A = 82, 83; 09A = 80; 10A = 84-88; 10B = 89-91; 16A = 92-99 (Agro 2/2025 leaf table puts 92, 96, 99 under '16B'); 19A = A1-A3 (PA blocks A1-A3, 'P19A'); 23A = A4, A5 (PA 2023A4, 2023A5); 24A = A6 (PA 2024A6); 25A = A7 (PA 2025A7, Agro appendix '2025B'). PA spraying Tables 7/9 rows '2003A 68.84 ha' = 23A (old 23A area), '2024A 8.74 ha' = 24A, '2005A 7.81 ha' = 25A; a further row '2024A 17.37 ha' could not be matched and sits in estateWide. Tobe/Sg Kaindangan Division = 08A, 10A, 10B, 16A (460.21 ha) plus 23A; Main Division = the rest."
+ "blockMap": "Dashboard ids are planting-year fields; reports use sub-block numbers. 04A = 48-51; 05A = 52; 05B = 53-56; 05C = 57-60 (Agro tables label them 05B); 05D = 63-68; 06A = 76, 78, 79; 08A = 82, 83; 09A = 80; 10A = 84-88; 10B = 89-91; 16A = 92-99 (Agro 2/2025 leaf table puts 92, 96, 99 under '16B'); 19A = A1-A3 (PA blocks A1-A3, 'P19A'); 23A = A4, A5 (PA 2023A4, 2023A5); 24A = A6 (PA 2024A6); 25A = A7 (PA 2025A7, Agro appendix '2025B'). PA spraying Tables 7/9 rows '2003A 68.84 ha' = 23A (old 23A area), '2024A 8.74 ha' = 24A, '2005A 7.81 ha' = 25A; a further row '2024A 17.37 ha' could not be matched and sits in estateWide. Tobe/Sg Kaindangan Division = 08A, 10A, 10B, 16A (460.21 ha) plus 23A; Main Division = the rest.",
+ "top": {
+  "limits": [
+   {
+    "t": "Tobe harvesting gaps and recovery",
+    "s": "Tobe intervals",
+    "d": "Tobe 12.13 t/ha vs 22.07 budget, FY2025/26. Intervals up to 31 days in 10B (Apr 2026); 16A only 1 round (50%) in May 2026; few harvesters, poor access, rain.",
+    "src": "PA 1/2026 Table 19 · Agro 1/2026"
+   },
+   {
+    "t": "Manuring late both years",
+    "s": "Late manuring",
+    "d": "FY2025/26 second half only 224.43 of 538.53 t (42%) by Apr 2026, finished May 2026; FY2026/27 not started at May 2026. Agro links the May 2026 yield fall (1.14 vs 1.40 t/ha) to it.",
+    "src": "PA 1/2026 Table 10 · Agro 1/2026"
+   },
+   {
+    "t": "Inter-row weeding behind",
+    "s": "Weeding behind",
+    "d": "Inter-row 1.9 of 3 rounds (63%), FY2025/26; Tobe only one inter-row round. Clidemia, Asystasia, VOP, Stenochlaena still dominant; FY2026/27 Main Division weeding not started May 2026.",
+    "src": "PA 1/2026 Table 9 · Agro 1/2026",
+    "rep": true
+   },
+   {
+    "t": "Old palms on steep land",
+    "s": "Old palms, slopes",
+    "d": "55% (745.78 ha) aged 20-25 years vs ideal 24%; 05A, 05C, 05D, 09A below expected. 108.7 ha of 2005D (blocks 63-65) to be felled May 2027 for steep land and poor terraces.",
+    "src": "Agro 1/2026 Table 4"
+   },
+   {
+    "t": "Very wet year cut access",
+    "s": "Heavy rain",
+    "d": "4,122 mm on 203 days in FY2025/26; 780 mm in Jan 2026 and 870 mm in Feb 2026. Slippery roads left blocks 64, 67, 68 and 90 with 1 harvesting round in Feb 2026.",
+    "src": "Agro 1/2026 · PA 1/2026 s.7"
+   }
+  ],
+  "pa": [
+   {
+    "t": "Crop 18% below budget",
+    "s": "Crop 18% short",
+    "d": "22,111.368 t FFB vs 26,990 t budget, FY2025/26; Tobe (Sg Kaindangan) 5,584.503 t vs 10,159 t (-45%); Main Division 16,526.865 t vs 16,831 t (-2%).",
+    "src": "PA 1/2026 Table 19"
+   },
+   {
+    "t": "Cost per tonne 16% over budget",
+    "s": "Cost/t over budget",
+    "d": "RM375.83/t vs RM325.05/t, FY2025/26, mainly from the low crop; harvesting and collection RM122.59/t vs RM105.57/t.",
+    "src": "PA 1/2026 Tables 18, 20"
+   },
+   {
+    "t": "Roads, pruning, drains overspent",
+    "s": "Upkeep overspends",
+    "d": "Roads RM873/ha vs 759, pruning RM255/ha vs 149 (+71%, Tobe corrective pruning), drains RM76/ha vs 20 (+280%), FY2025/26; grading only 873 of 5,927 chains done.",
+    "src": "PA 1/2026 Table 6, s.6",
+    "rep": true
+   },
+   {
+    "t": "Manuring behind and slow",
+    "s": "Manuring behind",
+    "d": "1,097.72 of 1,441.17 t (76%) by Apr 2026 after heavy rain Jan–Mar 2026 and few workers; output only 2.59 ha/man-day. Bring bags closer to palms, consider mechanisation.",
+    "src": "PA 1/2026 Table 10",
+    "rep": true
+   },
+   {
+    "t": "Inter-row spraying slow",
+    "s": "Spraying behind",
+    "d": "Inter-row 2,586.68 ha, 1.9 of 3 rounds (63%), FY2025/26; sprayers do 3.0 ha/man-day vs 4.5 target. Clidemia, Asystasia, VOP, Stenochlaena still dominant.",
+    "src": "PA 1/2026 Tables 8, 9",
+    "rep": true
+   }
+  ]
+ }
 }

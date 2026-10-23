@@ -5772,5 +5772,78 @@
   ]
  },
  "blockGaps": "No block-level manuring progress in either report (PA Table 11 and Agro Tables 5–6 are estate totals); no FY2026/27 spraying progress yet. No leaf or soil analysis in Agro 1/2026 (latest is Agro 2/2025, Oct 2025, shown as earlier record). Ganoderma census gives one combined count (48) for six sub-blocks. No block-level rat, bagworm or other pest census. No per-field yield in the PA report. No total g/palm/year printed in either programme. fertNext not given (Agro 1/2026 covers FY2026/27 only). PA text gives the Mix B quality-check rate as 1.0 kg/palm for the Apr 2026 round while the FY2025/26 programme prints 2.00 kg; shown as printed.",
- "blockMap": "Dashboard ids are planting-year fields (P07A = 2007A ... P13C = 2013C). Reports split them into sub-blocks: P07A = A03, A09, A16; P08A = A01, A05, A12, A15; P09A = A02, A06, A10, A17; P09B = B25, B27; P10A = A08, A11, A14; P10B = B22, B24, B26, B29, B30, B33; P11A = A04, A07, A13, A18, A19, A20, A44; P11B = B21, B23, B28, B31, B32; P13C = C34–C42 (Agro prints C42 as C21). PA field tables use 3A/2007 etc. PA Table 10 (jungle tree poisoning) has no field column; rows matched to fields in Table 7 order, confirmed by each row's % = ha / (0.5 x field ha). Division totals (Agro Table 10) for Div A and B kept in estateWide; Div C = 13C only, so placed under P13C."
+ "blockMap": "Dashboard ids are planting-year fields (P07A = 2007A ... P13C = 2013C). Reports split them into sub-blocks: P07A = A03, A09, A16; P08A = A01, A05, A12, A15; P09A = A02, A06, A10, A17; P09B = B25, B27; P10A = A08, A11, A14; P10B = B22, B24, B26, B29, B30, B33; P11A = A04, A07, A13, A18, A19, A20, A44; P11B = B21, B23, B28, B31, B32; P13C = C34–C42 (Agro prints C42 as C21). PA field tables use 3A/2007 etc. PA Table 10 (jungle tree poisoning) has no field column; rows matched to fields in Table 7 order, confirmed by each row's % = ha / (0.5 x field ha). Division totals (Agro Table 10) for Div A and B kept in estateWide; Div C = 13C only, so placed under P13C.",
+ "top": {
+  "limits": [
+   {
+    "t": "FY2026/27 manuring not started",
+    "s": "Late manuring",
+    "d": "May 2026 Mix A (220.13 t) and Mix B (379.44 t) not started, late delivery; FY2025/26 Mix B balance 73.60 t. Only 10 bags/worker/day (one machine trip).",
+    "src": "Agro 1/2026 · PA 1/2026",
+    "rep": true
+   },
+   {
+    "t": "Unsurfaced roads on steep terrain",
+    "s": "Poor road access",
+    "d": "Agricultural roads lack crusher run, slippery and impassable when wet; FFB left on platform in 2013C35 as the lorry bin could not pass. Machinery shared.",
+    "src": "PA 1/2026 · Agro 1/2026",
+    "rep": true
+   },
+   {
+    "t": "Inter-row weeding incomplete",
+    "s": "Weeding behind",
+    "d": "Selective 2.10 of 3 rounds (70%), circle 2.72 of 3 (91%), FY2025/26; 2010A circles 72%. Clidemia, Asystasia, giant grass and VOPs in inter-rows (May 2026).",
+    "src": "PA 1/2026 · Agro 1/2026",
+    "rep": true
+   },
+   {
+    "t": "Unripe bunches and loose fruit",
+    "s": "Crop recovery",
+    "d": "Long intervals early FY2025/26 (10B 16-28, 11B 20-27 days); 13C 10-17 days in May 2026. B25 platforms up to 10% unripe; loose fruit left at platforms.",
+    "src": "Agro 1/2026 · PA 1/2026"
+   },
+   {
+    "t": "Ganoderma without deboling",
+    "s": "Ganoderma",
+    "d": "48 dead palms in A02, A04, A05, A08, B23 and B24 (May 2026); no deboling since the last visit as machinery went to road repair. A08 palms weak.",
+    "src": "Agro 1/2026",
+    "rep": true
+   }
+  ],
+  "pa": [
+   {
+    "t": "Internal transport over budget",
+    "s": "Transport cost over",
+    "d": "Harvesting and collection RM134.28/t vs 132.61, FY2025/26; internal transport RM28.91/t vs 21.35 from steep terrain and rain-damaged roads. Outsourcing still under negotiation.",
+    "src": "PA 1/2026 s.7",
+    "rep": true
+   },
+   {
+    "t": "Agricultural roads not surfaced",
+    "s": "Roads unsurfaced",
+    "d": "Agricultural roads lack crusher run and are slippery and impassable when wet; grade and surface the busiest roads with crusher run from the MLP5 quarry.",
+    "src": "PA 1/2026",
+    "rep": true
+   },
+   {
+    "t": "Workers and harvesters short",
+    "s": "Labour short",
+    "d": "170 workers vs 184 required (-14), Apr 2026; harvesters 94 vs 98, 4 more needed for steep terrain.",
+    "src": "PA 1/2026 Table 4"
+   },
+   {
+    "t": "Selective spraying behind",
+    "s": "Spraying behind",
+    "d": "Selective 3,685.50 ha, 2.10 of 3 rounds (70%); circle 2.72 of 3 rounds (91%), lowest 2010A 72%, May 2025–Apr 2026; heavy rain Nov 2025–Mar 2026.",
+    "src": "PA 1/2026 s.6.1",
+    "rep": true
+   },
+   {
+    "t": "Lorry and tractor repair costs",
+    "s": "Vehicle repairs",
+    "d": "Repairs on bad roads: Nissan lorry SAC8935F RM297.60/km vs 3.13; Landini SAB5237G RM91.89/hr vs 17.11; Genset RM330.66/hr vs 41.91.",
+    "src": "PA 1/2026 Table 18"
+   }
+  ]
+ }
 }

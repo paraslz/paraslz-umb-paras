@@ -51,6 +51,20 @@ RAINFALL (Agro Appendix 2, mm and rain days): 2019 1,891/123, 2020 2,753/148, 20
 
 CONCLUDING REMARKS (PA 14): harvesters adequate for 589 productive ha; recruit manuring workers or mechanise manuring; raise sprayer and harvester productivity; jerry cans instead of drain water; complete FY2026/27 manuring; consider mechanical in-field evacuation. Dirty blocks and rehab areas now clear of sedges and Stenochlaena.
 
+TOP 5 YIELD-LIMITING FACTORS (ranked by likely cost in lost crop)
+1. Manuring short for several years: FY2025/26: 65% of programme applied (Agro; PA 167 of 550 rounds); FY2024/25 only 40%. Leaf N and P low/deficient (Oct/Nov 2025); new fertiliser only arrived in FY2026/27. (Agro 1/2026 · PA 2/2026 s.6.3)
+2. Low and gappy palm stand: 117 SPH; many P19/P20 sub-blocks below 100 SPH, some near empty (AH80-20A1 1, AK76-20A1 3). Only 589 of 1,000.73 ha mature is productive (Aug 2026). Supplying on hold. (Agro 1/2026 · PA 2/2026 s.2.4)
+3. Harvesting delays and crop losses: P13/P14 intervals often over 15 days in the second half of FY2025/26, AQ13–AQ15 over 17; over-ripe and rotten bunches, oxidised loose fruit (AQ13, AQ14, AQ15, AH77, AR13, AR14). (Agro 1/2026)
+4. Rehab areas: small, poor palms: About 150 ha still unattended; rehab palms small with low sex ratio and poor bunches; AH78, AH79, AH80 (P20) rehab not finished. 177 ha to rehabilitate in FY2026/27. (Agro 1/2026 · PA 2/2026 s.2.2)
+5. Pruning behind and over-pruning: Young mature pruning 306.18 of 652.53 ha (47%), FY2025/26; P13/P14 60% to May 2026. Over-pruning (one subtending frond) in AL71, AI79, AH76–AH78, AV21/AV22. (Agro 1/2026)
+
+TOP 5 PA ISSUES (main matters raised in the latest PA report)
+1. Cost per tonne far over budget: RM572/t FFB vs RM409 budget, 12 months to Apr 2026 (FY2025/26): general charges RM217 vs RM94, upkeep RM274 vs RM249, harvesting RM81 vs RM66. (PA 2/2026 s.9)
+2. General charges overspent 131%: RM2,309,158 vs RM998,254 budget, May 2025–Apr 2026; 'other expenses' RM1,214,457 vs RM6,571, not explained. PA asks for a more accurate budget. (PA 2/2026 s.5)
+3. Manuring far behind programme: 167 of 550 rounds applied in FY2025/26: old stock used up, new fertiliser came late and only arrived in FY2026/27. Manuring workers 6 vs 11; recruit or mechanise. (PA 2/2026 s.6.3, 3.4)
+4. Roads, drains, transport overspent: Roads RM696,488 vs RM144,963 (+380%, capital items charged on HO instruction); drains +220%; internal transport RM25.77/t vs RM10.03, May 2025–Apr 2026. (PA 2/2026 s.6, 7)
+5. Low sprayer and harvester output: Sprayers 3.1 ha/man-day (should reach 4–5); harvesters work about 6.6 hours a day, productivity low except P2013. Mechanical in-field evacuation advised. (PA 2/2026 s.6.2, 7)
+
 OPERATING COST PER TONNE FFB (RM/t), May 2025–Apr 2026, from PA Report 2/2026, sections 5, 6, 7 and 9 (cost of production ending 30 April 2026, FY2025/26) (actual / budget; * = worked out from report RM amounts / FFB tonnes)
 Harvest & collection: 81.00 / 66.00
   - FFB supervision: 5.30 / 6.42

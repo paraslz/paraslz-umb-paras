@@ -22301,5 +22301,77 @@
   ]
  },
  "blockGaps": "PA spraying table (ha and % of 3-round budget) and Agro weeding table (rounds 100%) disagree for some blocks, e.g. AQ14-13A1/AQ14-13B1 selective spraying 0% in PA but inter-row rounds 1-2 at 100% in Agro; both kept. No block-level fertiliser application data in either latest report (only estate totals). Previous programme: Agro 2/2025 (the previous Agronomy report) holds only the FY2026/27 draft (same as the final) and says no amendment to FY2025/26; the FY2025/26 per-planting programme itself was not in the reports available, so fertPrev is omitted. No block leaf or soil analysis, no Ganoderma census by block (Ganoderma described as negligible). AR18-14A1 is missing from the palm density table. No FY2026/27 progress by block (PA review period ends Apr 2026). Fertiliser rows use month only (FY2026/27 is in the programme year) so they do not affect the earlier-records fold.",
- "blockMap": "Dashboard ids are the report sub-block codes, used as printed. Agronomy text often names blocks by field code plus planting (e.g. 'AQ14 (P18)'): AQ14 (P18) = AQ14-18C1; AR14 (P18) = AR14-18A1 (the 0.56 ha AR14-18C1 is not named separately); AL71 (P18) = AL71-18A1; AQ13/AQ15 in P13 = AQ13-13A1/AQ15-13A1; 'AQ14' in the P13 section covers both AQ14-13A1 and AQ14-13B1, so those rows are under both. AH78/AH79/AH80 (P20), AV21/AV22, AQ08-23B1, AM57-25A and P23-P25 blocks are not dashboard blocks and are in estateWide. PA rat census lists AR13-19A1 and AR14-19A1 as 2013 planting."
+ "blockMap": "Dashboard ids are the report sub-block codes, used as printed. Agronomy text often names blocks by field code plus planting (e.g. 'AQ14 (P18)'): AQ14 (P18) = AQ14-18C1; AR14 (P18) = AR14-18A1 (the 0.56 ha AR14-18C1 is not named separately); AL71 (P18) = AL71-18A1; AQ13/AQ15 in P13 = AQ13-13A1/AQ15-13A1; 'AQ14' in the P13 section covers both AQ14-13A1 and AQ14-13B1, so those rows are under both. AH78/AH79/AH80 (P20), AV21/AV22, AQ08-23B1, AM57-25A and P23-P25 blocks are not dashboard blocks and are in estateWide. PA rat census lists AR13-19A1 and AR14-19A1 as 2013 planting.",
+ "top": {
+  "limits": [
+   {
+    "t": "Manuring short for several years",
+    "s": "Short manuring",
+    "d": "FY2025/26: 65% of programme applied (Agro; PA 167 of 550 rounds); FY2024/25 only 40%. Leaf N and P low/deficient (Oct/Nov 2025); new fertiliser only arrived in FY2026/27.",
+    "src": "Agro 1/2026 · PA 2/2026 s.6.3",
+    "rep": true
+   },
+   {
+    "t": "Low and gappy palm stand",
+    "s": "Low stand",
+    "d": "117 SPH; many P19/P20 sub-blocks below 100 SPH, some near empty (AH80-20A1 1, AK76-20A1 3). Only 589 of 1,000.73 ha mature is productive (Aug 2026). Supplying on hold.",
+    "src": "Agro 1/2026 · PA 2/2026 s.2.4",
+    "rep": true
+   },
+   {
+    "t": "Harvesting delays and crop losses",
+    "s": "Harvest delays",
+    "d": "P13/P14 intervals often over 15 days in the second half of FY2025/26, AQ13–AQ15 over 17; over-ripe and rotten bunches, oxidised loose fruit (AQ13, AQ14, AQ15, AH77, AR13, AR14).",
+    "src": "Agro 1/2026",
+    "rep": true
+   },
+   {
+    "t": "Rehab areas: small, poor palms",
+    "s": "Poor rehab palms",
+    "d": "About 150 ha still unattended; rehab palms small with low sex ratio and poor bunches; AH78, AH79, AH80 (P20) rehab not finished. 177 ha to rehabilitate in FY2026/27.",
+    "src": "Agro 1/2026 · PA 2/2026 s.2.2"
+   },
+   {
+    "t": "Pruning behind and over-pruning",
+    "s": "Poor canopy care",
+    "d": "Young mature pruning 306.18 of 652.53 ha (47%), FY2025/26; P13/P14 60% to May 2026. Over-pruning (one subtending frond) in AL71, AI79, AH76–AH78, AV21/AV22.",
+    "src": "Agro 1/2026",
+    "rep": true
+   }
+  ],
+  "pa": [
+   {
+    "t": "Cost per tonne far over budget",
+    "s": "Cost/t over budget",
+    "d": "RM572/t FFB vs RM409 budget, 12 months to Apr 2026 (FY2025/26): general charges RM217 vs RM94, upkeep RM274 vs RM249, harvesting RM81 vs RM66.",
+    "src": "PA 2/2026 s.9"
+   },
+   {
+    "t": "General charges overspent 131%",
+    "s": "General charges +131%",
+    "d": "RM2,309,158 vs RM998,254 budget, May 2025–Apr 2026; 'other expenses' RM1,214,457 vs RM6,571, not explained. PA asks for a more accurate budget.",
+    "src": "PA 2/2026 s.5"
+   },
+   {
+    "t": "Manuring far behind programme",
+    "s": "Manuring behind",
+    "d": "167 of 550 rounds applied in FY2025/26: old stock used up, new fertiliser came late and only arrived in FY2026/27. Manuring workers 6 vs 11; recruit or mechanise.",
+    "src": "PA 2/2026 s.6.3, 3.4",
+    "rep": true
+   },
+   {
+    "t": "Roads, drains, transport overspent",
+    "s": "Roads/drains over",
+    "d": "Roads RM696,488 vs RM144,963 (+380%, capital items charged on HO instruction); drains +220%; internal transport RM25.77/t vs RM10.03, May 2025–Apr 2026.",
+    "src": "PA 2/2026 s.6, 7"
+   },
+   {
+    "t": "Low sprayer and harvester output",
+    "s": "Low productivity",
+    "d": "Sprayers 3.1 ha/man-day (should reach 4–5); harvesters work about 6.6 hours a day, productivity low except P2013. Mechanical in-field evacuation advised.",
+    "src": "PA 2/2026 s.6.2, 7",
+    "rep": true
+   }
+  ]
+ }
 }

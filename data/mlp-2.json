@@ -10307,5 +10307,78 @@
   ]
  },
  "blockGaps": "No block-level FY2026/27 manuring progress (estate totals only, Agro 2/2026 Table 5), so manuring bars are not shown; the FY2025/26 PA application table (to Mar 2026) is kept as text. FY2026/27 progress bars are spraying only (Agro Tables 14–15, May–Jul 2026); immature bars from Table 17 have no printed period. No leaf sampling date; B22 and A20 have no leaf result. No block-level pest census, Ganoderma or rat data. Agro 2/2026 gives no rainfall table and no harvesting rounds. A20 (10.01 ha) is not in either fertiliser appendix. Field weeding and FY2025/26 pruning tables (Tables 8, 12–15) still use the old field areas (11A 15.33, 11B 145.64, 12A 124.64, 12B 120.04 ha); Table 10 uses the new ones.",
- "blockMap": "Dashboard ids are the Agronomy 'fields' (planting year + division). Agro 2/2026 Table 2: 06A = A01, A02, A17; 07A = A03, A05, A07, A08, A09, A10, A11, A16, A18; 08A = A06, A12; 09A = A15; 11A = A19 (33.54 ha); 12A = A04, A20, A43, A44, A45 (Table 2 prints A20 under 11A, but Table 3 field areas, 11A 33.54 and 12A 134.65 ha, only add up with A20 in 12A); 06B = B28; 07B = B36; 08B = B30, B31, B35; 09B = B29; 10B = B27, B33; 11B = B22, B23, B37, B38, B39, B40, B41 (printed 'D41' in rating tables); 12B = B20, B25, B32, B34; 24B = immature 20A, 25A (Agro calls it 24A in census tables and 2024B in the appendix; PA B20A, B25A). PA codes like P07/A08 = planting 2007, sub-block A08; PA facts by planting year go to both A and B fields of that year. Names not in this estate ('Block A28', 'P04B-01', 'P05B', 'P24A-C1') kept in estate-wide notes as printed. Block ha and SPH are Agro 2/2026 Table 3 (FY2026/27 census)."
+ "blockMap": "Dashboard ids are the Agronomy 'fields' (planting year + division). Agro 2/2026 Table 2: 06A = A01, A02, A17; 07A = A03, A05, A07, A08, A09, A10, A11, A16, A18; 08A = A06, A12; 09A = A15; 11A = A19 (33.54 ha); 12A = A04, A20, A43, A44, A45 (Table 2 prints A20 under 11A, but Table 3 field areas, 11A 33.54 and 12A 134.65 ha, only add up with A20 in 12A); 06B = B28; 07B = B36; 08B = B30, B31, B35; 09B = B29; 10B = B27, B33; 11B = B22, B23, B37, B38, B39, B40, B41 (printed 'D41' in rating tables); 12B = B20, B25, B32, B34; 24B = immature 20A, 25A (Agro calls it 24A in census tables and 2024B in the appendix; PA B20A, B25A). PA codes like P07/A08 = planting 2007, sub-block A08; PA facts by planting year go to both A and B fields of that year. Names not in this estate ('Block A28', 'P04B-01', 'P05B', 'P24A-C1') kept in estate-wide notes as printed. Block ha and SPH are Agro 2/2026 Table 3 (FY2026/27 census).",
+ "top": {
+  "limits": [
+   {
+    "t": "FY2026/27 manuring running late",
+    "s": "Late manuring",
+    "d": "By Jul 2026: Mix A 41%, Mix B 17%, kieserite and RP 0%; fertiliser arrived only near end June 2026. Yield May–Jul 2026 3.49 vs 6.39 t/ha (-45%).",
+    "src": "Agro 2/2026",
+    "rep": true
+   },
+   {
+    "t": "Spraying late, weeds overgrown",
+    "s": "Overgrown weeds",
+    "d": "To Jul 2026: circle 48%, inter-row 10% (chemicals late). Clidemia, Asystasia, Melastoma, Chromolaena and grasses; VOPs in recently rehabilitated areas.",
+    "src": "Agro 2/2026",
+    "rep": true
+   },
+   {
+    "t": "Low palm stand",
+    "s": "Low palm stand",
+    "d": "Estate 105 SPH (FY2026/27 census); 09B 80 and 11B 90 SPH, with many vacant points in neglected areas. Etiolated palms in ravines still being thinned.",
+    "src": "Agro 2/2026"
+   },
+   {
+    "t": "Unripe bunches and loose fruit",
+    "s": "Crop recovery",
+    "d": "Outturn 64% (target above 80%), many uncollected loose fruit to Mar 2026. Unripe bunches still at the ramp and oxidised loose fruit in rehab areas (Aug 2026).",
+    "src": "PA 01/2026 · Agro 2/2026",
+    "rep": true
+   },
+   {
+    "t": "Low leaf magnesium",
+    "s": "Low Mg",
+    "d": "Leaf Mg 0.20–0.28%, mostly low; Ca 0.32–0.41%, all low (Aug 2026 report). Localised Mg deficiency symptoms; kieserite 0 of 36.05 t applied by Jul 2026.",
+    "src": "Agro 2/2026",
+    "rep": true
+   }
+  ],
+  "pa": [
+   {
+    "t": "Harvesting cost over budget",
+    "s": "Harvest cost over",
+    "d": "RM93.10/t vs 81.87 budget, May 2025–Mar 2026: Sunday and holiday double pay; internal transport 27.29 from high tractor costs.",
+    "src": "PA 01/2026 s.7"
+   },
+   {
+    "t": "Low harvester outturn",
+    "s": "Outturn 64%",
+    "d": "Outturn 64% vs target above 80%; many uncollected loose fruit and unripe bunches harvested in the low crop season (May 2025–Mar 2026).",
+    "src": "PA 01/2026 s.7",
+    "rep": true
+   },
+   {
+    "t": "Inter-rows poor, spraying behind",
+    "s": "Inter-rows poor",
+    "d": "Selective 1,213.66 ha (0.9 round, 50%); mist blowers only 1.6 ha/man-day; Garlon 1.1 l/ha not correct. Dense woodies, Giant Paspalum, VOPs, bamboo.",
+    "src": "PA 01/2026",
+    "rep": true
+   },
+   {
+    "t": "Too few CDA sprayers",
+    "s": "CDA shortage",
+    "d": "Only 2 CDA units, 6 needed. CKS circle spraying 2.7 ha/man-day, earning RM60.16 below the RM65.38 basic wage; circles 1.4 rounds to Mar 2026.",
+    "src": "PA 01/2026",
+    "rep": true
+   },
+   {
+    "t": "Vehicle costs and breakdowns",
+    "s": "Vehicle costs",
+    "d": "Vehicles RM1,250,011.90 vs RM853,150.49 budget; tractors RM33.87/hr vs 23.16. Tractor breakdowns and rain held manuring to 153 of 184 rounds.",
+    "src": "PA 01/2026"
+   }
+  ]
+ }
 }

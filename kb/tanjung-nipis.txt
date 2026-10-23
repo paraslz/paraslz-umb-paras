@@ -61,6 +61,20 @@ RAINFALL (Agro): FY20/21 3,745 mm/190 days; FY21/22 3,763.5/190; FY22/23 3,432.5
 
 IMMATURE (PA): 2024A/2025A planted, supplying needed after floods and monkeys; 23A rehabilitation, terraces done; spray remaining Lalang and bamboo grass, then Garlon and Ally; add drains; GIS stand census. PA concluding: performance improving; focus on interrow weeds, worker productivity and mechanisation; consider package harvesting contract starting with Tobe.
 
+TOP 5 YIELD-LIMITING FACTORS (ranked by likely cost in lost crop)
+1. Tobe harvesting gaps and recovery: Tobe 12.13 t/ha vs 22.07 budget, FY2025/26. Intervals up to 31 days in 10B (Apr 2026); 16A only 1 round (50%) in May 2026; few harvesters, poor access, rain. (PA 1/2026 Table 19 · Agro 1/2026)
+2. Manuring late both years: FY2025/26 second half only 224.43 of 538.53 t (42%) by Apr 2026, finished May 2026; FY2026/27 not started at May 2026. Agro links the May 2026 yield fall (1.14 vs 1.40 t/ha) to it. (PA 1/2026 Table 10 · Agro 1/2026)
+3. Inter-row weeding behind: Inter-row 1.9 of 3 rounds (63%), FY2025/26; Tobe only one inter-row round. Clidemia, Asystasia, VOP, Stenochlaena still dominant; FY2026/27 Main Division weeding not started May 2026. (PA 1/2026 Table 9 · Agro 1/2026)
+4. Old palms on steep land: 55% (745.78 ha) aged 20-25 years vs ideal 24%; 05A, 05C, 05D, 09A below expected. 108.7 ha of 2005D (blocks 63-65) to be felled May 2027 for steep land and poor terraces. (Agro 1/2026 Table 4)
+5. Very wet year cut access: 4,122 mm on 203 days in FY2025/26; 780 mm in Jan 2026 and 870 mm in Feb 2026. Slippery roads left blocks 64, 67, 68 and 90 with 1 harvesting round in Feb 2026. (Agro 1/2026 · PA 1/2026 s.7)
+
+TOP 5 PA ISSUES (main matters raised in the latest PA report)
+1. Crop 18% below budget: 22,111.368 t FFB vs 26,990 t budget, FY2025/26; Tobe (Sg Kaindangan) 5,584.503 t vs 10,159 t (-45%); Main Division 16,526.865 t vs 16,831 t (-2%). (PA 1/2026 Table 19)
+2. Cost per tonne 16% over budget: RM375.83/t vs RM325.05/t, FY2025/26, mainly from the low crop; harvesting and collection RM122.59/t vs RM105.57/t. (PA 1/2026 Tables 18, 20)
+3. Roads, pruning, drains overspent: Roads RM873/ha vs 759, pruning RM255/ha vs 149 (+71%, Tobe corrective pruning), drains RM76/ha vs 20 (+280%), FY2025/26; grading only 873 of 5,927 chains done. (PA 1/2026 Table 6, s.6)
+4. Manuring behind and slow: 1,097.72 of 1,441.17 t (76%) by Apr 2026 after heavy rain Jan–Mar 2026 and few workers; output only 2.59 ha/man-day. Bring bags closer to palms, consider mechanisation. (PA 1/2026 Table 10)
+5. Inter-row spraying slow: Inter-row 2,586.68 ha, 1.9 of 3 rounds (63%), FY2025/26; sprayers do 3.0 ha/man-day vs 4.5 target. Clidemia, Asystasia, VOP, Stenochlaena still dominant. (PA 1/2026 Tables 8, 9)
+
 OPERATING COST PER TONNE FFB (RM/t), May 2025–Apr 2026 (FY2025/26, 12 months), from PA Report 1/2026, Tables 5, 6, 18, 20 and Appendix 1 (sections 5, 6, 7, 9) (actual / budget; * = worked out from report RM amounts / FFB tonnes)
 Harvest & collection: 122.59 / 105.57
   - FFB supervision: 5.38 / 5.25

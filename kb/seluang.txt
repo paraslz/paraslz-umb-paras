@@ -59,6 +59,20 @@ RAINFALL (Agro Table 5): 2020 2,753 mm/148 days; 2021 3,161/173; 2022 2,582/180;
 
 DATA CAVEATS: yield 12.96 (PA) vs 12.97 (Agro); Agro text +7.24% should be about +19%; planted area 1,246.27 / 1,244.63 / 1,233 ha.
 
+TOP 5 YIELD-LIMITING FACTORS (ranked by likely cost in lost crop)
+1. Low palm stand in 2017–2019 plantings: Average 122 SPH (Oct 2025 census); 2017 117, 2018 104, 2019 97 SPH despite 17,430 palms supplied in 2024–2025. SPH for P17-P19 still to be verified; infilling study advised. (Agro 1/2026)
+2. Harvester shortage, long intervals: 54 harvesters vs 62 (Apr 2026). Intervals 9-21 days, average 14 vs 10 target; Div 1B 15-21 days, longer in Jan–Apr 2026. 2017 and 2018 plantings only 0.90 and 1.03 t/man-day. (PA 2/2026 · Agro 1/2026)
+3. Over-ripe bunches, loose fruit lost: About 15% over-ripe at the platform (May 2026); over-ripe and rotten bunches and uncollected loose fruit in SO12-17C1 and SN14-18B1, worse away from main roads. (Agro 1/2026)
+4. Low leaf N and P, Mix B short: Most fields deficient in N and P (leaf N 1.97-2.77%, P 0.124-0.176%, Oct 2025). Mix B only 728,820 of 949,900 kg applied (77%) in FY 2025/26; caked fertiliser. (Agro 1/2026)
+5. Weak rehabilitated 2017 blocks: Bunch formation still low in rehab blocks; FY25/26 yields SS23-17B1 0.96, SS22-17A1 1.33, SS21-17A1 1.47 t/ha; SP15-14B1 and SN07-19A1 nil. Bunch weight 2017 only 9.1 kg (Apr 2026). (Agro 1/2026 · PA 2/2026)
+
+TOP 5 PA ISSUES (main matters raised in the latest PA report)
+1. Crop 8% below budget: 14,472.34 t FFB vs 15,746.12 t budget, May 2025–Apr 2026; 12.96 vs 14.10 t/ha (18% above last year's 10.94). Blamed on harvester shortage and low bunch formation in rehab blocks. (PA 2/2026 s.8)
+2. Cost per tonne over budget: RM365/t FFB vs RM346 budget, FY 2025/26; upkeep RM222 vs RM186/t (roads, drains, composting) and harvesting RM67 vs RM64/t (internal transport). (PA 2/2026 s.9)
+3. Roads, drains and compost overspent: Roads RM815,388 vs RM268,888 (+203%; part capex charged to opex on HQ instruction); drains RM248/ha vs 178 (+39%); composting RM387,266 vs RM156,759, FY 2025/26. (PA 2/2026 s.6)
+4. Harvesters short, low output: 54 harvesters vs 62 (9 due Sep 2026). 2017 and 2018 plantings 0.90 and 1.03 t/man-day, harvesters working about 6 hours; internal transport RM22.00/t vs RM12.32. (PA 2/2026 s.3, 7)
+5. Low sprayer productivity: Circle spraying 68% of budget (2.3 rounds); output 2.5 ha/man-day vs potential 5, sprayers refill from field drains. Switch to VLV nozzles and drop Ally from the circle mix. (PA 2/2026 s.6)
+
 OPERATING COST PER TONNE FFB (RM/t), May 2025–Apr 2026 (FY2025/26), from PA Report 2/2026, sections 5, 6, 7 and 9 (General Charges, Upkeep & Cultivation, Harvesting & Collection, Cost of Production tables, ending April 2026) (actual / budget; * = worked out from report RM amounts / FFB tonnes)
 Harvest & collection: 67.00 / 64.00
   - FFB supervision: 3.83 / 6.73

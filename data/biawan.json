@@ -7058,5 +7058,79 @@
   ]
  },
  "blockGaps": "No FY2025/26 per-palm fertiliser programme in either Agronomy report (Agro 2/2025 Appendix 1 is the revised FY2026/27 programme, same as Agro 1/2026), so fertPrev omitted for all blocks; Agro 2/2025 Table 4 gives FY2025/26 tonnages only. No block-level manuring progress (only estate tonnage by fertiliser and 282/344 rounds). Leaf/soil results not linked to blocks. No Ganoderma data. PA circle/selective table covers sub-blocks of P2012–P2019 only; P2020–P2025 have no spraying data. No FY2026/27 progress in either report (PA period ends Apr 2026). Agro Tables 8/9 use 57.91 ha for P2019 vs 178.14 ha in the area statement. PA field details omit P2020–P2025 and most P2019 sub-blocks.",
- "blockMap": "Dashboard blocks are planting-year fields P2012–P2025. Report sub-block codes carry the planting year after the dash (e.g. BM41-12A1 and BR35-16B1 = YOP 2012 and 2016); each sub-block row was placed under P20xx from those two digits. Agronomy tables by planting year (P12/YP2012) map one-to-one."
+ "blockMap": "Dashboard blocks are planting-year fields P2012–P2025. Report sub-block codes carry the planting year after the dash (e.g. BM41-12A1 and BR35-16B1 = YOP 2012 and 2016); each sub-block row was placed under P20xx from those two digits. Agronomy tables by planting year (P12/YP2012) map one-to-one.",
+ "top": {
+  "limits": [
+   {
+    "t": "Manuring short for four years",
+    "s": "Short manuring",
+    "d": "Programme completion 40% FY2022/23, 50% FY2023/24, 61% FY2024/25, 63.3% FY2025/26 (Mix B 56%). Leaf N moderate-low to low, P low to moderate-low.",
+    "src": "Agro 1/2026 s.3, 4.3",
+    "rep": true
+   },
+   {
+    "t": "Mature area not yet productive",
+    "s": "Unproductive area",
+    "d": "544 of 2,722 ha mature not yet productive (net productive 2,178 ha) at the Aug 2026 visit; 41 ha of rehabilitation completed Jan 2026.",
+    "src": "PA 2/2026 s.2"
+   },
+   {
+    "t": "Low stand in younger plantings",
+    "s": "Low stand",
+    "d": "Average 125 palms/ha in Apr 2026, unchanged since Oct–Nov 2024 despite infilling; P2017 99, P2018 85, P2019 95, P2020 72. 1,884 of 5,535 palms supplied in 2025 died (34%).",
+    "src": "Agro 1/2026 Table 3, s.5",
+    "rep": true
+   },
+   {
+    "t": "Over-ripe bunches and crop losses",
+    "s": "Crop losses",
+    "d": "Interval 7–20 days (average 11.3), crop recovery 73%, FY2025/26. Over-ripe 4–14% (BO48-13A1 14%); high losses in BR33-19A1, BR36-16B1, BQ49-18A1 (May 2026).",
+    "src": "Agro 1/2026 s.4.1",
+    "rep": true
+   },
+   {
+    "t": "Flooding and waterlogging",
+    "s": "Flooding",
+    "d": "218.5 ha (7.4% of 2,932.9 ha) flood-prone; flooding Nov–Mar disrupted harvesting. N lost by leaching and denitrification, P fixed in acidic waterlogged soils.",
+    "src": "Agro 1/2026 s.4.1, 4.3, 4.4"
+   }
+  ],
+  "pa": [
+   {
+    "t": "Harvesters short, rounds behind",
+    "s": "Harvesters short",
+    "d": "118 harvesters vs 160 required at 1:14 ha (121 on PA's 1:18 ha), Apr 2026. Rounds 31.2 vs 36 budget to Apr 2026; interval averaging 13 days (keep 10–12).",
+    "src": "PA 2/2026 s.3, 7",
+    "rep": true
+   },
+   {
+    "t": "Harvesting cost over budget",
+    "s": "Harvest cost over",
+    "d": "RM64.56/t vs RM56.82 budget, May 2025–Apr 2026: internal transport RM14.07 vs RM7.61 (tractor costs, triple handling of FFB), infield loading 8.75 vs 5.36.",
+    "src": "PA 2/2026 s.7",
+    "rep": true
+   },
+   {
+    "t": "Manuring rounds behind",
+    "s": "Manuring behind",
+    "d": "282 of 344 rounds applied to Apr 2026; old stock used was declared as extra application, not correct. Manuring workers 21 vs 32; semi-mechanical application advised.",
+    "src": "PA 2/2026 s.6.3, 3",
+    "rep": true
+   },
+   {
+    "t": "Roads cost more than double budget",
+    "s": "Roads over budget",
+    "d": "Roads and bridges RM689.62/ha vs RM321.47 (+115%), May 2025–Apr 2026; laterite surfacing partly moved from capex to opex by Head Office.",
+    "src": "PA 2/2026 s.6.5",
+    "rep": true
+   },
+   {
+    "t": "Sprayers work short days",
+    "s": "Short spraying days",
+    "d": "Circle spraying 5,038 ha (1.9 rounds), 62% of 8,168 ha to Apr 2026; sprayers work only 5 hours and refill from field drains. PA wants 8-hour days, VLV nozzles, glyphosate only.",
+    "src": "PA 2/2026 s.6.2",
+    "rep": true
+   }
+  ]
+ }
 }

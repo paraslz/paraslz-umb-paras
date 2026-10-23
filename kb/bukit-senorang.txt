@@ -67,6 +67,20 @@ RAINFALL (Agro Appendix 2, May-April years). FY21/22 3,080.93 mm, 112 days; FY22
 
 CONCLUSIONS. PA: performance satisfactory; yield 19.04 t/ha and cost RM270.10/t both better than budget. Agro key issues: waterlogging in old and young mature areas; poor upkeep in P22; heavy rats in P18 and P22; circle weeding delays in PR25; PR26 replanting behind schedule.
 
+TOP 5 YIELD-LIMITING FACTORS (ranked by likely cost in lost crop)
+1. Ganoderma in the old palms: Agro calls it the main yield-limiting factor: 17,702 Ganoderma palms (14%) and 40,053 dead (24%) on 1,122.6 ha in the 2025 census data; no census update since. (Agro 1/2026)
+2. Old, thin stands in P01 and P02: More than 50% of palms are over 20 years old and prime plantings are only 7% of the area. Stands 105 SPH in P01 and 107 SPH in P02 (Jul 2024 census). (Agro 1/2026 · PA 1/2026)
+3. Heavy rat damage in P18 and P22: Random census above 20% at the Apr 2026 visit (15 of 42 palms, 36%, in Dec 2025). P22 had one baiting round on 15 Apr 2026, no bait replacement; no regular census in P18, P20. (Agro 1/2026)
+4. Manuring rounds late in young palms: Estate records to Mar 2026: Mix B round 1 five months late in P18 and P20, round 4 pending in P18, P20, P22; NK Mix round 2 pending in P05A–E. Manager says up to date (PA: 88% applied). (Agro 1/2026 · PA 1/2026)
+5. Waterlogged, stunted palms in P22: Stunted, pale P22 palms on silty, compacted, waterlogged soil (stagnant water in P22A, P22C); leaf N 2.40%, Mg 0.27%. Low-lying P05E also pale after flooding in 2026. (Agro 1/2026)
+
+TOP 5 PA ISSUES (main matters raised in the latest PA report)
+1. Harvesters short; contract the old palms: 53 harvesters vs 63 required (-10), Apr 2026. PA wants one contractor to take the whole harvesting and collection package, extended to the old palms. (PA 1/2026)
+2. Bagworm spend far over budget: Bagworm RM152/ha vs RM53/ha budget (186% over) after the 2025 P18 outbreak (67.91 ha, 4 rounds of Dipel); pests and diseases RM198/ha vs 151, May 2025–Apr 2026. (PA 1/2026)
+3. Composting behind in several fields: FY2025/26: nil applied in 2000C and 2020, 2018 at 43% (4.27 t/ha) and 2022 at 2% (0.19 t/ha) vs 10 t/ha programme, though the estate total was 150%. (PA 1/2026)
+4. Road grading not done: Road grading budget RM20,184, nothing done; roads RM89/ha vs RM219/ha budget, May 2025–Apr 2026. Road in field 2001A needs grading. (PA 1/2026)
+5. Barn owl boxes mostly empty: 142 boxes vs 149 required, only 22 occupied (15%) in Apr 2026, vs over 90% at neighbouring Bukit Jin Estate; cause to be investigated. (PA 1/2026)
+
 OPERATING COST PER TONNE FFB (RM/t), May 2025–Apr 2026 (FY2025/26), from PA Report 1/2026, section 9 Table 23, with Tables 6, 7, 21 and Appendix 1 (actual / budget; * = worked out from report RM amounts / FFB tonnes)
 Harvest & collection: 86.18 / 94.19
   - FFB supervision: 6.28 / 4.74

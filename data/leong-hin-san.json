@@ -7966,5 +7966,77 @@
   ]
  },
  "blockGaps": "fertPrev (FY2025/26 programme) not found: the previous Agronomy report (2/2025) and the latest (1/2026) both carry only the FY2026/27 programme; the FY2025/26 programme would be in Agro 2/2024 or 1/2025, not supplied. Only FY2025/26 tonnages by field (PA Table 11), schedule slips (Agro Table 4) and a 2.25 kg Mix B rate in P12C are available. No FY2026/27 manuring or spraying figures yet (Agro 1/2026 says FY2026/27 manuring started but late deliveries); progress bars use FY2025/26. Ganoderma census has no rows for 2003B1 and 2003B2. No soil analysis; leaf analysis Jul 2025 only in Agro 2/2025 and by field, P00 not sampled. No block-level loose-fruit or bunch-weight data. FY2026/27 to-date yields not in either latest report.",
- "blockMap": "Dashboard blocks are planting-year fields (P2000 = report field 2000 with sub-blocks 2000A/2000B; P2003A = 2003A1/2003A2; P2003B = 2003B1/B2/B3; P2010 = 2010A–D; etc.). PA tables by field go to the matching block; Agro tables by sub-block are listed per sub-block inside the block. Agro P-codes (P00B, P01A, P03B2, P10C, P12C ...) map by first two digits (P00 = 2000, P03A1 = 2003A1). Fertiliser rows merge sub-blocks with the same schedule and name the sub-blocks where they differ."
+ "blockMap": "Dashboard blocks are planting-year fields (P2000 = report field 2000 with sub-blocks 2000A/2000B; P2003A = 2003A1/2003A2; P2003B = 2003B1/B2/B3; P2010 = 2010A–D; etc.). PA tables by field go to the matching block; Agro tables by sub-block are listed per sub-block inside the block. Agro P-codes (P00B, P01A, P03B2, P10C, P12C ...) map by first two digits (P00 = 2000, P03A1 = 2003A1). Fertiliser rows merge sub-blocks with the same schedule and name the sub-blocks where they differ.",
+ "top": {
+  "limits": [
+   {
+    "t": "Dry spells cut bunch production",
+    "s": "Drought",
+    "d": "Dry spells Jan–Mar and May–Aug 2025; FY2025/26 rainfall 1,866.2 mm, 9% below the year before. Yield 28.22 t/ha vs 32.10 t/ha in FY2024/25 (-12.1%).",
+    "src": "Agro 1/2026"
+   },
+   {
+    "t": "Ganoderma spreading in older fields",
+    "s": "Ganoderma",
+    "d": "8,348 infected of 96,083 palms, about 9% (Oct 2025 census); worst 2001A 18% (1,163 palms), 2000B 13%, 2000A 12%. Over 5% in most fields; new census started.",
+    "src": "PA 1/2026 · Agro 1/2026",
+    "rep": true
+   },
+   {
+    "t": "Ageing palms losing stand in P2000",
+    "s": "Ageing palms",
+    "d": "Over 50% of palms are ageing and Ganoderma-affected. P2000 lowest at 24.23 t/ha vs 29.32 t/ha (-17.3%), FY2025/26, from falling SPH (2000A 116) and rising Ganoderma.",
+    "src": "Agro 1/2026"
+   },
+   {
+    "t": "Circle weeding well behind",
+    "s": "Late circle weeding",
+    "d": "Circle spraying 1.3 of 3 rounds (44%), FY2025/26; overdue in P01A, P03B2, P03B3, P12C; Ageratum in P03B1, P10C, P11A circles.",
+    "src": "PA 1/2026 · Agro 1/2026",
+    "rep": true
+   },
+   {
+    "t": "Fertiliser applied months late",
+    "s": "Late manuring",
+    "d": "FY2025/26 programme done but delays of 2 to 5 months on NK mixture, Mix A, Mix B and RP (P14A May to Oct 2025). FY2026/27 manuring held back by late deliveries.",
+    "src": "Agro 1/2026",
+    "rep": true
+   }
+  ],
+  "pa": [
+   {
+    "t": "Crop below budget and last year",
+    "s": "Crop below budget",
+    "d": "21,483.41 t FFB vs 22,320 t budget, FY2025/26; 28.22 t/ha vs 29.32 budget and 32.10 last year (-12.1%).",
+    "src": "PA 1/2026 Table 23"
+   },
+   {
+    "t": "Harvesting and collection over budget",
+    "s": "Harvest cost over",
+    "d": "RM121.12/t vs RM113.25/t (3% over), FY2025/26; infield loading RM7.94 vs 2.69 (+195%) after the box crane grabber broke. Ex-estate RM263.90/t vs RM258.17.",
+    "src": "PA 1/2026 s.7, 9"
+   },
+   {
+    "t": "Harvester output below target",
+    "s": "Low harvester output",
+    "d": "1.60 to 1.90 t/man-day (most 1.80), FY2025/26, vs target 2.5 to 3.0 t/day; 2003B very steep at 1.60 t.",
+    "src": "PA 1/2026 s.7",
+    "rep": true
+   },
+   {
+    "t": "Spraying rounds behind schedule",
+    "s": "Weeding behind",
+    "d": "Circle spraying 1.3 of 3 rounds (44%), selective 2.0 rounds (68%), FY2025/26; sprayers sent to help harvesting in the high-crop first half.",
+    "src": "PA 1/2026",
+    "rep": true
+   },
+   {
+    "t": "Ganoderma control and mounding",
+    "s": "Ganoderma",
+    "d": "About 9% infected (8,348 palms, Oct 2025), understated as dead and fallen palms are not counted. 3,750 palms mounded in 2010A; about 3,000 more to do.",
+    "src": "PA 1/2026",
+    "rep": true
+   }
+  ]
+ }
 }

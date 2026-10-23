@@ -59,6 +59,20 @@ RAINFALL (Agro Appendix 2, mm / rain days): 2021 2,376 / 188; 2022 2,665 / 171; 
 
 PA CONCLUSION (Aug 2026): performance acceptable and improving; priorities: eradicate Stenochlaena and sedges (Div 3 and 4), stop glyphosate over-spraying, raise worker productivity through mechanisation and longer hours, laterite the remaining roads, keep intervals 10-15 days, tighten boundary security, improve cambered bunds and replace flood-killed palms.
 
+TOP 5 YIELD-LIMITING FACTORS (ranked by likely cost in lost crop)
+1. Thin stands in the 2018–2020 plantings: SPH since 2021: P18 148 to 102 (-31.1%), P19 135 to 95 (-29.6%), P20 143 to 106 (-25.9%). FY2025/26 supplying: 5,986 of 11,743 palms planned; about 8,000 more seedlings needed. (Agro 1/2026 · PA 2/2026)
+2. Flooding and high water tables: Low-lying P12, P13, P16 stunted with K deficiency (orange spotting); many supplied palms and the 2025 planting killed by floods; high water in HJ45, HJ46, HK45 (May 2026). (Agro 1/2026 · PA 2/2026)
+3. Crop lost to poor harvesting standard: HF35 (P13) 8% over-ripe and 2% rotten bunches with loose fruit left in circles; HG38 (P15) 8% over-ripe; rotten bunches in P19 and P20 (May 2026 visit). (Agro 1/2026)
+4. Bare ground and noxious weeds: Bare ground about 10% from glyphosate over-spraying and the dry spell; Stenochlaena, sedges and broadleaf about 30% in rehabilitated areas, Div 3 and 4 (Aug 2026). (PA 2/2026 · Agro 1/2026)
+5. Late and uneven manuring and compost: Agro lists delayed applications as a limit (earlier delays of several months; no data to assess FY2025/26). Compost coverage 7% to 388% of area, with roadside dumping. (Agro 1/2026)
+
+TOP 5 PA ISSUES (main matters raised in the latest PA report)
+1. Cost per tonne over budget in rupiah: IDR1,496,924 vs 1,211,338/t (+24%), FY2025/26; only RM339.11 vs RM335.78/t (+1%) in ringgit because most budgets used a different rate. (PA 2/2026 s.9)
+2. Roads and bridges far over budget: RM1,168.03/ha vs RM526.26/ha budget (122% over), FY2025/26: laterite from Banjarmasin RM89,901 and machine rental RM106,380. (PA 2/2026 s.6.6)
+3. Low harvester output, short intervals: 1.37–1.98 t/man-day, FY2025/26; intervals 6–11 days (mostly 8) in Apr 2026 vs 10–15 wanted. Mechanised collection pilot in HL48-16B1 targets 2.50-3.00 t/man-day. (PA 2/2026 s.7)
+4. Glyphosate over-spraying, weeds: Circle spraying 2.35 of 3 rounds (78%), FY2025/26; bare ground about 10%; Stenochlaena and sedges about 30% in Div 3 and 4. Train sprayers; 3.50 ha/man-day vs 5.0 target. (PA 2/2026 s.6.1)
+5. Flood-killed palms to be replaced: 2025 planting in F36-25B1 and F37-25A1 died from flooding and must be replaced now; supplying waits for Arwana nursery seedlings; improve cambered bunds. (PA 2/2026 s.11.4, 12.15)
+
 OPERATING COST PER TONNE FFB (RM/t), May 2025–Apr 2026 (FY2025/26, 12 months), from PA Report 2/2026, section 9 Table 19 (RM/t FFB); items from Table 15 (harvesting & collection, RM/t as printed), Table 8 (upkeep RM) and Appendix 1 (general charges RM) (actual / budget; * = worked out from report RM amounts / FFB tonnes)
 Harvest & collection: 82.36 / 82.48
   - FFB supervision: 3.23 / 3.43

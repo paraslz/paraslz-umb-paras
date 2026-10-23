@@ -9209,5 +9209,78 @@
   ]
  },
  "blockGaps": "No FY2025/26 per-palm programme: the previous Agronomy report (1/2026, visit for 2/2025, Dec 2025) already gives the FY2026/27 programme, identical to the May 2026 report, so fertPrev is omitted everywhere. No sub-block manuring progress (only estate tonnage by month) and no FY2026/27 progress yet. Spraying, pruning, Ganoderma, harvesting rounds and FY yields only by field (2005/2006/2007), not by sub-block. Sub-block yields only for May–Nov 2025 (previous Agro). Rat census Q1 2026 missing for 16 sub-blocks (P05D, E, H, J, K; P06D, E, F, L, M; P07F–K). Leaf samples are Jun 2025. PA and Agro differ on 2006 mounding (12,508 vs 54,843 palms), circle spraying (PA 1.50–1.16 rounds vs Agro 2 rounds at 100%), Apr 2026 Mix B (62% vs 52%) and kieserite programme (161.49 t vs 13.55 t); both kept as printed.",
- "blockMap": "Dashboard has both field-level ids (P2005, P2006, P2007) and sub-block ids (P05A–P05M, P06A–P06P, P07A–P07K). Report field rows (PA tables by field 2005/2006/2007, Agro P2005/P05 etc.) go to P2005/P2006/P2007; report sub-blocks (2005A, P05A, 'P05/A', BLOCK A under 2005) go to P05A etc. 2007 sub-blocks are split in the programme into Sect.1 (normal) and Sect.2 (flood-prone, sub-soil); compost and Q1 rat census list 2007 sub-blocks as section 1 ('2007A (1)'). fertNow is only on sub-blocks (the programme is by sub-block). Field-level PA facts are not copied into sub-blocks."
+ "blockMap": "Dashboard has both field-level ids (P2005, P2006, P2007) and sub-block ids (P05A–P05M, P06A–P06P, P07A–P07K). Report field rows (PA tables by field 2005/2006/2007, Agro P2005/P05 etc.) go to P2005/P2006/P2007; report sub-blocks (2005A, P05A, 'P05/A', BLOCK A under 2005) go to P05A etc. 2007 sub-blocks are split in the programme into Sect.1 (normal) and Sect.2 (flood-prone, sub-soil); compost and Q1 rat census list 2007 sub-blocks as section 1 ('2007A (1)'). fertNow is only on sub-blocks (the programme is by sub-block). Field-level PA facts are not copied into sub-blocks.",
+ "top": {
+  "limits": [
+   {
+    "t": "Ganoderma spreading",
+    "s": "Ganoderma",
+    "d": "15,664 infected palms (7.75% of standing) at Apr 2026; 17.04% counting 22,642 dead palms. Agro calls it the main vigour limiter (P07I, P06M, P06P, P06E).",
+    "src": "PA 1/2026 Table 13 · Agro 1/2026"
+   },
+   {
+    "t": "Heavy rat damage, census unfinished",
+    "s": "Rat damage",
+    "d": "Q1 2026 census: 19–61% damage (P06P 61%, P05B 55%) on only 850.35 of 1,522.07 ha; baiting began Apr 2026. Barn owl occupancy 41%.",
+    "src": "Agro 1/2026 Table 9",
+    "rep": true
+   },
+   {
+    "t": "Long intervals, overripe bunches",
+    "s": "Overripe bunches",
+    "d": "Intervals up to 26 days in Aug–Sep 2025 (peak crop) and Nov–Dec 2025 (rain, P07 floods); overripe bunches 8–15% at the May 2026 visit, leftover bunches in P07J, P05D.",
+    "src": "Agro 1/2026 Table 6",
+    "rep": true
+   },
+   {
+    "t": "Flooding and silty subsoil",
+    "s": "Flooding, silt",
+    "d": "Floods Nov 2025–Feb 2026 delayed manuring in P07A–G and P07K; silty subsoil (P05C, P06M) drains poorly, palms yellowish. No de-silting in FY2024/25 or FY2025/26.",
+    "src": "Agro 1/2026 · PA 1/2026",
+    "rep": true
+   },
+   {
+    "t": "Slant-cut mounding trenches",
+    "s": "Slant-cut trenches",
+    "d": "Slant-cut trenches toward the harvesting path in P06F, P06P, P05B, P05L cause severe root damage and may lose over 30% of EMDEK-spread fertiliser.",
+    "src": "Agro 1/2026",
+    "rep": true
+   }
+  ],
+  "pa": [
+   {
+    "t": "Upkeep 8% over budget",
+    "s": "Upkeep over budget",
+    "d": "RM3,180.87/ha vs RM2,934.31, FY2025/26: palm base mounding RM685,476.58 unbudgeted; composting RM649.90/ha vs RM434.59 (49% over).",
+    "src": "PA 1/2026 Table 6"
+   },
+   {
+    "t": "Ganoderma incidence high",
+    "s": "High Ganoderma",
+    "d": "15,664 infected palms (7.75%), 17.04% with dead palms, Apr 2026; PA calls it high and recommends mounding the remaining palms (field 2007 next FY).",
+    "src": "PA 1/2026 Table 13"
+   },
+   {
+    "t": "Spraying rounds behind",
+    "s": "Spraying behind",
+    "d": "Circle spraying 1.87 of 3 rounds (62%) in FY2025/26; field 2006 selective only 1.93 rounds (64%), with broadleaf weeds regenerating.",
+    "src": "PA 1/2026 Tables 7, 9",
+    "rep": true
+   },
+   {
+    "t": "Harvesters and supervisors short",
+    "s": "Labour short",
+    "d": "117 workers vs 129 and 62 harvesters vs 69 (1 to 25 ha vs optimum 1 to 22), Apr 2026; only 1 Field Supervisor vs 3 recommended.",
+    "src": "PA 1/2026 Tables 2, 4",
+    "rep": true
+   },
+   {
+    "t": "Tractors costly, surplus vehicles",
+    "s": "Vehicle costs",
+    "d": "8 mini tractors 5% to 138% over budget per hour and farm tractors 39-58% over, from low use and repairs; sell, transfer or write off surplus units.",
+    "src": "PA 1/2026 Table 22",
+    "rep": true
+   }
+  ]
+ }
 }

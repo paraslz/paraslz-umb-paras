@@ -17708,5 +17708,80 @@
   ]
  },
  "blockGaps": "Block-level FY2026/27 manuring progress not given (only estate tonnage, Table 6). Current Ganoderma census data for 77/71/72 not available; other figures are the 2019 census. No leaf data for 99A, 99C, 00A, 02A, 02B (replant-bound or not sampled) or 15B B70/B78; leaf sampling date not printed; Table 10 P values for F55–H53 duplicate K. No rat census results for FY2025/26–26/27. 23A and 24A/26A have no yield, harvest interval or circle/selective tables. PA 1/2026 manuring table schedules FY2025/26 rounds in May/Aug/Jan/Apr, while Agro 1/2026 Appendix 1 gives Jun/Oct/Feb (NK1) and Jun/Oct/Jan/Apr (Mix A) months; fertPrev follows the Agronomy report. Table 11 14D actual (183,493) and Table 3 14D previous palms (4,964) look misprinted.",
- "blockMap": "Dashboard ids are planting-year fields (99A … 15B, 23A, 24A/26A). Report sub-blocks map to fields by the Agro 2/2026 blocking table: 99A = A01–A07, A80, A81; 99C = C13–C15; 00A = A16–A19; 02A = A23–A35; 02B = B20–B22; 03A = A44–A46; 03B = B38–B41; 03C = C36–C37; 03D = D47–D48; 03E = E49–E52; 03F = F55–F56; 03G = G42–G43; 03H = H53–H54; 05A = A57; 06A = A59–A60; 06C = C58; 06D = D61; 07A = A62; 08A = A63–A65; 13C = C66, C77 (C73, C75 transferred to PNE); 14D = D71, D72 (D74, D76 transferred); 15B = B67, B68, B70, B78 (B81 listed under 2015 in the PA area statement); 23A = 82; 24A/26A = 85, 88, 89B. PA tables use bare numbers (block 1 = A01). Agro tables by field map one-to-one."
+ "blockMap": "Dashboard ids are planting-year fields (99A … 15B, 23A, 24A/26A). Report sub-blocks map to fields by the Agro 2/2026 blocking table: 99A = A01–A07, A80, A81; 99C = C13–C15; 00A = A16–A19; 02A = A23–A35; 02B = B20–B22; 03A = A44–A46; 03B = B38–B41; 03C = C36–C37; 03D = D47–D48; 03E = E49–E52; 03F = F55–F56; 03G = G42–G43; 03H = H53–H54; 05A = A57; 06A = A59–A60; 06C = C58; 06D = D61; 07A = A62; 08A = A63–A65; 13C = C66, C77 (C73, C75 transferred to PNE); 14D = D71, D72 (D74, D76 transferred); 15B = B67, B68, B70, B78 (B81 listed under 2015 in the PA area statement); 23A = 82; 24A/26A = 85, 88, 89B. PA tables use bare numbers (block 1 = A01). Agro tables by field map one-to-one.",
+ "top": {
+  "limits": [
+   {
+    "t": "Long harvesting intervals",
+    "s": "Long intervals",
+    "d": "Interval averaged 17 days vs 12-14 target to Mar 2026; outturn 73%. Over 15 days in 14 fields in May–Jul 2026 (03D 25 days, 06A 14-28); yield 3.22 vs 4.11 t/ha, May–Jun.",
+    "src": "PA 1/2026 s.7 · Agro 2/2026",
+    "rep": true
+   },
+   {
+    "t": "Manuring 2-4 months late",
+    "s": "Late manuring",
+    "d": "May 2025 NK1/Mix A rounds applied Jul–Aug 2025, Mix C due Aug 2025 applied Dec 2025; FY25/26 done only Jun 2026. FY26/27 508.68 of 773.88 mt due (66%) at Jul 2026.",
+    "src": "Agro 2/2026 Tables 5, 6",
+    "rep": true
+   },
+   {
+    "t": "Circle spraying behind, woody weeds",
+    "s": "Weeds, circles",
+    "d": "Circle spraying 42% of FY26/27 by Jul 2026 (72% for May 2025–Mar 2026, PA); woody weeds, Clidemia, Stenochlaena, VOPs, worst in 1999 plantings; sprayers 15 vs 20.",
+    "src": "Agro 2/2026 Table 14 · PA 1/2026 s.6",
+    "rep": true
+   },
+   {
+    "t": "Ganoderma and vacant points",
+    "s": "Ganoderma",
+    "d": "About 10% in C77 (PA); 03B fell from 159 to 128 SPH, vacant points suspected Ganoderma. Last full census 2019; no deboling or mounding yet.",
+    "src": "PA 1/2026 s.6.5 · Agro 2/2026",
+    "rep": true
+   },
+   {
+    "t": "Waterlogging, peat and tidal areas",
+    "s": "Wet, peat areas",
+    "d": "Blocks 56, 57, 66 still recovering from waterlogging; block 78 on peat below standard; about 15 ha of block 38 under tidal-water rehab. No harvesting in the Feb–Mar 2026 floods.",
+    "src": "Agro 2/2026 · PA 1/2026 s.8",
+    "rep": true
+   }
+  ],
+  "pa": [
+   {
+    "t": "Slow rounds, poor crop recovery",
+    "s": "Slow harvesting",
+    "d": "Interval averaged 17 days (target 12-14) and outturn 73% (target 90%), May 2025–Mar 2026; old bunches and loose fruit left uncollected at platforms.",
+    "src": "PA 1/2026 s.7",
+    "rep": true
+   },
+   {
+    "t": "Harvesting cost over budget",
+    "s": "Harvest cost over",
+    "d": "RM86.85/t vs RM84.72/t to Mar 2026 (s.9: RM91 vs 85); Sunday and holiday double rates unbudgeted, mandores now paid RM4/t.",
+    "src": "PA 1/2026 s.7, 9"
+   },
+   {
+    "t": "Sprayers short, circles behind",
+    "s": "Sprayers short",
+    "d": "15 sprayers vs 20 (CEO called it concerning); circle spraying 4,457.68 of 6,149.73 ha (72%) to Mar 2026 at 3.6 ha/man-day, could be 6.",
+    "src": "PA 1/2026 s.3, 6.2",
+    "rep": true
+   },
+   {
+    "t": "Manuring late and costly",
+    "s": "Manuring issues",
+    "d": "6,497 of 8,121 ha (80%) to Mar 2026, late NK Mix B and C delivery. Sub-surface in P06/61 costs RM275/ha, judged exorbitant; EFB only 20 t/ha, raise to 40-60 t/ha.",
+    "src": "PA 1/2026 s.6.4",
+    "rep": true
+   },
+   {
+    "t": "Ganoderma and rats unrecorded",
+    "s": "No pest records",
+    "d": "Ganoderma highest in P13/C77 at 10%, with no records and no deboling; 2 rounds of rat baiting with no records kept.",
+    "src": "PA 1/2026 s.6.5",
+    "rep": true
+   }
+  ]
+ }
 }

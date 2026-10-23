@@ -53,6 +53,20 @@ REPLANT FIELD 2025 (PA section 11, Agro section 5): 168.10 ha (Agro 168.01), 24,
 
 DATA CAVEATS: barn owl occupancy 48% (PA, though 14 of 25 boxes = 56%) vs 80% (Agro, 26 occupied of 25 boxes); 4th pruning round total omits 2003C (324 ha printed, about 424 ha); COP budget 295 (text) vs 296 (Table 23); PA 8.2 says 2.77 t/ha below budget, actual gap 2.74; several PA percentage typos; Agro SPH computed on old areas; Agro 4.2.3 names non-existent sub-blocks P20A1-A5 and P17B3. See issues.
 
+TOP 5 YIELD-LIMITING FACTORS (ranked by likely cost in lost crop)
+1. Ganoderma in the 2003 palms: 31–56% infected in all 2003 sub-blocks (census Apr 2024, not updated); worst P03A2 56%. P03A5 fell to 14.26 from 16.47 t/ha (-13%), FY2025/26 vs FY2024/25. (PA 1/2026 Table 14 · Agro 1/2026)
+2. Low palm stand on old palms: Mature stand averages 115 SPH vs 148 SPH target; 62.3% of area aged 20–25. Drone census done Apr 2026, results awaited. (Agro 1/2026)
+3. Harvester shortage and crop recovery: 24 harvesters, 1 per 26 ha (PA wants 1:22 ha), Jun 2026. Jun 2026 visit: more underripe and uncollected bunches (P03A5, P03C2, P03C3), loose fruit old and rotten. (PA 1/2026 · Agro 1/2026)
+4. Weed control behind and slipping: Circle spraying 2.1 of 3.0 rounds (71%), FY2025/26. Weeding deteriorated since Dec 2025; P03A2, A5, B1, B2, C2, C3 and P17A now category d. (PA 1/2026 · Agro 1/2026)
+5. Flooding and no desilting: 39% of the estate (160 of 413.73 ha listed) is low-lying and flood-prone; no desilting done in FY2025/26 (May 2025–Apr 2026). (Agro 1/2026 Table 8)
+
+TOP 5 PA ISSUES (main matters raised in the latest PA report)
+1. Crop 13% below budget: 11,729.40 t FFB vs 13,444.00 t budget, May 2025–Apr 2026; 18.69 t/ha vs 21.43 t/ha budget (18.62 t/ha a year earlier). (PA 1/2026 Table 22)
+2. Cost per tonne over budget: Ex-estate RM302/t FFB vs RM296 budget, May 2025–Apr 2026, because crop was 13% under budget; grand total RM442/t vs RM410. (PA 1/2026 Table 23)
+3. Too few harvesters, low output: 24 harvesters, 1 per 26 ha: recruit 6 more for 1:22 ha before the Aug–Oct peak. Output 1.92–2.02 t/man-day in 2003 fields vs 3.0–3.5 t target, FY2025/26. (PA 1/2026 Tables 4, 18)
+4. Mini tractor grabbers breaking down: 2 mini tractors at 12.09 t/day vs 30–35 t optimum; infield loading RM16.39/t vs RM12.60/t budget, FY2025/26, from breakdowns and high repairs. (PA 1/2026 Tables 21, 24)
+5. Circle and selective spraying delayed: Circle spraying 2.1 of 3.0 rounds (71%), FY2025/26; selective delayed in 2003A2, 2003B3, 2017A, 2018A, 2020A. Sprayers need training; recalibrate. (PA 1/2026 Table 9)
+
 OPERATING COST PER TONNE FFB (RM/t), May 2025–Apr 2026 (FY2025/26), from PA Report 1/2026, sections 5, 6, 7, 8, 9 (Tables 5, 6, 21, 22, 23; Appendix 1) (actual / budget; * = worked out from report RM amounts / FFB tonnes)
 Harvest & collection: 108.41 / 105.63
   - FFB supervision: 4.83 / 5.53

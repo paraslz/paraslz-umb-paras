@@ -5045,5 +5045,78 @@
   ]
  },
  "blockGaps": "No fertNext: Agro 2/2026 says the FY2027/28 programme follows the pending leaf analysis. No leaf analysis results in either report (samples taken, results pending). FY2026/27 manuring progress only estate-wide (no block split), and its text contradicts its table. FY2026/27 spraying only as a sentence for P22A/P22B; mature-area weeding to May 2026 gives rounds, not %. Agro 2/2026 Table 16 (immature weeding by month) has no month headers, so it was not used. 2022B and 2023C have no yield history. Ganoderma census only for sample block 07A34. Rat baiting sheet months are printed with '-26' although titled FY2025/26.",
- "blockMap": "Dashboard ids are planting fields (1999A, 1999C, 1999F, 2001A, 2007A, 2022A, 2022B, 2023C); report sub-blocks are folded in: 1999A = MM9A01–03; 1999C = MM99C01, C02, C14, C15; 1999F = MM99F16, F17; 2001A = MM01A29–A33; 2007A = MM07A34, A81; 2022A = MM22A01–A08; 2022B = MM22B09–B11 (Agro 2/2026 counts B09 as mature); 2023C = PA MM23C03–C13, which the Agronomy reports number C12–C22 (C12=C04, C13=C05, C14=C06, C15=C07, C16=C08, C17=C09, C18=C10, C19=C11, C20=C12, C21=C03, C22=C13, matched by hectares). Agro rat census codes A01–A03 = 1999A, A05 = 22A05, C01–C15 = 1999C, F16–F17 = 1999F, A29–A33 = 2001A, A34 and A81 = 2007A."
+ "blockMap": "Dashboard ids are planting fields (1999A, 1999C, 1999F, 2001A, 2007A, 2022A, 2022B, 2023C); report sub-blocks are folded in: 1999A = MM9A01–03; 1999C = MM99C01, C02, C14, C15; 1999F = MM99F16, F17; 2001A = MM01A29–A33; 2007A = MM07A34, A81; 2022A = MM22A01–A08; 2022B = MM22B09–B11 (Agro 2/2026 counts B09 as mature); 2023C = PA MM23C03–C13, which the Agronomy reports number C12–C22 (C12=C04, C13=C05, C14=C06, C15=C07, C16=C08, C17=C09, C18=C10, C19=C11, C20=C12, C21=C03, C22=C13, matched by hectares). Agro rat census codes A01–A03 = 1999A, A05 = 22A05, C01–C15 = 1999C, F16–F17 = 1999F, A29–A33 = 2001A, A34 and A81 = 2007A.",
+ "top": {
+  "limits": [
+   {
+    "t": "FY2026/27 manuring running late",
+    "s": "Late manuring",
+    "d": "To May 2026: NK1 118.68 t programmed, 62 t delivered, none applied; Mix A 30.15 of 47.75 t (63%); Mix B 9.15 of 122.76 t. Deliveries late.",
+    "src": "Agro 2/2026",
+    "rep": true
+   },
+   {
+    "t": "Long harvesting intervals",
+    "s": "Long intervals",
+    "d": "Old fields mostly 10–21 days, peaks 22–23 days (99A Aug 2025, 99C and 07A Mar 2026); 22B 16–26 days in May 2026. Ripe bunches left in 01A29/01A30.",
+    "src": "Agro 2/2026",
+    "rep": true
+   },
+   {
+    "t": "Heavy Ganoderma in old palms",
+    "s": "Ganoderma",
+    "d": "07A34 sample (Apr 2026): 59% attack, 146 palms with fruiting bodies, 426 vacant of 1,683 points. Depressing yield in 99F16/99F17. Deboling and mounding not resumed.",
+    "src": "Agro 2/2026 · Agro 1/2026",
+    "rep": true
+   },
+   {
+    "t": "Old palms on poor sandy soils",
+    "s": "Old palms, poor soil",
+    "d": "Old palms 19-27 years are declining. Low vigour, small bunches and thin trunks on sandy hardpan soils in 99F16, 99F17 and 07A34 (Jan 2026); EFB recommended.",
+    "src": "Agro 2/2026 · Agro 1/2026",
+    "rep": true
+   },
+   {
+    "t": "Circle weeding behind",
+    "s": "Weeding behind",
+    "d": "Circle spraying 1.7 of 3.4 rounds (51%), May 2025–Apr 2026, slowed by heavy rain and the Feb 2026 flood; last 1999C circle round over 5 months before the visit.",
+    "src": "PA 1/2026 · Agro 2/2026",
+    "rep": true
+   }
+  ],
+  "pa": [
+   {
+    "t": "Harvesting cost over budget",
+    "s": "Harvest cost +12%",
+    "d": "RM155.54/t vs RM138.86/t budget (+12%), May 2025–Apr 2026; excluding external transport RM109/t vs 83 (+31%). Mill is 70 km away.",
+    "src": "PA 1/2026 s.7"
+   },
+   {
+    "t": "Upkeep well over budget",
+    "s": "Upkeep +20%",
+    "d": "RM3,054.08/ha vs RM2,542.82/ha (+20%), FY2025/26: weeding RM400.62 vs 230.02/ha (+74%), soil/water conservation +123%, drains +83%.",
+    "src": "PA 1/2026 s.6"
+   },
+   {
+    "t": "Circle spraying only half done",
+    "s": "Circle spraying 51%",
+    "d": "1,431.03 of 2,808.44 ha, 1.7 of 3.4 rounds (51%), May 2025–Apr 2026; sprayers 3.0 ha/man-day, should exceed 4.5 ha.",
+    "src": "PA 1/2026",
+    "rep": true
+   },
+   {
+    "t": "Infield collection not mechanised",
+    "s": "Manual collection",
+    "d": "Wheelbarrows only; machines held up by long repairs. 2022 planting 0.8 t/man-day at RM100/t (Mar 2026). Electric Badang advised for 22A/22B.",
+    "src": "PA 1/2026 s.7",
+    "rep": true
+   },
+   {
+    "t": "Low manuring productivity",
+    "s": "Slow manuring",
+    "d": "Bucket broadcasting 2.42 ha/day (7-10 bags) and 2.34 ha/day (10-13 bags) vs 20-25 bags potential; use wheelbarrows, mini crawler or Badang.",
+    "src": "PA 1/2026"
+   }
+  ]
+ }
 }

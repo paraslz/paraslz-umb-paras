@@ -59,6 +59,20 @@ BLOCK DATA: Block yields are field (year of planting) figures from Agro Table 11
 
 DATA CAVEATS: PA and Agro differ on fertiliser programme, weeding rounds, intervals, mounding counts and pruning rounds; see issues.
 
+TOP 5 YIELD-LIMITING FACTORS (ranked by likely cost in lost crop)
+1. Ganoderma spreading: 15,664 infected palms (7.75% of standing) at Apr 2026; 17.04% counting 22,642 dead palms. Agro calls it the main vigour limiter (P07I, P06M, P06P, P06E). (PA 1/2026 Table 13 · Agro 1/2026)
+2. Heavy rat damage, census unfinished: Q1 2026 census: 19–61% damage (P06P 61%, P05B 55%) on only 850.35 of 1,522.07 ha; baiting began Apr 2026. Barn owl occupancy 41%. (Agro 1/2026 Table 9)
+3. Long intervals, overripe bunches: Intervals up to 26 days in Aug–Sep 2025 (peak crop) and Nov–Dec 2025 (rain, P07 floods); overripe bunches 8–15% at the May 2026 visit, leftover bunches in P07J, P05D. (Agro 1/2026 Table 6)
+4. Flooding and silty subsoil: Floods Nov 2025–Feb 2026 delayed manuring in P07A–G and P07K; silty subsoil (P05C, P06M) drains poorly, palms yellowish. No de-silting in FY2024/25 or FY2025/26. (Agro 1/2026 · PA 1/2026)
+5. Slant-cut mounding trenches: Slant-cut trenches toward the harvesting path in P06F, P06P, P05B, P05L cause severe root damage and may lose over 30% of EMDEK-spread fertiliser. (Agro 1/2026)
+
+TOP 5 PA ISSUES (main matters raised in the latest PA report)
+1. Upkeep 8% over budget: RM3,180.87/ha vs RM2,934.31, FY2025/26: palm base mounding RM685,476.58 unbudgeted; composting RM649.90/ha vs RM434.59 (49% over). (PA 1/2026 Table 6)
+2. Ganoderma incidence high: 15,664 infected palms (7.75%), 17.04% with dead palms, Apr 2026; PA calls it high and recommends mounding the remaining palms (field 2007 next FY). (PA 1/2026 Table 13)
+3. Spraying rounds behind: Circle spraying 1.87 of 3 rounds (62%) in FY2025/26; field 2006 selective only 1.93 rounds (64%), with broadleaf weeds regenerating. (PA 1/2026 Tables 7, 9)
+4. Harvesters and supervisors short: 117 workers vs 129 and 62 harvesters vs 69 (1 to 25 ha vs optimum 1 to 22), Apr 2026; only 1 Field Supervisor vs 3 recommended. (PA 1/2026 Tables 2, 4)
+5. Tractors costly, surplus vehicles: 8 mini tractors 5% to 138% over budget per hour and farm tractors 39-58% over, from low use and repairs; sell, transfer or write off surplus units. (PA 1/2026 Table 22)
+
 OPERATING COST PER TONNE FFB (RM/t), May 2025–Apr 2026 (FY2025/26), from PA Report 1/2026, section 9 Table 21, with Table 19 (harvesting), Table 6 (upkeep) and Appendix 1–2 (general charges) (actual / budget; * = worked out from report RM amounts / FFB tonnes)
 Harvest & collection: 84.45 / 87.41
   - FFB supervision: 3.75 / 4.93

@@ -61,6 +61,20 @@ RAINFALL (Agro Table 19, FY May-Apr): FY17/18 3,988 mm/173 days; FY18/19 2,142/1
 PARAS INTERNAL NOTES: section 9 cost lines do not match sections 5, 6 and 7 (which together give RM305.28/t, not RM331/t); PA labour overhead subtotal is a copy of the office subtotal; PA and Agro areas differ (2,251.76 vs 2,299.81 ha planted).
 PA 12.3.2 says PR26/69B (16 ha) was planted in April 2026, while Agro 7.1 says P26A-89 (15.15 ha) was still at land preparation in June 2026.
 
+TOP 5 YIELD-LIMITING FACTORS (ranked by likely cost in lost crop)
+1. Long harvesting intervals: Interval averaged 17 days vs 12-14 target to Mar 2026; outturn 73%. Over 15 days in 14 fields in May–Jul 2026 (03D 25 days, 06A 14-28); yield 3.22 vs 4.11 t/ha, May–Jun. (PA 1/2026 s.7 · Agro 2/2026)
+2. Manuring 2-4 months late: May 2025 NK1/Mix A rounds applied Jul–Aug 2025, Mix C due Aug 2025 applied Dec 2025; FY25/26 done only Jun 2026. FY26/27 508.68 of 773.88 mt due (66%) at Jul 2026. (Agro 2/2026 Tables 5, 6)
+3. Circle spraying behind, woody weeds: Circle spraying 42% of FY26/27 by Jul 2026 (72% for May 2025–Mar 2026, PA); woody weeds, Clidemia, Stenochlaena, VOPs, worst in 1999 plantings; sprayers 15 vs 20. (Agro 2/2026 Table 14 · PA 1/2026 s.6)
+4. Ganoderma and vacant points: About 10% in C77 (PA); 03B fell from 159 to 128 SPH, vacant points suspected Ganoderma. Last full census 2019; no deboling or mounding yet. (PA 1/2026 s.6.5 · Agro 2/2026)
+5. Waterlogging, peat and tidal areas: Blocks 56, 57, 66 still recovering from waterlogging; block 78 on peat below standard; about 15 ha of block 38 under tidal-water rehab. No harvesting in the Feb–Mar 2026 floods. (Agro 2/2026 · PA 1/2026 s.8)
+
+TOP 5 PA ISSUES (main matters raised in the latest PA report)
+1. Slow rounds, poor crop recovery: Interval averaged 17 days (target 12-14) and outturn 73% (target 90%), May 2025–Mar 2026; old bunches and loose fruit left uncollected at platforms. (PA 1/2026 s.7)
+2. Harvesting cost over budget: RM86.85/t vs RM84.72/t to Mar 2026 (s.9: RM91 vs 85); Sunday and holiday double rates unbudgeted, mandores now paid RM4/t. (PA 1/2026 s.7, 9)
+3. Sprayers short, circles behind: 15 sprayers vs 20 (CEO called it concerning); circle spraying 4,457.68 of 6,149.73 ha (72%) to Mar 2026 at 3.6 ha/man-day, could be 6. (PA 1/2026 s.3, 6.2)
+4. Manuring late and costly: 6,497 of 8,121 ha (80%) to Mar 2026, late NK Mix B and C delivery. Sub-surface in P06/61 costs RM275/ha, judged exorbitant; EFB only 20 t/ha, raise to 40-60 t/ha. (PA 1/2026 s.6.4)
+5. Ganoderma and rats unrecorded: Ganoderma highest in P13/C77 at 10%, with no records and no deboling; 2 rounds of rat baiting with no records kept. (PA 1/2026 s.6.5)
+
 OPERATING COST PER TONNE FFB (RM/t), May 2025–Mar 2026 (FY2025/26, 11 months), from Planting Advisory Report 1/2026, sections 5, 6, 7 and 9 (actual / budget; * = worked out from report RM amounts / FFB tonnes)
 Harvest & collection: 91.00 / 85.00
   - Supervision: 4.12 / 5.83

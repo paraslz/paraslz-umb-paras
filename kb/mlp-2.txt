@@ -55,6 +55,20 @@ RAINFALL: PA Appendix 1 calendar years (mm, rain days): 2016 2,278/131; 2017 3,0
 
 DATA CAVEATS: Agro Table 18 FY2024/25 field figures partly duplicated and total not reproducible; PA FY2024/25 same-period 21.62 t/ha to March 2025 is almost equal to Agro's full-year 21.66; Table 19 total 3.49 vs about 3.6 from fields; inter-row FY2026/27 10% vs 21%; corrective pruning % column wrong; immature programme Fujicoat (Table 5) vs CPD (Appendix); Agro cites blocks not in this estate (A28, P04B-01, P05B); A20 shown under 11A in Table 2 but counted in 12A in Table 3; PA circle spraying 70% vs 30% from its own hectares; PA general charges RM73/t vs RM79/t. See issues.
 
+TOP 5 YIELD-LIMITING FACTORS (ranked by likely cost in lost crop)
+1. FY2026/27 manuring running late: By Jul 2026: Mix A 41%, Mix B 17%, kieserite and RP 0%; fertiliser arrived only near end June 2026. Yield May–Jul 2026 3.49 vs 6.39 t/ha (-45%). (Agro 2/2026)
+2. Spraying late, weeds overgrown: To Jul 2026: circle 48%, inter-row 10% (chemicals late). Clidemia, Asystasia, Melastoma, Chromolaena and grasses; VOPs in recently rehabilitated areas. (Agro 2/2026)
+3. Low palm stand: Estate 105 SPH (FY2026/27 census); 09B 80 and 11B 90 SPH, with many vacant points in neglected areas. Etiolated palms in ravines still being thinned. (Agro 2/2026)
+4. Unripe bunches and loose fruit: Outturn 64% (target above 80%), many uncollected loose fruit to Mar 2026. Unripe bunches still at the ramp and oxidised loose fruit in rehab areas (Aug 2026). (PA 01/2026 · Agro 2/2026)
+5. Low leaf magnesium: Leaf Mg 0.20–0.28%, mostly low; Ca 0.32–0.41%, all low (Aug 2026 report). Localised Mg deficiency symptoms; kieserite 0 of 36.05 t applied by Jul 2026. (Agro 2/2026)
+
+TOP 5 PA ISSUES (main matters raised in the latest PA report)
+1. Harvesting cost over budget: RM93.10/t vs 81.87 budget, May 2025–Mar 2026: Sunday and holiday double pay; internal transport 27.29 from high tractor costs. (PA 01/2026 s.7)
+2. Low harvester outturn: Outturn 64% vs target above 80%; many uncollected loose fruit and unripe bunches harvested in the low crop season (May 2025–Mar 2026). (PA 01/2026 s.7)
+3. Inter-rows poor, spraying behind: Selective 1,213.66 ha (0.9 round, 50%); mist blowers only 1.6 ha/man-day; Garlon 1.1 l/ha not correct. Dense woodies, Giant Paspalum, VOPs, bamboo. (PA 01/2026)
+4. Too few CDA sprayers: Only 2 CDA units, 6 needed. CKS circle spraying 2.7 ha/man-day, earning RM60.16 below the RM65.38 basic wage; circles 1.4 rounds to Mar 2026. (PA 01/2026)
+5. Vehicle costs and breakdowns: Vehicles RM1,250,011.90 vs RM853,150.49 budget; tractors RM33.87/hr vs 23.16. Tractor breakdowns and rain held manuring to 153 of 184 rounds. (PA 01/2026)
+
 OPERATING COST PER TONNE FFB (RM/t), May 2025–Mar 2026 (FY2025/26, 11 months), from Planting Advisory Report 01/2026, sections 5, 6, 7 and 9 (ending March 2026) (actual / budget; * = worked out from report RM amounts / FFB tonnes)
 Harvest & collection: 93.00 / 82.00
   - Supervision: 4.97 / 5.00

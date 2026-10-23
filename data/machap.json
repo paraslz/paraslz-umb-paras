@@ -12358,5 +12358,76 @@
   ]
  },
  "blockGaps": "fertPrev missing for every block: the FY2025/26 block programme is in an older Agronomy report (2-2024 visit) not supplied; the previous report (visit 2-2025) only carries the same FY2026/27 programme. No block-level manuring application progress in either report (only estate totals by month/fertiliser), and no FY2026/27 progress at all. MC2002D, MC2022A-C have no leaf analysis. No soil analysis. No block-level bagworm, Oryctes or crop-loss figures. Ganoderma census is Apr 2025 per block (Agro) while PA quotes a May 2025 census with different estate percentages and the latest Agro says the last census was 2024. Post-baiting census months are printed without a year. Previous Agro yield table is titled May–Jul but its text refers to 7 months to Nov 2025.",
- "blockMap": "Dashboard ids = PA ids (MC2002A…MC2022C, Machap division only). Agro uses short ids (MC02A = MC2002A) and foliar sheets use P02/A = MC2002A, P16/A = MC2016A etc. From FY2026/27 Agro merged MC2014A+MC2014B into MC14A (25.55 ha) and MC2014C+MC2016A into MC16A (52.29 ha); the merged-unit fertiliser programme and pruning/ground-cover remarks for MC14A/MC16A are put under each member block. Field-level tables (harvester output, monthly harvest intervals, broadcasting output by planting year MC2002, MC2005…) are put under every sub-block of that field. 'PM16A'/'P16A' Ganoderma trial = MC2016A. PA Tables 13–14 print MC2022A with 57.45 ha and MC2022B with 55.12 ha (swapped vs the area statement); rows kept under the printed label. Melaka Pinda (MP) block facts left out; estate totals are in estateWide marked (Machap+Melaka Pinda combined)."
+ "blockMap": "Dashboard ids = PA ids (MC2002A…MC2022C, Machap division only). Agro uses short ids (MC02A = MC2002A) and foliar sheets use P02/A = MC2002A, P16/A = MC2016A etc. From FY2026/27 Agro merged MC2014A+MC2014B into MC14A (25.55 ha) and MC2014C+MC2016A into MC16A (52.29 ha); the merged-unit fertiliser programme and pruning/ground-cover remarks for MC14A/MC16A are put under each member block. Field-level tables (harvester output, monthly harvest intervals, broadcasting output by planting year MC2002, MC2005…) are put under every sub-block of that field. 'PM16A'/'P16A' Ganoderma trial = MC2016A. PA Tables 13–14 print MC2022A with 57.45 ha and MC2022B with 55.12 ha (swapped vs the area statement); rows kept under the printed label. Melaka Pinda (MP) block facts left out; estate totals are in estateWide marked (Machap+Melaka Pinda combined).",
+ "top": {
+  "limits": [
+   {
+    "t": "Ganoderma killing older palms",
+    "s": "Ganoderma",
+    "d": "Last census about 11% dead and 10–12% infected (2025). Worst MC2002A 26% dead, 28% infected; MC2011A 32% infected. Mounding (17,829 palms) is only temporary; new census still due.",
+    "src": "Agro 1/2026 · PA 1/2026",
+    "rep": true
+   },
+   {
+    "t": "Long harvesting intervals in tall palms",
+    "s": "Long intervals",
+    "d": "Intervals over 20 days in Aug–Oct 2025 while tall-palm harvesters helped Leong Hin San; tall palms 1.8 rounds/month vs 2.0–2.5 target, FY2025/26. Machap 10-19 days in Apr 2026.",
+    "src": "Agro 1/2026 · PA 1/2026",
+    "rep": true
+   },
+   {
+    "t": "Toppled palms and thin old stands",
+    "s": "Thin stands",
+    "d": "Many toppled palms and vacant points in MC02A, MC02E, MC08A, MC05E. MC2002 at 105 SPH (A 100, B 97), 2024 census. MC2008 yields fell 35–52% in FY2025/26.",
+    "src": "Agro 1/2026"
+   },
+   {
+    "t": "Rat damage in young and prime palms",
+    "s": "Rats",
+    "d": "Fresh damage MC2022C 21% (Feb 2026), MC2014B 18%, MC2016A 16%, MC2020A 15% (Jan 2026). After baiting MC2022C still 16%; affected blocks not baited as one group.",
+    "src": "Agro 1/2026",
+    "rep": true
+   },
+   {
+    "t": "Fertiliser rounds late mid-year",
+    "s": "Late manuring",
+    "d": "Only 78% of the programme applied to Nov 2025 (Mix B 72%): Oct 2025 round late from late delivery, Nov round held up by heavy rain. 99% done by Apr 2026 (Machap+Melaka Pinda).",
+    "src": "Agro 1/2026"
+   }
+  ],
+  "pa": [
+   {
+    "t": "Crop 8% below budget",
+    "s": "Crop 8% short",
+    "d": "22,258.13 t FFB vs 24,321 t budget, May 2025–Apr 2026; 21.93 t/ha vs 23.96 budget and 27.79 last year (Machap+Melaka Pinda combined).",
+    "src": "PA 1/2026 Table 23"
+   },
+   {
+    "t": "Harvester output low, intervals long",
+    "s": "Low harvester output",
+    "d": "1.50–2.20 t/man-day judged low (Apr 2026). Intervals 10-19 days at Machap, 18-19 at Melaka Pinda; keep 12–15 days. Tall-palm areas over 15 days while harvesters helped Leong Hin San.",
+    "src": "PA 1/2026 s.7",
+    "rep": true
+   },
+   {
+    "t": "MTG breakdowns push up harvest cost",
+    "s": "Harvest cost over",
+    "d": "Harvesting and collection RM131.12/t vs RM123.89 (+6%), FY2025/26; infield loading RM23.14 vs 15.58 (+49%) from MTG breakdowns; mini tractors 82-213% over budget per hour.",
+    "src": "PA 1/2026 Tables 22, 25"
+   },
+   {
+    "t": "No road grading done",
+    "s": "No road grading",
+    "d": "Grading 0 of 1,000 chains budgeted in FY2025/26; started July 2026, to finish by September before the monsoon.",
+    "src": "PA 1/2026",
+    "rep": true
+   },
+   {
+    "t": "Barn owl boxes mostly empty",
+    "s": "Low owl occupancy",
+    "d": "44 boxes (1 per 23 ha), only 7 occupied (16%) in Apr 2026. Find the cause; try Bright Farm boxes (over 90% occupancy at Far East Holdings), at least 6 palms from roads.",
+    "src": "PA 1/2026"
+   }
+  ]
+ }
 }

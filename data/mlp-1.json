@@ -6314,5 +6314,77 @@
   ]
  },
  "blockGaps": "No block-level FY2026/27 manuring progress (estate totals only, Agro 2/2026 Table 6). FY2025/26 programme taken from the PA 1/2026 application table (programme month, fertiliser, kg/palm), because the previous Agronomy report (Agro 1/2026) only gives the FY2026/27 programme (same as Agro 2/2026). No leaf sampling date printed. No block-level rat, bagworm or other pest census; no block-level drains/roads data. No printed annual totals per palm.",
- "blockMap": "Dashboard ids are the Agronomy 'fields' (planting year + division): 04A = sub-blocks A01, A02, A07, A08, A09, A10, A12; 04B = B01, B05, B06, B12; 05A = A03, A04, A06, A11; 05B = B07, B08, B09, B11, B13, B16; 06A = A05, A13, A14, A17; 06B = B02, B03, B10, B14; 07A = A15, A16, A18, A19; 07B = B04, B15; 11B = B17. PA codes like P04/A09 = planting 2004, sub-block A09; Agro codes like P11B-17 = field 11B, sub-block B17. PA facts by planting year (harvester rates, bunch weight) are given to both A and B fields of that year. Ambiguous Agro codes whose sub-block is not in the named field (P07A-14, P05-15, P06B-06, P05B-04, P05A-05, P04A-B1) are kept in estateWide as printed."
+ "blockMap": "Dashboard ids are the Agronomy 'fields' (planting year + division): 04A = sub-blocks A01, A02, A07, A08, A09, A10, A12; 04B = B01, B05, B06, B12; 05A = A03, A04, A06, A11; 05B = B07, B08, B09, B11, B13, B16; 06A = A05, A13, A14, A17; 06B = B02, B03, B10, B14; 07A = A15, A16, A18, A19; 07B = B04, B15; 11B = B17. PA codes like P04/A09 = planting 2004, sub-block A09; Agro codes like P11B-17 = field 11B, sub-block B17. PA facts by planting year (harvester rates, bunch weight) are given to both A and B fields of that year. Ambiguous Agro codes whose sub-block is not in the named field (P07A-14, P05-15, P06B-06, P05B-04, P05A-05, P04A-B1) are kept in estateWide as printed.",
+ "top": {
+  "limits": [
+   {
+    "t": "FY2026/27 manuring running late",
+    "s": "Late manuring",
+    "d": "Only 216.1 of 666.95 t applied (32%) by Jul 2026; 56% of stock delivered; kieserite 0 of 49.73 t. Yield May–Jul 2026 3.83 vs 5.50 t/ha (-30%).",
+    "src": "Agro 2/2026"
+   },
+   {
+    "t": "Long intervals and crop left behind",
+    "s": "Long intervals",
+    "d": "Intervals up to 18–23 days in FY2025/26, some still above 15 in May–Aug 2026. Loose fruit missed in P11B-17, P04B-01, P05B-04, P05A-05; unripe bunches.",
+    "src": "Agro 2/2026 · PA 1/2026",
+    "rep": true
+   },
+   {
+    "t": "Low palm stand",
+    "s": "Low palm stand",
+    "d": "Estate 125 SPH, called low; 06A 117, 07A 104 and 07B 102 SPH from vacant hilly areas (Aug 2026). No recent palm census by the estate.",
+    "src": "Agro 2/2026"
+   },
+   {
+    "t": "Weeding late and poor",
+    "s": "Weeding behind",
+    "d": "To Jul 2026: circle 53%, inter-row 27% (chemicals late); 07A and 11B circles 0%. Woodies, VOPs, Giant Paspalum and Hedyotis remain, many poorly killed.",
+    "src": "Agro 2/2026 · PA 1/2026",
+    "rep": true
+   },
+   {
+    "t": "Rutted hilly roads",
+    "s": "Poor road access",
+    "d": "No gravelling done; many collection roads need gravel and hilly roads are rutted; RM450,000 road gravelling not started (to Mar 2026).",
+    "src": "PA 1/2026",
+    "rep": true
+   }
+  ],
+  "pa": [
+   {
+    "t": "Harvesting cost over budget",
+    "s": "Harvest cost +20%",
+    "d": "RM99 vs 85/t (+20%), May 2025–Mar 2026: Sunday and public holiday double pay not budgeted; internal transport RM23 vs 18/t (+36%) from tractor costs.",
+    "src": "PA 1/2026 s.7"
+   },
+   {
+    "t": "Harvesters work short days",
+    "s": "Short harvester days",
+    "d": "Harvesters work about 6 hours (should be 8-9); outturn 74% to be investigated. 2011 planting 0.93 t/man-day, earning RM46.50 vs RM65.38 basic wage.",
+    "src": "PA 1/2026 s.7",
+    "rep": true
+   },
+   {
+    "t": "Sprayer shortage",
+    "s": "Sprayers short",
+    "d": "10 sprayers vs 16 required (Mar 2026); recruitment urgent as inter-rows are unsatisfactory. Total labour 215 vs 231.",
+    "src": "PA 1/2026 s.3"
+   },
+   {
+    "t": "Poor spraying quality, CKS in use",
+    "s": "Poor spraying",
+    "d": "Woodies missed or poorly killed, respraying needed. CKS circles 2.7 ha/man-day, earning RM62.10 below RM65.38; switch to CDA and mist blowers.",
+    "src": "PA 1/2026 s.6",
+    "rep": true
+   },
+   {
+    "t": "Collection roads not gravelled",
+    "s": "Roads not gravelled",
+    "d": "No gravelling done; many collection roads need gravel; RM450,000 road gravelling not started. Access road RM90,887 vs RM857,900 capex budget.",
+    "src": "PA 1/2026 s.6.7, 11",
+    "rep": true
+   }
+  ]
+ }
 }

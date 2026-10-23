@@ -27153,5 +27153,77 @@
   ]
  },
  "blockGaps": "fertPrev: no FY2025/26 programme in either Agro report (Agro 2/2025 and 1/2026 both print FY2026/27 for mature; immature Appendix 1b is identical in both and its heading says 2025/2026 while the text calls it FY2026/27). fertPrev taken from PA Appendix 2 where the block is listed; not listed for: SM12-18C1, SM13-18B1, SM23-19A1, SM23-19B1, SN16-19A1, SM14-19A1, SM10-19A1, SM12-19A1, SP14-13A1, SP14-13B1, SN07-18A1, SN08-18B1, SN13-18B1, SN14-18B1, SO11-18C1, SQ22-18C1, SN09-18A1, SN10-18A1, SN07-19A1, SM07-20A1, SM08-20A1, SN09-20A1, SN14-20A1, SO10-20A1, SO11-20A1, SO13-20A1, SN12-20A1, SO14-20A1, SQ25-13A1, SR25-13A1, SR20-17B1, SS21-17A1, SS22-17A1, SS23-17B1, SS23-17C1, SS23-17D1, SS24-17B1, P2022, P2023, P2024, P2025. No block-level harvesting interval or ripeness data except May–Oct 2025 rounds (Agro 2/2025 Table 12) and a few spot checks. Leaf analysis printed by sample code (SLNE 328–384) with no block key. No Ganoderma or bagworm census. No FY2026/27 (May 2026 onward) manuring or spraying progress in either report. No fertNext.",
- "blockMap": "Mature dashboard ids (103) match the report sub-block ids one-to-one. Immature dashboard blocks P2022, P2023, P2024, P2025 are planting-year groups: report sub-blocks whose id year digits are 22/23/24/25 (e.g. SO14-23B1, SM10-24A1, SN14-24B1, SN14-25B1) are filed under the matching P group with the sub-block named in k. Sub-blocks not on the dashboard (e.g. SR22-18B1, SS22-20A1, SM10-20A1, and the '-A2/-B2/-C2' rows in PA Appendix 2 and the census tables) are summarised in estateWide. Fertiliser programmes are by planting year (P2013–P2020 mature, Agro Appendix 1a); block planting year read from the id. PA spraying '%' column counts rounds (200% = 2 rounds of 3), quoted as printed. PA Appendix 2 blank application dates read as not applied (35 blanks = 261 − 226 rounds, PA 6.3.2). fertPrev comes from PA 2/2026 Appendix 2 'Manuring Program FY 2025/26' (block rounds), because both Agro reports print only the FY2026/27 programme."
+ "blockMap": "Mature dashboard ids (103) match the report sub-block ids one-to-one. Immature dashboard blocks P2022, P2023, P2024, P2025 are planting-year groups: report sub-blocks whose id year digits are 22/23/24/25 (e.g. SO14-23B1, SM10-24A1, SN14-24B1, SN14-25B1) are filed under the matching P group with the sub-block named in k. Sub-blocks not on the dashboard (e.g. SR22-18B1, SS22-20A1, SM10-20A1, and the '-A2/-B2/-C2' rows in PA Appendix 2 and the census tables) are summarised in estateWide. Fertiliser programmes are by planting year (P2013–P2020 mature, Agro Appendix 1a); block planting year read from the id. PA spraying '%' column counts rounds (200% = 2 rounds of 3), quoted as printed. PA Appendix 2 blank application dates read as not applied (35 blanks = 261 − 226 rounds, PA 6.3.2). fertPrev comes from PA 2/2026 Appendix 2 'Manuring Program FY 2025/26' (block rounds), because both Agro reports print only the FY2026/27 programme.",
+ "top": {
+  "limits": [
+   {
+    "t": "Low palm stand in 2017–2019 plantings",
+    "s": "Low palm stand",
+    "d": "Average 122 SPH (Oct 2025 census); 2017 117, 2018 104, 2019 97 SPH despite 17,430 palms supplied in 2024–2025. SPH for P17-P19 still to be verified; infilling study advised.",
+    "src": "Agro 1/2026",
+    "rep": true
+   },
+   {
+    "t": "Harvester shortage, long intervals",
+    "s": "Slow harvesting",
+    "d": "54 harvesters vs 62 (Apr 2026). Intervals 9-21 days, average 14 vs 10 target; Div 1B 15-21 days, longer in Jan–Apr 2026. 2017 and 2018 plantings only 0.90 and 1.03 t/man-day.",
+    "src": "PA 2/2026 · Agro 1/2026",
+    "rep": true
+   },
+   {
+    "t": "Over-ripe bunches, loose fruit lost",
+    "s": "Crop losses",
+    "d": "About 15% over-ripe at the platform (May 2026); over-ripe and rotten bunches and uncollected loose fruit in SO12-17C1 and SN14-18B1, worse away from main roads.",
+    "src": "Agro 1/2026",
+    "rep": true
+   },
+   {
+    "t": "Low leaf N and P, Mix B short",
+    "s": "Low N and P",
+    "d": "Most fields deficient in N and P (leaf N 1.97-2.77%, P 0.124-0.176%, Oct 2025). Mix B only 728,820 of 949,900 kg applied (77%) in FY 2025/26; caked fertiliser.",
+    "src": "Agro 1/2026",
+    "rep": true
+   },
+   {
+    "t": "Weak rehabilitated 2017 blocks",
+    "s": "Weak rehab blocks",
+    "d": "Bunch formation still low in rehab blocks; FY25/26 yields SS23-17B1 0.96, SS22-17A1 1.33, SS21-17A1 1.47 t/ha; SP15-14B1 and SN07-19A1 nil. Bunch weight 2017 only 9.1 kg (Apr 2026).",
+    "src": "Agro 1/2026 · PA 2/2026"
+   }
+  ],
+  "pa": [
+   {
+    "t": "Crop 8% below budget",
+    "s": "Crop 8% short",
+    "d": "14,472.34 t FFB vs 15,746.12 t budget, May 2025–Apr 2026; 12.96 vs 14.10 t/ha (18% above last year's 10.94). Blamed on harvester shortage and low bunch formation in rehab blocks.",
+    "src": "PA 2/2026 s.8"
+   },
+   {
+    "t": "Cost per tonne over budget",
+    "s": "Cost/t over budget",
+    "d": "RM365/t FFB vs RM346 budget, FY 2025/26; upkeep RM222 vs RM186/t (roads, drains, composting) and harvesting RM67 vs RM64/t (internal transport).",
+    "src": "PA 2/2026 s.9"
+   },
+   {
+    "t": "Roads, drains and compost overspent",
+    "s": "Upkeep overspends",
+    "d": "Roads RM815,388 vs RM268,888 (+203%; part capex charged to opex on HQ instruction); drains RM248/ha vs 178 (+39%); composting RM387,266 vs RM156,759, FY 2025/26.",
+    "src": "PA 2/2026 s.6"
+   },
+   {
+    "t": "Harvesters short, low output",
+    "s": "Harvester shortage",
+    "d": "54 harvesters vs 62 (9 due Sep 2026). 2017 and 2018 plantings 0.90 and 1.03 t/man-day, harvesters working about 6 hours; internal transport RM22.00/t vs RM12.32.",
+    "src": "PA 2/2026 s.3, 7",
+    "rep": true
+   },
+   {
+    "t": "Low sprayer productivity",
+    "s": "Slow spraying",
+    "d": "Circle spraying 68% of budget (2.3 rounds); output 2.5 ha/man-day vs potential 5, sprayers refill from field drains. Switch to VLV nozzles and drop Ally from the circle mix.",
+    "src": "PA 2/2026 s.6",
+    "rep": true
+   }
+  ]
+ }
 }

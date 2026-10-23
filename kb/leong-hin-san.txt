@@ -59,6 +59,20 @@ CONCLUSIONS: PA: satisfactory; improve worker and harvester productivity; keep w
 
 OTHER NOTES: PA item 9: CEO asked for mounding to continue in 2010B (3,908 palms); PA reports 3,750 palms done in 2010A. PA Table 4 variance column is wrong in several rows (totals right). PA Table 15 columns add to 95,384 / 8,469, not the printed 96,083 / 8,348.
 
+TOP 5 YIELD-LIMITING FACTORS (ranked by likely cost in lost crop)
+1. Dry spells cut bunch production: Dry spells Jan–Mar and May–Aug 2025; FY2025/26 rainfall 1,866.2 mm, 9% below the year before. Yield 28.22 t/ha vs 32.10 t/ha in FY2024/25 (-12.1%). (Agro 1/2026)
+2. Ganoderma spreading in older fields: 8,348 infected of 96,083 palms, about 9% (Oct 2025 census); worst 2001A 18% (1,163 palms), 2000B 13%, 2000A 12%. Over 5% in most fields; new census started. (PA 1/2026 · Agro 1/2026)
+3. Ageing palms losing stand in P2000: Over 50% of palms are ageing and Ganoderma-affected. P2000 lowest at 24.23 t/ha vs 29.32 t/ha (-17.3%), FY2025/26, from falling SPH (2000A 116) and rising Ganoderma. (Agro 1/2026)
+4. Circle weeding well behind: Circle spraying 1.3 of 3 rounds (44%), FY2025/26; overdue in P01A, P03B2, P03B3, P12C; Ageratum in P03B1, P10C, P11A circles. (PA 1/2026 · Agro 1/2026)
+5. Fertiliser applied months late: FY2025/26 programme done but delays of 2 to 5 months on NK mixture, Mix A, Mix B and RP (P14A May to Oct 2025). FY2026/27 manuring held back by late deliveries. (Agro 1/2026)
+
+TOP 5 PA ISSUES (main matters raised in the latest PA report)
+1. Crop below budget and last year: 21,483.41 t FFB vs 22,320 t budget, FY2025/26; 28.22 t/ha vs 29.32 budget and 32.10 last year (-12.1%). (PA 1/2026 Table 23)
+2. Harvesting and collection over budget: RM121.12/t vs RM113.25/t (3% over), FY2025/26; infield loading RM7.94 vs 2.69 (+195%) after the box crane grabber broke. Ex-estate RM263.90/t vs RM258.17. (PA 1/2026 s.7, 9)
+3. Harvester output below target: 1.60 to 1.90 t/man-day (most 1.80), FY2025/26, vs target 2.5 to 3.0 t/day; 2003B very steep at 1.60 t. (PA 1/2026 s.7)
+4. Spraying rounds behind schedule: Circle spraying 1.3 of 3 rounds (44%), selective 2.0 rounds (68%), FY2025/26; sprayers sent to help harvesting in the high-crop first half. (PA 1/2026)
+5. Ganoderma control and mounding: About 9% infected (8,348 palms, Oct 2025), understated as dead and fallen palms are not counted. 3,750 palms mounded in 2010A; about 3,000 more to do. (PA 1/2026)
+
 OPERATING COST PER TONNE FFB (RM/t), May 2025–Apr 2026 (FY2025/26, 12 months), from PA Report 1/2026, sections 5, 6, 7, 9 (Tables 5, 6, 22, 24; Appendix 1) (actual / budget; * = worked out from report RM amounts / FFB tonnes)
 Harvest & collection: 121.11 / 113.25
   - FFB supervision: 3.53 / 5.58

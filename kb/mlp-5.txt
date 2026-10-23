@@ -61,6 +61,20 @@ PA CONCLUSIONS: labour adequate but 10 more harvesters; GC 9% under; weeding and
 
 DATA CAVEATS: Agro 2/2026 Table 1 (planted 1,219.53 ha, immature 117.02) disagrees with its Table 2 and the PA (1,279.53, 177.02); PA and Agro differ on some weeding and manuring figures; Agro Table 5 Mix B delivered figure looks mistyped. PA last-year FFB 14,018.28 t matches Agro 2/2025's FY2023/24; Agro 2/2025 gives FY2024/25 as 13,557.26 t (12.40 t/ha) and FY2022/23 14,509.85 t.
 
+TOP 5 YIELD-LIMITING FACTORS (ranked by likely cost in lost crop)
+1. Manuring late and incomplete: FY2025/26 mature 849.4 of 1,013.32 mt (84%), last Div B round cancelled; FY2026/27 78.75 of 303.58 mt due by Jul 2026 (26%). Delivery, machinery, under 20 bags/day. (Agro 2/2026)
+2. Spraying behind, weedy ground: FY2025/26 circle 59% and inter-row 37% (PA); FY2026/27 circle round 1 24% at Jul 2026, 12B not started. Grasses, Clidemia, Asystasia; worst B24, B25, B26, B28. (PA 1/2026 · Agro 2/2026)
+3. Low palm stand in Division B: 12B 79 SPH and 13B 69 SPH (B37 37, B38 31); they yielded 9.88 and 10.93 t/ha in FY2025/26 vs 19.90 (12A) and 19.16 (13A). (Agro 2/2026 · PA 1/2026)
+4. Weak rehab palms on hanging terraces: Small bunches, thin trunks, low vigour in P13B-22, P12B-32, P12B-34, P13B-38, P13A-03, P13A-04; Mg deficiency in hilly areas; etiolation in ravines (B36) (Jul 2026). (Agro 2/2026)
+5. Harvester shortage, long rounds in 12B: 56 harvesters vs 73 required (Apr 2026). 12B and 13B intervals at times 15-31 days in 2025, up to 21 days in Apr 2026; unripe bunches at the ramp. (PA 1/2026 · Agro 2/2026)
+
+TOP 5 PA ISSUES (main matters raised in the latest PA report)
+1. Crop 17% below budget: 17,029.48 t FFB vs 20,425.00 t budget, May 2025–Apr 2026 (FY2025/26); 15.45 vs 18.53 t/ha, though up from 12.40 t/ha last year. (PA 1/2026 s.8)
+2. Cost per tonne 11% over budget: RM412.78/t FFB vs RM373.09 budget, FY2025/26, mainly low crop; upkeep RM161.18 vs RM137.71/t and general charges RM119.08 vs RM103.54/t. (PA 1/2026 s.9)
+3. Road overspend, no surfacing done: Roads RM1,019.76/ha vs RM612.31 budget (+66%), FY2025/26, yet no grading or crusher-run surfacing all year; agricultural roads soft and slippery. (PA 1/2026 s.6)
+4. Harvesters short: 56 harvesters vs 73 required (Apr 2026), 5 fewer than last visit; 10 more needed on hilly, steep ground. 1 more field conductor also recommended. (PA 1/2026 s.3, 4)
+5. Manuring and spraying delayed: Manuring 715.84 of 1,071.17 mt (67%); circle spraying 59%, inter-row 37%, FY2025/26. Heavy rain Nov 2025–Mar 2026 and worker shortage; consult PARAS agronomist. (PA 1/2026 s.6)
+
 OPERATING COST PER TONNE FFB (RM/t), May 2025–Apr 2026 (FY2025/26, 12 months), from PA Report 1/2026, sections 5, 6, 7 and 9 (Tables 5, 6, 15, 17; Appendix 1) (actual / budget; * = worked out from report RM amounts / FFB tonnes)
 Harvest & collection: 132.53 / 131.84
   - FFB supervision: 4.79 / 4.97

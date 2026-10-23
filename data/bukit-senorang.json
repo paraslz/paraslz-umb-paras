@@ -5085,5 +5085,78 @@
   ]
  },
  "blockGaps": "fertPrev (FY2025/26 per-block programme) not found: both Agronomy reports supplied (Apr 2026 and the Dec 2025 visit) give only the FY2026/27 programme; the FY2025/26 programme would be in the Jun 2025 visit report. FY2025/26 rounds and months appear only in the deviations list (in manuring rows). No FY2026/27 manuring or spraying progress (reports end Apr 2026, except Mix B being applied in 2020A at the Jun 2026 visit). No Ganoderma census newer than the data reported at the Jun 2025 visit; no block bagworm census. Jun 2025 leaf results only for P05 B–E, P18, P20 (page 1 of the lab sheet not in the report); leaf results for Apr 2026 samples pending. P2022 missing from PA pruning table. No yields for PR blocks. Agro Appendix 1 gives no annual total for 2025 E/F/G (PR2026A-C).",
- "blockMap": "Dashboard ids are plantings (fields). Reports use fields (P1998/1998, P2000, P2001, P2002, P2005, P2018, P2020, P2022) with sub-blocks A–G, which are folded into their planting. PA 'field 2019' (139.20 ha) and Agro Dec 2025 'P19' (144.46 ha) = P2020. P2001 dashboard (224.99 ha) = 2001 B (38.37 ha left), C, D, E, F after 2001A, 2001G and 19.47 ha of 2001B were felled; Agro tables often still use 364.82 ha for P01. PR2025 = Agro PR25 / P2025 A–D (Dec 2025 report also calls it PR24). PR2026A-C = PA 2026A/B/C = Agro PR26 = Dec 2025 report 'PR25E, F&G' = Appendix 1 '2025 E, F, G' (ex 1998C, 1998D, 2000B). PR2026D-G = PA 2026 D/E/F/G (ex 2000C and 2001A, G, part B); Appendix 1 rows 2000C and 2001A/B/G give its planting-hole dose. P1998 and P2000 are fully replanted; they keep history only."
+ "blockMap": "Dashboard ids are plantings (fields). Reports use fields (P1998/1998, P2000, P2001, P2002, P2005, P2018, P2020, P2022) with sub-blocks A–G, which are folded into their planting. PA 'field 2019' (139.20 ha) and Agro Dec 2025 'P19' (144.46 ha) = P2020. P2001 dashboard (224.99 ha) = 2001 B (38.37 ha left), C, D, E, F after 2001A, 2001G and 19.47 ha of 2001B were felled; Agro tables often still use 364.82 ha for P01. PR2025 = Agro PR25 / P2025 A–D (Dec 2025 report also calls it PR24). PR2026A-C = PA 2026A/B/C = Agro PR26 = Dec 2025 report 'PR25E, F&G' = Appendix 1 '2025 E, F, G' (ex 1998C, 1998D, 2000B). PR2026D-G = PA 2026 D/E/F/G (ex 2000C and 2001A, G, part B); Appendix 1 rows 2000C and 2001A/B/G give its planting-hole dose. P1998 and P2000 are fully replanted; they keep history only.",
+ "top": {
+  "limits": [
+   {
+    "t": "Ganoderma in the old palms",
+    "s": "Ganoderma",
+    "d": "Agro calls it the main yield-limiting factor: 17,702 Ganoderma palms (14%) and 40,053 dead (24%) on 1,122.6 ha in the 2025 census data; no census update since.",
+    "src": "Agro 1/2026",
+    "rep": true
+   },
+   {
+    "t": "Old, thin stands in P01 and P02",
+    "s": "Old, thin stands",
+    "d": "More than 50% of palms are over 20 years old and prime plantings are only 7% of the area. Stands 105 SPH in P01 and 107 SPH in P02 (Jul 2024 census).",
+    "src": "Agro 1/2026 · PA 1/2026"
+   },
+   {
+    "t": "Heavy rat damage in P18 and P22",
+    "s": "Rats in P18, P22",
+    "d": "Random census above 20% at the Apr 2026 visit (15 of 42 palms, 36%, in Dec 2025). P22 had one baiting round on 15 Apr 2026, no bait replacement; no regular census in P18, P20.",
+    "src": "Agro 1/2026",
+    "rep": true
+   },
+   {
+    "t": "Manuring rounds late in young palms",
+    "s": "Late manuring",
+    "d": "Estate records to Mar 2026: Mix B round 1 five months late in P18 and P20, round 4 pending in P18, P20, P22; NK Mix round 2 pending in P05A–E. Manager says up to date (PA: 88% applied).",
+    "src": "Agro 1/2026 · PA 1/2026",
+    "rep": true
+   },
+   {
+    "t": "Waterlogged, stunted palms in P22",
+    "s": "Waterlogging",
+    "d": "Stunted, pale P22 palms on silty, compacted, waterlogged soil (stagnant water in P22A, P22C); leaf N 2.40%, Mg 0.27%. Low-lying P05E also pale after flooding in 2026.",
+    "src": "Agro 1/2026"
+   }
+  ],
+  "pa": [
+   {
+    "t": "Harvesters short; contract the old palms",
+    "s": "Harvester shortfall",
+    "d": "53 harvesters vs 63 required (-10), Apr 2026. PA wants one contractor to take the whole harvesting and collection package, extended to the old palms.",
+    "src": "PA 1/2026",
+    "rep": true
+   },
+   {
+    "t": "Bagworm spend far over budget",
+    "s": "Bagworm overspend",
+    "d": "Bagworm RM152/ha vs RM53/ha budget (186% over) after the 2025 P18 outbreak (67.91 ha, 4 rounds of Dipel); pests and diseases RM198/ha vs 151, May 2025–Apr 2026.",
+    "src": "PA 1/2026"
+   },
+   {
+    "t": "Composting behind in several fields",
+    "s": "Composting delayed",
+    "d": "FY2025/26: nil applied in 2000C and 2020, 2018 at 43% (4.27 t/ha) and 2022 at 2% (0.19 t/ha) vs 10 t/ha programme, though the estate total was 150%.",
+    "src": "PA 1/2026",
+    "rep": true
+   },
+   {
+    "t": "Road grading not done",
+    "s": "No road grading",
+    "d": "Road grading budget RM20,184, nothing done; roads RM89/ha vs RM219/ha budget, May 2025–Apr 2026. Road in field 2001A needs grading.",
+    "src": "PA 1/2026",
+    "rep": true
+   },
+   {
+    "t": "Barn owl boxes mostly empty",
+    "s": "Low owl occupancy",
+    "d": "142 boxes vs 149 required, only 22 occupied (15%) in Apr 2026, vs over 90% at neighbouring Bukit Jin Estate; cause to be investigated.",
+    "src": "PA 1/2026",
+    "rep": true
+   }
+  ]
+ }
 }

@@ -54,6 +54,20 @@ VEHICLES (PA 10): running costs high for almost all units; sell or write off une
 CAPEX (PA 11): actual RM1,462,065 vs budget RM5,087,552 (IDR 6.12 bn vs 22.16 bn), underspent; RM grand total omits the last misc group (categories add to RM1,469,420 vs 5,297,531).
 RAINFALL (PA Appendix 2): 2021 2,975 mm/159 days; 2022 2,498/149; 2023 2,097/131; 2024 2,318/169; 2025 2,654/179; 2026 Feb to May 898 mm. Agro Table 6: 2020 2,330 mm; 2025 2,638 mm; six-year average 2,476 mm, about 13 rain days a month.
 
+TOP 5 YIELD-LIMITING FACTORS (ranked by likely cost in lost crop)
+1. Manuring short for four years: Programme completion 40% FY2022/23, 50% FY2023/24, 61% FY2024/25, 63.3% FY2025/26 (Mix B 56%). Leaf N moderate-low to low, P low to moderate-low. (Agro 1/2026 s.3, 4.3)
+2. Mature area not yet productive: 544 of 2,722 ha mature not yet productive (net productive 2,178 ha) at the Aug 2026 visit; 41 ha of rehabilitation completed Jan 2026. (PA 2/2026 s.2)
+3. Low stand in younger plantings: Average 125 palms/ha in Apr 2026, unchanged since Oct–Nov 2024 despite infilling; P2017 99, P2018 85, P2019 95, P2020 72. 1,884 of 5,535 palms supplied in 2025 died (34%). (Agro 1/2026 Table 3, s.5)
+4. Over-ripe bunches and crop losses: Interval 7–20 days (average 11.3), crop recovery 73%, FY2025/26. Over-ripe 4–14% (BO48-13A1 14%); high losses in BR33-19A1, BR36-16B1, BQ49-18A1 (May 2026). (Agro 1/2026 s.4.1)
+5. Flooding and waterlogging: 218.5 ha (7.4% of 2,932.9 ha) flood-prone; flooding Nov–Mar disrupted harvesting. N lost by leaching and denitrification, P fixed in acidic waterlogged soils. (Agro 1/2026 s.4.1, 4.3, 4.4)
+
+TOP 5 PA ISSUES (main matters raised in the latest PA report)
+1. Harvesters short, rounds behind: 118 harvesters vs 160 required at 1:14 ha (121 on PA's 1:18 ha), Apr 2026. Rounds 31.2 vs 36 budget to Apr 2026; interval averaging 13 days (keep 10–12). (PA 2/2026 s.3, 7)
+2. Harvesting cost over budget: RM64.56/t vs RM56.82 budget, May 2025–Apr 2026: internal transport RM14.07 vs RM7.61 (tractor costs, triple handling of FFB), infield loading 8.75 vs 5.36. (PA 2/2026 s.7)
+3. Manuring rounds behind: 282 of 344 rounds applied to Apr 2026; old stock used was declared as extra application, not correct. Manuring workers 21 vs 32; semi-mechanical application advised. (PA 2/2026 s.6.3, 3)
+4. Roads cost more than double budget: Roads and bridges RM689.62/ha vs RM321.47 (+115%), May 2025–Apr 2026; laterite surfacing partly moved from capex to opex by Head Office. (PA 2/2026 s.6.5)
+5. Sprayers work short days: Circle spraying 5,038 ha (1.9 rounds), 62% of 8,168 ha to Apr 2026; sprayers work only 5 hours and refill from field drains. PA wants 8-hour days, VLV nozzles, glyphosate only. (PA 2/2026 s.6.2)
+
 OPERATING COST PER TONNE FFB (RM/t), May 2025–Apr 2026 (FY2025/26, 12 months, excl. general charges), from PA Report 2/2026, sections 6, 7 and 9 (Upkeep & Cultivation table p17, Harvesting & Collection table p44, Production Cost table p48) (actual / budget; * = worked out from report RM amounts / FFB tonnes)
 Harvest & collection: 64.56 / 56.82
   - FFB supervision: 4.15 / 7.24

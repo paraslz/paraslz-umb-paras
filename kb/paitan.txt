@@ -65,6 +65,20 @@ FERTILISER FY2026/27 (Agro 2/2026 Appendix 1): 99E NK2 2.5, 2.0, 2.0 kg; 99G NK2
 
 PA CONCLUDING REMARKS: retain harvesters; recruit sprayers; raise spraying productivity; better fertiliser supervision; keep roads graded and resurfaced; review internal FFB collection contractors; keep replanting areas well maintained.
 
+TOP 5 YIELD-LIMITING FACTORS (ranked by likely cost in lost crop)
+1. Ganoderma spreading, no deboling: About 10% infection estate-wide (PA, Apr 2026); census 5,474 confirmed of 249,723 palms, worst blocks 43 (380), 44 (306), 14 (282). No deboling or mounding done. (PA 1/2026 · Agro 2/2026)
+2. Palm stand falling in old fields: SPH fell Jan–May 2026 in 06B (139 to 86), 02B (141 to 126), 03B (119 to 108) and 00A (118 to 111). Block 43 (SPH 105) has low density and falling yield. (Agro 2/2026)
+3. Manuring late, poorly applied: FY2025/26 programme finished late (deliveries Mar–Apr 2026); FY2026/27 NK2 18.13 of 333.2 t (5%) at Jun 2026, other rounds 0%. NK mix applied in lumps, unevenly. (Agro 2/2026 · PA 1/2026)
+4. Waterlogging in low-lying blocks: Feb 2026 floods (731 mm) damaged water gates; 13C about 3 t/ha below 14D from waterlogging (Jan 2026); high water table in block 82. 13C fell to 1.85 t/ha in May–Jun 2026 (-62%). (Agro 1/2026 · Agro 2/2026 · PA 1/2026)
+5. Inter-row weeds, spraying behind: Selective spraying 2,710 of 5,786 ha (47%) to Mar 2026, short of sprayers; Asystasia, Hedyotis and VOPs remain (blocks 70, 72); over-spraying in 69, 71, 73. (PA 1/2026 s.6 · Agro 2/2026)
+
+TOP 5 PA ISSUES (main matters raised in the latest PA report)
+1. Sprayers short, selective spraying 47%: 18 sprayers vs 26 needed, called critical. Selective spraying 2,710 of 5,786 ha (47%) to Mar 2026; 2.8 ha/man-day, earning RM58.80/day, below the RM65.38 basic wage. (PA 1/2026 s.3, 6)
+2. Ganoderma about 10%, no deboling: Ganoderma seen throughout the estate, about 10% overall (Apr 2026); no deboling of fallen palms yet. Debole in blocks not due for replanting within 2 years. (PA 1/2026 s.6)
+3. Poor manuring supervision: Caked NK mix applied in lumps, uneven, some on the palm; supervision seriously lacking. Sub-surface 0.7 ha/man-day earning RM10.50/day. EFB on 113 of 732 ha. (PA 1/2026 s.6)
+4. Low harvester output, weak collection: 1.85 t/man-day vs 2.5-3.0 target (to Mar 2026); contractor tractors often broke down. Tractors RM25.13/hr vs RM11.16 budget; crawlers idle, tractors underused. (PA 1/2026 s.7, 10)
+5. Replanting upkeep needs work: PR25A circles grassy and cover poor, 800 palms still to supply; PR25B EFB too thick (Oryctes risk); PR23A/01 basal pruning badly done. Expedite replanting. (PA 1/2026)
+
 OPERATING COST PER TONNE FFB (RM/t), May 2025–Mar 2026 (FY2025/26, 11 months), from PA Report 1/2026, section 9 (cost of production) with item detail from sections 5, 6 and 7 (actual / budget; * = worked out from report RM amounts / FFB tonnes)
 Harvest & collection: 83.00 / 85.00
   - Supervision: 4.57 / 5.09

@@ -61,6 +61,20 @@ REPORT ERRORS (internal). Agro percentage changes use the wrong base; PA Table 5
 
 DATA NOTES. Block yields (blockPeriod) are Agro Table 12 field yields for FY2025/26 (May 2025-Apr 2026); prevYtd is FY2024/25 (May 2024-Apr 2025) from the same table. No sub-block yields in either report. Current FY to date (ytdCurrent) is May 2026, FY2026/27 Period 1, from Agro Table 13 (1.42 vs 2.06 t/ha). Fertiliser doses per block are the Agro Appendix 1 FY2026/27 recommendation; its month headers are printed May-25 to Apr-26. Cost per tonne items for upkeep and general charges are RM amounts divided by 43,322.41 t actual and 43,878 t budget FFB. PA 3.2 staff description (2 Assistant Managers, 1 Chief Clerk) does not match Table 3.
 
+TOP 5 YIELD-LIMITING FACTORS (ranked by likely cost in lost crop)
+1. FY2026/27 manuring not started: May 2026 Mix A (220.13 t) and Mix B (379.44 t) not started, late delivery; FY2025/26 Mix B balance 73.60 t. Only 10 bags/worker/day (one machine trip). (Agro 1/2026 · PA 1/2026)
+2. Unsurfaced roads on steep terrain: Agricultural roads lack crusher run, slippery and impassable when wet; FFB left on platform in 2013C35 as the lorry bin could not pass. Machinery shared. (PA 1/2026 · Agro 1/2026)
+3. Inter-row weeding incomplete: Selective 2.10 of 3 rounds (70%), circle 2.72 of 3 (91%), FY2025/26; 2010A circles 72%. Clidemia, Asystasia, giant grass and VOPs in inter-rows (May 2026). (PA 1/2026 · Agro 1/2026)
+4. Unripe bunches and loose fruit: Long intervals early FY2025/26 (10B 16-28, 11B 20-27 days); 13C 10-17 days in May 2026. B25 platforms up to 10% unripe; loose fruit left at platforms. (Agro 1/2026 · PA 1/2026)
+5. Ganoderma without deboling: 48 dead palms in A02, A04, A05, A08, B23 and B24 (May 2026); no deboling since the last visit as machinery went to road repair. A08 palms weak. (Agro 1/2026)
+
+TOP 5 PA ISSUES (main matters raised in the latest PA report)
+1. Internal transport over budget: Harvesting and collection RM134.28/t vs 132.61, FY2025/26; internal transport RM28.91/t vs 21.35 from steep terrain and rain-damaged roads. Outsourcing still under negotiation. (PA 1/2026 s.7)
+2. Agricultural roads not surfaced: Agricultural roads lack crusher run and are slippery and impassable when wet; grade and surface the busiest roads with crusher run from the MLP5 quarry. (PA 1/2026)
+3. Workers and harvesters short: 170 workers vs 184 required (-14), Apr 2026; harvesters 94 vs 98, 4 more needed for steep terrain. (PA 1/2026 Table 4)
+4. Selective spraying behind: Selective 3,685.50 ha, 2.10 of 3 rounds (70%); circle 2.72 of 3 rounds (91%), lowest 2010A 72%, May 2025–Apr 2026; heavy rain Nov 2025–Mar 2026. (PA 1/2026 s.6.1)
+5. Lorry and tractor repair costs: Repairs on bad roads: Nissan lorry SAC8935F RM297.60/km vs 3.13; Landini SAB5237G RM91.89/hr vs 17.11; Genset RM330.66/hr vs 41.91. (PA 1/2026 Table 18)
+
 OPERATING COST PER TONNE FFB (RM/t), May 2025–Apr 2026 (FY2025/26), from Planting Advisory Report 1/2026, sections 5, 6, 7, 9 (Tables 5, 6, 15, 17; Appendix 1) (actual / budget; * = worked out from report RM amounts / FFB tonnes)
 Harvest & collection: 134.28 / 132.61
   - FFB supervision: 4.00 / 5.00

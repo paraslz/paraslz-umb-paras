@@ -9770,5 +9770,77 @@
   ]
  },
  "blockGaps": "No block or planting-level manuring progress in either report (PA 2/2026 Table 11 and Agro Table 5 are estate or division totals). PA 2/2026 spraying (Tables 9-10), harvesting (Table 14) and stands (Table 2) are by sub-block for mature fields; no spraying data for immature blocks (P2020 immature, P2022-P2025). PA pruning is by division only; Agro pruning and weeding only for P2012-P2017. No block yields in the PA; block t/ha only in Agro 1/2026 Table 14 (FY2024/25 and FY2025/26). Previous programme: Agro 2/2025 holds only the FY2026/27 draft and says the FY2025/26 programme was revised in Agro 1/2025, which was not among the reports, so fertPrev is omitted. No Ganoderma census (negligible) and no soil analysis by block. No FY2026/27 progress in either report.",
- "blockMap": "Dashboard blocks are planting-year fields; the reports use sub-block codes like HJ24-12A1. Sub-blocks are mapped by the two planting digits in the code (-12 to P2012 etc.); summed PA 2/2026 Table 2 areas match the dashboard: P2020 mature = HK37-20A1 + HK38-20A1 (11.12 ha), P2020 immature = HG37/HG38/HG39/HG40-20A1 (51.87 ha), P2023 = all -23 codes (31.92 ha, although HF39-23A1 shows date planted 2022), P2024 = all -24 codes (30.60 ha, HF41-24B1 shows 2023), P2025 = all -25 codes (14.97 ha, HF36-25B1 shows 2024). PA Tables 9/10 spraying and 14 harvesting, Agro Table 4 supply, Tables 6-7 compost, Table 12 rat census and Table 15 rounds are per sub-block and are listed under their planting block; PA Table 13 harvester output is by year of planting (2020 row on P2020 mature). Agronomy text that names a field without a code (e.g. 'P13 (HF35)') goes to that planting. By-planting tables (yield, pruning, weeding, leaf) give one figure for P2020; where it could cover both P2020 rows that is said in the row. Sub-blocks with A2 codes, division totals and photo captions naming codes not in the blocking table are in estateWide."
+ "blockMap": "Dashboard blocks are planting-year fields; the reports use sub-block codes like HJ24-12A1. Sub-blocks are mapped by the two planting digits in the code (-12 to P2012 etc.); summed PA 2/2026 Table 2 areas match the dashboard: P2020 mature = HK37-20A1 + HK38-20A1 (11.12 ha), P2020 immature = HG37/HG38/HG39/HG40-20A1 (51.87 ha), P2023 = all -23 codes (31.92 ha, although HF39-23A1 shows date planted 2022), P2024 = all -24 codes (30.60 ha, HF41-24B1 shows 2023), P2025 = all -25 codes (14.97 ha, HF36-25B1 shows 2024). PA Tables 9/10 spraying and 14 harvesting, Agro Table 4 supply, Tables 6-7 compost, Table 12 rat census and Table 15 rounds are per sub-block and are listed under their planting block; PA Table 13 harvester output is by year of planting (2020 row on P2020 mature). Agronomy text that names a field without a code (e.g. 'P13 (HF35)') goes to that planting. By-planting tables (yield, pruning, weeding, leaf) give one figure for P2020; where it could cover both P2020 rows that is said in the row. Sub-blocks with A2 codes, division totals and photo captions naming codes not in the blocking table are in estateWide.",
+ "top": {
+  "limits": [
+   {
+    "t": "Thin stands in the 2018–2020 plantings",
+    "s": "Thin stands",
+    "d": "SPH since 2021: P18 148 to 102 (-31.1%), P19 135 to 95 (-29.6%), P20 143 to 106 (-25.9%). FY2025/26 supplying: 5,986 of 11,743 palms planned; about 8,000 more seedlings needed.",
+    "src": "Agro 1/2026 · PA 2/2026",
+    "rep": true
+   },
+   {
+    "t": "Flooding and high water tables",
+    "s": "Flooding, water table",
+    "d": "Low-lying P12, P13, P16 stunted with K deficiency (orange spotting); many supplied palms and the 2025 planting killed by floods; high water in HJ45, HJ46, HK45 (May 2026).",
+    "src": "Agro 1/2026 · PA 2/2026"
+   },
+   {
+    "t": "Crop lost to poor harvesting standard",
+    "s": "Crop recovery",
+    "d": "HF35 (P13) 8% over-ripe and 2% rotten bunches with loose fruit left in circles; HG38 (P15) 8% over-ripe; rotten bunches in P19 and P20 (May 2026 visit).",
+    "src": "Agro 1/2026"
+   },
+   {
+    "t": "Bare ground and noxious weeds",
+    "s": "Weeds, bare ground",
+    "d": "Bare ground about 10% from glyphosate over-spraying and the dry spell; Stenochlaena, sedges and broadleaf about 30% in rehabilitated areas, Div 3 and 4 (Aug 2026).",
+    "src": "PA 2/2026 · Agro 1/2026",
+    "rep": true
+   },
+   {
+    "t": "Late and uneven manuring and compost",
+    "s": "Manuring, compost",
+    "d": "Agro lists delayed applications as a limit (earlier delays of several months; no data to assess FY2025/26). Compost coverage 7% to 388% of area, with roadside dumping.",
+    "src": "Agro 1/2026",
+    "rep": true
+   }
+  ],
+  "pa": [
+   {
+    "t": "Cost per tonne over budget in rupiah",
+    "s": "Cost/t over budget",
+    "d": "IDR1,496,924 vs 1,211,338/t (+24%), FY2025/26; only RM339.11 vs RM335.78/t (+1%) in ringgit because most budgets used a different rate.",
+    "src": "PA 2/2026 s.9"
+   },
+   {
+    "t": "Roads and bridges far over budget",
+    "s": "Road overspend",
+    "d": "RM1,168.03/ha vs RM526.26/ha budget (122% over), FY2025/26: laterite from Banjarmasin RM89,901 and machine rental RM106,380.",
+    "src": "PA 2/2026 s.6.6"
+   },
+   {
+    "t": "Low harvester output, short intervals",
+    "s": "Low harvester output",
+    "d": "1.37–1.98 t/man-day, FY2025/26; intervals 6–11 days (mostly 8) in Apr 2026 vs 10–15 wanted. Mechanised collection pilot in HL48-16B1 targets 2.50-3.00 t/man-day.",
+    "src": "PA 2/2026 s.7",
+    "rep": true
+   },
+   {
+    "t": "Glyphosate over-spraying, weeds",
+    "s": "Over-spraying",
+    "d": "Circle spraying 2.35 of 3 rounds (78%), FY2025/26; bare ground about 10%; Stenochlaena and sedges about 30% in Div 3 and 4. Train sprayers; 3.50 ha/man-day vs 5.0 target.",
+    "src": "PA 2/2026 s.6.1",
+    "rep": true
+   },
+   {
+    "t": "Flood-killed palms to be replaced",
+    "s": "Dead palms",
+    "d": "2025 planting in F36-25B1 and F37-25A1 died from flooding and must be replaced now; supplying waits for Arwana nursery seedlings; improve cambered bunds.",
+    "src": "PA 2/2026 s.11.4, 12.15",
+    "rep": true
+   }
+  ]
+ }
 }
